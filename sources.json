@@ -32,49 +32,6 @@
       "type": "jsonld",
       "tier": "C",
       "url": "https://www.eventbrite.com/d/oman--muscat/business--events/"
-    },
-    {
-      "name": "news-en",
-      "type": "rss_leads",
-      "tier": "D",
-      "urls": [
-        "https://www.timesofoman.com/feed",
-        "https://www.omanobserver.om/rssFeed/1"
-      ],
-      "must_include": [
-        "summit",
-        "conference",
-        "expo",
-        "exhibition",
-        "forum",
-        "festival",
-        "hackathon",
-        "week",
-        "awards",
-        "show",
-        "registration",
-        "pitch"
-      ]
-    },
-    {
-      "name": "news-ar",
-      "type": "rss_leads",
-      "tier": "D",
-      "urls": [
-        "https://alroya.om/rss"
-      ],
-      "must_include": [
-        "مؤتمر",
-        "معرض",
-        "ملتقى",
-        "منتدى",
-        "قمة",
-        "مهرجان",
-        "هاكاثون",
-        "أسبوع",
-        "جائزة",
-        "ورشة"
-      ]
     }
   ],
   "watch": {
@@ -595,6 +552,176 @@
         ],
         "core": []
       }
+    }
+  },
+  "news": {
+    "max_new_articles_per_run": 40,
+    "keep_days": 45,
+    "feeds": [
+      {
+        "name": "timesofoman",
+        "label": "Times of Oman",
+        "lang": "en",
+        "url": "https://www.timesofoman.com/feed"
+      },
+      {
+        "name": "observer-local",
+        "label": "Oman Observer",
+        "lang": "en",
+        "url": "https://www.omanobserver.om/rssFeed/1"
+      },
+      {
+        "name": "observer-business",
+        "label": "Oman Observer · Business",
+        "lang": "en",
+        "url": "https://www.omanobserver.om/rssFeed/4"
+      },
+      {
+        "name": "observer-lifestyle",
+        "label": "Oman Observer · Lifestyle",
+        "lang": "en",
+        "url": "https://www.omanobserver.om/rssFeed/13"
+      },
+      {
+        "name": "alroya",
+        "label": "الرؤية",
+        "lang": "ar",
+        "url": "https://alroya.om/rss"
+      },
+      {
+        "name": "omandaily",
+        "label": "جريدة عُمان",
+        "lang": "ar",
+        "url": "https://www.omandaily.om/rssFeed/0"
+      }
+    ],
+    "keywords_en": [
+      "summit",
+      "conference",
+      "forum",
+      "expo",
+      "exhibition",
+      "festival",
+      "hackathon",
+      "awards",
+      "week",
+      "symposium",
+      "congress",
+      "workshop",
+      "bootcamp",
+      "meetup",
+      "pitch",
+      "startup weekend",
+      "fair",
+      "show",
+      "convention",
+      "roundtable",
+      "seminar",
+      "launches",
+      "registration",
+      "edition"
+    ],
+    "keywords_ar": [
+      "مؤتمر",
+      "معرض",
+      "ملتقى",
+      "منتدى",
+      "مهرجان",
+      "هاكاثون",
+      "أسبوع",
+      "قمة",
+      "جائزة",
+      "ندوة",
+      "ورشة",
+      "فعالية",
+      "فعاليات",
+      "حلقة عمل",
+      "انطلاق",
+      "تنطلق",
+      "يفتتح",
+      "افتتاح",
+      "النسخة"
+    ],
+    "venue_aliases": {
+      "Oman Convention & Exhibition Centre": [
+        "OCEC",
+        "Oman Convention and Exhibition Centre",
+        "Oman Convention & Exhibition Centre",
+        "Oman Convention and Exhibition Center",
+        "مركز عمان للمؤتمرات والمعارض",
+        "مركز عُمان للمؤتمرات والمعارض"
+      ],
+      "Knowledge Oasis Muscat": [
+        "Knowledge Oasis Muscat",
+        "KOM",
+        "واحة المعرفة"
+      ],
+      "Royal Opera House Muscat": [
+        "Royal Opera House",
+        "دار الأوبرا السلطانية"
+      ],
+      "Sheraton Oman": [
+        "Sheraton Oman",
+        "Sheraton Muscat",
+        "شيراتون"
+      ],
+      "Grand Millennium Muscat": [
+        "Grand Millennium",
+        "جراند ميلينيوم"
+      ],
+      "Crowne Plaza OCEC": [
+        "Crowne Plaza OCEC",
+        "Crowne Plaza Muscat OCEC"
+      ],
+      "JW Marriott Muscat": [
+        "JW Marriott"
+      ],
+      "InterContinental Muscat": [
+        "InterContinental Muscat",
+        "إنتركونتيننتال"
+      ],
+      "Kempinski Hotel Muscat": [
+        "Kempinski"
+      ],
+      "Al Bustan Palace": [
+        "Al Bustan Palace",
+        "قصر البستان"
+      ],
+      "Sultan Qaboos University": [
+        "Sultan Qaboos University",
+        "SQU",
+        "جامعة السلطان قابوس"
+      ],
+      "Oman Chamber of Commerce and Industry": [
+        "Oman Chamber of Commerce",
+        "OCCI",
+        "غرفة تجارة وصناعة عمان"
+      ],
+      "Innovation Park Muscat": [
+        "Innovation Park Muscat",
+        "مجمع الابتكار مسقط"
+      ],
+      "Bayt Al Falaj": [
+        "Bait Al Falaj",
+        "Bayt Al Falaj",
+        "بيت الفلج"
+      ],
+      "Salalah": [
+        "Salalah",
+        "صلالة"
+      ],
+      "Sohar": [
+        "Sohar",
+        "صحار"
+      ],
+      "Duqm": [
+        "Duqm",
+        "الدقم"
+      ],
+      "Nizwa": [
+        "Nizwa",
+        "نزوى"
+      ]
     }
   }
 }

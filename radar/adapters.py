@@ -195,10 +195,10 @@ def rss_leads(fetcher, src):
 
 
 def _items(text):
-    """Yield (title, link, description). Falls back to regex for feeds that are not valid XML."""
+    """Yield (title, link, description, pubDate). Falls back to regex for feeds that are not valid XML."""
     try:
         for item in ET.fromstring(text).iter("item"):
-            yield item.findtext("title"), item.findtext("link"), item.findtext("description")
+            yield item.findtext("title"), item.findtext("link"), item.findtext("description"), item.findtext("pubDate")
         return
     except ET.ParseError:
         pass
@@ -206,12 +206,12 @@ def _items(text):
         def tag(name):
             m = re.search(rf"<{name}[^>]*>(.*?)</{name}>", block, re.S)
             return re.sub(r"^<!\[CDATA\[|\]\]>$", "", m.group(1).strip()) if m else ""
-        yield tag("title"), tag("link"), tag("description")
+        yield tag("title"), tag("link"), tag("description"), tag("pubDate")
 
 
 def _rss_items(text, src, must):
     events = []
-    for raw_title, link, desc in _items(text):
+    for raw_title, link, desc, _pub in _items(text):
         title = clean(raw_title)
         if must and not any(k in title.lower() for k in must):
             continue

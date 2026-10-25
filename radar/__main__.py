@@ -13,7 +13,7 @@ import os
 import sys
 import urllib.parse
 
-from . import adapters, export, model
+from . import adapters, export, model, news
 from .fetch import Blocked, Fetcher, UnsafeURL
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -148,6 +148,14 @@ def run(config_path, offline=False, today=None):
                                   else (old or {}).get("changed", "")}
         report.append((src["name"], len(dated), err))
 
+    # ---- NEWS: Omani newspapers, each event story opened and read once ----
+    news_state = _load(os.path.join(DATA, "news_state.json"), {})
+    articles = []
+    if not offline and cfg.get("news"):
+        articles, news_events, news_report = news.collect(fetcher, cfg, news_state, today)
+        collected += news_events
+        report += [(name, n, err) for name, n, err in news_report]
+
     # ---- NORMALISE / FILTER ----
     back = today - dt.timedelta(days=cfg.get("keep_past_days", 730))
     fwd = today + dt.timedelta(days=cfg.get("look_ahead_days", 730))
@@ -255,6 +263,10 @@ def run(config_path, offline=False, today=None):
               for d, i in sorted(discovered.items())]
     export.write_json(os.path.join(DOCS, "watchlist.json"), {"generated_at": occurred, "entities": watch})
 
+    if not offline:
+        news.link_to_events(articles, public, model.same_event)
+        news.write(os.path.join(DOCS, "news.json"), articles, occurred)
+
     # ---- NOTIFY (ERP webhook; the static changes.json feed is the fallback) ----
     if changes and not offline:
         try:
@@ -272,6 +284,7 @@ def run(config_path, offline=False, today=None):
                       {"updated": today.isoformat(), "sequence": seq, "records": new_known,
                        "sources": health, "pages": pages})
     export.write_json(os.path.join(DATA, "discovered.json"), discovered)
+    export.write_json(os.path.join(DATA, "news_state.json"), news_state)
 
     print(f"{'source':40} events  note")
     for name, count, err in report:
@@ -280,7 +293,8 @@ def run(config_path, offline=False, today=None):
     for r in public:
         by[r["status"]] = by.get(r["status"], 0) + 1
     print(f"\n{len(public)} records {by} · {len(changes)} changes · {len(lead_list)} leads · "
-          f"{sum(1 for i in discovered.values() if i.get('status') == 'ok')} discovered sites with event data")
+          f"{sum(1 for i in discovered.values() if i.get('status') == 'ok')} discovered sites with event data · "
+          f"{len(articles)} news stories ({sum(1 for a in articles if a.get('event'))} with event details)")
     return public, report
 
 

@@ -198,3 +198,60 @@ class Export(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class News(unittest.TestCase):
+    from radar import news  # noqa: E402
+
+    EN_PAGE = """<html><head><meta property="og:description" content="Muscat set to host regional tech leaders">
+    <meta property="article:published_time" content="2026-10-20T08:00:00+04:00"></head><body><nav><p>Menu item that should be ignored by the reader</p></nav>
+    <article><p>The 3rd Oman Fintech Summit 2026 will be held at the Oman Convention and Exhibition Centre on 18-19 November 2026, bringing together banks and startups.</p>
+    <p>The summit is organised by the Central Bank of Oman in partnership with industry players from the region.</p></article></body></html>"""
+
+    AR_PAGE = """<html><head><meta property="og:description" content="تنطلق فعاليات الملتقى الشهر المقبل"></head><body><article>
+    <p>تنطلق أعمال «ملتقى عُمان للذكاء الاصطناعي» في واحة المعرفة مسقط يومي ١٢ - ١٣ ديسمبر 2026 بمشاركة واسعة من الشركات الناشئة والجهات الحكومية.</p>
+    <p>ويأتي الملتقى بتنظيم من وزارة النقل والاتصالات وتقنية المعلومات ضمن جهود التحول الرقمي في السلطنة.</p></article></body></html>"""
+
+    ALIASES = json.load(open(os.path.join(os.path.dirname(__file__), "..", "sources.json"), encoding="utf-8"))["news"]["venue_aliases"]
+
+    def test_reads_english_article(self):
+        news = self.news
+        meta, body = news.read_article(self.EN_PAGE)
+        self.assertNotIn("Menu item", body)
+        self.assertEqual(meta["og:description"], "Muscat set to host regional tech leaders")
+        self.assertEqual(news.pick_dates(body, D(2026, 10, 20), D(2026, 10, 25)), (D(2026, 11, 18), D(2026, 11, 19)))
+        self.assertEqual(news.find_venue(body, self.ALIASES), "Oman Convention & Exhibition Centre")
+        self.assertEqual(news.find_organizer(body, "en"), "Central Bank of Oman")
+        self.assertEqual(news.event_name("Banks gather in Muscat", body, "en"), "3rd Oman Fintech Summit 2026")
+
+    def test_reads_arabic_article(self):
+        news = self.news
+        _, body = news.read_article(self.AR_PAGE)
+        self.assertEqual(news.pick_dates(body, D(2026, 10, 24), D(2026, 10, 25)), (D(2026, 12, 12), D(2026, 12, 13)))
+        self.assertEqual(news.find_venue(body, self.ALIASES), "Knowledge Oasis Muscat")
+        self.assertEqual(news.event_name("خبر", body, "ar"), "ملتقى عُمان للذكاء الاصطناعي")
+        self.assertTrue(news.find_organizer(body, "ar").startswith("وزارة النقل"))
+
+    def test_old_dates_are_not_events(self):
+        self.assertEqual(self.news.pick_dates("held on 2 March 2025", D(2026, 10, 20), D(2026, 10, 25)), (None, None))
+
+    def test_collect_reads_each_article_once(self):
+        news = self.news
+        feed = ('<rss><channel><item><title>Oman Fintech Summit to open in November</title><link>https://n.example/a</link>'
+                '<pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate></item>'
+                '<item><title>Weather update</title><link>https://n.example/b</link></item></channel></rss>')
+        page = self.EN_PAGE
+
+        class F:
+            calls = []
+            def get(self, url):
+                self.calls.append(url)
+                return feed if url.endswith("/rss") else page
+        cfg = {"news": {"feeds": [{"name": "t", "label": "T", "lang": "en", "url": "https://n.example/rss"}],
+                        "keywords_en": ["summit"], "keywords_ar": [], "venue_aliases": self.ALIASES}}
+        state, f = {}, F()
+        arts, evs, _ = news.collect(f, cfg, state, D(2026, 10, 25))
+        self.assertEqual([a["title"] for a in arts], ["Oman Fintech Summit to open in November"])  # weather filtered out
+        self.assertEqual((evs[0].title, evs[0].start, evs[0].tier), ("3rd Oman Fintech Summit 2026", D(2026, 11, 18), "D"))
+        news.collect(f, cfg, state, D(2026, 10, 25))
+        self.assertEqual(f.calls.count("https://n.example/a"), 1)  # second run used the cache
