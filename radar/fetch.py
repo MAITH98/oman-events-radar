@@ -110,6 +110,14 @@ class Fetcher:
         if wait > 0:
             time.sleep(wait)
         try:
-            return self._raw_get(url)
+            try:
+                return self._raw_get(url)
+            except (TimeoutError, socket.timeout):
+                # Slow sites (seen with OCEC from overseas runners): one retry with double the timeout.
+                self.timeout, original = self.timeout * 2, self.timeout
+                try:
+                    return self._raw_get(url)
+                finally:
+                    self.timeout = original
         finally:
             self._last_hit[host] = time.monotonic()
