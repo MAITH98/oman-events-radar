@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-25T11:07:04+00:00",
- "count": 82,
+ "generated_at": "2026-10-25T11:11:14+00:00",
+ "count": 83,
  "events": [
   {
    "schema_version": "1.0",
@@ -1332,9 +1332,91 @@
   {
    "schema_version": "1.0",
    "id": "a46fa3e940e0",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "08:00 AM",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Ministry of Transport, Communications and IT",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.mtcit.gov.om/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Removed",
+   "sources": [
+    "organiser:Ministry of Transport, Communications and IT"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#0800AM"
+   ],
+   "removed_on": "2026-10-25"
+  },
+  {
+   "schema_version": "1.0",
+   "id": "7fed8a1847c1",
+   "version": 3,
+   "kind": "event",
+   "title": "INDUSTRY NEWS",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "2026-10-21",
+   "venue": "",
+   "city": "Muscat",
+   "region": "Oman",
+   "organizer": "CONNECT (Sabco Group)",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://omansustainabilityweek.com/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Removed",
+   "sources": [
+    "organiser:CONNECT (Sabco Group)#3"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#INDUSTRYNEWS"
+   ],
+   "removed_on": "2026-10-25"
+  },
+  {
+   "schema_version": "1.0",
+   "id": "4a0bbfb0fa42",
+   "version": 1,
+   "kind": "event",
+   "title": "Last updated on",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "previous_start": "",
@@ -1366,47 +1448,7 @@
     "#Oman",
     "#OmanEvents",
     "#فعاليات_عمان",
-    "#0800AM"
-   ]
-  },
-  {
-   "schema_version": "1.0",
-   "id": "7fed8a1847c1",
-   "version": 2,
-   "kind": "event",
-   "title": "INDUSTRY NEWS",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "previous_start": "2026-10-21",
-   "venue": "",
-   "city": "Muscat",
-   "region": "Oman",
-   "organizer": "CONNECT (Sabco Group)",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://omansustainabilityweek.com/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Lead – verify",
-   "sources": [
-    "organiser:CONNECT (Sabco Group)#3"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-25",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#INDUSTRYNEWS"
+    "#LastUpdatedOn"
    ]
   },
   {

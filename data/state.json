@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-25",
- "sequence": 103,
+ "sequence": 106,
  "records": {
   "82d140e09802": {
    "schema_version": "1.0",
@@ -1395,9 +1395,95 @@
   "a46fa3e940e0": {
    "schema_version": "1.0",
    "id": "a46fa3e940e0",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "08:00 AM",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Ministry of Transport, Communications and IT",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.mtcit.gov.om/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Removed",
+   "sources": [
+    "organiser:Ministry of Transport, Communications and IT"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#0800AM"
+   ],
+   "removed_on": "2026-10-25",
+   "series": "08 00 am",
+   "fingerprint": null
+  },
+  "7fed8a1847c1": {
+   "schema_version": "1.0",
+   "id": "7fed8a1847c1",
+   "version": 3,
+   "kind": "event",
+   "title": "INDUSTRY NEWS",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "2026-10-21",
+   "venue": "",
+   "city": "Muscat",
+   "region": "Oman",
+   "organizer": "CONNECT (Sabco Group)",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://omansustainabilityweek.com/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Removed",
+   "sources": [
+    "organiser:CONNECT (Sabco Group)#3"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#INDUSTRYNEWS"
+   ],
+   "removed_on": "2026-10-25",
+   "series": "industry news",
+   "fingerprint": null
+  },
+  "4a0bbfb0fa42": {
+   "schema_version": "1.0",
+   "id": "4a0bbfb0fa42",
+   "version": 1,
+   "kind": "event",
+   "title": "Last updated on",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "previous_start": "",
@@ -1429,52 +1515,10 @@
     "#Oman",
     "#OmanEvents",
     "#فعاليات_عمان",
-    "#0800AM"
+    "#LastUpdatedOn"
    ],
-   "series": "08 00 am",
-   "fingerprint": "4a9d8f1444ed434eb9d5aa7c77d4521d15e000b4"
-  },
-  "7fed8a1847c1": {
-   "schema_version": "1.0",
-   "id": "7fed8a1847c1",
-   "version": 2,
-   "kind": "event",
-   "title": "INDUSTRY NEWS",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "previous_start": "2026-10-21",
-   "venue": "",
-   "city": "Muscat",
-   "region": "Oman",
-   "organizer": "CONNECT (Sabco Group)",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://omansustainabilityweek.com/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Lead – verify",
-   "sources": [
-    "organiser:CONNECT (Sabco Group)#3"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-25",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#INDUSTRYNEWS"
-   ],
-   "series": "industry news",
-   "fingerprint": "b12854d480136c666260c98908b0455f94fa1edd"
+   "series": "last updated on",
+   "fingerprint": "ba3023792e2264623e942250b0a20e6e11b23ca1"
   },
   "12253e7a16fe": {
    "schema_version": "1.0",
@@ -3628,7 +3672,7 @@
    "last_ok": "2026-10-25"
   },
   "eventbrite-muscat": {
-   "failures": 2,
+   "failures": 3,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3648,7 +3692,7 @@
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 3,
+   "failures": 4,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3659,7 +3703,7 @@
   },
   "organiser:CONNECT (Sabco Group)#3": {
    "failures": 0,
-   "last_count": 5,
+   "last_count": 4,
    "last_ok": "2026-10-25"
   },
   "organiser:Arabian Research Bureau / OITE": {
@@ -3725,7 +3769,7 @@
    "changed": ""
   },
   "organiser:Ministry of Transport, Communications and IT": {
-   "hash": "320afe9a49fa8fef",
+   "hash": "92c39664644dd6d9",
    "changed": "2026-10-25"
   }
  }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:07:04+00:00",
+ "generated_at": "2026-10-25T11:11:14+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -67,7 +67,7 @@
   {
    "entity": "organiser:CONNECT (Sabco Group)#3",
    "type": "source",
-   "events": 5,
+   "events": 4,
    "status": "ok",
    "page_changed": "2026-10-25"
   },
