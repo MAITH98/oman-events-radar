@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-25",
- "sequence": 101,
+ "sequence": 103,
  "records": {
   "82d140e09802": {
    "schema_version": "1.0",
@@ -1392,15 +1392,57 @@
    "series": "ofsec",
    "fingerprint": "016578e628e901126bfa33389f18f96856b61f4f"
   },
+  "a46fa3e940e0": {
+   "schema_version": "1.0",
+   "id": "a46fa3e940e0",
+   "version": 1,
+   "kind": "event",
+   "title": "08:00 AM",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Ministry of Transport, Communications and IT",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.mtcit.gov.om/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "organiser:Ministry of Transport, Communications and IT"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#0800AM"
+   ],
+   "series": "08 00 am",
+   "fingerprint": "4a9d8f1444ed434eb9d5aa7c77d4521d15e000b4"
+  },
   "7fed8a1847c1": {
    "schema_version": "1.0",
    "id": "7fed8a1847c1",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "INDUSTRY NEWS",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "previous_start": "",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "2026-10-21",
    "venue": "",
    "city": "Muscat",
    "region": "Oman",
@@ -1415,7 +1457,7 @@
    "relevance": "Low",
    "score": 0,
    "confidence": 30,
-   "status": "Past",
+   "status": "Lead – verify",
    "sources": [
     "organiser:CONNECT (Sabco Group)#3"
    ],
@@ -1432,49 +1474,7 @@
     "#INDUSTRYNEWS"
    ],
    "series": "industry news",
-   "fingerprint": "b3c94ae6e609da562aff23c603b507fb6a533e83"
-  },
-  "bc07652ef0ec": {
-   "schema_version": "1.0",
-   "id": "bc07652ef0ec",
-   "version": 1,
-   "kind": "event",
-   "title": "10:18 AM",
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "Ministry of Transport, Communications and IT",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.mtcit.gov.om/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Past",
-   "sources": [
-    "organiser:Ministry of Transport, Communications and IT"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-25",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#1018AM"
-   ],
-   "series": "10 18 am",
-   "fingerprint": "08952efe5f63fc51e808700f98cd8c12360c3a3a"
+   "fingerprint": "b12854d480136c666260c98908b0455f94fa1edd"
   },
   "12253e7a16fe": {
    "schema_version": "1.0",
@@ -3628,7 +3628,7 @@
    "last_ok": "2026-10-25"
   },
   "eventbrite-muscat": {
-   "failures": 1,
+   "failures": 2,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3643,12 +3643,12 @@
    "last_ok": "2026-10-25"
   },
   "venue:Oman Convention & Exhibition Centre (OCEC)": {
-   "failures": 1,
+   "failures": 0,
    "last_count": 19,
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 2,
+   "failures": 3,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3713,8 +3713,8 @@
    "changed": ""
   },
   "organiser:CONNECT (Sabco Group)#3": {
-   "hash": "48bba2ab4a059d15",
-   "changed": ""
+   "hash": "e9388009f63a9fc9",
+   "changed": "2026-10-25"
   },
   "organiser:Al Nimr Expo": {
    "hash": "698ba058e1923608",
@@ -3725,8 +3725,8 @@
    "changed": ""
   },
   "organiser:Ministry of Transport, Communications and IT": {
-   "hash": "ea7d40d0ca178fde",
-   "changed": ""
+   "hash": "320afe9a49fa8fef",
+   "changed": "2026-10-25"
   }
  }
 }

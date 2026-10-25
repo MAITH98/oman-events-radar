@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T06:38:26+00:00",
+ "generated_at": "2026-10-25T11:07:04+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -46,8 +46,8 @@
   {
    "entity": "venue:Oman Convention & Exhibition Centre (OCEC)",
    "type": "source",
-   "events": 0,
-   "status": "TimeoutError: The read operation timed out",
+   "events": 19,
+   "status": "ok",
    "page_changed": ""
   },
   {
@@ -69,7 +69,7 @@
    "type": "source",
    "events": 5,
    "status": "ok",
-   "page_changed": ""
+   "page_changed": "2026-10-25"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -111,7 +111,7 @@
    "type": "source",
    "events": 1,
    "status": "ok",
-   "page_changed": ""
+   "page_changed": "2026-10-25"
   },
   {
    "entity": "site:omanlegalsummit.com",
