@@ -242,11 +242,16 @@ _UI_TEXT = re.compile(r"^(visit|register|book|read|learn|view|see|more|click|dow
                       r"contact|subscribe|share|home|menu|tickets?)\b", re.I)
 
 
+# Times ("08:00 AM") and generic section labels ("INDUSTRY NEWS") are not event titles.
+_LABEL = re.compile(r"^(\d{1,2}[:.]\d{2}\s*(am|pm)?|(latest|industry|press|media)?\s*(news|events?|updates?|"
+                    r"announcements?|highlights|calendar|agenda|programme|program))$", re.I)
+
+
 def _only_places(title):
     """True for titles that are only place names, dates or button text ("VISIT WEBSITE")."""
     words = re.findall(r"[\w&]+", title.lower())
     return (not words or all(w in _PLACE_WORDS or w.isdigit() for w in words)
-            or bool(_UI_TEXT.match(title.strip())))
+            or bool(_UI_TEXT.match(title.strip())) or bool(_LABEL.match(title.strip())))
 
 
 _DATE_TEXT = re.compile(r"[\d٠-٩]{1,2}\s*[-–]?\s*[\d٠-٩]{0,2}\s+\S+\s+20\d{2}"

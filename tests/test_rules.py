@@ -168,7 +168,8 @@ class Parsers(unittest.TestCase):
     def test_page_watch_skips_place_and_button_titles(self):
         class F:
             def get(self, url):
-                return "<p>Muscat, Oman</p><p>Muscat, Oman 18 April 2027</p><p>VISIT WEBSITE 18 April 2027</p>"
+                return ("<p>Muscat, Oman</p><p>Muscat, Oman 18 April 2027</p><p>VISIT WEBSITE 18 April 2027</p>"
+                        "<p>08:00 AM 5 Oct 2027</p><p>INDUSTRY NEWS</p><p>5 Oct 2027</p>")
         self.assertEqual(adapters.page_watch(F(), {"name": "x", "url": "https://x.example/"}), [])
 
 
