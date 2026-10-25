@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T12:29:06+00:00",
+ "generated_at": "2026-10-25T12:33:50+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -44,10 +44,12 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Media Excellence Competition Awards 2026 on Monday",
+   "title": "Media Excellence Competition Awards 2026",
    "url": "https://www.omanobserver.om/article/1198442/oman/community/media-excellence-competition-awards-2026-on-monday",
-   "source": "news-en",
-   "found": "2026-10-25"
+   "source": "news:observer-local",
+   "found": "2026-10-25",
+   "start": "2026-10-25",
+   "status": "Lead – verify"
   },
   {
    "title": "Oman boosts media ties with UK through Press Club awards",
@@ -68,10 +70,12 @@
    "found": "2026-10-25"
   },
   {
-   "title": "انطلاق \"منتدى مسقط للمرونة البحرية\" لاستكشاف حلول تعزيز حركة التجارة الدولية.. الثلاثاء",
+   "title": "منتدى مسقط للمرونة البحرية",
    "url": "https://alroya.om/post/396794/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
-   "source": "news-ar",
-   "found": "2026-10-25"
+   "source": "news:alroya",
+   "found": "2026-10-25",
+   "start": "2026-10-27",
+   "status": "Lead – verify"
   },
   {
    "title": "مدرسة التآلف في بركاء تنمي مهارات الطلبة ضمن أسبوع \"موهبتي بكم تسمو\"",
@@ -92,10 +96,12 @@
    "found": "2026-10-25"
   },
   {
-   "title": "انطلاق أعمال \"الملتقى الأدبي والفني\" في صحار",
+   "title": "الملتقى الأدبي والفني",
    "url": "https://alroya.om/post/396739/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%8A-%D9%81%D9%8A-%D8%B5%D8%AD%D8%A7%D8%B1",
-   "source": "news-ar",
-   "found": "2026-10-25"
+   "source": "news:alroya",
+   "found": "2026-10-25",
+   "start": "2026-10-25",
+   "status": "Lead – verify"
   },
   {
    "title": "منتدى مسقط للمرونة البحرية",
@@ -299,6 +305,38 @@
    "source": "news:observer-local",
    "found": "2026-10-25",
    "start": "2027-04-03",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "27 ورقة عمل في ندوة \"جنوب الباطنة في ذاكرة التاريخ العُماني\".. الاثنين",
+   "url": "https://alroya.om/post/396763/27-%D9%88%D8%B1%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%86%D8%AF%D9%88%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%81%D9%8A-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
+   "source": "news:alroya",
+   "found": "2026-10-25",
+   "start": "2026-10-26",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "معرض زراعي متنوع احتفالًا بيوم الزراعة في",
+   "url": "https://www.omandaily.om/article/1213414",
+   "source": "news:omandaily",
+   "found": "2026-10-25",
+   "start": "2026-10-31",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "Unseen Van Gogh painting exhibited in Hong Kong",
+   "url": "https://www.omanobserver.om/article/1197991/features/arts/unseen-van-gogh-painting-exhibited-in-hong-kong",
+   "source": "news:observer-lifestyle",
+   "found": "2026-10-25",
+   "start": "2026-11-18",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "Exhibition reflects on humanity’s relationship with nature",
+   "url": "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature",
+   "source": "news:observer-lifestyle",
+   "found": "2026-10-25",
+   "start": "2027-10-03",
    "status": "Lead – verify"
   },
   {

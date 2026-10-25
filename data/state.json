@@ -4088,7 +4088,7 @@
    "last_ok": "2026-10-25"
   },
   "eventbrite-muscat": {
-   "failures": 0,
+   "failures": 1,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -4108,7 +4108,7 @@
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 6,
+   "failures": 7,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
