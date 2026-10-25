@@ -1,0 +1,161 @@
+{
+ "omn-ex.om": {
+  "url": "https://omn-ex.om/",
+  "from": "OMNEX",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "omanlegalsummit.com": {
+  "url": "https://omanlegalsummit.com/",
+  "from": "Oman LegalTech Summit 2026",
+  "first_seen": "2026-10-25",
+  "status": "ok",
+  "checked": "2026-10-25",
+  "events": 1
+ },
+ "mctbookfair.gov.om": {
+  "url": "https://mctbookfair.gov.om/",
+  "from": "Muscat International Book Fair 2026",
+  "first_seen": "2026-10-25",
+  "status": "error",
+  "checked": "2026-10-25",
+  "error": "URLError",
+  "failures": 1
+ },
+ "bahrain.collectionsummit.com": {
+  "url": "https://bahrain.collectionsummit.com/",
+  "from": "Elevating Credit Strategy in a Transforming Market",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "asia.collectionsummit.com": {
+  "url": "https://asia.collectionsummit.com/",
+  "from": "Strategic Collections in Asia's Evolving Credit Landscape",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "india.collectionsummit.com": {
+  "url": "https://india.collectionsummit.com/",
+  "from": "Digital-first Strategy In a Fast-changing Landscape",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "horecaoman.com": {
+  "url": "https://www.horecaoman.com/",
+  "from": "HORECA Oman 2026",
+  "first_seen": "2026-10-25",
+  "status": "blocked",
+  "checked": "2026-10-25"
+ },
+ "omanhealthexpo.com": {
+  "url": "https://omanhealthexpo.com/",
+  "from": "Oman Health Exhibition & Conference 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "edutracoman.com": {
+  "url": "https://edutracoman.com/",
+  "from": "EduTraC Oman 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "ofsecevent.com": {
+  "url": "https://www.ofsecevent.com/",
+  "from": "OFSEC",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "project-oman.com": {
+  "url": "https://project-oman.com/",
+  "from": "Project oman",
+  "first_seen": "2026-10-25",
+  "status": "ok",
+  "checked": "2026-10-25",
+  "events": 1
+ },
+ "omanagrofood.com": {
+  "url": "https://omanagrofood.com/",
+  "from": "Oman AgroFood 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "aienterpriseexpo.com": {
+  "url": "https://aienterpriseexpo.com/",
+  "from": "Enterprise AI Expo 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "bee-om.com": {
+  "url": "https://www.bee-om.com/",
+  "from": "Beauty Elements Exhibition (BEE)",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "gha26.com": {
+  "url": "https://gha26.com/",
+  "from": "18th Gulf Heart Association Conference",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "ioraoman.com": {
+  "url": "https://ioraoman.com/",
+  "from": "IORA Aquaculture & Fisheries Business Forum & Exhibition",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "omanplast.net": {
+  "url": "https://www.omanplast.net/",
+  "from": "10th OMAN PLAST 2026",
+  "first_seen": "2026-10-25",
+  "status": "blocked",
+  "checked": "2026-10-25"
+ },
+ "idfoman.com": {
+  "url": "https://idfoman.com/",
+  "from": "Interior Design Furnishing Expo 2027",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "thefuture-event.com": {
+  "url": "https://thefuture-event.com/",
+  "from": "Oman Legal Tech Summit 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ },
+ "ifpexpo.com": {
+  "url": "https://ifpexpo.com/",
+  "from": "Project Oman 2026",
+  "first_seen": "2026-10-25",
+  "status": "no-feed",
+  "checked": "2026-10-25",
+  "events": 0
+ }
+}

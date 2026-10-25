@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oman Events Radar</title>
+<meta name="description" content="Open, rule-based calendar of business, tech and startup events in Oman – updated daily.">
+<style>
+:root{--bg:#f7f7f5;--surface:#fff;--text:#1d1d1b;--muted:#5d5d58;--line:#e3e2dd;--accent:#0b6e4f;--accent-ink:#fff;
+--high:#0b6e4f;--high-bg:#e3f3ec;--med:#8a5a00;--med-bg:#fbf0d9;--low:#5d5d58;--low-bg:#eeeeea;--lead:#9b2c2c;--lead-bg:#fbe7e7;--radius:12px}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121211;--surface:#1c1c1a;--text:#ecebe6;--muted:#a3a29b;--line:#2e2e2b;--accent:#4cc79a;--accent-ink:#0c1f17;
+--high:#6fd7ae;--high-bg:#153a2c;--med:#f0c060;--med-bg:#3a2e12;--low:#b3b2ab;--low-bg:#2a2a27;--lead:#f19a9a;--lead-bg:#3d1c1c}}
+:root[data-theme="dark"]{--bg:#121211;--surface:#1c1c1a;--text:#ecebe6;--muted:#a3a29b;--line:#2e2e2b;--accent:#4cc79a;--accent-ink:#0c1f17;
+--high:#6fd7ae;--high-bg:#153a2c;--med:#f0c060;--med-bg:#3a2e12;--low:#b3b2ab;--low-bg:#2a2a27;--lead:#f19a9a;--lead-bg:#3d1c1c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif}
+header,main{max-width:960px;margin:0 auto;padding:0 16px}
+header{padding-top:32px;padding-bottom:8px}
+h1{font-size:28px;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 16px}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.btn{display:inline-flex;align-items:center;min-height:44px;padding:0 14px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--text);text-decoration:none;font:inherit;font-size:14px;cursor:pointer}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.filters{display:grid;grid-template-columns:1fr;gap:8px;margin:8px 0 24px}
+@media (min-width:640px){.filters{grid-template-columns:2fr 1fr 1fr 1fr}}
+label.f{display:flex;flex-direction:column;font-size:13px;color:var(--muted);gap:4px}
+input,select{min-height:44px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--text);font:inherit;padding:0 12px;width:100%}
+h2.month{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:28px 0 10px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin-bottom:12px}
+.top{display:flex;gap:12px;align-items:flex-start}
+.date{flex:0 0 64px;text-align:center;border-radius:10px;background:var(--bg);padding:6px 0}
+.date b{display:block;font-size:22px;line-height:1.1}
+.date span{font-size:12px;color:var(--muted);text-transform:uppercase}
+.title{font-size:17px;font-weight:600;margin:0;overflow-wrap:anywhere}
+.title a{color:inherit}
+.meta{color:var(--muted);font-size:14px;margin:2px 0 0;overflow-wrap:anywhere}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.badge{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--low-bg);color:var(--low)}
+.badge.High{background:var(--high-bg);color:var(--high)}
+.badge.Medium{background:var(--med-bg);color:var(--med)}
+.badge.lead{background:var(--lead-bg);color:var(--lead)}
+.card.removed .title{text-decoration:line-through}
+details{margin-top:10px;font-size:14px}
+summary{cursor:pointer;min-height:32px;color:var(--accent)}
+.plan{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin:8px 0}
+@media (min-width:640px){.plan{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.plan div{background:var(--bg);border-radius:8px;padding:6px 8px}
+.plan small{display:block;color:var(--muted)}
+.tags{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.tags code{overflow-wrap:anywhere;font-size:13px}
+.empty,.foot{color:var(--muted);text-align:center;padding:32px 0}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Oman Events Radar</h1>
+  <p class="sub">Business, tech &amp; startup events in Oman — collected by fixed rules (no AI) from public venue, organiser and event calendars, refreshed daily. <span id="updated"></span></p>
+  <div class="actions">
+    <a class="btn primary" id="sub-events" href="events.ics">Subscribe: events</a>
+    <a class="btn" id="sub-posts" href="posts.ics">Subscribe: post plan</a>
+    <a class="btn" href="events.csv">Download CSV</a>
+    <a class="btn" href="https://github.com/MAITH98/oman-events-radar#add-an-event">Add an event</a>
+  </div>
+  <div class="filters" role="search">
+    <label class="f">Search<input id="q" type="search" placeholder="Event, venue, organiser…"></label>
+    <label class="f">Relevance<select id="rel"><option value="">All</option><option>High</option><option>Medium</option><option>Low</option></select></label>
+    <label class="f">Category<select id="cat"><option value="">All</option></select></label>
+    <label class="f">Show<select id="when"><option value="calendar">Team calendar</option><option value="review">Review queue</option><option value="expected">Expected next editions</option><option value="occasion">National occasions</option><option value="all">Everything</option></select></label>
+  </div>
+</header>
+<main id="list" aria-live="polite"><p class="empty">Loading…</p></main>
+<p class="foot">Open source · rules, not AI · <a href="https://github.com/MAITH98/oman-events-radar">GitHub</a></p>
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var events = [];
+  var CAL = ["Upcoming", "Ongoing", "Rescheduled", "Cancelled", "Occasion"];
+  var REVIEW = ["Needs review", "Lead – verify"];
+  var STEP = { brief: "Brief due", announce: "Announce", design_lock: "Design lock", reminder: "Reminder", live: "Live", recap: "Recap" };
+  function d(iso) { var p = iso.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function fmt(iso) { var x = d(iso); return x.getDate() + " " + MON[x.getMonth()]; }
+  function el(tag, attrs, kids) {
+    var n = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (k) { if (k === "text") n.textContent = attrs[k]; else n.setAttribute(k, attrs[k]); });
+    (kids || []).forEach(function (c) { if (c) n.appendChild(c); });
+    return n;
+  }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : ""; }
+
+  var webcal = location.protocol === "https:" ? location.href.replace(/^https:/, "webcal:").replace(/[^/]*$/, "") : "";
+  if (webcal) { $("sub-events").href = webcal + "events.ics"; $("sub-posts").href = webcal + "posts.ics"; }
+
+  function card(e) {
+    var s = d(e.start);
+    var url = safeUrl(e.url);
+    var title = el("p", { class: "title" }, [url ? el("a", { href: url, target: "_blank", rel: "noopener", text: e.title }) : document.createTextNode(e.title)]);
+    var range = fmt(e.start) + (e.end !== e.start ? " – " + fmt(e.end) : "");
+    var meta = el("p", { class: "meta", text: [range, e.venue || e.city, e.organizer].filter(Boolean).join(" · ") });
+    var flagged = REVIEW.indexOf(e.status) >= 0 || e.status === "Cancelled" || e.status === "Rescheduled" || e.status === "Removed";
+    var badges = el("div", { class: "badges" }, [
+      el("span", { class: "badge " + e.relevance, text: e.relevance + " relevance" }),
+      el("span", { class: "badge", text: e.category }),
+      e.region && e.region !== "Oman" ? el("span", { class: "badge", text: e.region }) : null,
+      flagged ? el("span", { class: "badge lead", text: e.status + (e.previous_start ? " (was " + fmt(e.previous_start) + ")" : "") }) : null,
+      el("span", { class: "badge", text: "Confidence " + e.confidence }),
+      e.ticket_price ? el("span", { class: "badge", text: "Ticket: " + e.ticket_price }) : null
+    ]);
+    var steps = Object.keys(e.workflow || {});
+    var plan = steps.length ? el("div", { class: "plan" }, steps.map(function (k) {
+      return el("div", {}, [el("small", { text: STEP[k] || k }), document.createTextNode(fmt(e.workflow[k]))]);
+    })) : el("p", { class: "meta", text: "No post plan (low relevance, not yet confirmed, or past)." });
+    var tagText = (e.hashtags || []).join(" ");
+    var copy = el("button", { class: "btn", type: "button", text: "Copy hashtags" });
+    copy.addEventListener("click", function () {
+      navigator.clipboard && navigator.clipboard.writeText(tagText).then(function () { copy.textContent = "Copied"; setTimeout(function () { copy.textContent = "Copy hashtags"; }, 1500); });
+    });
+    var more = el("details", {}, [el("summary", { text: "Post plan & details" }), plan,
+      el("div", { class: "tags" }, [el("code", { text: tagText }), copy]),
+      e.description ? el("p", { text: e.description }) : null,
+      el("p", { class: "meta", text: "Sources: " + (e.sources || []).join(", ") + " · first seen " + e.first_seen })]);
+    return el("article", { class: "card" + (e.status === "Removed" ? " removed" : "") }, [el("div", { class: "top" }, [
+      el("div", { class: "date", "aria-hidden": "true" }, [el("b", { text: String(s.getDate()) }), el("span", { text: MON[s.getMonth()] })]),
+      el("div", {}, [title, meta, badges])]), more]);
+  }
+
+  function render() {
+    var q = $("q").value.trim().toLowerCase(), rel = $("rel").value, cat = $("cat").value, when = $("when").value;
+    var shown = events.filter(function (e) {
+      if (rel && e.relevance !== rel) return false;
+      if (cat && e.category !== cat) return false;
+      if (when === "calendar" && CAL.indexOf(e.status) < 0) return false;
+      if (when === "review" && REVIEW.indexOf(e.status) < 0) return false;
+      if (when === "expected" && e.kind !== "expected") return false;
+      if (when === "occasion" && e.kind !== "occasion") return false;
+      return !q || (e.title + " " + e.venue + " " + e.organizer + " " + e.city).toLowerCase().indexOf(q) >= 0;
+    });
+    var list = $("list"); list.textContent = "";
+    if (!shown.length) { list.appendChild(el("p", { class: "empty", text: "No events match these filters." })); return; }
+    var month = "";
+    shown.forEach(function (e) {
+      var s = d(e.start), m = MON[s.getMonth()] + " " + s.getFullYear();
+      if (m !== month) { month = m; list.appendChild(el("h2", { class: "month", text: m })); }
+      list.appendChild(card(e));
+    });
+  }
+
+  fetch("events.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (data) {
+    events = data.events;
+    $("updated").textContent = "Last update: " + new Date(data.generated_at).toLocaleString();
+    Array.from(new Set(events.map(function (e) { return e.category; }))).sort().forEach(function (c) { $("cat").appendChild(el("option", { text: c })); });
+    ["q", "rel", "cat", "when"].forEach(function (id) { $(id).addEventListener("input", render); });
+    render();
+  }).catch(function () { $("list").textContent = ""; $("list").appendChild(el("p", { class: "empty", text: "Could not load events.json." })); });
+})();
+</script>
+</body>
+</html>

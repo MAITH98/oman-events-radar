@@ -1,0 +1,600 @@
+{
+  "min_delay_seconds": 2,
+  "keep_past_days": 730,
+  "look_ahead_days": 730,
+  "expect_horizon_days": 400,
+  "sources": [
+    {
+      "name": "team-seed-2026",
+      "type": "csv",
+      "tier": "B",
+      "path": "data/seed_events_2026.csv",
+      "default_year": 2026
+    },
+    {
+      "name": "community",
+      "type": "csv",
+      "tier": "B",
+      "path": "community/submissions.csv",
+      "default_year": 2026,
+      "follow_links": true
+    },
+    {
+      "name": "allevents-muscat",
+      "type": "jsonld",
+      "tier": "C",
+      "url": "https://allevents.in/muscat/all",
+      "link_pattern": "data-link=\"(https://allevents\\.in/[a-z-]+/[^\"]+/\\d+)\"",
+      "max_details": 40
+    },
+    {
+      "name": "eventbrite-muscat",
+      "type": "jsonld",
+      "tier": "C",
+      "url": "https://www.eventbrite.com/d/oman--muscat/business--events/"
+    },
+    {
+      "name": "news-en",
+      "type": "rss_leads",
+      "tier": "D",
+      "urls": [
+        "https://www.timesofoman.com/feed",
+        "https://www.omanobserver.om/rssFeed/1"
+      ],
+      "must_include": [
+        "summit",
+        "conference",
+        "expo",
+        "exhibition",
+        "forum",
+        "festival",
+        "hackathon",
+        "week",
+        "awards",
+        "show",
+        "registration",
+        "pitch"
+      ]
+    },
+    {
+      "name": "news-ar",
+      "type": "rss_leads",
+      "tier": "D",
+      "urls": [
+        "https://alroya.om/rss"
+      ],
+      "must_include": [
+        "مؤتمر",
+        "معرض",
+        "ملتقى",
+        "منتدى",
+        "قمة",
+        "مهرجان",
+        "هاكاثون",
+        "أسبوع",
+        "جائزة",
+        "ورشة"
+      ]
+    }
+  ],
+  "watch": {
+    "venues": [
+      {
+        "name": "Oman Convention & Exhibition Centre (OCEC)",
+        "sources": [
+          {
+            "type": "wp_tribe",
+            "url": "https://ocec.om/wp-json/tribe/events/v1/events",
+            "city": "Muscat"
+          }
+        ]
+      },
+      {
+        "name": "Royal Opera House Muscat",
+        "note": "TLS certificate fails verification; enable when fixed",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://www.rohmuscat.org.om/en/events",
+            "city": "Muscat",
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "name": "Knowledge Oasis Muscat",
+        "note": "site times out; enable when reachable",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://kom.om/",
+            "city": "Muscat",
+            "enabled": false
+          }
+        ]
+      }
+    ],
+    "organisers": [
+      {
+        "name": "CONNECT (Sabco Group)",
+        "note": "Oman Design & Build Week, Oman Petroleum & Energy Show, Oman Sustainability Week",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://www.connectthroughus.com/"
+          },
+          {
+            "type": "page_watch",
+            "url": "https://www.omanpetroleumandenergyshow.com/",
+            "city": "Muscat"
+          },
+          {
+            "type": "page_watch",
+            "url": "https://omansustainabilityweek.com/",
+            "city": "Muscat"
+          }
+        ]
+      },
+      {
+        "name": "Arabian Research Bureau / OITE",
+        "note": "COMEX, LOGISTEX, Oman Climate Week, GHEDEX",
+        "sources": [
+          {
+            "type": "jsonld",
+            "url": "https://www.comex-global.com/"
+          },
+          {
+            "type": "jsonld",
+            "url": "https://logistex.global/"
+          },
+          {
+            "type": "jsonld",
+            "url": "https://omanclimateweek.com/"
+          }
+        ]
+      },
+      {
+        "name": "Al Nimr Expo",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://www.alnimrexpo.com/"
+          }
+        ]
+      },
+      {
+        "name": "Oman Expo",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://www.omanexpo.com/"
+          }
+        ]
+      },
+      {
+        "name": "Ministry of Transport, Communications and IT",
+        "sources": [
+          {
+            "type": "page_watch",
+            "url": "https://www.mtcit.gov.om/"
+          }
+        ]
+      }
+    ]
+  },
+  "discovery": {
+    "budget": 15,
+    "skip_domains": [
+      "allevents.in",
+      "eventbrite.com",
+      "instagram.com",
+      "facebook.com",
+      "x.com",
+      "twitter.com",
+      "linkedin.com",
+      "youtube.com",
+      "linktr.ee",
+      "constantcontact.com",
+      "trendmicro.com",
+      "google.com",
+      "goo.gl",
+      "bit.ly",
+      "platinumlist.net",
+      "eventat.com",
+      "meetup.com",
+      "timesofoman.com",
+      "omanobserver.om",
+      "alroya.om",
+      "eventx.om",
+      "ocec.om",
+      "expoassist.net",
+      "10times.com"
+    ]
+  },
+  "regions": {
+    "Oman": [
+      "oman",
+      "omani",
+      "muscat",
+      "ocec",
+      "salalah",
+      "sohar",
+      "duqm",
+      "nizwa",
+      "sur",
+      "seeb",
+      "ghala",
+      "barka",
+      "ibri",
+      "عمان",
+      "مسقط",
+      "صلالة",
+      "صحار"
+    ],
+    "GCC": [
+      "uae",
+      "dubai",
+      "abu dhabi",
+      "sharjah",
+      "saudi",
+      "riyadh",
+      "jeddah",
+      "dammam",
+      "qatar",
+      "doha",
+      "bahrain",
+      "manama",
+      "kuwait"
+    ]
+  },
+  "confidence": {
+    "publish": 60,
+    "review": 40
+  },
+  "base_hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+  ],
+  "post_plans": {
+    "High": {
+      "brief": {
+        "from": "start",
+        "days": -21
+      },
+      "announce": {
+        "from": "start",
+        "days": -14
+      },
+      "design_lock": {
+        "from": "start",
+        "days": -7
+      },
+      "reminder": {
+        "from": "start",
+        "days": -3
+      },
+      "live": {
+        "from": "start",
+        "days": 0
+      },
+      "recap": {
+        "from": "end",
+        "days": 1
+      }
+    },
+    "Medium": {
+      "brief": {
+        "from": "start",
+        "days": -10
+      },
+      "announce": {
+        "from": "start",
+        "days": -7
+      },
+      "reminder": {
+        "from": "start",
+        "days": -2
+      }
+    }
+  },
+  "occasions": [
+    {
+      "title": "Accession Day of His Majesty Sultan Haitham",
+      "month": 1,
+      "day": 11
+    },
+    {
+      "title": "Omani Women's Day",
+      "month": 10,
+      "day": 17
+    },
+    {
+      "title": "Omani Youth Day",
+      "month": 10,
+      "day": 26
+    },
+    {
+      "title": "Oman National Day",
+      "month": 11,
+      "day": 20,
+      "note": "Islamic holidays follow the Hijri calendar and are added by hand each year."
+    }
+  ],
+  "rules": {
+    "thresholds": {
+      "high": 6,
+      "medium": 3
+    },
+    "max_duration_days": 45,
+    "exclude_keywords": [
+      "house shifting",
+      "movers",
+      "packers",
+      "loading unloading",
+      "citizenship",
+      "immigration",
+      "visa service",
+      "pr visa",
+      "massage",
+      "dating"
+    ],
+    "categories": {
+      "Tech & AI": {
+        "weight": 3,
+        "hashtags": [
+          "#OmanTech",
+          "#DigitalOman",
+          "#التحول_الرقمي"
+        ],
+        "keywords": [
+          "ai",
+          "artificial intelligence",
+          "tech",
+          "technology",
+          "digital",
+          "data",
+          "analytics",
+          "cloud",
+          "software",
+          "comex",
+          "iot",
+          "blockchain",
+          "cyber",
+          "cybersecurity",
+          "ict",
+          "telecom",
+          "ذكاء اصطناعي",
+          "تقنية",
+          "رقمي",
+          "الأمن السيبراني"
+        ],
+        "core": [
+          "ai",
+          "artificial intelligence",
+          "software",
+          "cloud",
+          "cybersecurity",
+          "digital transformation",
+          "ict",
+          "telecom",
+          "data analytics",
+          "machine learning",
+          "ذكاء اصطناعي",
+          "التحول الرقمي"
+        ]
+      },
+      "Startups & SMEs": {
+        "weight": 3,
+        "hashtags": [
+          "#OmanStartups",
+          "#Entrepreneurship",
+          "#ريادة_الأعمال"
+        ],
+        "keywords": [
+          "startup",
+          "startups",
+          "entrepreneur",
+          "entrepreneurship",
+          "pitch",
+          "accelerator",
+          "incubator",
+          "founder",
+          "sme",
+          "smes",
+          "venture",
+          "investor",
+          "hackathon",
+          "demo day",
+          "ريادة",
+          "رواد",
+          "الشركات الناشئة"
+        ],
+        "core": [
+          "startup",
+          "startups",
+          "entrepreneurship",
+          "accelerator",
+          "incubator",
+          "pitch",
+          "hackathon",
+          "ريادة"
+        ]
+      },
+      "Fintech & Finance": {
+        "weight": 2,
+        "hashtags": [
+          "#OmanFintech",
+          "#InvestOman"
+        ],
+        "keywords": [
+          "fintech",
+          "banking",
+          "finance",
+          "payments",
+          "credit",
+          "investment",
+          "regtech",
+          "legaltech",
+          "insurance"
+        ],
+        "core": [
+          "fintech",
+          "banking",
+          "payments",
+          "regtech",
+          "legaltech"
+        ]
+      },
+      "Government & Vision 2040": {
+        "weight": 2,
+        "hashtags": [
+          "#OmanVision2040",
+          "#رؤية_عمان_2040"
+        ],
+        "keywords": [
+          "vision 2040",
+          "ministry",
+          "government",
+          "public sector",
+          "policy",
+          "smart city",
+          "e-government",
+          "رؤية"
+        ],
+        "core": [
+          "vision 2040",
+          "e-government",
+          "public sector",
+          "smart city",
+          "رؤية عمان"
+        ]
+      },
+      "Industry & Energy": {
+        "weight": 1,
+        "hashtags": [
+          "#OmanEnergy",
+          "#OmanSustainability"
+        ],
+        "keywords": [
+          "energy",
+          "petroleum",
+          "sustainability",
+          "climate",
+          "logistics",
+          "construction",
+          "manufacturing",
+          "building",
+          "project",
+          "agro",
+          "food",
+          "mining",
+          "safety",
+          "fire",
+          "horeca",
+          "hospitality",
+          "plast",
+          "plastics",
+          "petrochemicals",
+          "aquaculture",
+          "fisheries",
+          "design & build",
+          "logistex",
+          "agrofood",
+          "agro food",
+          "opes",
+          "project oman"
+        ],
+        "core": [
+          "energy",
+          "logistics",
+          "construction",
+          "manufacturing",
+          "sustainability",
+          "oil and gas",
+          "supply chain"
+        ]
+      },
+      "Education & Careers": {
+        "weight": 1,
+        "hashtags": [
+          "#OmanEducation",
+          "#Careers"
+        ],
+        "keywords": [
+          "education",
+          "edutrac",
+          "ghedex",
+          "training",
+          "university",
+          "career",
+          "workshop",
+          "hr",
+          "oshrm"
+        ],
+        "core": [
+          "education",
+          "university",
+          "career fair",
+          "training"
+        ]
+      },
+      "Health": {
+        "weight": 1,
+        "hashtags": [
+          "#OmanHealth"
+        ],
+        "keywords": [
+          "health",
+          "healthcare",
+          "medical",
+          "medtech",
+          "heart",
+          "pharma",
+          "derm",
+          "medical tourism"
+        ],
+        "core": [
+          "healthcare",
+          "medtech",
+          "medical"
+        ]
+      },
+      "Lifestyle & Culture": {
+        "weight": 0,
+        "hashtags": [
+          "#VisitOman",
+          "#Muscat"
+        ],
+        "keywords": [
+          "concert",
+          "comedy",
+          "festival",
+          "nights",
+          "art",
+          "book fair",
+          "perfume",
+          "beauty",
+          "drift",
+          "rally",
+          "play",
+          "live in",
+          "singer",
+          "musical",
+          "fiesta",
+          "celebration",
+          "meditation",
+          "tour",
+          "jewelry",
+          "jewellery",
+          "furnishing",
+          "interior design",
+          "spacetoon",
+          "comedy show",
+          "live show"
+        ],
+        "core": []
+      }
+    }
+  }
+}

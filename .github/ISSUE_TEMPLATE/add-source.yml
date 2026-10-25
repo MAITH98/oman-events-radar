@@ -1,0 +1,26 @@
+name: Add a source
+description: Suggest a calendar, feed or website that lists many events.
+title: "[Source] "
+labels: ["source-request"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of source is it?
+      options:
+        - iCal / .ics calendar
+        - WordPress "The Events Calendar" site
+        - Page with schema.org Event data
+        - RSS / news feed
+        - Not sure
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

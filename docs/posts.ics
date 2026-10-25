@@ -1,0 +1,600 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oman Events Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oman Events – Post Plan
+X-WR-TIMEZONE:Asia/Muscat
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:12253e7a16fe-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🇴🇲 Occasion post: Omani Youth Day
+DESCRIPTION:Event: 26 Oct 2026 – 26 Oct 2026\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان #OmaniYouthDay
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📝 Content brief due: High Impact Marketing for Startups Worksho
+ p
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:📣 Announce: High Impact Marketing for Startups Workshop
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-design_lock@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎨 Design & copy lock: High Impact Marketing for Startups Worksh
+ op
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:⏰ Reminder: High Impact Marketing for Startups Workshop
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-live@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🔴 Live coverage: High Impact Marketing for Startups Workshop
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc-recap@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:📸 Recap: High Impact Marketing for Startups Workshop
+DESCRIPTION:Event: 28 Oct 2026 – 28 Oct 2026\nhttps://allevents.in/musca
+ t/high-impact-marketing-for-startups-workshop/100001988748544432\n\nHashta
+ gs: #Oman #OmanEvents #فعاليات_عمان #OmanStartups #Entrepreneur
+ ship #ريادة_الأعمال
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:📝 Content brief due: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:📣 Announce: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-design_lock@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🎨 Design & copy lock: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:⏰ Reminder: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-live@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🔴 Live coverage: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5-recap@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:📸 Recap: Project Oman
+DESCRIPTION:Event: 2 Nov 2026 – 4 Nov 2026\nhttps://project-oman.com/\n\
+ nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSus
+ tainability #ProjectOman
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:cee66478afdf-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🇴🇲 Occasion post: Oman National Day
+DESCRIPTION:Event: 20 Nov 2026 – 20 Nov 2026\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان #OmanNationalDay
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:📝 Content brief due: the 7th International HealthCare\, Medical
+  Tourism Exhibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:📣 Announce: the 7th International HealthCare\, Medical Tourism 
+ Exhibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-design_lock@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🎨 Design & copy lock: the 7th International HealthCare\, Medica
+ l Tourism Exhibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:⏰ Reminder: the 7th International HealthCare\, Medical Tourism E
+ xhibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-live@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🔴 Live coverage: the 7th International HealthCare\, Medical Tou
+ rism Exhibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a-recap@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:📸 Recap: the 7th International HealthCare\, Medical Tourism Exh
+ ibition & Conference ‘IMTEC Oman – 2026
+DESCRIPTION:Event: 23 Nov 2026 – 25 Nov 2026\nhttps://cas5-0-urlprotect.
+ trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&
+ amp\;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp\;rct=1775638277&amp\;au
+ th=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb05
+ 8f100eaafd\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanHe
+ alth
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:beee3f82e59d-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:📝 Content brief due: IORA Aquaculture & Fisheries Business Foru
+ m & Exhibition
+DESCRIPTION:Event: 1 Dec 2026 – 3 Dec 2026\nhttps://ioraoman.com/\n\nHas
+ htags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSustain
+ ability
+URL:https://ioraoman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:beee3f82e59d-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:📣 Announce: IORA Aquaculture & Fisheries Business Forum & Exhib
+ ition
+DESCRIPTION:Event: 1 Dec 2026 – 3 Dec 2026\nhttps://ioraoman.com/\n\nHas
+ htags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSustain
+ ability
+URL:https://ioraoman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:beee3f82e59d-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⏰ Reminder: IORA Aquaculture & Fisheries Business Forum & Exhibi
+ tion
+DESCRIPTION:Event: 1 Dec 2026 – 3 Dec 2026\nhttps://ioraoman.com/\n\nHas
+ htags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSustain
+ ability
+URL:https://ioraoman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:e43bd1e311df-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📝 Content brief due: 10th OMAN PLAST 2026
+DESCRIPTION:Event: 8 Dec 2026 – 10 Dec 2027\nhttps://www.omanplast.net\n
+ \nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSu
+ stainability #10thOMANPLAST
+URL:https://www.omanplast.net
+LOCATION:Oman Convention & Exhibition Centre\, Muscat\, Sultanate of Oman\
+ , Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:e43bd1e311df-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:📣 Announce: 10th OMAN PLAST 2026
+DESCRIPTION:Event: 8 Dec 2026 – 10 Dec 2027\nhttps://www.omanplast.net\n
+ \nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSu
+ stainability #10thOMANPLAST
+URL:https://www.omanplast.net
+LOCATION:Oman Convention & Exhibition Centre\, Muscat\, Sultanate of Oman\
+ , Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:e43bd1e311df-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:⏰ Reminder: 10th OMAN PLAST 2026
+DESCRIPTION:Event: 8 Dec 2026 – 10 Dec 2027\nhttps://www.omanplast.net\n
+ \nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSu
+ stainability #10thOMANPLAST
+URL:https://www.omanplast.net
+LOCATION:Oman Convention & Exhibition Centre\, Muscat\, Sultanate of Oman\
+ , Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:b65a00e29286-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📝 Content brief due: LOGISTEX
+DESCRIPTION:Event: 8 Dec 2026 – 9 Dec 2026\nhttps://logistex.global/\n\n
+ Hashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSust
+ ainability #LOGISTEX
+URL:https://logistex.global/
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:b65a00e29286-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:📣 Announce: LOGISTEX
+DESCRIPTION:Event: 8 Dec 2026 – 9 Dec 2026\nhttps://logistex.global/\n\n
+ Hashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSust
+ ainability #LOGISTEX
+URL:https://logistex.global/
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:b65a00e29286-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:⏰ Reminder: LOGISTEX
+DESCRIPTION:Event: 8 Dec 2026 – 9 Dec 2026\nhttps://logistex.global/\n\n
+ Hashtags: #Oman #OmanEvents #فعاليات_عمان #OmanEnergy #OmanSust
+ ainability #LOGISTEX
+URL:https://logistex.global/
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:f7421d0c8422-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:🇴🇲 Occasion post: Accession Day of His Majesty Sultan Haitha
+ m
+DESCRIPTION:Event: 11 Jan 2027 – 11 Jan 2027\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:📝 Content brief due: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:📣 Announce: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-design_lock@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:🎨 Design & copy lock: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:⏰ Reminder: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-live@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:🔴 Live coverage: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd-recap@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:📸 Recap: COMEX – Global Technology Show 2027
+DESCRIPTION:Event: 1 Feb 2027 – 4 Feb 2027\nhttps://www.comex-global.com
+ \n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #OmanTech #Digita
+ lOman #التحول_الرقمي #COMEXGlobalTechnologyShow
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:1107a2d64384-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:📝 Content brief due: Oman Petroleum & Energy Show
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omanpetroleuma
+ ndenergyshow.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #
+ OmanEnergy #OmanSustainability #OmanPetroleumEnergyShow
+URL:https://www.omanpetroleumandenergyshow.com
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:1107a2d64384-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:📣 Announce: Oman Petroleum & Energy Show
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omanpetroleuma
+ ndenergyshow.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #
+ OmanEnergy #OmanSustainability #OmanPetroleumEnergyShow
+URL:https://www.omanpetroleumandenergyshow.com
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:1107a2d64384-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:⏰ Reminder: Oman Petroleum & Energy Show
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omanpetroleuma
+ ndenergyshow.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #
+ OmanEnergy #OmanSustainability #OmanPetroleumEnergyShow
+URL:https://www.omanpetroleumandenergyshow.com
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:9a927e809981-brief@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:📝 Content brief due: Oman Sustainability Week
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omansustainabi
+ lityweek.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #Oman
+ Energy #OmanSustainability #OmanSustainabilityWeek
+URL:https://www.omansustainabilityweek.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:9a927e809981-announce@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:📣 Announce: Oman Sustainability Week
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omansustainabi
+ lityweek.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #Oman
+ Energy #OmanSustainability #OmanSustainabilityWeek
+URL:https://www.omansustainabilityweek.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:9a927e809981-reminder@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:⏰ Reminder: Oman Sustainability Week
+DESCRIPTION:Event: 26 Apr 2027 – 28 Apr 2027\nhttps://www.omansustainabi
+ lityweek.com\n\nHashtags: #Oman #OmanEvents #فعاليات_عمان #Oman
+ Energy #OmanSustainability #OmanSustainabilityWeek
+URL:https://www.omansustainabilityweek.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:f9cceb8b5d89-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:🇴🇲 Occasion post: Omani Women's Day
+DESCRIPTION:Event: 17 Oct 2027 – 17 Oct 2027\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان #OmaniWomenSDay
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:95b3ebc3a584-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:🇴🇲 Occasion post: Omani Youth Day
+DESCRIPTION:Event: 26 Oct 2027 – 26 Oct 2027\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان #OmaniYouthDay
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:cb27a78d838b-occasion@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:🇴🇲 Occasion post: Oman National Day
+DESCRIPTION:Event: 20 Nov 2027 – 20 Nov 2027\n\n\nHashtags: #Oman #OmanE
+ vents #فعاليات_عمان #OmanNationalDay
+LOCATION:Oman
+END:VEVENT
+END:VCALENDAR

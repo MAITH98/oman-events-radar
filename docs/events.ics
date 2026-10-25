@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oman Events Radar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oman Events Radar
+X-WR-TIMEZONE:Asia/Muscat
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:12253e7a16fe@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Omani Youth Day
+DESCRIPTION:\n\nRelevance: High · National occasion · confidence 70\nSou
+ rces: occasions
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b93930fdc@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:High Impact Marketing for Startups Workshop
+DESCRIPTION:How Can Startups Build Strong Brands from Day One?\n\nRelevanc
+ e: High · Startups & SMEs · confidence 75\nSources: allevents-muscat\, e
+ ventbrite-muscat
+URL:https://allevents.in/muscat/high-impact-marketing-for-startups-worksho
+ p/100001988748544432
+LOCATION:OmanTel HQ\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:108402730c44@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+SUMMARY:Muscat art
+DESCRIPTION:The Muscat Art exhibition stands as a yearly occasion that uni
+ tes local and international artists alongside galleries. At its core\, thi
+ s event is driven by a fundamental goal: to elevate cultural consciousness
+  and protect artistic legacies for the generations that follow\n\nRelevanc
+ e: Low · Lifestyle & Culture · confidence 70\nSources: venue:Oman Conven
+ tion & Exhibition Centre (OCEC)
+URL:https://ocec.om/event/muscat-art/
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c93010dfe7c5@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261105
+SUMMARY:Project Oman
+DESCRIPTION:Project Oman\, the 5th International Construction Technology a
+ nd Building Materials Exhibition\, will be held from 2–4 November 2026 a
+ t OCEC Muscat\, bringing together industry leaders to explore investment o
+ pportunities and innovative solutions. Supported by Vision 2040\, Oman’s
+  construction sector continues to grow\, driven by infrastructure developm
+ ent\, sustainability initiatives\, and advanced…\n\nRelevance: High · I
+ ndustry & Energy · confidence 100\nSources: site:project-oman.com\, team-
+ seed-2026\, venue:Oman Convention & Exhibition Centre (OCEC)
+URL:https://project-oman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:c5aaee8e3379@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:The Arabic Icon Ramy Sabry at Tamer Ashour at OCEC in Muscat
+DESCRIPTION:The Incredible Tamer Ashour takes the stage at Madinat Al Irfa
+ n Theatre\, Oman Convention & Exhibition Centre in Muscat on November 6 fo
+ r a special evening of live music. Known for his emotional performances\, 
+ heartfelt lyrics\, and distinctive voice\, Tamer Ashour has built a strong
+  connection with audiences across the region through songs that capture lo
+ ve\, memories\, and meaningful moments. As…\n\nRelevance: Low · General
+  · confidence 70\nSources: venue:Oman Convention & Exhibition Centre (OCE
+ C)
+URL:https://muscat.platinumlist.net/
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:a601be2063a4@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+SUMMARY:Beauty Elements Exhibition (BEE)
+DESCRIPTION:BEE 2026 is the first edition of the Beauty Element Exhibition
+ \, hosted at the prestigious OCEC\, gathering international beauty brands\
+ , distributors\, and investors under one roof.\n\nRelevance: Low · Lifest
+ yle & Culture · confidence 70\nSources: venue:Oman Convention & Exhibitio
+ n Centre (OCEC)
+URL:https://www.bee-om.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:e660c49222a8@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:18th Gulf Heart Association Conference
+DESCRIPTION:The Gulf Heart Association Conference continues to stand as a 
+ leading regional scientific platform dedicated to advancing cardiovascular
+  medicine\, research\, and clinical practice. The 18th edition brings toge
+ ther eminent regional and international experts who will share the latest 
+ scientific evidence\, innovative approaches\, and best practices across th
+ e spectrum of cardiovascular care. The…\n\nRelevance: Low · Health · c
+ onfidence 100\nSources: allevents-muscat\, venue:Oman Convention & Exhibit
+ ion Centre (OCEC)
+URL:https://gha26.com/
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:900f59548a7e@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Elissa at OCEC in Muscat
+DESCRIPTION:Experience a voice synonymous with romance\, grace\, and unfor
+ gettable melodies OCEC Oman Convention & Exhibition Centre Get ready for a
+ n unforgettable evening with the Queen of Arabic Romantic Music\, Elissa\,
+  performing live in Muscat. On 13 November 2026\, music lovers in Oman wil
+ l experience a spectacular concert filled with emotion\, elegance\, and ti
+ meless hits. Known for her powerful voice and…\n\nRelevance: Low · Gene
+ ral · confidence 75\nSources: venue:Oman Convention & Exhibition Centre (
+ OCEC)
+URL:https://muscat.platinumlist.net/event-tickets/105427/elissa-at-ocec-in
+ -oman
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:cee66478afdf@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Oman National Day
+DESCRIPTION:Islamic holidays follow the Hijri calendar and are added by ha
+ nd each year.\n\nRelevance: High · National occasion · confidence 70\nSo
+ urces: occasions
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d08cff36a@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261126
+SUMMARY:the 7th International HealthCare\, Medical Tourism Exhibition & Co
+ nference ‘IMTEC Oman – 2026
+DESCRIPTION:Oman healthcare and medical market is showing signs of rapid d
+ evelopment with the massive infrastructure development being implemented a
+ nd facilities enhanced to meet the sector’s growing demands. Under the G
+ overnment’s Health Vision 2040\, and aimed at addressing the challenges 
+ as well as discussing initiatives to improve the sector\, will also provid
+ e participants with an excellent opportunity…\n\nRelevance: High · Heal
+ th · confidence 70\nSources: venue:Oman Convention & Exhibition Centre (O
+ CEC)
+URL:https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=ht
+ tps%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a1
+ 9&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c06
+ 31b8e67a10a7359479dbad2eb058f100eaafd
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:ca45f4b160e2@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:The Comedy Play ‘Master of Fine Taste’
+DESCRIPTION:A social comedy delivered in a fun\, lighthearted spirit! The 
+ play follows a married couple navigating the most beautiful and unusual wa
+ it for their upcoming newborn. Amidst emotional rollercoasters\, classic m
+ isunderstandings\, and hilarious situations\, they try their best to make 
+ it through this period smoothly until their little guest arrives-the child
+  they dream will one day become the “Master…\n\nRelevance: Low · Life
+ style & Culture · confidence 70\nSources: venue:Oman Convention & Exhibit
+ ion Centre (OCEC)
+URL:https://www.eventat.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:beee3f82e59d@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:IORA Aquaculture & Fisheries Business Forum & Exhibition
+DESCRIPTION:The IORA Fisheries and Aquaculture Exhibition aims to foster s
+ ustainable growth\, promote innovation\, and build international collabora
+ tion within the industry. It serves as a dynamic platform for discussing k
+ ey issues\, showcasing cutting-edge technologies\, and connecting stakehol
+ ders including government officials\, buyers\, traders\, and technology pr
+ oviders. Facebook | Instagram | Twitter |…\n\nRelevance: Medium · Indus
+ try & Energy · confidence 75\nSources: venue:Oman Convention & Exhibition
+  Centre (OCEC)
+URL:https://ioraoman.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:004b9276829a@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:Oman Agrofood
+DESCRIPTION:Oman AgroFood\, the 8th International Trade Exhibition for Agr
+ iculture\, Food and Fisheries\, taking place 1–3 December 2026 at the Om
+ an Convention & Exhibition Centre\, Muscat. The event will bring together 
+ government decision-makers\, international stakeholders\, regional buyers\
+ , traders\, and technology providers\, creating a strategic platform for c
+ ollaboration\, knowledge exchange\, and investment.…\n\nRelevance: Low 
+ · Industry & Energy · confidence 100\nSources: team-seed-2026\, venue:Om
+ an Convention & Exhibition Centre (OCEC)
+URL:https://omanagrofood.com/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:0b04b5f013eb@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261208
+SUMMARY:The 15th Muscat International Jewelry Exhibition – MIJEX
+DESCRIPTION:Friday: 4:00 PM – 10:00 PM Other Days: 2:00 PM – 10:00 PM 
+ Embark on a one-of-a-kind journey into the world of jewelry at the 15th ed
+ ition of the Muscat International Jewelry Exhibition. From 3–7 December 
+ 2026 \, experience a prestigious event that celebrates luxury and showcase
+ s the perfect blend of exquisite craftsmanship and innovation. At the hear
+ t of the Sultanate of Oman\, a dazzling…\n\nRelevance: Low · Lifestyle 
+ & Culture · confidence 70\nSources: venue:Oman Convention & Exhibition Ce
+ ntre (OCEC)
+URL:https://ocec.om/event/9870/
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:56fb57cd5786@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Golden Voice of Spacetoon – Rasha Rizk Live in Musca
+DESCRIPTION:Muscat\, get ready to travel back to the golden era of your ch
+ ildhood! Join us for an extraordinary night of nostalgia and magic featuri
+ ng the legendary Golden Voice of Spacetoon—Rasha Rizk! Prepare to sing y
+ our heart out to the timeless anthems that define a generation and shape o
+ ur fondest childhood memories. From epic heroic themes to heartwarming mel
+ odies\, this isn’t just a concert—it’s a…\n\nRelevance: Low · Lif
+ estyle & Culture · confidence 70\nSources: venue:Oman Convention & Exhibi
+ tion Centre (OCEC)
+URL:https://ocec.om/event/the-golden-voice-of-spacetoon-rasha-rizk-live-in
+ -musca/
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:e43bd1e311df@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20271211
+SUMMARY:10th OMAN PLAST 2026
+DESCRIPTION:10th INTERNATIONAL PLASTICS\, RUBBER\, PETROCHEMICALS\, CHEMIC
+ ALS\, FERTILIZERS\, PLASTICS RECYCLING\, PRINTING AND PACKAGING INDUSTRY E
+ XHIBITION 2026 10th OMAN PLAST 2026 is a three days event that plays an im
+ portant role in developing the economy of the region. It will showcase the
+  latest technologies and machineries necessary for the manufacturing of pl
+ astic and petrochemicals. This show will bring…\n\nRelevance: Medium · 
+ Industry & Energy · confidence 100\nSources: eventbrite-muscat\, venue:Om
+ an Convention & Exhibition Centre (OCEC)
+URL:https://www.omanplast.net
+LOCATION:Oman Convention & Exhibition Centre\, Muscat\, Sultanate of Oman\
+ , Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:b65a00e29286@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+SUMMARY:LOGISTEX
+DESCRIPTION:As Oman strengthens its position as a leading global logistics
+  hub\, Logistex 2026 brings together industry leaders\, technology innovat
+ ors\, and key stakeholders shaping the future of trade and supply chains.T
+ aking place on 8–9 December 2026\, the exhibition showcases the latest a
+ dvancements in logistics\, warehousing\, transportation\, maritime service
+ s\, air cargo\, and cross-border trade. The event…\n\nRelevance: Medium 
+ · Industry & Energy · confidence 100\nSources: allevents-muscat\, organi
+ ser:Arabian Research Bureau / OITE#2\, venue:Oman Convention & Exhibition 
+ Centre (OCEC)
+URL:https://logistex.global/
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:f7421d0c8422@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Accession Day of His Majesty Sultan Haitham
+DESCRIPTION:\n\nRelevance: High · National occasion · confidence 70\nSou
+ rces: occasions
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:8829a7e5efcc@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+SUMMARY:Interior Design Furnishing Expo 2027
+DESCRIPTION:IDFOman is a design and decor exhibition happening alongside r
+ elated dedicated events: Kitchen & Bathroom Show\, Tile & Stone Show\, Lig
+ ht Oman Show and Smart Living & Workspaces Expo\, covering the spectrum of
+  products and services required for the design\, fit out and upgrade of re
+ sidential\, hospitality\, office and retail spaces Registration Link Faceb
+ ook | X | LinkedIn | Instagram\n\nRelevance: Low · Lifestyle & Culture ·
+  confidence 70\nSources: venue:Oman Convention & Exhibition Centre (OCEC)
+URL:https://idfoman.com/
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb8c0cc9023@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270127
+SUMMARY:Oman Perfume Show
+DESCRIPTION:An experience that raises the standards. The Seventh Edition o
+ f the Oman Perfume Show brings together international brands\, offers a br
+ oader space for discovery\, and gives visitors the opportunity to explore 
+ distinctive fragrances and acquire scents that reflect their personal tast
+ e within an event that renews its excellence year after year.\n\nRelevance
+ : Low · Lifestyle & Culture · confidence 75\nSources: venue:Oman Convent
+ ion & Exhibition Centre (OCEC)
+URL:https://ocec.om/event/oman-perfume-show/
+LOCATION:OCEC\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:769993e81dcd@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270205
+SUMMARY:COMEX – Global Technology Show 2027
+DESCRIPTION:COMEX Global Technology Show 2027 marks the 35th edition of Om
+ an’s flagship technology exhibition\, celebrating more than three decade
+ s of innovation\, progress\, and digital transformation. The exhibition br
+ ings together leading local and international companies\, government entit
+ ies\, startups\, and technology experts to showcase the latest advancement
+ s across sectors including artificial…\n\nRelevance: High · Tech & AI 
+ · confidence 100\nSources: allevents-muscat\, organiser:Arabian Research 
+ Bureau / OITE\, venue:Oman Convention & Exhibition Centre (OCEC)
+URL:https://www.comex-global.com
+LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:1107a2d64384@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+SUMMARY:Oman Petroleum & Energy Show
+DESCRIPTION:Oman Petroleum & Energy Show (OPES) is Oman’s leading platfo
+ rm for the oil\, gas and energy industry\, bringing together the people\, 
+ technologies and solutions driving the sector forward. Held under the patr
+ onage of the Ministry of Energy and Minerals (MoEM)\, OPES connects energy
+  companies\, government leaders\, decision-makers\, technology providers a
+ nd industry professionals to build partnerships\,…\n\nRelevance: Medium 
+ · Industry & Energy · confidence 100\nSources: allevents-muscat\, venue:
+ Oman Convention & Exhibition Centre (OCEC)
+URL:https://www.omanpetroleumandenergyshow.com
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:9a927e809981@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+SUMMARY:Oman Sustainability Week
+DESCRIPTION:Oman Sustainability Week highlights the Sultanate’s leadersh
+ ip in climate action and sustainable development. Aligned with Oman Vision
+  2040\, the UN Sustainable Development Goals\, and the Net Zero 2050 pledg
+ e\, it serves as a catalyst for transformative change. Through a week-long
+  series of strategic events\, exhibitions\, and thought leadership forums\
+ , OSW brings together national and global…\n\nRelevance: Medium · Indus
+ try & Energy · confidence 100\nSources: organiser:CONNECT (Sabco Group)#3
+ \, venue:Oman Convention & Exhibition Centre (OCEC)
+URL:https://www.omansustainabilityweek.com
+LOCATION:Muscat
+END:VEVENT
+BEGIN:VEVENT
+UID:f9cceb8b5d89@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Omani Women's Day
+DESCRIPTION:\n\nRelevance: High · National occasion · confidence 70\nSou
+ rces: occasions
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:95b3ebc3a584@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:Omani Youth Day
+DESCRIPTION:\n\nRelevance: High · National occasion · confidence 70\nSou
+ rces: occasions
+LOCATION:Oman
+END:VEVENT
+BEGIN:VEVENT
+UID:cb27a78d838b@oman-events-radar
+DTSTAMP:20261025T063200Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:Oman National Day
+DESCRIPTION:Islamic holidays follow the Hijri calendar and are added by ha
+ nd each year.\n\nRelevance: High · National occasion · confidence 70\nSo
+ urces: occasions
+LOCATION:Oman
+END:VEVENT
+END:VCALENDAR

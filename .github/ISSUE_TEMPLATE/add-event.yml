@@ -1,0 +1,37 @@
+name: Add an event
+description: Suggest an event in Oman (or a GCC event relevant to Omani businesses).
+title: "[Event] "
+labels: ["event-submission"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Official event link
+      description: The organiser's page or ticket page. Pages with schema.org event data are read automatically.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Event name
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      placeholder: 12 Jan 2027 – 14 Jan 2027
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and city
+  - type: input
+    id: organizer
+    attributes:
+      label: Organiser
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This information is public. I have not included personal phone numbers or emails.
+          required: true

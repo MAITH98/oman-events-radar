@@ -1,0 +1,40 @@
+name: Daily fetch
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 07:00 Muscat time, every day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["sources.json", "community/**", "data/seed_*.csv", "radar/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Fetch events
+        env:
+          RADAR_WEBHOOK_URL: ${{ secrets.RADAR_WEBHOOK_URL }}
+          RADAR_WEBHOOK_SECRET: ${{ secrets.RADAR_WEBHOOK_SECRET }}
+        run: python -m radar
+      - name: Commit updated calendar
+        run: |
+          git config user.name "events-radar-bot"
+          git config user.email "events-radar-bot@users.noreply.github.com"
+          git add docs/events.json docs/events.csv docs/events.ics docs/posts.ics data/state.json
+          git diff --cached --quiet || git commit -m "Daily update $(date -u +%F)"
+          git push
