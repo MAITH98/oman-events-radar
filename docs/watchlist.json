@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T06:32:00+00:00",
+ "generated_at": "2026-10-25T06:38:26+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -25,8 +25,8 @@
   {
    "entity": "eventbrite-muscat",
    "type": "source",
-   "events": 3,
-   "status": "ok",
+   "events": 0,
+   "status": "HTTPError: HTTP Error 405: Not Allowed",
    "page_changed": ""
   },
   {
@@ -46,8 +46,8 @@
   {
    "entity": "venue:Oman Convention & Exhibition Centre (OCEC)",
    "type": "source",
-   "events": 19,
-   "status": "ok",
+   "events": 0,
+   "status": "TimeoutError: The read operation timed out",
    "page_changed": ""
   },
   {
@@ -123,8 +123,8 @@
   {
    "entity": "site:project-oman.com",
    "type": "source",
-   "events": 0,
-   "status": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "events": 1,
+   "status": "ok",
    "page_changed": ""
   },
   {

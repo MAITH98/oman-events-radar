@@ -3628,7 +3628,7 @@
    "last_ok": "2026-10-25"
   },
   "eventbrite-muscat": {
-   "failures": 0,
+   "failures": 1,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3643,12 +3643,12 @@
    "last_ok": "2026-10-25"
   },
   "venue:Oman Convention & Exhibition Centre (OCEC)": {
-   "failures": 0,
+   "failures": 1,
    "last_count": 19,
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 1,
+   "failures": 2,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3698,7 +3698,7 @@
    "last_ok": "2026-10-25"
   },
   "site:project-oman.com": {
-   "failures": 1,
+   "failures": 0,
    "last_count": 1,
    "last_ok": "2026-10-25"
   }
