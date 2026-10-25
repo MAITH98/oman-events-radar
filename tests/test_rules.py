@@ -255,3 +255,31 @@ class News(unittest.TestCase):
         self.assertEqual((evs[0].title, evs[0].start, evs[0].tier), ("3rd Oman Fintech Summit 2026", D(2026, 11, 18), "D"))
         news.collect(f, cfg, state, D(2026, 10, 25))
         self.assertEqual(f.calls.count("https://n.example/a"), 1)  # second run used the cache
+
+
+class NewsDates(unittest.TestCase):
+    from radar import news  # noqa: E402
+
+    def pick(self, text, pub, lang="en", title=""):
+        return self.news.pick_dates(text, pub, D(2026, 10, 25), lang=lang, title=title)
+
+    def test_cross_month_range_without_year(self):
+        self.assertEqual(self.pick("30th Muscat International Book Fair set for March 24-April 3", D(2026, 10, 25)),
+                         (D(2027, 3, 24), D(2027, 4, 3)))
+
+    def test_range_without_year_this_year(self):
+        self.assertEqual(self.pick("The forum runs on November 18-19 at OCEC", D(2026, 10, 25)), (D(2026, 11, 18), D(2026, 11, 19)))
+        self.assertEqual(self.pick("يقام المعرض من 12 إلى 14 ديسمبر", D(2026, 10, 25), "ar"), (D(2026, 12, 12), D(2026, 12, 14)))
+
+    def test_weekday_in_headline(self):
+        # 24 Oct 2026 is a Saturday; "on Monday" → 26 Oct
+        self.assertEqual(self.pick("", D(2026, 10, 24), title="Media Excellence Competition Awards 2026 on Monday"), (D(2026, 10, 26), None))
+        self.assertEqual(self.pick("", D(2026, 10, 24), "ar", title='27 ورقة عمل في ندوة "جنوب الباطنة في ذاكرة التاريخ العُماني".. الاثنين'),
+                         (D(2026, 10, 26), None))
+
+    def test_no_date_stays_none(self):
+        self.assertEqual(self.pick("SalamAir launches flights to Erbil", D(2026, 10, 25), title="SalamAir launches flights"), (None, None))
+
+    def test_excluded_headlines(self):
+        cfg = json.load(open(os.path.join(os.path.dirname(__file__), "..", "sources.json"), encoding="utf-8"))["news"]
+        self.assertTrue(self.news._matches("SalamAir launches flights to Erbil", cfg["exclude_title_en"], cfg["exclude_title_ar"]))

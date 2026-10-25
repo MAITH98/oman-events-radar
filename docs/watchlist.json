@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:11:14+00:00",
+ "generated_at": "2026-10-25T12:29:06+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -25,21 +25,7 @@
   {
    "entity": "eventbrite-muscat",
    "type": "source",
-   "events": 0,
-   "status": "HTTPError: HTTP Error 405: Not Allowed",
-   "page_changed": ""
-  },
-  {
-   "entity": "news-en",
-   "type": "source",
-   "events": 0,
-   "status": "ok",
-   "page_changed": ""
-  },
-  {
-   "entity": "news-ar",
-   "type": "source",
-   "events": 0,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
@@ -124,6 +110,48 @@
    "entity": "site:project-oman.com",
    "type": "source",
    "events": 1,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:timesofoman",
+   "type": "source",
+   "events": 2,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:observer-local",
+   "type": "source",
+   "events": 9,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:observer-business",
+   "type": "source",
+   "events": 2,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:observer-lifestyle",
+   "type": "source",
+   "events": 9,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:alroya",
+   "type": "source",
+   "events": 17,
+   "status": "ok",
+   "page_changed": ""
+  },
+  {
+   "entity": "news:omandaily",
+   "type": "source",
+   "events": 6,
    "status": "ok",
    "page_changed": ""
   },

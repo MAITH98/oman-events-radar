@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-25",
- "sequence": 106,
+ "sequence": 117,
  "records": {
   "82d140e09802": {
    "schema_version": "1.0",
@@ -1520,6 +1520,173 @@
    "series": "last updated on",
    "fingerprint": "ba3023792e2264623e942250b0a20e6e11b23ca1"
   },
+  "f97b32b694fc": {
+   "schema_version": "1.0",
+   "id": "f97b32b694fc",
+   "version": 1,
+   "kind": "event",
+   "title": "Media Excellence Competition Awards 2026",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198442/oman/community/media-excellence-competition-awards-2026-on-monday",
+   "description": "The Ministry of Information will organize on Monday the Media Excellence Competition 2026 awards ceremony at the Ministry's theatre to honor the...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#MediaExcellenceCompetitionAwards"
+   ],
+   "series": "media excellence competition awards",
+   "fingerprint": "503c7afbe2d784b2715af4c627afe762c70f58d5"
+  },
+  "d5a5d35f92fa": {
+   "schema_version": "1.0",
+   "id": "d5a5d35f92fa",
+   "version": 2,
+   "kind": "event",
+   "title": "SalamAir launches lights to Erbil, Damascus",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198226/oman/tourism/salamair-launches-lights-to-erbil-damascus",
+   "description": "SalamAir, Oman’s low-cost airline, held a joint ceremony at Muscat International Airport to celebrate its services to Erbil and Damascus,...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Removed",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "removed_on": "2026-10-25",
+   "series": "salamair launches lights to erbil damascus",
+   "fingerprint": null
+  },
+  "0be73a2c7107": {
+   "schema_version": "1.0",
+   "id": "0be73a2c7107",
+   "version": 1,
+   "kind": "event",
+   "title": "الملتقى الأدبي والفني",
+   "start": "2026-10-25",
+   "end": "2026-10-29",
+   "previous_start": "",
+   "venue": "Sohar",
+   "city": "Muscat",
+   "region": "Oman",
+   "organizer": "وزارة الثقافة والرياضة والشباب خلال الفترة من 25 إلى 29 أكتو",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://alroya.om/post/396739/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%8A-%D9%81%D9%8A-%D8%B5%D8%AD%D8%A7%D8%B1",
+   "description": "مسقط- الرؤية تنطلق، مساء اليوم الأحد، فعاليات الملتقى الأدبي والفني في نسخته الثامنة والعشرين لعام 2026، الذي تنظمه وزارة الثقافة والرياضة والشباب خلال الفترة من 25 إلى 29 أكتوبر الجاري ف",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 35,
+   "status": "Lead – verify",
+   "sources": [
+    "news:alroya"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "الملتقى الأدبي والفني",
+   "fingerprint": "f4b5f32c13af91408527807c12d47506a14b0350"
+  },
+  "ef7820e3ef74": {
+   "schema_version": "1.0",
+   "id": "ef7820e3ef74",
+   "version": 1,
+   "kind": "event",
+   "title": "27 ورقة عمل في ندوة \"جنوب الباطنة في ذاكرة التاريخ العُماني\".. الاثنين",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://alroya.om/post/396763/27-%D9%88%D8%B1%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%86%D8%AF%D9%88%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%81%D9%8A-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
+   "description": "الرستاق- الرؤية تنطلق غدًا الإثنين بولاية الرستاق، أعمال ندوة \"محافظة جنوب الباطنة في ذاكرة التاريخ العُماني\"، والتي تُنظِّمها هيئة الوثائق والمحفوظات الوطنية، بالتنسيق مع محافظة جنوب الب",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:alroya"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#27"
+   ],
+   "series": "27 ورقة عمل في ندوة جنوب الباطنة في ذاكرة التاريخ الع ماني الاثنين",
+   "fingerprint": "d2715155f54d83664a4aa9b3daaff9cd4813d3fe"
+  },
   "12253e7a16fe": {
    "schema_version": "1.0",
    "id": "12253e7a16fe",
@@ -1561,6 +1728,47 @@
    ],
    "series": "omani youth day",
    "fingerprint": "245942c3c5970a91ca4535ed51c0f34250684ffa"
+  },
+  "9a02131e351d": {
+   "schema_version": "1.0",
+   "id": "9a02131e351d",
+   "version": 1,
+   "kind": "event",
+   "title": "منتدى مسقط للمرونة البحرية",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Oman",
+   "organizer": "مجموعة أسياد بالشراكةِ بين وزارة الخارجية ووزارة النقل والات",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://alroya.om/post/396794/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
+   "description": "مسقط- العُمانية تبدأ أعمال منتدى مسقط للمرونةِ البحرية 2026 يوم الثلاثاء المقبل وتنظمها مجموعة أسياد بالشراكةِ بين وزارة الخارجية ووزارة النقل والاتصالات وتقنية المعلومات وجهاز الاستثمار العُماني،",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "news:alroya"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "منتدى مسقط للمرونة البحرية",
+   "fingerprint": "8d50ba64cb1166ee16e7d70540e3d8348eb9d549"
   },
   "d8c34e96fa95": {
    "schema_version": "1.0",
@@ -1830,6 +2038,47 @@
    "series": "omán safari potápění a jedeme spolu s andy a vláďou",
    "fingerprint": "9d5dfd8f4063c3e41781856103283f8168852473"
   },
+  "123aac8cf6c9": {
+   "schema_version": "1.0",
+   "id": "123aac8cf6c9",
+   "version": 1,
+   "kind": "event",
+   "title": "معرض زراعي متنوع احتفالًا بيوم الزراعة في",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "معرض زراعي متنوع يعكس حجم التعاون والتكامل بين مختلف الجهات",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omandaily.om/article/1213414",
+   "description": "\"العُمانية\": تنظم المديرية العامة للثروة الزراعية وموارد المياه بمحافظة الظاهرة، يوم الأربعاء المقبل احتفالية بمناسبة يوم الزراعة الذي يصادف الـ 31 من أكتوبر من كل عام، وذلك بقاعة المهلب بن أبي صفرة...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "news:omandaily"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "معرض زراعي متنوع احتفال ا بيوم الزراعة في",
+   "fingerprint": "0f721bb9f772f6ea95686af2940136ae0ddc949b"
+  },
   "c93010dfe7c5": {
    "schema_version": "1.0",
    "id": "c93010dfe7c5",
@@ -1883,6 +2132,47 @@
    ],
    "series": "project",
    "fingerprint": "b620ade123944cf53ff5ca1131f7434446686382"
+  },
+  "a132a07a96d8": {
+   "schema_version": "1.0",
+   "id": "a132a07a96d8",
+   "version": 1,
+   "kind": "event",
+   "title": "\"لولو\" تُطلق الموسم الثاني من \"عالم المأكولات\"",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://alroya.om/post/396746/%D9%84%D9%88%D9%84%D9%88-%D8%AA-%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%A3%D9%83%D9%88%D9%84%D8%A7%D8%AA",
+   "description": "مسقط- الرؤية أطلقت سلسلة متاجر لولو هايبر ماركت الموسم الثاني من \"عالم المأكولات ٢٠٢٦\"، احتفالاً بالمأكولات والنكهات العالمية، وذلك خلال الفترة من ٢١ أكتوبر إلى ٣ نوفمبر ٢٠٢٦، في معرض شام",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:alroya"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "لولو ت طلق الموسم الثاني من عالم المأكولات",
+   "fingerprint": "1e73631494e218f6c32ccbf79eaefa50c2951dab"
   },
   "c29f4da730e9": {
    "schema_version": "1.0",
@@ -2141,6 +2431,47 @@
    ],
    "series": "elissa ocec",
    "fingerprint": "ae46353ef346bc106b6a5fd4dd617c7594102751"
+  },
+  "f38a8bfef2f0": {
+   "schema_version": "1.0",
+   "id": "f38a8bfef2f0",
+   "version": 1,
+   "kind": "event",
+   "title": "Unseen Van Gogh painting exhibited in Hong Kong",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1197991/features/arts/unseen-van-gogh-painting-exhibited-in-hong-kong",
+   "description": "Hundreds of people queued last week outside a Hong Kong gallery to see a Vincent van Gogh painting on public display for the first time in six...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-lifestyle"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "unseen van gogh painting exhibited hong kong",
+   "fingerprint": "7b81748084ccaa31fc60f6bc7a12e5f477508482"
   },
   "cee66478afdf": {
    "schema_version": "1.0",
@@ -2995,6 +3326,50 @@
    "series": "on sustainable engineering digital innovation icsedi 26",
    "fingerprint": "34ddbf6701c49fc469cd49504b746d2927fbd3fe"
   },
+  "29cf89ab1693": {
+   "schema_version": "1.0",
+   "id": "29cf89ab1693",
+   "version": 1,
+   "kind": "event",
+   "title": "Muscat International Book Fair",
+   "start": "2027-04-03",
+   "end": "2027-04-03",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Oman",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198211/oman/30th-muscat-international-book-fair-set-for-march-24-april-3",
+   "description": "The Main Committee of the Muscat International Book Fair held a preparatory meeting to discuss arrangements for the 30th edition of the fair, which is...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "Lifestyle & Culture",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#VisitOman",
+    "#Muscat",
+    "#MuscatInternationalBookFair"
+   ],
+   "series": "book fair",
+   "fingerprint": "b2a25001a16c6b6ff1c5b790bb8f58aff89b5739"
+  },
   "1951d05b5cc4": {
    "schema_version": "1.0",
    "id": "1951d05b5cc4",
@@ -3528,6 +3903,47 @@
    "series": "digital first strategy a fast changing landscape",
    "fingerprint": "fdfd6c55629e3a2fee6d36d717105f1f08310c43"
   },
+  "71a0aa4dc005": {
+   "schema_version": "1.0",
+   "id": "71a0aa4dc005",
+   "version": 1,
+   "kind": "event",
+   "title": "Exhibition reflects on humanity’s relationship with nature",
+   "start": "2027-10-03",
+   "end": "2027-10-03",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature",
+   "description": "A missing artwork became an unexpected reminder of the fragility of the natural world at the opening of Flora & Fauna, Matti Sirvio Art Gallery’s...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-lifestyle"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "reflects on humanity s relationship with nature",
+   "fingerprint": "1ae08326f74ce30387ab375de8c49a1ede17528e"
+  },
   "f9cceb8b5d89": {
    "schema_version": "1.0",
    "id": "f9cceb8b5d89",
@@ -3672,7 +4088,7 @@
    "last_ok": "2026-10-25"
   },
   "eventbrite-muscat": {
-   "failures": 3,
+   "failures": 0,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3692,7 +4108,7 @@
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 4,
+   "failures": 6,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },

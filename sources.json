@@ -555,7 +555,7 @@
     }
   },
   "news": {
-    "max_new_articles_per_run": 40,
+    "max_new_articles_per_run": 60,
     "keep_days": 45,
     "feeds": [
       {
@@ -612,14 +612,15 @@
       "meetup",
       "pitch",
       "startup weekend",
-      "fair",
-      "show",
       "convention",
       "roundtable",
       "seminar",
-      "launches",
-      "registration",
-      "edition"
+      "book fair",
+      "trade fair",
+      "career fair",
+      "air show",
+      "roadshow",
+      "job fair"
     ],
     "keywords_ar": [
       "مؤتمر",
@@ -633,14 +634,7 @@
       "جائزة",
       "ندوة",
       "ورشة",
-      "فعالية",
-      "فعاليات",
-      "حلقة عمل",
-      "انطلاق",
-      "تنطلق",
-      "يفتتح",
-      "افتتاح",
-      "النسخة"
+      "حلقة عمل"
     ],
     "venue_aliases": {
       "Oman Convention & Exhibition Centre": [
@@ -722,6 +716,32 @@
         "Nizwa",
         "نزوى"
       ]
-    }
+    },
+    "exclude_title_en": [
+      "flight",
+      "flights",
+      "airline",
+      "match",
+      "league",
+      "cup",
+      "football",
+      "cricket",
+      "tennis",
+      "weather",
+      "sale",
+      "offers",
+      "discount",
+      "promotion"
+    ],
+    "exclude_title_ar": [
+      "رحلات",
+      "مباراة",
+      "الدوري",
+      "كأس",
+      "طقس",
+      "تخفيضات",
+      "عروض",
+      "مسابقة رياضية"
+    ]
   }
 }
