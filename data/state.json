@@ -1,15 +1,17 @@
 {
  "updated": "2026-10-26",
- "sequence": 123,
+ "sequence": 208,
  "records": {
   "82d140e09802": {
    "schema_version": "1.0",
    "id": "82d140e09802",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Muscat Nights 2026",
    "start": "2026-01-01",
    "end": "2026-01-31",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Muscat (multiple venues)",
    "city": "",
@@ -44,16 +46,18 @@
     "#MuscatNights"
    ],
    "series": "nights",
-   "fingerprint": "b738c1f7bb1f2ca4005bae6058dfff5797052a68"
+   "fingerprint": "220de64e53374743138162f5dd8715344ffad8fd"
   },
   "04bd416c989c": {
    "schema_version": "1.0",
    "id": "04bd416c989c",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman International Drift Championship (Rounds)",
    "start": "2026-01-22",
    "end": "2026-01-24",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Automobile Association, Muscat, Oman",
    "city": "",
@@ -87,16 +91,18 @@
     "#Muscat"
    ],
    "series": "drift championship rounds",
-   "fingerprint": "8965b5423ab4cc036106c3b086a57c17d4844304"
+   "fingerprint": "ea0015a87df231f3ff3f7f836c58940ac18d9cff"
   },
   "724170b2243c": {
    "schema_version": "1.0",
    "id": "724170b2243c",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Perfume Show 2026",
    "start": "2026-01-22",
    "end": "2026-01-28",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -131,16 +137,18 @@
     "#OmanPerfumeShow"
    ],
    "series": "perfume show",
-   "fingerprint": "ffd384d17f34012f0d1424cd1769bb4a3907ed6e"
+   "fingerprint": "71440f5b06d29af10cdc541a29329205c430b570"
   },
   "758f69054164": {
    "schema_version": "1.0",
    "id": "758f69054164",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Interior Design Furnishing Expo 2026",
    "start": "2026-02-02",
    "end": "2026-02-04",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -175,16 +183,18 @@
     "#InteriorDesignFurnishingExpo"
    ],
    "series": "interior design furnishing",
-   "fingerprint": "8bdb8f1157e1cb86ac345a71bb41540d777b782b"
+   "fingerprint": "cc3f1528594ba57988f988870ba62c0798f5d549"
   },
   "d07d1c5addca": {
    "schema_version": "1.0",
    "id": "d07d1c5addca",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "OMNEX",
    "start": "2026-02-02",
    "end": "2026-02-04",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -217,16 +227,18 @@
     "#OMNEX"
    ],
    "series": "omnex",
-   "fingerprint": "d7b52f8ccbb8546d1d758916e9939e7f3705b3e7"
+   "fingerprint": "19ff1308f311e62e0d7155b2a9912be198bad788"
   },
   "4b26ef00cde4": {
    "schema_version": "1.0",
    "id": "4b26ef00cde4",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman LegalTech Summit 2026",
    "start": "2026-02-09",
    "end": "2026-02-10",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Sheraton Muscat Hotel, Muscat.",
    "city": "",
@@ -262,16 +274,18 @@
     "#OmanLegaltechSummit"
    ],
    "series": "legaltech",
-   "fingerprint": "6b707472006a5957f1388869fd71fb163faec535"
+   "fingerprint": "4c483301adafe0fe0e2495094eb1b53205e10ece"
   },
   "8956648c8313": {
    "schema_version": "1.0",
    "id": "8956648c8313",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "International Conference on Sustainable Engineering and Digital Innovation 2026 (ICSEDI'26)",
    "start": "2026-02-10",
    "end": "2026-02-12",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -306,16 +320,18 @@
     "#التحول_الرقمي"
    ],
    "series": "on sustainable engineering digital innovation icsedi 26",
-   "fingerprint": "34c33c835e0786598a8ab91c497a2894a99af4e9"
+   "fingerprint": "ee1c39ef36cc1b48f2541afafbe74c7446139487"
   },
   "bc1f0ebc8aa8": {
    "schema_version": "1.0",
    "id": "bc1f0ebc8aa8",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Twins Gathering 2026",
    "start": "2026-02-26",
    "end": "2026-02-28",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Automobile Association, Muscat, Oman",
    "city": "",
@@ -348,16 +364,18 @@
     "#OmanTwinsGathering"
    ],
    "series": "twins gathering",
-   "fingerprint": "9b69cc9f145d1ea4fefc04b50dae9284aee49d1c"
+   "fingerprint": "be2536c641d7d3d191ff293b19411d794c490109"
   },
   "831295488abb": {
    "schema_version": "1.0",
    "id": "831295488abb",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Muscat International Book Fair 2026",
    "start": "2026-03-26",
    "end": "2026-04-05",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Muscat (Book Fair center)",
    "city": "",
@@ -392,16 +410,18 @@
     "#MuscatInternationalBookFair"
    ],
    "series": "book fair",
-   "fingerprint": "ab7c01fdfdbe13f4ab971e13b0a8e2a7eef38597"
+   "fingerprint": "beab9e939598722596390f5a0e1e301e1dd11d5d"
   },
   "4bd5d6e45152": {
    "schema_version": "1.0",
    "id": "4bd5d6e45152",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "(OSHRM) – “The Multiplier”",
    "start": "2026-04-20",
    "end": "2026-04-22",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -436,16 +456,18 @@
     "#OSHRMTheMultiplier"
    ],
    "series": "oshrm multiplier",
-   "fingerprint": "2069acd8032fd7da81749f996cf03500dec32492"
+   "fingerprint": "8852cb2bfc2172c7682fabaa7f1279a26d607e65"
   },
   "ef4c4bccc3cb": {
    "schema_version": "1.0",
    "id": "ef4c4bccc3cb",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Elevating Credit Strategy in a Transforming Market",
    "start": "2026-04-22",
    "end": "2026-04-23",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Bahrain",
    "city": "",
@@ -479,16 +501,18 @@
     "#InvestOman"
    ],
    "series": "elevating credit strategy a transforming market",
-   "fingerprint": "b6019e7a01d664ce491eea1573f382fa51325ec7"
+   "fingerprint": "70956850bdb512b32da6a3c79bf1ee1a7e040bce"
   },
   "ff40d474d7b3": {
    "schema_version": "1.0",
    "id": "ff40d474d7b3",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Beauty Elements Exhibition (BEE)",
    "start": "2026-04-23",
    "end": "2026-04-25",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -523,16 +547,18 @@
     "#BeautyElementsExhibitionBEE"
    ],
    "series": "beauty elements bee",
-   "fingerprint": "0487857cc65c2c74a917c987c4f7c0d6715269cd"
+   "fingerprint": "f825a37d3feeade1540044b29a6205377bb5a755"
   },
   "d7280caf36d1": {
    "schema_version": "1.0",
    "id": "d7280caf36d1",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "LogistEX",
    "start": "2026-04-29",
    "end": "2026-04-30",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -567,16 +593,18 @@
     "#Logistex"
    ],
    "series": "logistex",
-   "fingerprint": "f4275ae2f625c806ecea0aebfbbfefb99028e805"
+   "fingerprint": "5b17fe0a198e4ec58e8f34828e875f3191251bf2"
   },
   "c839ec4867ba": {
    "schema_version": "1.0",
    "id": "c839ec4867ba",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Design & Build Week 2026",
    "start": "2026-05-11",
    "end": "2026-05-13",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -611,16 +639,18 @@
     "#OmanDesignBuildWeek"
    ],
    "series": "design build week",
-   "fingerprint": "234418ab017ac40386409ce0f90a127f732fe01d"
+   "fingerprint": "debdadf2beb2792fb2af2b79af677253f5838eb3"
   },
   "2d8ef1955e2b": {
    "schema_version": "1.0",
    "id": "2d8ef1955e2b",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Enterprise AI Expo 2026",
    "start": "2026-05-13",
    "end": "2026-05-14",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Sheraton, Muscat",
    "city": "",
@@ -656,16 +686,18 @@
     "#EnterpriseAIExpo"
    ],
    "series": "enterprise ai",
-   "fingerprint": "40883314b00e695f14ae078d615f3ed84a7c3463"
+   "fingerprint": "be69e012df3f0c6b83ecf520bd01ce62b95f23f2"
   },
   "581cd40dbeb2": {
    "schema_version": "1.0",
    "id": "581cd40dbeb2",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Petroleum & Energy Show",
    "start": "2026-05-18",
    "end": "2026-05-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -700,16 +732,18 @@
     "#OmanPetroleumEnergyShow"
    ],
    "series": "petroleum energy show",
-   "fingerprint": "f84b5e943e94ea11c7f0a090789738345090706c"
+   "fingerprint": "8108e0603837748001b2a7e6ef3dd8d2874ab61c"
   },
   "99af14b959fd": {
    "schema_version": "1.0",
    "id": "99af14b959fd",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Sustainability Week",
    "start": "2026-05-18",
    "end": "2026-05-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -744,16 +778,18 @@
     "#OmanSustainabilityWeek"
    ],
    "series": "sustainability week",
-   "fingerprint": "7b1aa99d58b4c99fbf191e8411ef892b6f5b4244"
+   "fingerprint": "627b3b8a1b95e5c282c6ae4f3e656199f11bd475"
   },
   "e4d62c78d50a": {
    "schema_version": "1.0",
    "id": "e4d62c78d50a",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Strategic Collections in Asia's Evolving Credit Landscape",
    "start": "2026-06-23",
    "end": "2026-06-24",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Berjaya Times Square Hotel KL, Malaysia",
    "city": "",
@@ -787,16 +823,18 @@
     "#InvestOman"
    ],
    "series": "strategic collections asia s evolving credit landscape",
-   "fingerprint": "cfa61681d95b9ef20d62f253e2dbf0a12a72b0b6"
+   "fingerprint": "817ddafacce168cf520cbcc7fe3db405dc25c5cd"
   },
   "b33311b60f4a": {
    "schema_version": "1.0",
    "id": "b33311b60f4a",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Digital-first Strategy In a Fast-changing Landscape",
    "start": "2026-08-19",
    "end": "2026-08-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "ITC Maratha, Mumbai",
    "city": "",
@@ -831,16 +869,18 @@
     "#التحول_الرقمي"
    ],
    "series": "digital first strategy a fast changing landscape",
-   "fingerprint": "4563fa1fc9e57f0980e02e48fc29fc2280752161"
+   "fingerprint": "da947d7ae582dfdf5dbf2861f25a4ea6eafb7e1b"
   },
   "1d73c136981d": {
    "schema_version": "1.0",
    "id": "1d73c136981d",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "COMEX",
    "start": "2026-09-06",
    "end": "2026-09-09",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -876,16 +916,18 @@
     "#COMEX"
    ],
    "series": "comex",
-   "fingerprint": "44cfce1f6ba27e7d3165c4ca6324de586cedda3e"
+   "fingerprint": "f2ccd086d7ba8b19a997be1a61d2accacd8665b3"
   },
   "e9a2654f6cb8": {
    "schema_version": "1.0",
    "id": "e9a2654f6cb8",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "HORECA Oman 2026",
    "start": "2026-09-14",
    "end": "2026-09-16",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -920,16 +962,18 @@
     "#HORECAOman"
    ],
    "series": "horeca",
-   "fingerprint": "7982692daad314bb1816078cc700cf02f81ba91f"
+   "fingerprint": "ebf2ab558ca611ec82cc30ac3ce6497d31c64764"
   },
   "15fe82341579": {
    "schema_version": "1.0",
    "id": "15fe82341579",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Climate Week 2026",
    "start": "2026-09-14",
    "end": "2026-09-16",
+   "start_time": "09:00",
+   "end_time": "18:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre",
    "city": "Muscat",
@@ -964,16 +1008,18 @@
     "#OmanClimateWeek"
    ],
    "series": "climate week",
-   "fingerprint": "ea5f65f34937d0181e62350d516e67badecb3b8d"
+   "fingerprint": "9c9eb611e26661ac169f36afed6c592f022a2913"
   },
   "6a1333099f93": {
    "schema_version": "1.0",
    "id": "6a1333099f93",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Health Exhibition & Conference 2026",
    "start": "2026-09-21",
    "end": "2026-09-23",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -1007,16 +1053,18 @@
     "#OmanHealthExhibitionConference"
    ],
    "series": "health",
-   "fingerprint": "7ff4ea4dca7d160bc0ec0aee14810e6d15680172"
+   "fingerprint": "5620a418f04626612211559dbf2dafdea1dec3cf"
   },
   "f21696f77135": {
    "schema_version": "1.0",
    "id": "f21696f77135",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Home & Building Expo 2026",
    "start": "2026-10-05",
    "end": "2026-10-07",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -1051,16 +1099,18 @@
     "#HomeBuildingExpo"
    ],
    "series": "home building",
-   "fingerprint": "60afc90df983e08b35f47e25b5cb154800d4baf2"
+   "fingerprint": "a2f8d48c3431461b8dff973ee1f5f7ab2c22d087"
   },
   "89d897b7ffc1": {
    "schema_version": "1.0",
    "id": "89d897b7ffc1",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "OPES Feature by Swathi Suresh",
    "start": "2026-10-08",
    "end": "2026-10-08",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1094,16 +1144,18 @@
     "#OmanSustainability"
    ],
    "series": "opes feature by swathi suresh",
-   "fingerprint": "457c595eb49cdf2bc0a615f708f42800a7594a7c"
+   "fingerprint": "1560cfaddc3be4f73dbc0160c5a90c9a54c7374d"
   },
   "63eaa05db1d7": {
    "schema_version": "1.0",
    "id": "63eaa05db1d7",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "A recent development by Petroleum Development Oman (PDO) illustrates this transition.",
    "start": "2026-10-11",
    "end": "2026-10-11",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1137,16 +1189,18 @@
     "#OmanSustainability"
    ],
    "series": "a recent development by petroleum development pdo illustrates this transition",
-   "fingerprint": "c633d07e2ca2bca6fe77fe4765de9b164f5ea5c2"
+   "fingerprint": "a734096ad1739ca3448d8ae37315452551f02cdb"
   },
   "7198684e3081": {
    "schema_version": "1.0",
    "id": "7198684e3081",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "EduTraC Oman 2026",
    "start": "2026-10-12",
    "end": "2026-10-14",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "OCEC, Muscat",
    "city": "",
@@ -1181,16 +1235,18 @@
     "#EdutracOman"
    ],
    "series": "edutrac",
-   "fingerprint": "1e40f749b4133ed3bd04a3719087298c861d66ef"
+   "fingerprint": "ad650a6b9760c937f5e81a46624103464306866d"
   },
   "48ffb31d514d": {
    "schema_version": "1.0",
    "id": "48ffb31d514d",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "OSW Feature by Swathi Suresh",
    "start": "2026-10-14",
    "end": "2026-10-14",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1222,16 +1278,18 @@
     "#فعاليات_عمان"
    ],
    "series": "osw feature by swathi suresh",
-   "fingerprint": "b4d77b1a74215e8d3c03102f6639cf3ce8d59aad"
+   "fingerprint": "09149eff412acf50d74584b550e3175b8d1b0118"
   },
   "f783770fe6ee": {
    "schema_version": "1.0",
    "id": "f783770fe6ee",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The global energy transition is entering a new phase",
    "start": "2026-10-14",
    "end": "2026-10-14",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1265,16 +1323,18 @@
     "#OmanSustainability"
    ],
    "series": "global energy transition is entering a new phase",
-   "fingerprint": "df48ffde0f57b684cb7091db181974765b95597d"
+   "fingerprint": "c83cc7724d2e24c0d44387e221a16ff952efdd77"
   },
   "3f6633634cb7": {
    "schema_version": "1.0",
    "id": "3f6633634cb7",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Hilal Al Ghaithi - Keey Accounts Manager - Aggrekko",
    "start": "2026-10-15",
    "end": "2026-10-15",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1306,16 +1366,18 @@
     "#فعاليات_عمان"
    ],
    "series": "hilal al ghaithi keey accounts manager aggrekko",
-   "fingerprint": "eac9400ae778eca9a00a8c3237f61a793184ebb4"
+   "fingerprint": "eb471c6761ca529259f0b7208d666fbef87ade95"
   },
   "9ca8af64ab15": {
    "schema_version": "1.0",
    "id": "9ca8af64ab15",
-   "version": 2,
+   "version": 3,
    "kind": "occasion",
    "title": "Omani Women's Day",
    "start": "2026-10-17",
    "end": "2026-10-17",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -1348,16 +1410,18 @@
     "#OmaniWomenSDay"
    ],
    "series": "omani women s day",
-   "fingerprint": "27bd22f1282c56532ba4f1cc46ac3af997053807"
+   "fingerprint": "3e3fac0ec3b4057c8c7c69e7597bc25f43075c59"
   },
   "ed3fa94df0f1": {
    "schema_version": "1.0",
    "id": "ed3fa94df0f1",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "OFSEC",
    "start": "2026-10-19",
    "end": "2026-10-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -1390,9 +1454,11 @@
     "#OFSEC"
    ],
    "series": "ofsec",
-   "fingerprint": "016578e628e901126bfa33389f18f96856b61f4f"
+   "fingerprint": "35d062494392bb64d7dc919ed7211e1d8cd8cb12"
   },
   "a46fa3e940e0": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "a46fa3e940e0",
    "version": 2,
@@ -1436,6 +1502,8 @@
    "fingerprint": null
   },
   "7fed8a1847c1": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "7fed8a1847c1",
    "version": 3,
@@ -1478,49 +1546,9 @@
    "series": "industry news",
    "fingerprint": null
   },
-  "4a0bbfb0fa42": {
-   "schema_version": "1.0",
-   "id": "4a0bbfb0fa42",
-   "version": 2,
-   "kind": "event",
-   "title": "Last updated on",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "Ministry of Transport, Communications and IT",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.mtcit.gov.om/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Past",
-   "sources": [
-    "organiser:Ministry of Transport, Communications and IT"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#LastUpdatedOn"
-   ],
-   "series": "last updated on",
-   "fingerprint": "4132b476327edf23eec5ace52b52d6a02ee36701"
-  },
   "d5a5d35f92fa": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "d5a5d35f92fa",
    "version": 2,
@@ -1563,6 +1591,8 @@
    "fingerprint": null
   },
   "0be73a2c7107": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "0be73a2c7107",
    "version": 2,
@@ -1604,32 +1634,123 @@
    "series": "الملتقى الأدبي والفني",
    "fingerprint": null
   },
-  "ef7820e3ef74": {
+  "4ccbaaf1312e": {
    "schema_version": "1.0",
-   "id": "ef7820e3ef74",
+   "id": "4ccbaaf1312e",
    "version": 1,
    "kind": "event",
-   "title": "27 ورقة عمل في ندوة \"جنوب الباطنة في ذاكرة التاريخ العُماني\".. الاثنين",
+   "title": "14th Middle East Strategic Communications Conference",
    "start": "2026-10-26",
    "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "",
    "region": "Unknown",
-   "organizer": "",
+   "organizer": "Gulf Strategic Communications Centre",
    "organizer_url": "",
    "audience": "",
-   "url": "https://alroya.om/post/396763/27-%D9%88%D8%B1%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%86%D8%AF%D9%88%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%81%D9%8A-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
-   "description": "الرستاق- الرؤية تنطلق غدًا الإثنين بولاية الرستاق، أعمال ندوة \"محافظة جنوب الباطنة في ذاكرة التاريخ العُماني\"، والتي تُنظِّمها هيئة الوثائق والمحفوظات الوطنية، بالتنسيق مع محافظة جنوب الب",
+   "url": "https://www.omanobserver.om/article/1198620/oman/mestec-2026-focuses-on-impactful-communication",
+   "description": "MUSCAT, OCT 26 The 14th Middle East Strategic Communications Conference (MESTEC 2026) began in Muscat on Monday, bringing together experts in media...",
    "ticket_deadline": "",
    "ticket_price": "",
    "category": "General",
    "relevance": "Low",
    "score": 0,
-   "confidence": 25,
+   "confidence": 30,
    "status": "Lead – verify",
    "sources": [
-    "news:alroya"
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "middle east strategic communications",
+   "fingerprint": "eeeb7bfc5ae59c457b9a28d041e23db1af987c00"
+  },
+  "b3419beed3b7": {
+   "schema_version": "1.0",
+   "id": "b3419beed3b7",
+   "version": 1,
+   "kind": "event",
+   "title": "Creators Conference",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Research and Innovation Authority",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198612/oman/arab-innovators-showcase-solutions-to-challenges",
+   "description": "MUSCAT, OCT 26 More than 90 participants from Oman and across the Arab world gathered at the Arab Open University in Muscat for the Arab Innovators...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "Education & Careers",
+   "relevance": "Low",
+   "score": 1,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#OmanEducation",
+    "#Careers",
+    "#CreatorsConference"
+   ],
+   "series": "creators",
+   "fingerprint": "7ff3a99d61c94c3b7c2ac08f92f7308c8b6d4aae"
+  },
+  "4a0bbfb0fa42": {
+   "schema_version": "1.0",
+   "id": "4a0bbfb0fa42",
+   "version": 3,
+   "kind": "event",
+   "title": "Last updated on",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "2026-10-25",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Ministry of Transport, Communications and IT",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.mtcit.gov.om/",
+   "description": "",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "organiser:Ministry of Transport, Communications and IT"
    ],
    "tiers": [
     "D"
@@ -1641,19 +1762,64 @@
     "#Oman",
     "#OmanEvents",
     "#فعاليات_عمان",
-    "#27"
+    "#LastUpdatedOn"
    ],
-   "series": "27 ورقة عمل في ندوة جنوب الباطنة في ذاكرة التاريخ الع ماني الاثنين",
-   "fingerprint": "d2715155f54d83664a4aa9b3daaff9cd4813d3fe"
+   "series": "last updated on",
+   "fingerprint": "0ac0a9a765b0df3bf2484b7874bf4c8f41f42661"
+  },
+  "3482799fb455": {
+   "schema_version": "1.0",
+   "id": "3482799fb455",
+   "version": 1,
+   "kind": "event",
+   "title": "New exhibition unveils Al Batinah South’s rich heritage",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198616/oman/new-exhibition-unveils-al-batinah-souths-rich-heritage",
+   "description": "MUSCAT, OCT 26 The National Records and Archives Authority has unveiled more than 2,000 paper and digital documents, photographs and historical...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "new unveils al batinah south s rich heritage",
+   "fingerprint": "c303b7fc1dd0c346db98046e18b446692fd06dd7"
   },
   "12253e7a16fe": {
    "schema_version": "1.0",
    "id": "12253e7a16fe",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Omani Youth Day",
    "start": "2026-10-26",
    "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -1686,16 +1852,18 @@
     "#OmaniYouthDay"
    ],
    "series": "omani youth day",
-   "fingerprint": "245942c3c5970a91ca4535ed51c0f34250684ffa"
+   "fingerprint": "c5fe3c699dfcf861d1bcc96c48773a1e84c40a7a"
   },
   "9a02131e351d": {
    "schema_version": "1.0",
    "id": "9a02131e351d",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "منتدى مسقط للمرونة البحرية",
    "start": "2026-10-27",
    "end": "2026-10-27",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "",
@@ -1727,16 +1895,18 @@
     "#فعاليات_عمان"
    ],
    "series": "منتدى مسقط للمرونة البحرية",
-   "fingerprint": "8d50ba64cb1166ee16e7d70540e3d8348eb9d549"
+   "fingerprint": "b44e5912511e8b1a39112081b5777f62657de607"
   },
   "d8c34e96fa95": {
    "schema_version": "1.0",
    "id": "d8c34e96fa95",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "17th MIDDLE EAST ENTERPRISE AI & ANALYTICS SUMMIT",
    "start": "2026-10-28",
    "end": "2026-10-28",
+   "start_time": "08:30",
+   "end_time": "16:00",
    "previous_start": "",
    "venue": "Muscat",
    "city": "Muscat",
@@ -1771,16 +1941,18 @@
     "#التحول_الرقمي"
    ],
    "series": "middle east enterprise ai analytics",
-   "fingerprint": "ff33e32f9cbefa6a07691e77f0a006217d5ca372"
+   "fingerprint": "b61fb100c47c4de890938b700e7618bc344ec5d1"
   },
   "4d7b93930fdc": {
    "schema_version": "1.0",
    "id": "4d7b93930fdc",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "High Impact Marketing for Startups Workshop",
    "start": "2026-10-28",
    "end": "2026-10-28",
+   "start_time": "15:30",
+   "end_time": "17:30",
    "previous_start": "",
    "venue": "OmanTel HQ",
    "city": "Muscat",
@@ -1823,16 +1995,18 @@
     "#ريادة_الأعمال"
    ],
    "series": "high impact marketing for startups workshop",
-   "fingerprint": "3441204db3608cfc5e308b218fad12c0aed1f1b5"
+   "fingerprint": "1ff292c32222c66e5729c73a4f90721dda742880"
   },
   "108402730c44": {
    "schema_version": "1.0",
    "id": "108402730c44",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Muscat art",
    "start": "2026-10-28",
    "end": "2026-10-30",
+   "start_time": "14:00",
+   "end_time": "22:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -1867,16 +2041,18 @@
     "#MuscatArt"
    ],
    "series": "art",
-   "fingerprint": "6d9386b88ba4f5a0b1ee9ce87033e083509f5831"
+   "fingerprint": "0e2b762907067404f598cb225f43cdb168a202c1"
   },
   "663d80d7ffd7": {
    "schema_version": "1.0",
    "id": "663d80d7ffd7",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "مؤتمر العلمي لكلية الحقوق يناقش التغيرات المناخية",
    "start": "2026-10-28",
    "end": "2026-10-28",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Sultan Qaboos University",
    "city": "Muscat",
@@ -1908,57 +2084,18 @@
     "#فعاليات_عمان"
    ],
    "series": "مؤتمر العلمي لكلية الحقوق يناقش التغيرات المناخية",
-   "fingerprint": "e4dd13de3db94d54cedee8a35f82b03cef63f536"
-  },
-  "8ff52bfcc61f": {
-   "schema_version": "1.0",
-   "id": "8ff52bfcc61f",
-   "version": 1,
-   "kind": "event",
-   "title": "ندوة جنوب الباطنة في ذاكرة التاريخ العماني",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "هيئة الوثائق والمحفوظات الوطنية تحت رعاية معالي خالد بن هلال",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omandaily.om/article/1213445",
-   "description": "(عمان): تبدأ غداً الاثنين بولاية الرستاق أعمال الندوة العلمية \"محافظة جنوب الباطنة في ذاكرة التاريخ العُماني\" التي تنظمها هيئة الوثائق والمحفوظات الوطنية تحت رعاية معالي خالد بن هلال المعولي رئيس...",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Lead – verify",
-   "sources": [
-    "news:omandaily"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان"
-   ],
-   "series": "ندوة جنوب الباطنة في ذاكرة التاريخ العماني",
-   "fingerprint": "c3179f1ca090f4edd9fc9a17a438535249bf2128"
+   "fingerprint": "b8af372a843caf0119743215f2bca9da569f9d4a"
   },
   "c1de3ae2efef": {
    "schema_version": "1.0",
    "id": "c1de3ae2efef",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "NEMR: Rampant Disorder Stand Up Comedy Show in Muscat",
    "start": "2026-10-30",
    "end": "2026-10-30",
+   "start_time": "19:00",
+   "end_time": "21:30",
    "previous_start": "",
    "venue": "Mövenpick Hotel and Apartments Ghala Muscat",
    "city": "Muscat",
@@ -1992,16 +2129,18 @@
     "#Muscat"
    ],
    "series": "nemr rampant disorder stand up comedy show",
-   "fingerprint": "38b0b873d05c522e7ce15bf6ea5ce9e3a6215087"
+   "fingerprint": "fb5a1d3eca595b41dde7c8056dd47be5a8a2cb01"
   },
   "e18d766a7ebb": {
    "schema_version": "1.0",
    "id": "e18d766a7ebb",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "Creative Meditation",
    "start": "2026-10-31",
    "end": "2026-10-31",
+   "start_time": "18:30",
+   "end_time": "19:30",
    "previous_start": "",
    "venue": "Raja Yoga Center for Self Development",
    "city": "Muscat",
@@ -2036,16 +2175,61 @@
     "#CreativeMeditation"
    ],
    "series": "creative meditation",
-   "fingerprint": "303665c7ca8bb1b5fe2bd931a08bf2ad3e3dd352"
+   "fingerprint": "1d451aed0a775c157edffa8a9a748bbb47c9b7e4"
+  },
+  "fbf68b960f9f": {
+   "schema_version": "1.0",
+   "id": "fbf68b960f9f",
+   "version": 1,
+   "kind": "event",
+   "title": "Ibri to host Agriculture Day exhibition on Oct 31",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Oman",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198617/oman/ibri-to-host-agriculture-day-exhibition-on-oct-31",
+   "description": "IBRI: The Directorate General of Agriculture and Water Resources in Al Dhahirah Governorate will host an event to mark 'Agriculture Day'...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "ibri to host agriculture day on oct 31",
+   "fingerprint": "368133e42c383a8cd5f0ba9766a84f6a4095aab1"
   },
   "84d3e06db849": {
    "schema_version": "1.0",
    "id": "84d3e06db849",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "OMÁN- Safari potápění ..A jedeme spolu s Andy a Vláďou",
    "start": "2026-10-31",
    "end": "2026-11-07",
+   "start_time": "12:00",
+   "end_time": "06:00",
    "previous_start": "",
    "venue": "إيه آند بي عمان, الحيل الجنوبية, السيب, عمان Muscat Omán",
    "city": "Muscat",
@@ -2077,9 +2261,11 @@
     "#فعاليات_عمان"
    ],
    "series": "omán safari potápění a jedeme spolu s andy a vláďou",
-   "fingerprint": "9d5dfd8f4063c3e41781856103283f8168852473"
+   "fingerprint": "e30e9d6a0b29bdc8cbc053616c619d808fc1a2b3"
   },
   "123aac8cf6c9": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "123aac8cf6c9",
    "version": 2,
@@ -2124,11 +2310,13 @@
   "c93010dfe7c5": {
    "schema_version": "1.0",
    "id": "c93010dfe7c5",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "Project Oman",
    "start": "2026-11-02",
    "end": "2026-11-04",
+   "start_time": "11:00",
+   "end_time": "19:00",
    "previous_start": "",
    "venue": "OCEC",
    "city": "Muscat",
@@ -2173,57 +2361,18 @@
     "#ProjectOman"
    ],
    "series": "project",
-   "fingerprint": "b620ade123944cf53ff5ca1131f7434446686382"
-  },
-  "a132a07a96d8": {
-   "schema_version": "1.0",
-   "id": "a132a07a96d8",
-   "version": 1,
-   "kind": "event",
-   "title": "\"لولو\" تُطلق الموسم الثاني من \"عالم المأكولات\"",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://alroya.om/post/396746/%D9%84%D9%88%D9%84%D9%88-%D8%AA-%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%A3%D9%83%D9%88%D9%84%D8%A7%D8%AA",
-   "description": "مسقط- الرؤية أطلقت سلسلة متاجر لولو هايبر ماركت الموسم الثاني من \"عالم المأكولات ٢٠٢٦\"، احتفالاً بالمأكولات والنكهات العالمية، وذلك خلال الفترة من ٢١ أكتوبر إلى ٣ نوفمبر ٢٠٢٦، في معرض شام",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 25,
-   "status": "Lead – verify",
-   "sources": [
-    "news:alroya"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان"
-   ],
-   "series": "لولو ت طلق الموسم الثاني من عالم المأكولات",
-   "fingerprint": "1e73631494e218f6c32ccbf79eaefa50c2951dab"
+   "fingerprint": "e1f58574526f0b4f2930b42b6c29fca00a3fe1f1"
   },
   "c29f4da730e9": {
    "schema_version": "1.0",
    "id": "c29f4da730e9",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman tour",
    "start": "2026-11-05",
    "end": "2026-11-05",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Muttrah",
    "city": "Muscat",
@@ -2258,12 +2407,58 @@
     "#OmanTour"
    ],
    "series": "tour",
-   "fingerprint": "8b6ae9218021e3f744432ea24fa8f8162b1a871b"
+   "fingerprint": "2df11c8a77de7ba7e62ad94c2789bfd5082be6eb"
+  },
+  "df888b7e5157": {
+   "schema_version": "1.0",
+   "id": "df888b7e5157",
+   "version": 1,
+   "kind": "event",
+   "title": "The AI ERA Summit Oman 2026",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "start_time": "09:00",
+   "end_time": "18:00",
+   "previous_start": "",
+   "venue": "Muscat",
+   "city": "Muscat",
+   "region": "Oman",
+   "organizer": "rm events",
+   "organizer_url": "https://allevents.in/org/rm-events/27412279",
+   "audience": "",
+   "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+   "description": "The AI ERA Summit – Oman 2026, taking place on 5 November 2026 at Muscat, brings together AI innovators, government leaders, enterprise executives, investors, and technology experts to explore Generative AI, Agentic AI, enterprise AI adoption, AI governance, and digital transformation. Discover emer",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "Tech & AI",
+   "relevance": "High",
+   "score": 9,
+   "confidence": 50,
+   "status": "Needs review",
+   "sources": [
+    "allevents-muscat"
+   ],
+   "tiers": [
+    "C"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#OmanTech",
+    "#DigitalOman",
+    "#التحول_الرقمي"
+   ],
+   "series": "ai era",
+   "fingerprint": "96ba83e90771fb6661963bd113d1313173b823f8"
   },
   "c5aaee8e3379": {
    "schema_version": "1.0",
    "id": "c5aaee8e3379",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The Arabic Icon Ramy Sabry at Tamer Ashour at OCEC in Muscat",
    "start": "2026-11-06",
@@ -2283,7 +2478,7 @@
    "relevance": "Low",
    "score": 0,
    "confidence": 70,
-   "status": "Upcoming",
+   "status": "Removed",
    "sources": [
     "venue:Oman Convention & Exhibition Centre (OCEC)"
    ],
@@ -2298,17 +2493,22 @@
     "#OmanEvents",
     "#فعاليات_عمان"
    ],
+   "start_time": "",
+   "end_time": "",
+   "removed_on": "2026-10-26",
    "series": "arabic icon ramy sabry tamer ashour ocec",
-   "fingerprint": "0e7053c27c2155f4bfd67c6f461eb434f911ca7f"
+   "fingerprint": null
   },
   "e8f82593d0f8": {
    "schema_version": "1.0",
    "id": "e8f82593d0f8",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "🎶✨ MUSICAL FIESTA 2026 ✨🎶",
    "start": "2026-11-06",
    "end": "2026-11-07",
+   "start_time": "19:00",
+   "end_time": "03:00",
    "previous_start": "",
    "venue": "Bayt al Falaj",
    "city": "Muscat",
@@ -2343,16 +2543,18 @@
     "#MUSICALFIESTA"
    ],
    "series": "musical fiesta",
-   "fingerprint": "cae06dec0fd885a0de53a93375fe8db21bd73cc1"
+   "fingerprint": "ac8ab501d0abcc30de2c879878b78c89d519988d"
   },
   "a601be2063a4": {
    "schema_version": "1.0",
    "id": "a601be2063a4",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Beauty Elements Exhibition (BEE)",
    "start": "2026-11-09",
    "end": "2026-11-11",
+   "start_time": "09:00",
+   "end_time": "21:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -2387,16 +2589,18 @@
     "#BeautyElementsExhibitionBEE"
    ],
    "series": "beauty elements bee",
-   "fingerprint": "0869082ac79f4faf9758c2b29e6d755ab802c1bf"
+   "fingerprint": "d091635bc36fef9e4e6a81d89ff97f871bd337d3"
   },
   "e660c49222a8": {
    "schema_version": "1.0",
    "id": "e660c49222a8",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "18th Gulf Heart Association Conference",
    "start": "2026-11-12",
    "end": "2026-11-14",
+   "start_time": "08:00",
+   "end_time": "15:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre",
    "city": "Muscat",
@@ -2431,16 +2635,18 @@
     "#OmanHealth"
    ],
    "series": "gulf heart association",
-   "fingerprint": "7610d525b8e518173c1d32f0161277f3c8dacf2e"
+   "fingerprint": "25c9c8a5c6313dc1f733781c656774703af0e821"
   },
   "900f59548a7e": {
    "schema_version": "1.0",
    "id": "900f59548a7e",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Elissa at OCEC in Muscat",
    "start": "2026-11-13",
    "end": "2026-11-13",
+   "start_time": "19:00",
+   "end_time": "23:00",
    "previous_start": "",
    "venue": "OCEC",
    "city": "Muscat",
@@ -2472,57 +2678,18 @@
     "#فعاليات_عمان"
    ],
    "series": "elissa ocec",
-   "fingerprint": "ae46353ef346bc106b6a5fd4dd617c7594102751"
-  },
-  "f38a8bfef2f0": {
-   "schema_version": "1.0",
-   "id": "f38a8bfef2f0",
-   "version": 1,
-   "kind": "event",
-   "title": "Unseen Van Gogh painting exhibited in Hong Kong",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omanobserver.om/article/1197991/features/arts/unseen-van-gogh-painting-exhibited-in-hong-kong",
-   "description": "Hundreds of people queued last week outside a Hong Kong gallery to see a Vincent van Gogh painting on public display for the first time in six...",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 25,
-   "status": "Lead – verify",
-   "sources": [
-    "news:observer-lifestyle"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان"
-   ],
-   "series": "unseen van gogh painting exhibited hong kong",
-   "fingerprint": "7b81748084ccaa31fc60f6bc7a12e5f477508482"
+   "fingerprint": "9612e66c896686b6b58cb1874f5b56f19f00a971"
   },
   "cee66478afdf": {
    "schema_version": "1.0",
    "id": "cee66478afdf",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Oman National Day",
    "start": "2026-11-20",
    "end": "2026-11-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -2555,16 +2722,18 @@
     "#OmanNationalDay"
    ],
    "series": "national day",
-   "fingerprint": "2b5c70195fca45bee2da142faa36bbad7bed064c"
+   "fingerprint": "f74fb7a7c34ddf7695d2e2ac77059640bb04a88a"
   },
   "7e2d08cff36a": {
    "schema_version": "1.0",
    "id": "7e2d08cff36a",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "the 7th International HealthCare, Medical Tourism Exhibition & Conference ‘IMTEC Oman – 2026",
    "start": "2026-11-23",
    "end": "2026-11-25",
+   "start_time": "10:00",
+   "end_time": "20:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -2604,16 +2773,18 @@
     "#OmanHealth"
    ],
    "series": "healthcare medical tourism imtec",
-   "fingerprint": "e68fa7693b0d9bb8bf93b8e8bfdd1f7906661b75"
+   "fingerprint": "9ed30172d4bf6acf58ba0fc697db8823d9c93149"
   },
   "ca45f4b160e2": {
    "schema_version": "1.0",
    "id": "ca45f4b160e2",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The Comedy Play ‘Master of Fine Taste’",
    "start": "2026-11-26",
    "end": "2026-11-26",
+   "start_time": "16:00",
+   "end_time": "20:30",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -2647,16 +2818,18 @@
     "#Muscat"
    ],
    "series": "comedy play master fine taste",
-   "fingerprint": "12f24b7c4f4dc0233f9e0b2470b7a32e649d0ae0"
+   "fingerprint": "94995060f1ad6e6b87772474b0e1af0ff2d6885b"
   },
   "beee3f82e59d": {
    "schema_version": "1.0",
    "id": "beee3f82e59d",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "IORA Aquaculture & Fisheries Business Forum & Exhibition",
    "start": "2026-12-01",
    "end": "2026-12-03",
+   "start_time": "11:00",
+   "end_time": "19:00",
    "previous_start": "",
    "venue": "OCEC",
    "city": "Muscat",
@@ -2694,16 +2867,18 @@
     "#OmanSustainability"
    ],
    "series": "iora aquaculture fisheries business",
-   "fingerprint": "1c7e2c10ad7582cf4b72a33efb8591e638caa147"
+   "fingerprint": "5694be88c15d33cb5bd8a21dc062d55fff12d1c5"
   },
   "004b9276829a": {
    "schema_version": "1.0",
    "id": "004b9276829a",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Agrofood",
    "start": "2026-12-01",
    "end": "2026-12-03",
+   "start_time": "11:00",
+   "end_time": "19:00",
    "previous_start": "",
    "venue": "OCEC",
    "city": "Muscat",
@@ -2740,16 +2915,18 @@
     "#OmanAgrofood"
    ],
    "series": "agrofood",
-   "fingerprint": "e88c36c6bfec5f8ce9a0c41522d4a6cdb5d9fdda"
+   "fingerprint": "dec6895c0edeb8b409ab3b47a152264dfc5451d8"
   },
   "0b04b5f013eb": {
    "schema_version": "1.0",
    "id": "0b04b5f013eb",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The 15th Muscat International Jewelry Exhibition – MIJEX",
    "start": "2026-12-03",
    "end": "2026-12-07",
+   "start_time": "14:00",
+   "end_time": "22:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -2783,16 +2960,18 @@
     "#Muscat"
    ],
    "series": "jewelry mijex",
-   "fingerprint": "5a32cccd05cb0960dd5d3126fb2157a8ab7e1456"
+   "fingerprint": "87c35d6562405d9aecc807998edf9a8236c64d2b"
   },
   "56fb57cd5786": {
    "schema_version": "1.0",
    "id": "56fb57cd5786",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The Golden Voice of Spacetoon – Rasha Rizk Live in Musca",
    "start": "2026-12-04",
    "end": "2026-12-04",
+   "start_time": "09:00",
+   "end_time": "23:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -2826,16 +3005,18 @@
     "#Muscat"
    ],
    "series": "golden voice spacetoon rasha rizk live musca",
-   "fingerprint": "7922045442292383ada03e9b651796c6b0e0b74b"
+   "fingerprint": "adec09df9c30fdc044ccb1f2fbcfba30452e5c56"
   },
   "e43bd1e311df": {
    "schema_version": "1.0",
    "id": "e43bd1e311df",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "10th OMAN PLAST 2026",
    "start": "2026-12-08",
    "end": "2027-12-10",
+   "start_time": "10:00",
+   "end_time": "18:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre, Muscat, Sultanate of Oman",
    "city": "Muscat",
@@ -2876,16 +3057,18 @@
     "#10thOMANPLAST"
    ],
    "series": "plast",
-   "fingerprint": "89d7126b4773c995cfae23d73b3de9f6549bac67"
+   "fingerprint": "790621340b17fd7212e5721cff6fe8d4f232d548"
   },
   "b65a00e29286": {
    "schema_version": "1.0",
    "id": "b65a00e29286",
-   "version": 3,
+   "version": 4,
    "kind": "event",
    "title": "LOGISTEX",
    "start": "2026-12-08",
    "end": "2026-12-09",
+   "start_time": "10:00",
+   "end_time": "20:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre",
    "city": "Muscat",
@@ -2927,16 +3110,18 @@
     "#LOGISTEX"
    ],
    "series": "logistex",
-   "fingerprint": "8b73f735488ddb5176292be5904682317a5a8247"
+   "fingerprint": "66bec8094063e3dc4f82ebbe16bf750e27228382"
   },
   "4cb1299c75cf": {
    "schema_version": "1.0",
    "id": "4cb1299c75cf",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "9th OmanDerm International Conference & Exhibition",
    "start": "2026-12-12",
    "end": "2026-12-13",
+   "start_time": "07:00",
+   "end_time": "17:00",
    "previous_start": "",
    "venue": "Grand Millennium Muscat",
    "city": "Muscat",
@@ -2968,16 +3153,18 @@
     "#فعاليات_عمان"
    ],
    "series": "omanderm",
-   "fingerprint": "d78fda6aeb3fe8e6341708bab002e927fadfab83"
+   "fingerprint": "a4d302e0e4778580302a1a6ce728ae9081fe7ff2"
   },
   "f29fa0745251": {
    "schema_version": "1.0",
    "id": "f29fa0745251",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "WMC Christmas and New Year celebration",
    "start": "2026-12-25",
    "end": "2026-12-25",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Bayt al Falaj",
    "city": "Muscat",
@@ -3011,16 +3198,61 @@
     "#Muscat"
    ],
    "series": "wmc christmas new year celebration",
-   "fingerprint": "159085fd87450a0d927ae5a00cd403cdeb32ccfa"
+   "fingerprint": "b07a6ce5143838d13f4e73c4e2ccf6625ee17036"
+  },
+  "97ea687a231b": {
+   "schema_version": "1.0",
+   "id": "97ea687a231b",
+   "version": 1,
+   "kind": "event",
+   "title": "Exhibition reflects on humanity’s relationship with nature",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature",
+   "description": "A missing artwork became an unexpected reminder of the fragility of the natural world at the opening of Flora & Fauna, Matti Sirvio Art Gallery’s...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 25,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-lifestyle"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان"
+   ],
+   "series": "reflects on humanity s relationship with nature",
+   "fingerprint": "8ddc5ced04fc2b5bae616be6bdfeadcfd7e8c1f9"
   },
   "1bc9121c3afa": {
    "schema_version": "1.0",
    "id": "1bc9121c3afa",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "বন্ধুদেরকে নিয়ে আলোচনা",
    "start": "2026-12-31",
    "end": "2026-12-31",
+   "start_time": "16:20",
+   "end_time": "",
    "previous_start": "",
    "venue": "Muscat, Oman",
    "city": "Muscat",
@@ -3052,16 +3284,18 @@
     "#فعاليات_عمان"
    ],
    "series": "বন ধ দ রক ন য আল চন",
-   "fingerprint": "17361ede77028cba9d1ed0e93fbc1b1a47fb24c7"
+   "fingerprint": "967085730e2e58416079aedf9015e25f220ce945"
   },
   "f7421d0c8422": {
    "schema_version": "1.0",
    "id": "f7421d0c8422",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Accession Day of His Majesty Sultan Haitham",
    "start": "2027-01-11",
    "end": "2027-01-11",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -3093,16 +3327,18 @@
     "#فعاليات_عمان"
    ],
    "series": "accession day his majesty sultan haitham",
-   "fingerprint": "59f3e4c2cd592958757f285a0212e872d06e222b"
+   "fingerprint": "a14b4a89363774dcfe9f32e8ff6477e36f7a1420"
   },
   "8829a7e5efcc": {
    "schema_version": "1.0",
    "id": "8829a7e5efcc",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Interior Design Furnishing Expo 2027",
    "start": "2027-01-12",
    "end": "2027-01-14",
+   "start_time": "11:00",
+   "end_time": "20:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -3137,16 +3373,18 @@
     "#InteriorDesignFurnishingExpo"
    ],
    "series": "interior design furnishing",
-   "fingerprint": "fd185bc118bac9b58c187466c018ad4aa5cd0595"
+   "fingerprint": "3f65c8c9616b71f91375a4f9ec043de86bc19bc2"
   },
   "eeb8c0cc9023": {
    "schema_version": "1.0",
    "id": "eeb8c0cc9023",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Perfume Show",
    "start": "2027-01-20",
    "end": "2027-01-26",
+   "start_time": "11:00",
+   "end_time": "22:00",
    "previous_start": "",
    "venue": "OCEC",
    "city": "Muscat",
@@ -3181,16 +3419,18 @@
     "#OmanPerfumeShow"
    ],
    "series": "perfume show",
-   "fingerprint": "e5cff9c58f5881c26105099140079d94a4f70b47"
+   "fingerprint": "363c404fd1685f11cec2ccd0618b34634d01dfa1"
   },
   "6d9127b9a57c": {
    "schema_version": "1.0",
    "id": "6d9127b9a57c",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "welday kashi",
    "start": "2027-01-27",
    "end": "2027-01-27",
+   "start_time": "04:00",
+   "end_time": "",
    "previous_start": "",
    "venue": "Muscat, Oman",
    "city": "Muscat",
@@ -3223,16 +3463,18 @@
     "#WeldayKashi"
    ],
    "series": "welday kashi",
-   "fingerprint": "943e3133937f48f9c02e545ffcc339006692852a"
+   "fingerprint": "e75f8bce00461fb2dae745ad10233ceedea5f259"
   },
   "769993e81dcd": {
    "schema_version": "1.0",
    "id": "769993e81dcd",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "COMEX – Global Technology Show 2027",
    "start": "2027-02-01",
    "end": "2027-02-04",
+   "start_time": "10:00",
+   "end_time": "19:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre (OCEC)",
    "city": "Muscat",
@@ -3278,16 +3520,18 @@
     "#COMEXGlobalTechnologyShow"
    ],
    "series": "comex global technology show",
-   "fingerprint": "6bd6730749416603ae8acb5e75895b72a9217f9c"
+   "fingerprint": "8b0e757595aaa336dceb4090f094a2675765b10d"
   },
   "c1d841452749": {
    "schema_version": "1.0",
    "id": "c1d841452749",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "Oman LegalTech Summit 2027",
    "start": "2027-02-08",
    "end": "2027-02-09",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Sheraton Muscat Hotel, Muscat.",
    "city": "",
@@ -3322,16 +3566,18 @@
     "#OmanLegaltechSummit"
    ],
    "series": "legaltech",
-   "fingerprint": "c39abde1947b36d3cc844c0299786da73dafce3d"
+   "fingerprint": "69c722918732f36665f4ef2d66e6189e2850a3a3"
   },
   "66ab55f3ff6b": {
    "schema_version": "1.0",
    "id": "66ab55f3ff6b",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "International Conference on Sustainable Engineering and Digital Innovation 2027 (ICSEDI'26)",
    "start": "2027-02-09",
    "end": "2027-02-11",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Oman Convention and Exhibition Centre",
    "city": "",
@@ -3366,9 +3612,11 @@
     "#التحول_الرقمي"
    ],
    "series": "on sustainable engineering digital innovation icsedi 26",
-   "fingerprint": "34ddbf6701c49fc469cd49504b746d2927fbd3fe"
+   "fingerprint": "f3b563b40204847ce77e7e5af60080a62fe3e93e"
   },
   "29cf89ab1693": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "29cf89ab1693",
    "version": 2,
@@ -3416,11 +3664,13 @@
   "1951d05b5cc4": {
    "schema_version": "1.0",
    "id": "1951d05b5cc4",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The Oman Design & Build Week",
    "start": "2027-04-17",
    "end": "2027-04-20",
+   "start_time": "22:30",
+   "end_time": "22:30",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre",
    "city": "Muscat",
@@ -3454,9 +3704,11 @@
     "#OmanSustainability"
    ],
    "series": "design build week",
-   "fingerprint": "b8afb54a1f067ee01b629fb49566e0842a5df950"
+   "fingerprint": "481c0d6c74409d8d5019aeb70f2990366a5777b4"
   },
   "ef71d0dad60f": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "ef71d0dad60f",
    "version": 2,
@@ -3502,11 +3754,13 @@
   "614569cf5a96": {
    "schema_version": "1.0",
    "id": "614569cf5a96",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "VISIT WEBSITE",
    "start": "2027-04-18",
    "end": "2027-04-21",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "",
@@ -3539,16 +3793,18 @@
     "#VISITWEBSITE"
    ],
    "series": "visit website",
-   "fingerprint": "3c43f73e595e601784cb3336595ab09022b75204"
+   "fingerprint": "e1c1cbc4fb9123fd9c60c6fae105016c2eaa6537"
   },
   "61fda6457ddc": {
    "schema_version": "1.0",
    "id": "61fda6457ddc",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "Elevating Credit Strategy in a Transforming Market",
    "start": "2027-04-21",
    "end": "2027-04-22",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Bahrain",
    "city": "",
@@ -3582,9 +3838,11 @@
     "#InvestOman"
    ],
    "series": "elevating credit strategy a transforming market",
-   "fingerprint": "83c25135fe9ee1ff411c1f4064000c505f2dfa2d"
+   "fingerprint": "bfa5539e6a7b22dfc35bcdd8ef2dd54fb0fbdb85"
   },
   "b5d27dbbc9a1": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "b5d27dbbc9a1",
    "version": 2,
@@ -3629,6 +3887,8 @@
    "fingerprint": null
   },
   "199405f2e736": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "199405f2e736",
    "version": 2,
@@ -3672,6 +3932,8 @@
    "fingerprint": null
   },
   "199405f2e736-a11e": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "199405f2e736-a11e",
    "version": 2,
@@ -3717,11 +3979,13 @@
   "1107a2d64384": {
    "schema_version": "1.0",
    "id": "1107a2d64384",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Petroleum & Energy Show",
    "start": "2027-04-26",
    "end": "2027-04-28",
+   "start_time": "09:00",
+   "end_time": "18:00",
    "previous_start": "",
    "venue": "Oman Convention & Exhibition Centre",
    "city": "Muscat",
@@ -3762,16 +4026,18 @@
     "#OmanPetroleumEnergyShow"
    ],
    "series": "petroleum energy show",
-   "fingerprint": "e28a4db4cef4723ced8253971a351e9a9a25142b"
+   "fingerprint": "eecf7170b9752c7fd96a744667d31e6e20036a28"
   },
   "9a927e809981": {
    "schema_version": "1.0",
    "id": "9a927e809981",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "Oman Sustainability Week",
    "start": "2027-04-26",
    "end": "2027-04-28",
+   "start_time": "09:00",
+   "end_time": "18:00",
    "previous_start": "",
    "venue": "",
    "city": "Muscat",
@@ -3812,16 +4078,18 @@
     "#OmanSustainabilityWeek"
    ],
    "series": "sustainability week",
-   "fingerprint": "f0e4e64819ab5fe313dc43cf4257c83e08315471"
+   "fingerprint": "9b5c4d4bd9fc400a16bef10f6804f49aa9ef48bb"
   },
   "aae75fd8b762": {
    "schema_version": "1.0",
    "id": "aae75fd8b762",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "Enterprise AI Expo 2027",
    "start": "2027-05-12",
    "end": "2027-05-13",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Sheraton, Muscat",
    "city": "",
@@ -3857,16 +4125,18 @@
     "#EnterpriseAIExpo"
    ],
    "series": "enterprise ai",
-   "fingerprint": "6e893e8a4b78db970175d1e595f6594dca99c3fe"
+   "fingerprint": "c8512318163b3181e5aaea1b056d2c62da83eeae"
   },
   "1ef1eb5a25ab": {
    "schema_version": "1.0",
    "id": "1ef1eb5a25ab",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "Strategic Collections in Asia's Evolving Credit Landscape",
    "start": "2027-06-22",
    "end": "2027-06-23",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "Berjaya Times Square Hotel KL, Malaysia",
    "city": "",
@@ -3900,16 +4170,18 @@
     "#InvestOman"
    ],
    "series": "strategic collections asia s evolving credit landscape",
-   "fingerprint": "96c7f5040c9824e39a0ab7cdd4b6bd2739d2931a"
+   "fingerprint": "0325b5e1d7247bd31edd571e8433ca3fe4c96f8e"
   },
   "e8e8bea88418": {
    "schema_version": "1.0",
    "id": "e8e8bea88418",
-   "version": 1,
+   "version": 2,
    "kind": "expected",
    "title": "Digital-first Strategy In a Fast-changing Landscape",
    "start": "2027-08-18",
    "end": "2027-08-19",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "ITC Maratha, Mumbai",
    "city": "",
@@ -3944,57 +4216,18 @@
     "#التحول_الرقمي"
    ],
    "series": "digital first strategy a fast changing landscape",
-   "fingerprint": "fdfd6c55629e3a2fee6d36d717105f1f08310c43"
-  },
-  "71a0aa4dc005": {
-   "schema_version": "1.0",
-   "id": "71a0aa4dc005",
-   "version": 1,
-   "kind": "event",
-   "title": "Exhibition reflects on humanity’s relationship with nature",
-   "start": "2027-10-03",
-   "end": "2027-10-03",
-   "previous_start": "",
-   "venue": "",
-   "city": "",
-   "region": "Unknown",
-   "organizer": "",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature",
-   "description": "A missing artwork became an unexpected reminder of the fragility of the natural world at the opening of Flora & Fauna, Matti Sirvio Art Gallery’s...",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 25,
-   "status": "Lead – verify",
-   "sources": [
-    "news:observer-lifestyle"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان"
-   ],
-   "series": "reflects on humanity s relationship with nature",
-   "fingerprint": "1ae08326f74ce30387ab375de8c49a1ede17528e"
+   "fingerprint": "2aaf8fc8c48cfbb374ad660bdd5e526d70d20891"
   },
   "f9cceb8b5d89": {
    "schema_version": "1.0",
    "id": "f9cceb8b5d89",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Omani Women's Day",
    "start": "2027-10-17",
    "end": "2027-10-17",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -4027,16 +4260,18 @@
     "#OmaniWomenSDay"
    ],
    "series": "omani women s day",
-   "fingerprint": "157604f791589fcb357d1bad36b196f59f2d7ad5"
+   "fingerprint": "887c150579a48a58b392469e403fd59f188bc195"
   },
   "95b3ebc3a584": {
    "schema_version": "1.0",
    "id": "95b3ebc3a584",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Omani Youth Day",
    "start": "2027-10-26",
    "end": "2027-10-26",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -4069,16 +4304,18 @@
     "#OmaniYouthDay"
    ],
    "series": "omani youth day",
-   "fingerprint": "57977caa69c3d77b5776dc413b03149adc57427c"
+   "fingerprint": "1254c875613d5507ff541363b46a5b2573d17a96"
   },
   "cb27a78d838b": {
    "schema_version": "1.0",
    "id": "cb27a78d838b",
-   "version": 1,
+   "version": 2,
    "kind": "occasion",
    "title": "Oman National Day",
    "start": "2027-11-20",
    "end": "2027-11-20",
+   "start_time": "",
+   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "Oman",
@@ -4111,7 +4348,7 @@
     "#OmanNationalDay"
    ],
    "series": "national day",
-   "fingerprint": "6db024bc2d9a736cb192a948ca989b979a3347c4"
+   "fingerprint": "263971c4943a975ceee897514cf2a69cbc053428"
   }
  },
  "sources": {
@@ -4127,11 +4364,11 @@
   },
   "allevents-muscat": {
    "failures": 0,
-   "last_count": 18,
+   "last_count": 19,
    "last_ok": "2026-10-26"
   },
   "eventbrite-muscat": {
-   "failures": 2,
+   "failures": 3,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -4147,11 +4384,11 @@
   },
   "venue:Oman Convention & Exhibition Centre (OCEC)": {
    "failures": 0,
-   "last_count": 19,
+   "last_count": 18,
    "last_ok": "2026-10-26"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 8,
+   "failures": 9,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -4212,12 +4449,12 @@
    "changed": ""
   },
   "organiser:CONNECT (Sabco Group)#2": {
-   "hash": "c72b56a8f07e26c7",
-   "changed": ""
+   "hash": "ef0dea47b18adf12",
+   "changed": "2026-10-26"
   },
   "organiser:CONNECT (Sabco Group)#3": {
-   "hash": "e9388009f63a9fc9",
-   "changed": "2026-10-25"
+   "hash": "47ee1f7d1f219a76",
+   "changed": "2026-10-26"
   },
   "organiser:Al Nimr Expo": {
    "hash": "698ba058e1923608",
@@ -4228,7 +4465,7 @@
    "changed": ""
   },
   "organiser:Ministry of Transport, Communications and IT": {
-   "hash": "320afe9a49fa8fef",
+   "hash": "a7fead6972a8796e",
    "changed": "2026-10-26"
   }
  }

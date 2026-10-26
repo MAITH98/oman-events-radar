@@ -20,8 +20,13 @@
   "event": null
  },
  "https://www.omanobserver.om/article/1198499/oman/media-awards-to-promote-innovation-and-talent": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
   "summary": "MUSCAT: The Media Excellence Competition represents a national platform for entrenching a culture of excellence and innovation in media work, and for...",
   "published": "2026-10-24",
   "event": null
@@ -33,8 +38,13 @@
   "event": null
  },
  "https://www.omanobserver.om/article/1198479/oman/izdehari-forum-in-muscat-discusses-womens-mental-health": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
   "summary": "MUSCAT: The fourth Izdehari Mental Health Forum concluded in Muscat, bringing together specialists, experts and participants to discuss women’s...",
   "published": "2026-10-24",
   "event": null
@@ -119,8 +129,13 @@
   }
  },
  "https://www.omanobserver.om/article/1198193/business/workshop-explores-building-omans-tech-foresight-system": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Business",
+   "business"
+  ],
   "summary": "MUSCAT: The Ministry of Transport, Communications and Information Technology, represented by the Oman Centre for the Fourth Industrial Revolution,...",
   "published": "2026-10-21",
   "event": null
@@ -152,14 +167,19 @@
   "event": null
  },
  "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Features",
+   "features/arts"
+  ],
   "summary": "A missing artwork became an unexpected reminder of the fragility of the natural world at the opening of Flora & Fauna, Matti Sirvio Art Gallery’s...",
   "published": "2026-10-22",
   "event": {
    "name": "Exhibition reflects on humanity’s relationship with nature",
-   "start": "2027-10-03",
-   "end": "2027-10-03",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
    "venue": "",
    "organizer": ""
   }
@@ -178,8 +198,13 @@
   "event": null
  },
  "https://www.omanobserver.om/article/1198119/features/filmstv/delusion-steals-the-show-as-eu-film-festival-closes": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Features",
+   "features/filmstv"
+  ],
   "summary": "'Delusion', directed by Issa al Subhi, won Best Film in the short film competition as the third European Union Film Festival concluded on...",
   "published": "2026-10-20",
   "event": {
@@ -191,8 +216,13 @@
   }
  },
  "https://www.omanobserver.om/article/1198118/features/filmstv/chinese-film-week-kicks-off-in-oman": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Features",
+   "features/filmstv"
+  ],
   "summary": "The Chinese Film Week in Oman will be held from October 21 to 24 at VOX Cinemas, Mall of Oman, in Muscat, with an opening event on October 21. Jointly...",
   "published": "2026-10-20",
   "event": {
@@ -269,8 +299,13 @@
   "event": null
  },
  "https://alroya.om/post/396794/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1": {
-  "rules": 2,
-  "checked": "2026-10-25",
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "الرؤية اليوم"
+  ],
   "summary": "مسقط- العُمانية تبدأ أعمال منتدى مسقط للمرونةِ البحرية 2026 يوم الثلاثاء المقبل وتنظمها مجموعة أسياد بالشراكةِ بين وزارة الخارجية ووزارة النقل والاتصالات وتقنية المعلومات وجهاز الاستثمار العُماني،",
   "published": "2026-10-25",
   "event": {
@@ -465,15 +500,25 @@
   "event": null
  },
  "https://www.omanobserver.om/article/1198550/oman/forum-explores-horizons-of-parliamentary-work": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
   "summary": "MUSCAT: The Omani Women Forum 2026, held in its second edition under the title 'New Horizons for Omani Women's Parliamentary Work,'...",
   "published": "2026-10-25",
   "event": null
  },
  "https://www.omanobserver.om/article/1198548/oman/geriatrics-conference-calls-for-alzheimers-care": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
   "summary": "MUSCAT: The fourth conference on Geriatrics and Gerontology has called for a unified national programme to provide comprehensive healthcare for older...",
   "published": "2026-10-25",
   "event": null
@@ -506,22 +551,37 @@
   "event": null
  },
  "https://alroya.om/post/396886/%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "الرؤية اليوم"
+  ],
   "summary": "مسقط- الرؤية يشارك جهاز الرقابة المالية والإدارية للدولة في فعاليات الأسبوع الخليجي الأول للرقابة المالية والإدارية، الذي يعقد خلال الفترة من (25- 29) أكتوبر الجاري، وذلك في إطار تعزيز التعاون الرق",
   "published": "2026-10-26",
   "event": null
  },
  "https://alroya.om/post/396885/56-%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D9%88%D8%B9%D8%B1%D8%B6-%D8%A7-%D8%B9%D9%84%D9%85%D9%8A-%D8%A7-%D9%883-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A%D8%A9-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "الرؤية اليوم"
+  ],
   "summary": "مسقط- العُمانية يناقش مؤتمر المدينة الطبية الجامعية لطب الطوارئ 2026 تحت شعار \"إعادة ربط الرعاية الطارئة.. حيث يلتقي المجتمع بالتدخلات الحاسمة\"، أهمية التعرف المبكر على علامات الجلطات والسكتات الد",
   "published": "2026-10-26",
   "event": null
  },
  "https://alroya.om/post/396879/%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%84%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
   "summary": "مسقط- الرؤية تنظم كلية الحقوق بجامعة السلطان قابوس، المؤتمر العلمي العاشر، بعنوان \"التغيرات المناخية والتحول في الطاقة في ميزان القانون\"، وذلك بعد غدٍ الأربعاء بفندق جي دبليو ماريوت مسقط. ويسعى",
   "published": "2026-10-26",
   "event": {
@@ -533,29 +593,49 @@
   }
  },
  "https://alroya.om/post/396834/%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A7%D8%AA-%D9%82%D9%88%D9%8A%D8%A9-%D8%A8%D9%80-%D8%A7%D9%84%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
   "summary": "البريمي- ناصر العبري انطلقت بمركز البريمي للعلوم والابتكار فعاليات \"المهرجان العلمي لتقييم الابتكارات الطلابية ومسابقات الذكاء الاصطناعي\"، تحت رعاية سعادة الشيخ سالم بن ربيع السنيدي والي",
   "published": "2026-10-25",
   "event": null
  },
  "https://alroya.om/post/396833/50-%D9%85%D8%AA%D8%AD%D8%AF%D8%AB%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D8%B2%D8%AF%D9%87%D8%B1%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D9%87-%D9%84%D9%84%D9%85%D8%B1%D8%A3%D8%A9": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
   "summary": "مسقط- الرؤية اختتم الملتقى الرابع للصحة النفسية والرفاه للمرأة «ازدهري» فعالياته في المتحف الوطني بمسقط، بمشاركة نحو 50 متحدثة من سلطنة عُمان ودول مختلفة، وبحضور نحو 200 مشارك ومشاركة، من",
   "published": "2026-10-25",
   "event": null
  },
  "https://alroya.om/post/396829/%D8%AD%D9%84%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B4%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D8%B1%D8%A8%D9%88": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
   "summary": "مسقط- الرؤية نظّمت وزارة الصحة ممثلة بدائرة الوقاية من الأمراض غير المعدية \"قسم الوقاية من مضاعفات الأمراض غير المعدية\"، الأحد، حلقة عمل علمية حول علاج مرض الربو لدى البالغين والأطفال في",
   "published": "2026-10-25",
   "event": null
  },
  "https://alroya.om/post/396818/%D9%85%D9%8A%D8%AB%D8%A7%D9%82-%D8%B1%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A-%D9%84%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85%D9%86-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%88%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9": {
-  "rules": 2,
+  "rules": 3,
   "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "اقتصاد",
+   "شركات"
+  ],
   "summary": "مسقط- الرؤية شارك ميثاق للصيرفة الإسلامية من بنك مسقط راعياً رئيسياً في أعمال مؤتمر ومعرض الحج والعمرة في نسخته الثالثة، الذي نظمته وزارة الأوقاف والشؤون الدينية خلال الفترة من 22 إلى 24",
   "published": "2026-10-25",
   "event": null
@@ -627,6 +707,383 @@
   "checked": "2026-10-26",
   "summary": "صحار – مكتب عُمان شارك 73 طالبًا وطالبة من طلبة الصف الحادي عشر الدارسين لمادة الفنون التشكيلية بمختلف مدارس محافظة شمال الباطنة في حلقة «هاكاثون الفنون البصرية» للعام الدراسي 2026 /2027م التي أقامتها...",
   "published": "2026-10-25",
+  "event": null
+ },
+ "https://timesofoman.com//article/178398-awards-distributed-for-fifth-edition-of-first-broadcaster-award-in-muscat-governorate": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [],
+  "summary": "The ceremony was held under the patronage of Jamal Hassan Al Moosawi",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://timesofoman.com//article/178393-conference-on-language-literature-in-light-of-interdisciplinary-studies-begins": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [],
+  "summary": "The proceedings of the sixth international scientific conference of the Department of Arabic Language and Literature, titled \"Language and Literature in Light of Interdisciplinary Studies,\" opened on Monday at Sultan Qaboos University (SQU)",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omanobserver.om/article/1198620/oman/mestec-2026-focuses-on-impactful-communication": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT, OCT 26 The 14th Middle East Strategic Communications Conference (MESTEC 2026) began in Muscat on Monday, bringing together experts in media...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "14th Middle East Strategic Communications Conference",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "venue": "",
+   "organizer": "Gulf Strategic Communications Centre"
+  }
+ },
+ "https://www.omanobserver.om/article/1198617/oman/ibri-to-host-agriculture-day-exhibition-on-oct-31": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "IBRI: The Directorate General of Agriculture and Water Resources in Al Dhahirah Governorate will host an event to mark 'Agriculture Day'...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "Ibri to host Agriculture Day exhibition on Oct 31",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "venue": "",
+   "organizer": ""
+  }
+ },
+ "https://www.omanobserver.om/article/1198616/oman/new-exhibition-unveils-al-batinah-souths-rich-heritage": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT, OCT 26 The National Records and Archives Authority has unveiled more than 2,000 paper and digital documents, photographs and historical...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "New exhibition unveils Al Batinah South’s rich heritage",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "venue": "",
+   "organizer": ""
+  }
+ },
+ "https://www.omanobserver.om/article/1198614/oman/squ-conference-explores-arabic-language-and-literature": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT: The proceedings of the sixth international scientific conference of the Department of Arabic Language and Literature, titled 'Language...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omanobserver.om/article/1198612/oman/arab-innovators-showcase-solutions-to-challenges": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT, OCT 26 More than 90 participants from Oman and across the Arab world gathered at the Arab Open University in Muscat for the Arab Innovators...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "Creators Conference",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "venue": "",
+   "organizer": "Research and Innovation Authority"
+  }
+ },
+ "https://www.omanobserver.om/article/1198610/oman/awards-distributed-for-5th-edition-of-first-broadcaster-award": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT: The Directorate-General of Education in Muscat Governorate celebrated the honouring of student winners of the fifth edition of the 'First...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396955/%D8%A8%D8%AD%D8%AB-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D8%A8%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
+  "summary": "المصنعة- خالد بن سالم السيابي نظّمت المديرية العامة للخدمات الصحية بمحافظة جنوب الباطنة، ممثلةً بدائرة الخدمات الصحية والبرامج، مؤتمر «الذكاء الاصطناعي في المجال الصحي» بجامعة التقنية والعلوم التط",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396943/%D8%B5%D8%AD%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%AA%D9%88-%D8%AC-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%AA%D9%8A%D9%86-%D9%85%D8%B1%D9%85%D9%88%D9%82%D8%AA%D9%8A%D9%86-%D9%84%D8%AC%D9%87%D9%88%D8%AF%D9%87-%D9%81%D9%8A-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "اقتصاد",
+   "شركات"
+  ],
+  "summary": "مسقط- الرؤية حصد صحار الدولي جائزتين مرموقتين ضمن أعمال منتدى \"القيادة والتحوّل\" وحفل توزع الجوائز المنظم على هامش منتدى \"النساء الأكثر تأثيراً في سلطنة عُمان 2026\"، الذي نظمته مجلة \"المر",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396941/%D9%85%D8%B3%D9%82%D8%B7-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%85%D9%8A%D8%B3%D8%AA%D9%83-2026": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "اقتصاد",
+   "محلي"
+  ],
+  "summary": "مسقط- العُمانية بدأت أمس في مقر هيئة الطيران المدني بمسقط، فعاليات وجلسات مؤتمر الشرق الأوسط للاتصالات الاستراتيجية الرابع عشر \"ميستك 2026\"، الذي تستضيفه سلطنة عُمان للمرة الثالثة على الت",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396929/%D8%A8%D9%84%D8%AF%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
+  "summary": "صحار- خالد بن علي الخوالدي عقد المجلس البلدي بمحافظة شمال الباطنة صباح أمس اجتماعه الثامن من السنة الرابعة لعام 2026؛ برئاسة سعادة محمد بن سليمان الكندي محافظ شمال الباطنة رئيس المجل",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396925/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D9%84%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A2%D8%AF%D8%A7%D8%A8%D9%87%D8%A7": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
+  "summary": "مسقط- العُمانية افتُتحت اليوم بجامعة السلطان قابوس أعمال المؤتمر العلمي الدولي السادس لقسم اللغة العربية وآدابها بعنوان \"اللغة والأدب في ضوء الدراسات البينية\"، الذي تنظمه كلية ا",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396924/90-%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%AF%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "اقتصاد",
+   "محلي"
+  ],
+  "summary": "مسقط- العُمانية بدأت أمس بمسقط أعمال \"مؤتمر المبتكرين والمبدعين العرب\"، تحت شعار \"ابتكار ملهم.. تنمية مزدهرة\"؛ ويهدف إلى توفير منصة عربية جامعة تربط المواهب الإبداعية بالفرص، وإبراز",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396922/%D8%B3%D9%84%D9%85%D9%89-%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D9%80-%D8%B2%D9%85%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "اقتصاد",
+   "شركات"
+  ],
+  "summary": "مسقط- الرؤية أعلن برنامج زمالة القيادة (2026-2027) التابع للمنتدى العالمي للمرأة، اختيار سلمى بنت علي الهاشمية، نائبة الرئيس للتسويق في \"الموج مسقط\"، كأول قياديّة من سلطنة عُمان",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396911/%D8%A5%D8%B1%D8%AB-%D9%8A%D9%85%D8%AA%D8%AF-%D9%84%D9%82%D8%B1%D9%88%D9%86-%D9%86%D8%AF%D9%88%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%81%D9%8A-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D9%88%D8%AB%D9%82-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "ثقافة"
+  ],
+  "summary": "◄ المعولي: محافظة جنوب الباطنة تتمتع بإرث تاريخي عريق ◄ الهاشمي: الندوة تسهم في إبراز الدور التاريخي للمحافظة ◄ الضوياني: نحرص على استغلال الوثائق لحفظ تاريخ الدولة والمجتمعات وضم",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396903/%D9%85%D9%86-%D8%A3%D9%85-%D9%83%D9%84%D8%AB%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AC%D9%88%D9%86%D8%A9-%D9%84%D9%84%D8%B5%D9%88%D8%B1%D8%A9": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "ثقافة"
+  ],
+  "summary": "القاهرة - الرؤية تستعيد الدورة الثانية من «أسبوع الجونة للصورة» حكايات من تاريخ الموسيقى والسينما المصرية، عبر معرضين فوتوغرافيين يوثقان حفلات كوكب الشرق أم كلثوم في باريس، والإرث البصري الذي",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://alroya.om/post/396897/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%AD%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA%D9%87-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D9%85%D8%B3%D8%A7%D8%B1%D8%AD-%D8%A3%D9%87%D9%84%D9%8A%D8%A9": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "ثقافة"
+  ],
+  "summary": "المنامة - الرؤية كشف مهرجان البحرين المسرحي الخامس، برئاسة الفنان عادل شمس وإدارة الفنان علي مرهون، عن تفاصيل برنامجه الفني والثقافي، خلال المؤتمر الصحفي الذي عُقد يوم الأحد 25 أكتوبر 202",
+  "published": "2026-10-26",
+  "event": {
+   "name": "مهرجان البحرين المسرحي الخامس يكشف عن برنامج",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "venue": "",
+   "organizer": ""
+  }
+ },
+ "https://alroya.om/post/396896/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%84%D8%AF%D9%88%D8%B1%D8%AA%D9%87-%D8%A7%D9%84%D9%8047": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "ثقافة"
+  ],
+  "summary": "القاهرة - الرؤية يعلن مهرجان القاهرة السينمائي الدولي، برئاسة الفنان الكبير حسين فهمي، عن فتح باب التقدم بطلبات الاعتماد للطلاب من مختلف الجامعات والمعاهد المصرية، لحضور فعاليات دورته الس",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213534": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "أفكار وآراء"
+  ],
+  "summary": "تنظّم الأمانة العامة لمجلس الوزراء ملتقى معا نتقدّم في نسخته الخامسة العام المقبل 2027م في المحافظات؛ بمباركة سامية من لدن حضرة صاحب الجلالة السلطان هيثم بن طارق المعظم -حفظه الله ورعاه-. وتتضمّن...",
+  "published": "2026-10-27",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213515": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "ثقافة"
+  ],
+  "summary": "انطلقت مساء أمس فعاليات النسخة الثامنة والعشرين من الملتقى الأدبي والفني لعام 2026 بصحار، الذي تنظمه وزارة الثقافة والرياضة والشباب خلال الفترة من 25 إلى 29 أكتوبر الجاري، بمشاركة 166 مبدعًا ومبدعة في...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "ملتقى الأدبي والفني الـ28",
+   "start": "2026-10-25",
+   "end": "2026-10-29",
+   "venue": "Sohar",
+   "organizer": "وزارة الثقافة والرياضة والشباب خلال الفترة من 25 إلى 29 أكتو"
+  }
+ },
+ "https://www.omandaily.om/article/1213514": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "ثقافة"
+  ],
+  "summary": "افتتح النادي الثقافي، بالتعاون مع شركة تنمية نفط عُمان، مساء أمس، فعاليات الملتقى الثقافي الرابع لمناطق امتياز الشركة، وذلك برعاية سعادة الشيخ سعيد بن علي بن أحمد الصلف النعيمي، والي بهلا، بحضور...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213513": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "ثقافة"
+  ],
+  "summary": "انطلقت اليوم بولاية الرستاق أعمال ندوة \"محافظة جنوب الباطنة في ذاكرة التاريخ العُماني\" التي تنظمها هيئة الوثائق والمحفوظات الوطنية وتستمر حتى الغد، حيث تفتح الندوة آفاقا علمية لقراءة تاريخ محافظة...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213512": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الرياضية"
+  ],
+  "summary": "صلالة – عادل البراكة ناقش ملتقى القيادات الكشفية والإرشادية بمحافظة ظفار سبل تطوير العمل الكشفي والإرشادي، ورفع كفاءة أداء الوحدات، وتعزيز تبادل الخبرات بين القيادات، وذلك ضمن أعمال الملتقى الذي...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213509": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الاقتصادية"
+  ],
+  "summary": "العُمانية: بلغ إجمالي قيمة أذون الخزانة الحكومية المخصصة لهذا الأسبوع 4ر39 مليون ريال عُماني، حيث بلغت قيمة الأذون المخصصة لمدة استحقاق 28 يوماً 22 مليون ريال عُماني، وذلك بمتوسط سعر مقبول بلغ 700ر99...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213507": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "summary": "كرّمت المديرية العامة للتعليم بمحافظة مسقط الطلبة الفائزين بجائزة «المذيع الأول» في نسختها الخامسة، التي شهدت مشاركة 283 طالبا وطالبة من مدارس محافظتي مسقط والداخلية، وذلك خلال حفل أقيم بالمتحف...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213506": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "summary": "استعرض ملتقى التحول الرقمي في التعليم، الذي انطلقت أعماله اليوم الاثنين بولاية صور تحت عنوان «آفاق رقمية لتعليم مبتكر ومستقبل مستدام»، آفاق توظيف تطبيقات الذكاء الاصطناعي والتقنيات الحديثة في...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213505": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "summary": "انطلقت اليوم في الجامعة العربية المفتوحة بمسقط أعمال «مؤتمر المبتكرين والمبدعين العرب»، تحت شعار «ابتكار ملهم.. تنمية مزدهرة»، ويستمر ثلاثة أيام. رعى حفل افتتاح المؤتمر سعادة الدكتور سيف بن...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213501": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "summary": "نظمت المديرية العامة للخدمات الصحية بمحافظة جنوب الباطنة، ممثلة بدائرة الخدمات الصحية والبرامج، مؤتمر «الذكاء الاصطناعي في المجال الصحي» بجامعة التقنية والعلوم التطبيقية بالمصنعة، برعاية...",
+  "published": "2026-10-26",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213492": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الاقتصادية"
+  ],
+  "summary": "\"تصوير: هدى البحري\" انطلقت اليوم أعمال مؤتمر الشرق الأوسط للاتصالات الاستراتيجية الرابع عشر «ميستك 2026»، الذي تنظمه وزارة العمل بالتعاون مع المركز الخليجي للاتصالات الاستراتيجية (جي إس سي)، والذي...",
+  "published": "2026-10-26",
   "event": null
  }
 }
