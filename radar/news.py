@@ -39,6 +39,19 @@ def _hits(text, words):
     return any((re.search(r"(?<![\w])" + re.escape(w.lower()) + r"(?![\w])", low) if w.isascii() else w in text) for w in words)
 
 
+def _place_hits(text, places):
+    """Place names as whole words. Arabic names may carry a one-letter prefix (بمسقط، وصحار، لدبي) but must not sit
+    inside another word ("دبي" is not in "الأدبي")."""
+    low = text.lower()
+    for w in places:
+        if w.isascii():
+            if re.search(r"(?<![\w])" + re.escape(w.lower()) + r"(?![\w])", low):
+                return True
+        elif re.search(r"(?<![\u0600-\u06FF])[وبلف]?" + re.escape(w) + r"(?![\u0600-\u06FF])", text):
+            return True
+    return False
+
+
 _DATELINE_EN = re.compile(r"^\s*([A-Z][A-Z .'-]{2,30}?)\s*(?::|,\s*[A-Z]{3}\b)")
 _DATELINE_AR = re.compile(r"^\s*\(?([^\s\-–:()]+(?:\s[^\s\-–:()]+)?)\)?\s*[-–:]")
 
@@ -66,9 +79,9 @@ def screen(title, summary, lang, ncfg):
     foreign = ncfg.get("foreign_places", [])
     oman = ncfg.get("oman_places", [])
     line = dateline(summary, lang)
-    if _hits(title, foreign) or (line and _hits(line, foreign)):
+    if _place_hits(title, foreign) or (line and _place_hits(line, foreign)):
         return "abroad"
-    if _hits(summary, foreign) and not _hits(text, oman):
+    if _place_hits(summary, foreign) and not _place_hits(text, oman):
         return "abroad"
     return ""
 

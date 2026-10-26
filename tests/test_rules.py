@@ -338,6 +338,10 @@ class NewsScreening(unittest.TestCase):
             ("Conference urges AI-backed preservation of Omani heritage", "KUALA LUMPUR: The 10th International Scientific Conference recommended", "en"),
             ("Oman wraps up child wellbeing summit in Uzbekistan", "SAMARKAND: The Sultanate of Oman concluded its participation in the Global Summit", "en"),
             ("شراكات تجارية تتوّج ختام مشاركة عُمان في معرض \"سيال\" باريس", "مسقط- الرؤية اختتمت سلطنة عُمان مشاركتها في معرض سيال", "ar"),
+            ("مهرجان البحرين المسرحي الخامس يكشف عن برنامج فعالياته", "المنامة - أعلن المهرجان برنامجه", "ar"),
+            ("مهرجان القاهرة السينمائي الدولي يفتح باب اعتماد الطلاب", "يفتح المهرجان باب الاعتماد", "ar"),
+            ("4ر39 مليون ريال عُماني إجمالي قيمة أذون الخزانة الحكومية المخصصة لهذا الأسبوع", "مسقط- العُمانية", "ar"),
+            ("سلمى الهاشمية تفوز بـ\"زمالة القيادة\" لأول مرة على مستوى الخليج", "مسقط- الرؤية فازت خلال المؤتمر", "ar"),
         ]
         for title, summary, lang in cases:
             with self.subTest(title=title):
@@ -355,6 +359,10 @@ class NewsScreening(unittest.TestCase):
         for title, summary, lang in cases:
             with self.subTest(title=title):
                 self.assertEqual(self.why(title, summary, lang), "")
+
+    def test_place_is_a_whole_word(self):
+        self.assertFalse(self.news._place_hits("الملتقى الأدبي والفني", ["دبي"]))
+        self.assertTrue(self.news._place_hits("يقام المعرض بدبي الأسبوع المقبل", ["دبي"]))
 
     def test_opinion_and_market_sections(self):
         page = '<nav class="breadcrumb"><a href="/">الرئيسية</a><a href="/c">المقالات</a><a href="/r">رؤى</a></nav>'
