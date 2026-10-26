@@ -38,6 +38,8 @@ class Event:
     tier: str = "C"
     kind: str = "event"          # event | expected (predicted next edition) | occasion
     status_hint: str = ""        # schema.org eventStatus, e.g. EventCancelled / EventPostponed
+    start_time: str = ""         # "HH:MM" local Muscat time when the source publishes one
+    end_time: str = ""
     # filled by the pipeline
     id: str = ""
     sources: list = dataclasses.field(default_factory=list)
@@ -90,6 +92,37 @@ def series_key(title):
 
 # ---------- dates ----------
 
+MUSCAT = dt.timezone(dt.timedelta(hours=4))
+_ISO_DT = re.compile(r"(\d{4})-?(\d{2})-?(\d{2})[T ](\d{2}):?(\d{2})(?::?(\d{2}))?(?:\.\d+)?\s*(Z|[+-]\d{2}:?\d{2})?$")
+
+
+def _muscat_dt(value):
+    """An ISO / iCal date-time as a naive Muscat wall-clock datetime. With an offset ("Z", "+00:00") it is converted
+    to Muscat time (UTC+4, no daylight saving); without one, the time is kept as written."""
+    m = _ISO_DT.match(str(value or "").strip())
+    if not m:
+        return None
+    y, mo, d, h, mi, sec, off = m.groups()
+    try:
+        moment = dt.datetime(int(y), int(mo), int(d), int(h), int(mi), int(sec or 0))
+    except ValueError:
+        return None
+    if off:
+        sign = 1 if off[0] == "+" else -1
+        tz = dt.timezone.utc if off == "Z" else dt.timezone(sign * dt.timedelta(hours=int(off[1:3]), minutes=int(off[-2:])))
+        moment = moment.replace(tzinfo=tz).astimezone(MUSCAT).replace(tzinfo=None)
+    return moment
+
+
+def parse_time(value):
+    """'2026-11-02 11:00:00' / '2026-10-28T18:00+04:00' / '20261028T140000Z' → Muscat 'HH:MM'
+    ('…T140000Z' is 18:00 in Muscat). Midnight-only or date-only values → ''."""
+    moment = _muscat_dt(value)
+    if not moment or (moment.hour, moment.minute) == (0, 0):
+        return ""
+    return f"{moment:%H:%M}"
+
+
 def parse_date(value, default_year=None):
     """Parse ISO dates/datetimes, iCal dates and '1 Jan' / 'Jan 1, 2026' style strings."""
     if not value:
@@ -99,6 +132,9 @@ def parse_date(value, default_year=None):
     if isinstance(value, dt.date):
         return value
     v = str(value).strip()
+    moment = _muscat_dt(v)
+    if moment and re.search(r"(Z|[+-]\d{2}:?\d{2})$", v):
+        return moment.date()   # a UTC time late in the evening is already the next day in Muscat
     m = re.match(r"(\d{4})-?(\d{2})-?(\d{2})", v)
     if m:
         try:
@@ -275,16 +311,22 @@ def confidence(event):
 
 def assign_id(event, known):
     """Stable id: reuse the id of a known record of the same series within 120 days, so a
-    rescheduled event keeps its id. A new edition (a year later) gets a new id."""
+    rescheduled event keeps its id. A new edition (a year later) gets a new id.
+    The record with the same start wins, then the nearest one — never simply the first in the series
+    (for a monthly series that would shift every edition onto its neighbour's id)."""
     key = series_key(event.title)
+    best = None
     for rid, rec in known.items():
         if rec["series"] != key or rec.get("kind", "event") != event.kind:
             continue
-        old = dt.date.fromisoformat(rec["start"])
-        if abs((old - event.start).days) <= 120:
-            if old != event.start and event.kind == "event":
-                event.previous_start = rec.get("previous_start") or rec["start"]
-            return rid
+        gap = abs((dt.date.fromisoformat(rec["start"]) - event.start).days)
+        if gap <= 120 and (best is None or gap < best[0]):
+            best = (gap, rid, rec)
+    if best:
+        _, rid, rec = best
+        if rec["start"] != event.start.isoformat() and event.kind == "event":
+            event.previous_start = rec.get("previous_start") or rec["start"]
+        return rid
     raw = f"{event.kind}|{key}|{event.start.isoformat()}"
     return hashlib.sha1(raw.encode()).hexdigest()[:12]
 

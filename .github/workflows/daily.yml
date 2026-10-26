@@ -36,5 +36,9 @@ jobs:
           git config user.name "events-radar-bot"
           git config user.email "events-radar-bot@users.noreply.github.com"
           git add docs/*.json docs/*.csv docs/*.ics data/state.json data/discovered.json data/news_state.json
-          git diff --cached --quiet || git commit -m "Daily update $(date -u +%F)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily update $(date -u +%F)"
+          # someone may have pushed to main during the run: rebase onto it, so this run's state (and the change
+          # sequence numbers already sent by webhook) is never lost
+          for attempt in 1 2 3; do git pull --rebase --quiet && git push && exit 0; sleep 10; done
+          exit 1

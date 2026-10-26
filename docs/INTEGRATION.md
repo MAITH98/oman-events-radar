@@ -19,7 +19,7 @@ Paths 1 and 2 carry identical entries, so an ERP can start with pulling and add 
   "version": 1,
   "kind": "event",
   "title": "COMEX – Global Technology Show 2027",
-  "start": "2027-02-01", "end": "2027-02-04", "previous_start": "",
+  "start": "2027-02-01", "end": "2027-02-04", "start_time": "10:00", "end_time": "18:00", "previous_start": "",
   "venue": "Oman Convention & Exhibition Centre (OCEC)", "city": "Muscat", "region": "Oman",
   "organizer": "OITE (Oman International Trade & Exhibitions)", "organizer_url": "https://comex-global.com/",
   "url": "https://www.comex-global.com",
@@ -39,13 +39,14 @@ Paths 1 and 2 carry identical entries, so an ERP can start with pulling and add 
 | Field | Meaning |
 |---|---|
 | `id` | Stable identifier. Survives title spelling changes and rescheduling (up to 120 days); a new yearly edition gets a new id. Use it as the external key in the ERP. |
-| `version` | Increases by 1 whenever a tracked field changes (title, dates, venue, url, status, relevance, ticket price, organiser). |
+| `version` | Increases by 1 whenever a tracked field changes (title, dates, start/end time, venue, url, status, relevance, ticket price, organiser). |
 | `kind` | `event`, `expected` (predicted next edition — not confirmed) or `occasion` (national day). |
 | `status` | `Upcoming`, `Ongoing`, `Rescheduled`, `Cancelled`, `Needs review`, `Lead – verify`, `Expected – confirm`, `Occasion`, `Past`, `Removed`. |
 | `confidence` | 0–100 from fixed rules: best source tier (A 70, B 60, C 40, D 25) + 25 if an independent source agrees + 5 venue + 5 organiser. |
 | `region` | `Oman`, `GCC`, `Other`, `Unknown` — independent of relevance. |
 | `workflow` | Content preparation dates (ISO). Empty for Low relevance, unconfirmed or past events. |
 | Dates | ISO `YYYY-MM-DD`, Asia/Muscat calendar dates, `end` inclusive. |
+| `start_time` / `end_time` | `HH:MM`, Asia/Muscat local time (UTC+4), when the source publishes a time; `""` for all-day or unknown. Times published in UTC are converted. In `events.ics` such events are timed (`TZID=Asia/Muscat`), the rest are all-day. |
 
 **Suggested ERP rule:** create or update a record only when `status` is `Upcoming`, `Ongoing`, `Rescheduled` or `Cancelled`; route `Needs review` / `Expected – confirm` to a review list; ignore `Lead – verify`.
 
@@ -76,7 +77,7 @@ Paths 1 and 2 carry identical entries, so an ERP can start with pulling and add 
 | `event.updated` | A tracked field changed |
 | `event.rescheduled` | `start` changed (also see `previous_start`) |
 | `event.cancelled` | Source marked it cancelled |
-| `event.removed` | An upcoming event disappeared while its sources were healthy. It is a tombstone: keep the record, mark it inactive. |
+| `event.removed` | An upcoming event disappeared while its sources were healthy. It is a tombstone: keep the record, mark it inactive. Events known only from news stories are not tombstoned when the story leaves the paper's feed. |
 
 Rules for consumers:
 

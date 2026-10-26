@@ -20,7 +20,7 @@ import re
 import urllib.parse
 import xml.etree.ElementTree as ET
 
-from .model import Event, clean, find_date_range, find_dates, parse_date
+from .model import Event, clean, find_date_range, find_dates, parse_date, parse_time
 
 
 # ---------- iCal ----------
@@ -49,6 +49,7 @@ def parse_ical(text, source):
                     end -= dt.timedelta(days=1)
                 events.append(Event(
                     title=clean(_ical_unescape(cur["SUMMARY"])), start=start,
+                    start_time=parse_time(cur.get("DTSTART")), end_time=parse_time(cur.get("DTEND")),
                     end=end if end and end != start else None,
                     venue=clean(_ical_unescape(cur.get("LOCATION", ""))),
                     url=cur.get("URL", ""), description=clean(_ical_unescape(cur.get("DESCRIPTION", "")), 400),
@@ -78,6 +79,7 @@ def wp_tribe(fetcher, src, today=None):
             organizer = e.get("organizer") or []
             events.append(Event(
                 title=clean(e.get("title")), start=parse_date(e.get("start_date")),
+                start_time=parse_time(e.get("start_date")), end_time=parse_time(e.get("end_date")),
                 end=parse_date(e.get("end_date")),
                 venue=clean(venue.get("venue", "") if isinstance(venue, dict) else ""),
                 city=src.get("city", ""),
@@ -149,6 +151,7 @@ def parse_jsonld(page, source, base_url=""):
             org_url = org.get("url", "") if isinstance(org, dict) else ""
             events.append(Event(
                 title=clean(node["name"]), start=start, end=end if end and end != start else None,
+                start_time=parse_time(node.get("startDate")), end_time=parse_time(node.get("endDate")),
                 venue=clean(_text(loc)),
                 city=clean(address.get("addressLocality", "") if isinstance(address, dict) else _text(address)),
                 organizer=clean(_text(node.get("organizer"))),

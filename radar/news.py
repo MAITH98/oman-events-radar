@@ -3,8 +3,10 @@ event details written in it — all with fixed rules (keywords, regular expressi
 a venue alias list). No AI.
 
 Flow per run:
-  feeds → items whose title/summary contain event words (EN + AR)
-        → article page fetched once (remembered in data/news_state.json)
+  feeds → items whose title/summary contain event words (EN + AR), minus wire copy,
+          off-topic headlines (markets, sport, weather, retail) and stories set abroad
+        → article page fetched once (remembered in data/news_state.json); opinion/sport sections dropped
+        → stories about the same event folded into one (the others listed under "also")
         → dates, venue, organiser and event name extracted from the text
         → docs/news.json  +  dated future events become tier-D leads in the radar
 """
@@ -31,11 +33,99 @@ def _pub_date(raw):
         return dt.date(*map(int, m.groups())) if m else None
 
 
-def _matches(text, words_en, words_ar):
+def _hits(text, words):
+    """Case-insensitive whole-word match for ASCII words, substring match for Arabic."""
     low = text.lower()
-    if any(re.search(r"(?<![\w])" + re.escape(w) + r"(?![\w])", low) for w in words_en):
+    return any((re.search(r"(?<![\w])" + re.escape(w.lower()) + r"(?![\w])", low) if w.isascii() else w in text) for w in words)
+
+
+_DATELINE_EN = re.compile(r"^\s*([A-Z][A-Z .'-]{2,30}?)\s*(?::|,\s*[A-Z]{3}\b)")
+_DATELINE_AR = re.compile(r"^\s*\(?([^\s\-–:()]+(?:\s[^\s\-–:()]+)?)\)?\s*[-–:]")
+
+
+def dateline(summary, lang):
+    """The place a story was filed from ("SAMARKAND: …", "لندن – …"), when it starts with one."""
+    m = (_DATELINE_EN if lang == "en" else _DATELINE_AR).match(summary or "")
+    return m.group(1).strip() if m else ""
+
+
+def screen(title, summary, lang, ncfg):
+    """Why a feed item is not Omani event news (a short reason), or "" when it may be.
+    Fixed rules, in order: headline shape, event words, wire copy, off-topic headline, and place."""
+    text = f"{title} {summary}"
+    if len(title.split()) < 3:
+        return "caption"                      # "Art" — a photo caption, not a story
+    strong = ncfg.get("keywords_en", []) + ncfg.get("keywords_ar", [])
+    title_only = ncfg.get("title_only_en", []) + ncfg.get("title_only_ar", [])
+    if not (_hits(text, strong) or _hits(title, title_only)):
+        return "no event word"
+    if _hits(text, ncfg.get("wire_markers", [])):
+        return "wire"                         # agency copy about elsewhere (Reuters, AFP, الوكالات)
+    if _hits(title, ncfg.get("exclude_title_en", []) + ncfg.get("exclude_title_ar", [])):
+        return "off-topic"
+    foreign = ncfg.get("foreign_places", [])
+    oman = ncfg.get("oman_places", [])
+    line = dateline(summary, lang)
+    if _hits(title, foreign) or (line and _hits(line, foreign)):
+        return "abroad"
+    if _hits(summary, foreign) and not _hits(text, oman):
+        return "abroad"
+    return ""
+
+
+_BREADCRUMB = re.compile(r"<(?:nav|ol|ul|div)\b[^>]*(?:breadcrumb)[^>]*>(.*?)</(?:nav|ol|ul|div)>", re.S | re.I)
+
+
+def sections(page, url=""):
+    """Section names of an article: breadcrumb links (e.g. Alroya "المقالات") and URL path parts
+    (e.g. Oman Observer /article/123/business/markets/…)."""
+    names = []
+    m = _BREADCRUMB.search(page or "")
+    if m:
+        names += [clean(x) for x in re.findall(r"<a\b[^>]*>(.*?)</a>", m.group(1), re.S | re.I)]
+    names += [p for p in re.findall(r"/article/\d+/([a-z-]+(?:/[a-z-]+)?)/", url)]
+    return [n for n in names if n]
+
+
+def _tokens(text):
+    t = re.sub(r"[\u064B-\u0652]", "", (text or "").lower())          # Arabic diacritics
+    t = t.translate(str.maketrans("أإآة", "اااه"))
+    words = re.findall(r"[\w']+", t)
+    stop = {"the", "of", "in", "and", "to", "for", "with", "on", "at", "a", "an", "is", "its", "في", "من", "على", "إلى", "الى", "عن", "مع", "التي", "الذي"}
+    return {w for w in words if len(w) > 2 and w not in stop and not w.isdigit()}
+
+
+def _overlap(a, b):
+    a, b = _tokens(a), _tokens(b)
+    return len(a & b) / min(len(a), len(b)) if len(a) >= 3 and len(b) >= 3 else 0.0
+
+
+def same_story(x, y):
+    """Two articles cover the same event: same language, published within 5 days, and the same event
+    (name + start) or near-identical headline or opening."""
+    if x["lang"] != y["lang"]:
+        return False
+    if abs((dt.date.fromisoformat(x["published"]) - dt.date.fromisoformat(y["published"])).days) > 5:
+        return False
+    ex, ey = x.get("event"), y.get("event")
+    if ex and ey and ex["start"] == ey["start"] and normalize_title(ex["name"]) == normalize_title(ey["name"]):
         return True
-    return any(w in text for w in words_ar)
+    lead = lambda a: re.sub(r"^.{0,40}?[-–:]\s*", "", a.get("summary", ""), count=1)[:160]
+    return _overlap(x["title"], y["title"]) >= 0.6 or _overlap(lead(x), lead(y)) >= 0.7
+
+
+def fold_duplicates(articles):
+    """Keep the newest article per event; the others are listed under its "also"."""
+    kept = []
+    for art in articles:                     # newest first
+        twin = next((k for k in kept if same_story(k, art)), None)
+        if twin is None:
+            kept.append(art)
+            continue
+        twin.setdefault("also", []).append({"source": art["source"], "url": art["url"], "title": art["title"]})
+        if not twin.get("event") and art.get("event"):
+            twin["event"] = art["event"]
+    return kept
 
 
 # ---------- article reading ----------
@@ -66,12 +156,16 @@ _NAME_EN = re.compile(
     r"(?:\s+(?:20\d{2}|[A-Z][\w&'-]*)){0,2})")
 _NAME_AR = re.compile(r"((?:مؤتمر|معرض|ملتقى|منتدى|مهرجان|هاكاثون|أسبوع|قمة|جائزة|ندوة)\s+[^\n،.:؛\"«»]{3,60})")
 _QUOTED = re.compile(r"[«\"“]([^»\"”]{4,80})[»\"”]")
+_KIND_QUOTED_AR = re.compile(r"(مؤتمر|معرض|ملتقى|منتدى|مهرجان|هاكاثون|أسبوع|قمة|جائزة|ندوة|حلقة عمل)\s*[«\"“]([^»\"”]{3,80})[»\"”]")
 
 
 def _name_in(text, lang):
     if lang == "en":
         m = _NAME_EN.search(text)
         return clean(re.sub(r"^the\s+", "", m.group(1), flags=re.I)) if m else ""
+    kq = _KIND_QUOTED_AR.search(text)
+    if kq:
+        return clean(f"{kq.group(1)} {kq.group(2)}")      # ندوة "جنوب الباطنة في ذاكرة التاريخ العُماني"
     q = _QUOTED.search(text)
     if q and any(k in q.group(1) for k in ("مؤتمر", "معرض", "ملتقى", "منتدى", "مهرجان", "هاكاثون", "أسبوع", "قمة")):
         return clean(q.group(1))
@@ -125,7 +219,7 @@ _AR_DAYS = {"الاثنين": 0, "الإثنين": 0, "الثلاثاء": 1, "ا
 _EN_WEEKDAY = re.compile(r"\b(?:on|this|next|from)\s+(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b", re.I)
 _AR_WEEKDAY = re.compile(r"(?:يوم\s+|\.\.\s*|،\s*)(الاثنين|الإثنين|الثلاثاء|الأربعاء|الاربعاء|الخميس|الجمعة|السبت|الأحد|الاحد)(?:\s+المقبل|\s+القادم)?\s*$")
 _EN_TOMORROW = re.compile(r"\btomorrow\b", re.I)
-_AR_TOMORROW = re.compile(r"(?:^|\s)(?:غدًا|غدا)(?:\s|$)")
+_AR_TOMORROW = re.compile(r"(?:^|\s)(?:غدًا|غداً|غدا)(?=[\s.،:]|$)")
 
 
 def _month(name):
@@ -134,15 +228,18 @@ def _month(name):
 
 
 def _with_year(month, day, year, ref):
-    """A date written without a year is the next one not long before the reference date."""
-    for y in ([int(year)] if year else [ref.year, ref.year + 1]):
+    """A date written without a year takes the year that puts it nearest the reference date
+    ("3 October" in a late-October story is this October — a past date — not next year's)."""
+    years = [int(year)] if year else [ref.year - 1, ref.year, ref.year + 1]
+    best = None
+    for y in years:
         try:
             d = dt.date(y, month, int(day))
         except ValueError:
             return None
-        if year or d >= ref - dt.timedelta(days=10):
-            return d
-    return None
+        if best is None or abs((d - ref).days) < abs((best - ref).days):
+            best = d
+    return best
 
 
 def _range_dates(text, ref):
@@ -167,7 +264,8 @@ def _range_dates(text, ref):
             start = _with_year(mo1, d1, y, ref)
             end = _with_year(mo2, d2, y or (start.year if start else None), ref) if d2 else None
             if start and end and end < start:
-                end = None
+                # "28 December – 3 January" without a year runs into the next year
+                end = end.replace(year=end.year + 1) if not y and (end.replace(year=end.year + 1) - start).days <= 31 else None
             if start:
                 found.append((m.start(), start, end))
     return [(s, e) for _, s, e in sorted(found, key=lambda f: f[0])]
@@ -192,38 +290,39 @@ def _weekday_date(title, lang, published):
 
 def pick_dates(text, published, today, horizon_days=400, lang="en", title=""):
     """The event date written in an article, by rule, in this order:
-    1. an explicit date with a year (EN/AR, single day or range)
-    2. a range or date without a year (incl. cross-month "March 24-April 3"), year inferred
-    3. a weekday or "tomorrow" in the headline ("… on Monday", "… الاثنين")
-    Only dates from 10 days before publication up to the horizon count."""
+    1. a weekday or "tomorrow" in the headline ("… on Monday", "غدًا.. …") — the paper's own pointer to the day
+    2. an explicit date with a year (EN/AR, single day or range)
+    3. a range or date without a year (incl. cross-month "March 24-April 3"), year inferred
+    Only dates from 10 days before publication up to the horizon count. A body range that starts on the
+    headline's day keeps its end ("tomorrow … 26–28 October")."""
     ref = published or today
     earliest = ref - dt.timedelta(days=10)
     latest = today + dt.timedelta(days=horizon_days)
     ok = lambda d: d and earliest <= d <= latest
+    if title:
+        d = _weekday_date(title, lang, ref)
+        if ok(d):
+            for start, end in [(s, e) for s, e, _ in find_dates(text)] + _range_dates(text, ref):
+                if start == d:
+                    return start, end
+            return d, None
     for start, end, _ in find_dates(text):
         if ok(start):
             return start, end
     for start, end in _range_dates(text, ref):
         if ok(start):
             return start, end
-    if title:
-        d = _weekday_date(title, lang, ref)
-        if ok(d):
-            return d, None
     return None, None
 
 
 # ---------- collection ----------
 
-RULES_VERSION = 2  # bump when extraction rules change: cached articles are then read again
+RULES_VERSION = 3  # bump when extraction rules change: cached articles are then read again
 
 def collect(fetcher, cfg, state, today):
     """Returns (articles, events). `state` maps article url → cached extraction."""
     ncfg = cfg.get("news", {})
-    words_en = [w.lower() for w in ncfg.get("keywords_en", [])]
-    words_ar = ncfg.get("keywords_ar", [])
-    skip_en = [w.lower() for w in ncfg.get("exclude_title_en", [])]
-    skip_ar = ncfg.get("exclude_title_ar", [])
+    skip_sections = ncfg.get("exclude_sections", [])
     aliases = ncfg.get("venue_aliases", {})
     budget = ncfg.get("max_new_articles_per_run", 40)
     keep = today - dt.timedelta(days=ncfg.get("keep_days", 45))
@@ -243,7 +342,7 @@ def collect(fetcher, cfg, state, today):
             published = _pub_date(pub)
             if not link or not title or (published and published < keep):
                 continue
-            if _matches(f"{title} {desc}", words_en, words_ar) and not _matches(title, skip_en, skip_ar):
+            if not screen(title, desc, feed["lang"], ncfg):
                 candidates.append((feed, title, link, desc, published))
                 kept += 1
         report.append((f"news:{feed['name']}", kept, ""))
@@ -260,13 +359,15 @@ def collect(fetcher, cfg, state, today):
         if cached is None and fetched < budget:
             fetched += 1
             try:
-                meta, body = read_article(fetcher.get(link))
+                page = fetcher.get(link)
+                meta, body = read_article(page)
                 lang = feed["lang"]
                 text = f"{title}\n{meta.get('og:description', '')}\n{body}"
                 start, end = pick_dates(text, published, today, lang=lang, title=title)
                 cached = {
                     "rules": RULES_VERSION,
                     "checked": today.isoformat(),
+                    "sections": sections(page, link),
                     "summary": clean(meta.get("og:description") or desc or body[:300], 300),
                     "published": (published or _pub_date(meta.get("article:published_time")) or today).isoformat(),
                     "event": None if not start else {
@@ -277,12 +378,16 @@ def collect(fetcher, cfg, state, today):
                         "organizer": find_organizer(text, lang),
                     },
                 }
-            except Exception as exc:
-                cached = {"rules": RULES_VERSION, "checked": today.isoformat(), "error": type(exc).__name__, "summary": desc,
+            except Exception:
+                # not remembered: a timeout or a blip today must not hide the article for 45 days — read again next run
+                cached = {"rules": RULES_VERSION, "checked": today.isoformat(), "summary": desc,
                           "published": (published or today).isoformat(), "event": None}
-            state[link] = cached
+            else:
+                state[link] = cached
         if cached is None:
             continue  # over budget: read on a later run
+        if _hits(" | ".join(cached.get("sections", [])), skip_sections):
+            continue  # an opinion column or sport page that mentions an event is not event news
         art = {
             "id": hashlib.sha1(link.encode()).hexdigest()[:12],
             "title": title, "url": link, "source": feed["label"], "lang": feed["lang"],
@@ -301,7 +406,7 @@ def collect(fetcher, cfg, state, today):
     for url in [u for u, c in state.items() if c.get("checked", "") < keep.isoformat()]:
         state.pop(url, None)
     articles.sort(key=lambda a: a["published"], reverse=True)
-    return articles, events, report
+    return fold_duplicates(articles), events, report
 
 
 def link_to_events(articles, records, same):

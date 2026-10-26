@@ -214,17 +214,23 @@ def run(config_path, offline=False, today=None):
         rec["_fp"] = fp
         records.append(rec)
 
-    # Tombstones: upcoming events that vanished although their sources were healthy.
+    # Tombstones: upcoming events that vanished although their sources were healthy. A record known only from
+    # news stories is not tombstoned when its story leaves the feed (papers rotate stories; that is not a removal).
     for rid, prev in known.items():
         if rid in seen_ids or prev.get("kind") != "event":
             continue
+        if prev.get("sources") and all(s.startswith("news:") for s in prev["sources"]) and prev.get("status") != "Removed":
+            continue
         if prev.get("status") == "Removed":
             if (today - dt.date.fromisoformat(prev.get("removed_on", today.isoformat()))).days <= 30:
-                records.append({k: v for k, v in prev.items() if k != "series"} | {"_fp": prev.get("fingerprint")})
+                records.append({"start_time": "", "end_time": ""} | {k: v for k, v in prev.items() if k != "series"}
+                               | {"_fp": prev.get("fingerprint")})
             continue
         if prev["end"] >= today.isoformat():
             tomb = {k: v for k, v in prev.items() if k not in ("fingerprint", "series")}
             tomb.setdefault("schema_version", export.SCHEMA_VERSION)
+            tomb.setdefault("start_time", "")
+            tomb.setdefault("end_time", "")
             tomb.update(status="Removed", removed_on=today.isoformat(), version=prev.get("version", 0) + 1,
                         workflow={})
             seq += 1
@@ -248,13 +254,17 @@ def run(config_path, offline=False, today=None):
     feed = [c for c in feed if c["occurred_at"] >= cutoff] + changes
     export.write_json(os.path.join(DOCS, "changes.json"),
                       {"schema_version": export.SCHEMA_VERSION, "latest_sequence": seq, "changes": feed})
-    old_leads = {l["url"]: l for l in _load(os.path.join(DOCS, "leads.json"), {"leads": []})["leads"]}
-    for l in leads:
-        old_leads.setdefault(l["url"] or l["title"], l)
-    lead_list = [l for l in old_leads.values() if l["found"] >= (today - dt.timedelta(days=45)).isoformat()]
-    lead_list += [{"title": r["title"], "url": r["url"], "source": ", ".join(r["sources"]),
-                   "found": r["first_seen"], "start": r["start"], "status": r["status"]}
-                  for r in public if r["status"] in ("Lead – verify", "Needs review", "Expected – confirm")]
+    # one entry per lead (keyed by url, or title when there is none): kept leads, new leads, and review-queue items
+    lead_key = lambda l: l.get("url") or l.get("title", "")
+    review = {lead_key(x): x for x in ({"title": r["title"], "url": r["url"], "source": ", ".join(r["sources"]),
+                                        "found": r["first_seen"], "start": r["start"], "status": r["status"]}
+                                       for r in public if r["status"] in ("Lead – verify", "Needs review", "Expected – confirm"))}
+    by_key = {}
+    for l in _load(os.path.join(DOCS, "leads.json"), {"leads": []})["leads"] + leads:
+        if "status" not in l:                       # review items are rebuilt from the records below
+            by_key.setdefault(lead_key(l), l)
+    lead_list = [l for k, l in by_key.items() if k not in review and l["found"] >= (today - dt.timedelta(days=45)).isoformat()]
+    lead_list += list(review.values())
     export.write_json(os.path.join(DOCS, "leads.json"), {"generated_at": occurred, "leads": lead_list})
     watch = [{"entity": n, "type": "source", "events": c, "status": e or "ok",
               "page_changed": pages.get(n, {}).get("changed", "")} for n, c, e in report]

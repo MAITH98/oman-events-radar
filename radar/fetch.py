@@ -94,10 +94,22 @@ class Fetcher:
             "Accept": "text/html,application/json,text/calendar,application/rss+xml,*/*",
             "Accept-Language": "en,ar;q=0.8",
         })
+        # `timeout` limits each socket wait; the deadline limits the whole download (a site that trickles bytes
+        # slowly must not hold the run until the job's own time limit)
+        deadline = time.monotonic() + self.timeout * 3
         with self._opener.open(req, timeout=self.timeout) as resp:
-            body = resp.read(MAX_BYTES + 1)
-            if len(body) > MAX_BYTES:
-                raise ValueError(f"response larger than {MAX_BYTES} bytes")
+            chunks, size = [], 0
+            while True:
+                chunk = resp.read(64 * 1024)
+                if not chunk:
+                    break
+                size += len(chunk)
+                if size > MAX_BYTES:
+                    raise ValueError(f"response larger than {MAX_BYTES} bytes")
+                if time.monotonic() > deadline:
+                    raise TimeoutError(f"download slower than {self.timeout * 3} s")
+                chunks.append(chunk)
+            body = b"".join(chunks)
             charset = resp.headers.get_content_charset() or "utf-8"
             return body.decode(charset, errors="replace")
 
