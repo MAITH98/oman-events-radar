@@ -5,9 +5,10 @@
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
-    "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
-    "test": "node --test \"tests/*.test.mjs\""
+    "test": "node --test \"tests/*.test.mjs\"",
+    "pages": "scripts/assemble-pages.sh ${RADAR_DATA_DIR:-../docs} _site/oman-events-radar",
+    "preview": "cd _site && python3 -m http.server 4173 --bind 127.0.0.1"
   },
   "dependencies": {
     "@react-router/node": "^8.5.0",

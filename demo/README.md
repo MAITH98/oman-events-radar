@@ -7,8 +7,8 @@ A React Router (framework mode) website that calls the public **Oman Events Rada
 | Route | API calls | Shows |
 |---|---|---|
 | `/` | `events.json`, `watchlist.json`, `news.json`, `changes.json` | Home: hero with search, source-logo loop, venue map (Go to…, layers, list, locate me) with its picture card, news showcase, charts, the automation (sources → radar → results, each with a (!) details popup), health gauges and the API card |
-| `/search?q=` | `events.json`, `news.json` | Search results (opened only by searching; no query → home): events, news, venues and organisers as card grids, each event / news card with its live preview image |
-| `/media/preview?kind=&id=` | the item's own web page | Live preview image for one search result (see below) |
+| `/search?q=` | `events.json`, `news.json` | Search results (opened only by searching; no query → home): events, news, venues and organisers as card grids, each event / news card with its picture; runs in the browser |
+| `/media/<kind>-<id>.jpg`, `/media/logo-<site>.png` | the item's own web page / the source's site | Pictures, written once per daily build (see below) |
 | `/calendar` | `events.json` | Post reminders popup (once per session), month grid + agenda of equal-height cards; search, view, relevance and category filters kept in the URL |
 | `/events/:id` | `events.json` + `changes.json` (in parallel) | Hero card with the event's live picture, details (sources by name and logo, start/end time when published), content plan, hashtags, change history |
 | `/changes` | `changes.json` | The change feed an ERP consumes (created / updated / rescheduled / cancelled / removed) |
@@ -124,36 +124,61 @@ bash quickstart.sh | head && node fetch-events.mjs && python3 fetch_events.py &&
 python3 consume_changes.py && rm radar_cursor.txt
 ```
 
-## Live preview images (`/media/preview`)
+## How it is published (static, GitHub Pages)
 
-Search result cards show the picture each result's own page publishes for link previews (Open Graph `og:image`,
-then `twitter:image`, then `image_src`) — the image a chat app shows when you paste the link. It is fetched **live**
-from that site when the card scrolls into view, passed through this server and **never stored** (only the image
-*address* is remembered in memory for an hour; the browser may cache the picture).
+The site is **pre-rendered** — no server runs it. It is published at **https://maith98.github.io/oman-events-radar/**
+together with the radar's API files, which keep their URLs (`events.json`, `changes.json`, …).
 
-The route is a server-side fetch of third-party content, so it is locked down (`app/features/media/`, tests in `tests/media.test.mjs`):
+- **Daily build.** The radar's GitHub Action fetches the data, commits it, then builds this site with
+  `RADAR_DATA_DIR` pointing at the files it has just written (`react-router.config.ts`: `ssr: false`, `prerender`),
+  assembles it with the API files (`scripts/assemble-pages.sh`) and deploys it to Pages. Every page — including one
+  page per event — is regenerated each morning, so the data is never more than a day old.
+- **Search** is the one page computed in the browser (`clientLoader` in `routes/search.tsx`): it reads `events.json`
+  and `news.json` from the same site.
+- **Language and theme** are kept in the visitor's own browser (`localStorage`, `app/shared/preferences.ts`) — no
+  cookie, nothing sent anywhere. Pages are pre-rendered in English/dark; a small `<head>` script applies a stored
+  choice before the first paint, and React re-renders in that language right after loading.
+- **The old team calendar** (the radar's single-page calendar) stays available at `/team/` and is linked in the footer.
+- **Limits of a static host:** no custom response headers (GitHub Pages sets its own; no CSP or frame-ancestors),
+  and an event that appears after the morning build has no page until the next build.
 
-- It takes a radar **item id**, never a URL — it can only read pages the radar already links to (not an open proxy).
+## Pictures (`/media/…`)
+
+Event, news and search cards show the picture each item's own page publishes for link previews (Open Graph
+`og:image`, then `twitter:image`, then `image_src`); source logos come from each source's own site. During the daily
+build, `routes/media.$file.ts` fetches each one **once** and writes it as a file of the published site (they are
+not committed to git; each build replaces them). An item without a usable picture gets a 1×1 placeholder, which the
+components treat as "no picture" (`app/features/media/urls.ts`). Visitors never contact the third-party sites.
+
+The fetch is a server-side read of third-party content, so it is locked down (`app/features/media/`, tests in `tests/media.test.mjs`):
+
+- Only pages the radar already links to (looked up by **item id**, never a URL) and the known source sites (`sourceSites.ts`).
 - http(s) on default ports only; no credentials in URLs; `localhost`, `.local`, `.internal` refused.
-- Every host must resolve only to public addresses (private, loopback, link-local, cloud metadata, CGNAT, multicast and IPv4-mapped forms are blocked), checked again on every redirect (max 3).
-- 7 s timeout; at most 1.5 MB of HTML and 4 MB per image, enforced while reading.
-- Raster images only (JPEG, PNG, WebP, GIF, AVIF) — no SVG, which could carry script; served with `nosniff`, a `default-src 'none'; sandbox` CSP and same-origin resource policy. Visitors never contact the third-party site (no IP or referrer leak).
-- Not included: web-wide image search (needs a paid search API and key) and page screenshots (needs a headless browser or screenshot service). Residual risk: DNS rebinding between the address check and the connection.
+- Every host must resolve only to public addresses (private, loopback, link-local, cloud metadata, CGNAT, multicast,
+  IPv4-mapped, 6to4 and NAT64 forms are blocked). The connection itself resolves through the same check, so a
+  changing DNS answer cannot slip in between (no rebinding gap); every redirect is checked again (max 3).
+- 7 s timeout per request and 8.5 s per picture overall (a slow site is skipped, never fatal); at most 1.5 MB of HTML
+  and 4 MB per image, enforced while reading; at most six fetches at once.
+- Raster images only (JPEG, PNG, WebP, GIF, AVIF, ICO for logos) — never SVG, which could carry script.
 
 ## How the API is called
 
-- `app/features/events/api.ts` — the only place that talks to the API (`https://maith98.github.io/oman-events-radar`). Calls run in route **loaders on the server**, with a 10 s timeout. Every response is validated and normalised before rendering, and only `http(s)` links are rendered.
-- Route modules (`app/routes/*`) stay thin: loader → component → `ErrorBoundary` (friendly message + "Try again", 404 for unknown events).
-- The server keeps each API file in memory for 5 minutes (the radar refreshes once a day), so pages stay fast without calling the API on every request.
-- Pages themselves are **not** cached: they render in the visitor's language and theme (cookie), so every route sends `Cache-Control: private, no-cache` and `Vary: Cookie` (`app/shared/http.ts`). Caching them publicly made a language or theme switch show the old page until the cache expired.
+- `app/features/events/api.ts` — the only place that reads the API. At build time it reads the radar's files from
+  `RADAR_DATA_DIR` (or `https://maith98.github.io/oman-events-radar` when unset); in the browser (search) it reads them
+  from the same site. Every response is validated and normalised before rendering, and only `http(s)` links are rendered.
+- Route modules (`app/routes/*`) stay thin: loader → component → `ErrorBoundary`.
 
 ## Run
 
 ```bash
 npm install
-npm run dev        # http://localhost:5173
-npm run typecheck
-npm run build && npm run start
+npm run dev          # http://localhost:5173/oman-events-radar/  (reads the live API)
+npm test && npm run typecheck
+npm run build        # pre-renders every page and picture into build/ (a few minutes: it fetches the pictures)
+RADAR_DATA_DIR=../docs npm run pages   # assemble the Pages site (with the API files) in _site/oman-events-radar/
+npm run preview      # http://127.0.0.1:4173/oman-events-radar/ — the site exactly as Pages serves it
 ```
+
+`PAGES_BASE` changes the base path (default `/oman-events-radar/`).
 
 API contract: [INTEGRATION.md](https://github.com/MAITH98/oman-events-radar/blob/main/docs/INTEGRATION.md).

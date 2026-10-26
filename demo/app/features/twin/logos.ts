@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
+import { logoUrl } from "../media/urls";
 
 /*
  * Source logos normalised so they look equal (the usual "logo soup" fix):
  *  1. trim: each logo file's own empty or white margin is cropped off (pixels read from a canvas; the logos come
- *     from this site's /media/logo, so they are same-origin and readable);
+ *     from this site's media/ folder, so they are same-origin and readable; the build's 1×1 stand-in is blank);
  *  2. equal optical area: `logoSize` gives every logo the same area, so a wide wordmark is wider and shorter and a
  *     square emblem is compact, instead of all sharing one height.
  * Results are cached per site for the page's lifetime. A logo that fails or is blank on white resolves to null.
@@ -67,7 +68,7 @@ export function trimLogo(site: string): Promise<TrimmedLogo> {
         resolve(null);
       }
     };
-    img.src = `/media/logo?site=${encodeURIComponent(site)}`;
+    img.src = logoUrl(site);
   });
   cache.set(site, job);
   return job;

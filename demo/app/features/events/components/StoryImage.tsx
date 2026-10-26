@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from "react";
 import { RadarMark } from "../../twin/components/RadarMark";
+import { isPlaceholder, previewUrl } from "../../media/urls";
 
 /**
- * A news story's or event's own picture (live, via /media/preview), filling its positioned parent. Until (or unless) the picture
+ * A news story's or event's own picture (a static file from the daily build), filling its positioned parent. Until (or unless) the picture
  * arrives, a quiet engraved radar shows instead. `fallbackInset` keeps that radar clear of text laid over the picture.
  * Decorative: the headline beside or over it names it.
  */
@@ -17,14 +18,14 @@ export function StoryImage({ kind = "news", id, lazy = false, fallbackInset = "b
   onMissing?: () => void;
 }) {
   const [state, setState] = useState<"loading" | "ready" | "none">("loading");
-  const src = `/media/preview?kind=${kind}&id=${encodeURIComponent(id)}`;
+  const src = previewUrl(kind, id);
   const img = useRef<HTMLImageElement>(null);
   // The <img> is in the server HTML, so a cached picture can finish loading before React attaches onLoad/onError
   // (they would never fire and it would stay invisible). Read its state once after hydration (a DOM API).
   useEffect(() => {
     const el = img.current;
     if (!el?.complete) return;
-    if (el.naturalWidth > 0) setState("ready");
+    if (el.naturalWidth > 0 && !isPlaceholder(el)) setState("ready");
     else {
       setState("none");
       onMissing?.();
@@ -49,7 +50,11 @@ export function StoryImage({ kind = "news", id, lazy = false, fallbackInset = "b
           loading={lazy ? "lazy" : undefined}
           decoding="async"
           referrerPolicy="no-referrer"
-          onLoad={() => setState("ready")}
+          onLoad={(e) => {
+            if (!isPlaceholder(e.currentTarget)) return setState("ready");
+            setState("none");
+            onMissing?.();
+          }}
           onError={() => {
             setState("none");
             onMissing?.();

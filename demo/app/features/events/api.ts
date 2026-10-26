@@ -40,6 +40,17 @@ function getJson(path: string): Promise<unknown> {
 }
 
 async function fetchJson(path: string): Promise<unknown> {
+  // Static build (GitHub Action): read the files the radar has just written, so the site shows today's data even
+  // before it is deployed. Never part of the browser bundle (import.meta.env.SSR is false there).
+  if (import.meta.env.SSR && process.env.RADAR_DATA_DIR) {
+    const { readFile } = await import("node:fs/promises");
+    const { join } = await import("node:path");
+    try {
+      return JSON.parse(await readFile(join(process.env.RADAR_DATA_DIR, path), "utf-8"));
+    } catch {
+      throw new RadarApiError(`${path} is missing or unreadable in RADAR_DATA_DIR.`);
+    }
+  }
   let res: Response;
   try {
     res = await fetch(`${API_BASE}/${path}`, {

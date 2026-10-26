@@ -243,6 +243,9 @@ body {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
 }
+/* a stored language other than the pre-rendered default: hidden until React has re-rendered (see PREFS_GATE) */
+html[data-prefs-pending] body { visibility: hidden; }
+
 /* only code moves focus here (tabindex="-1": a dialog's scroller, a heading after a card is dismissed); no ring */
 [tabindex="-1"]:focus-visible {
   outline: none;

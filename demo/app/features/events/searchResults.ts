@@ -14,7 +14,7 @@ export interface SearchResult {
   external: boolean;
   /** Site the result (and its preview image) comes from, shown as "via …". */
   host?: string;
-  /** Live preview image source: /media/preview?kind=…&id=… */
+  /** Preview picture: media/<kind>-<id>.jpg (see features/media/urls.ts) */
   preview?: { kind: "event" | "news"; id: string };
   lang?: "en" | "ar";
   rank: number;

@@ -8,8 +8,9 @@ import type { RadarEvent } from "../../events/types";
 import { formatCoords, placeDistrict, placeName, type PlaceGroup } from "../places";
 import { daysUntil } from "../stats";
 import { LocationTile } from "./LocationTile";
+import { isPlaceholder, previewUrl } from "../../media/urls";
 
-/** The event's own picture (live via /media/preview); falls back to the place's mini map when there is none. */
+/** The event's own picture (a static file from the daily build); falls back to the place's mini map when there is none. */
 function Picture({ event, group }: { event: RadarEvent | null; group: PlaceGroup }) {
   const [failed, setFailed] = useState<string | null>(null);
   const id = event?.url ? event.id : null;
@@ -23,10 +24,11 @@ function Picture({ event, group }: { event: RadarEvent | null; group: PlaceGroup
   return (
     <img
       key={id}
-      src={`/media/preview?kind=event&id=${encodeURIComponent(id)}`}
+      src={previewUrl("event", id)}
       alt=""
       decoding="async"
       referrerPolicy="no-referrer"
+      onLoad={(e) => isPlaceholder(e.currentTarget) && setFailed(id)}
       onError={() => setFailed(id)}
       className="absolute inset-0 h-full w-full object-cover"
     />

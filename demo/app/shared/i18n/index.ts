@@ -1,5 +1,4 @@
-import { useRouteLoaderData } from "react-router";
-import { DEFAULT_PREFS, type Lang, type Prefs } from "../preferences";
+import { getPrefs, usePreferences, type Lang, type Prefs } from "../preferences";
 import { ar } from "./ar";
 import { en, type Dict } from "./en";
 
@@ -9,10 +8,9 @@ export function dict(lang: Lang): Dict {
   return DICTS[lang];
 }
 
-/** Current preferences, from the root loader (set from the cookie on the server). */
+/** Current preferences (the visitor's stored choice; defaults while the page hydrates). */
 export function usePrefs(): Prefs {
-  const data = useRouteLoaderData("root") as { prefs?: Prefs } | undefined;
-  return data?.prefs ?? DEFAULT_PREFS;
+  return usePreferences();
 }
 
 export function useI18n() {
@@ -26,11 +24,7 @@ export function pick<T>(lang: Lang, copy: Record<Lang, T>): T {
   return copy[lang];
 }
 
-/** Language for meta() functions, which run outside React. */
-export function langFromMatches(matches: readonly unknown[]): Lang {
-  // React Router 8 passes route data as `loaderData` (older versions: `data`); read either.
-  const root = matches.find((m) => (m as { id?: string } | undefined)?.id === "root") as
-    | { loaderData?: { prefs?: Prefs }; data?: { prefs?: Prefs } }
-    | undefined;
-  return (root?.loaderData ?? root?.data)?.prefs?.lang ?? DEFAULT_PREFS.lang;
+/** Language for meta() functions, which run outside React (pre-rendered titles use the default language). */
+export function langFromMatches(_matches: readonly unknown[]): Lang {
+  return getPrefs().lang;
 }

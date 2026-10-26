@@ -14,16 +14,10 @@ import { todayInMuscat } from "../features/twin/stats";
 import { dict, langFromMatches, useI18n } from "../shared/i18n";
 import { PageHeader } from "../shared/ui/PageHeader";
 import { Panel } from "../shared/ui/Panel";
-import { PAGE_HEADERS } from "../shared/http";
 
 export function meta({ matches }: Route.MetaArgs) {
   const t = dict(langFromMatches(matches));
   return [{ title: t.calendar.metaTitle }];
-}
-
-// Preference-dependent HTML: never shared, always revalidated (see shared/http.ts).
-export function headers() {
-  return PAGE_HEADERS;
 }
 
 export async function loader({}: Route.LoaderArgs) {

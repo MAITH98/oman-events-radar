@@ -48,6 +48,10 @@ export function SiteFooter() {
                 <Link to={p.to} className="inline-flex min-h-11 min-w-11 items-center justify-center px-2 text-muted underline-offset-4 hover:text-ink hover:underline">{p.label}</Link>
               </li>
             ))}
+            {/* the radar's original single-page calendar, kept as a static page beside the site (not a route) */}
+            <li>
+              <a href={`${import.meta.env.BASE_URL}team/`} className="inline-flex min-h-11 min-w-11 items-center justify-center px-2 text-muted underline-offset-4 hover:text-ink hover:underline">{f.team}</a>
+            </li>
           </ul>
         </nav>
 

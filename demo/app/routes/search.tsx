@@ -18,7 +18,9 @@ export function meta({ matches, location }: Route.MetaArgs) {
   return [{ title: dict(langFromMatches(matches)).search.metaTitle(q) }, { name: "robots", content: "noindex" }];
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+// Runs in the browser: the site is static, and a search can be anything. It reads the same public files
+// (same origin on GitHub Pages), which the radar refreshes every morning.
+export async function clientLoader({ request }: Route.ClientLoaderArgs) {
   const q = (new URL(request.url).searchParams.get("q") ?? "").trim().slice(0, 100);
   // The page only exists after a search: no query, back to the home page.
   if (!q) throw redirect("/");
@@ -29,6 +31,11 @@ export async function loader({ request }: Route.LoaderArgs) {
     const status = err instanceof RadarApiError ? err.status : 502;
     throw data(err instanceof RadarApiError ? err.message : "Unexpected error.", { status });
   }
+}
+
+/** Shown while the search reads the data (first visit). */
+export function HydrateFallback() {
+  return <p className="py-16 text-center text-muted" aria-live="polite">…</p>;
 }
 
 const SECTIONS: { kinds: ResultKind[]; key: "events" | "news" | "places" }[] = [

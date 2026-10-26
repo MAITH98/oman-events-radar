@@ -9,16 +9,10 @@ import { Hero } from "../features/twin/components/Hero";
 import { TwinDashboard } from "../features/twin/components/TwinDashboard";
 import { todayInMuscat } from "../features/twin/stats";
 import { dict, langFromMatches, useI18n } from "../shared/i18n";
-import { PAGE_HEADERS } from "../shared/http";
 
 export function meta({ matches }: Route.MetaArgs) {
   const t = dict(langFromMatches(matches));
   return [{ title: t.home.metaTitle }, { name: "description", content: t.home.metaDescription }];
-}
-
-// Preference-dependent HTML: never shared, always revalidated (see shared/http.ts).
-export function headers() {
-  return PAGE_HEADERS;
 }
 
 export async function loader({}: Route.LoaderArgs) {

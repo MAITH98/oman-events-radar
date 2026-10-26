@@ -8,7 +8,7 @@ import { StoryImage } from "./StoryImage";
 /*
  * The news as a newspaper front page, inside one of Home's cards: a masthead over a double rule, the lead story
  * large with its picture, five compact side stories, then the rest in ruled columns — each with its own picture
- * (live via /media/preview). A story without a picture runs as text only; the lead keeps the engraved radar. Headlines and summaries keep their own language
+ * (a static file from the daily build). A story without a picture runs as text only; the lead keeps the engraved radar. Headlines and summaries keep their own language
  * and direction (`lang` + `bdi`) but line up with the page. Pictures below the fold load lazily.
  */
 

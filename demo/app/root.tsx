@@ -6,11 +6,8 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useFetcher,
-  useFetchers,
-  useLocation,
-  useRouteLoaderData,
 } from "react-router";
+import { useEffect } from "react";
 
 import type { Route } from "./+types/root";
 import "./app.css";
@@ -18,13 +15,14 @@ import { SiteFooter } from "./shell/SiteFooter";
 import { INTRO_GATE, IntroSplash } from "./features/twin/components/IntroSplash";
 import { LogoMark } from "./features/twin/components/RadarMark";
 import { PillNav } from "./shared/ui/PillNav";
-import { dict, useI18n } from "./shared/i18n";
-import { DEFAULT_PREFS, isLang, isTheme, readPrefs, type Prefs } from "./shared/preferences";
-import { PAGE_HEADERS } from "./shared/http";
+import { useI18n } from "./shared/i18n";
+import { PREFS_GATE, setPrefs } from "./shared/preferences";
+
+const BASE = import.meta.env.BASE_URL; // "/oman-events-radar/" on GitHub Pages
 
 export const links: Route.LinksFunction = () => [
-  { rel: "icon", type: "image/png", sizes: "48x48", href: "/favicon-48.png" },
-  { rel: "apple-touch-icon", href: "/apple-touch-icon.png" },
+  { rel: "icon", type: "image/png", sizes: "48x48", href: `${BASE}favicon-48.png` },
+  { rel: "apple-touch-icon", href: `${BASE}apple-touch-icon.png` },
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
   {
@@ -33,35 +31,18 @@ export const links: Route.LinksFunction = () => [
   },
 ];
 
-// Default for every route (children without their own `headers` inherit it): pages depend on the preference cookie.
-export function headers() {
-  return PAGE_HEADERS;
-}
-
-export function loader({ request }: Route.LoaderArgs) {
-  return { prefs: readPrefs(request.headers.get("Cookie")) };
-}
-
-/** Preferences, applied optimistically while a /prefs submission is in flight. */
-function useEffectivePrefs(): Prefs {
-  const data = useRouteLoaderData("root") as { prefs?: Prefs } | undefined;
-  const base = data?.prefs ?? DEFAULT_PREFS;
-  const pending = useFetchers().find((f) => f.formAction === "/prefs" && f.formData);
-  if (!pending?.formData) return base;
-  const lang = pending.formData.get("lang");
-  const theme = pending.formData.get("theme");
-  return { lang: isLang(lang) ? lang : base.lang, theme: isTheme(theme) ? theme : base.theme };
-}
-
 export function Layout({ children }: { children: React.ReactNode }) {
-  const prefs = useEffectivePrefs();
-  const t = dict(prefs.lang);
+  const { t, lang, theme } = useI18n();
+  // the language is shown: lift the pre-paint gate (see PREFS_GATE)
+  useEffect(() => document.documentElement.removeAttribute("data-prefs-pending"), [lang]);
   return (
-    <html lang={prefs.lang} dir={t.dir} data-theme={prefs.theme}>
+    // suppressHydrationWarning: PREFS_GATE may already have set the stored lang/dir/theme before hydration
+    <html lang={lang} dir={t.dir} data-theme={theme} suppressHydrationWarning>
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="color-scheme" content={prefs.theme} />
+        <meta name="color-scheme" content={theme} />
+        <script dangerouslySetInnerHTML={{ __html: PREFS_GATE }} />
         {/* static gate for the opening animation (see IntroSplash) */}
         <script dangerouslySetInnerHTML={{ __html: INTRO_GATE }} />
         <Meta />
@@ -82,17 +63,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
 function PrefsSwitches() {
   const { t, lang, theme } = useI18n();
-  const fetcher = useFetcher();
-  const location = useLocation();
-  const returnTo = location.pathname + location.search;
   const btn = "inline-flex min-h-11 min-w-11 items-center justify-center gap-1.5 neu-raised rounded-full px-3.5 text-sm font-medium text-ink transition hover:text-brand active:shadow-[var(--neu-inset)]";
 
   return (
     <div className="flex items-center gap-2">
-      <fetcher.Form method="post" action="/prefs">
-        <input type="hidden" name="returnTo" value={returnTo} />
-        <input type="hidden" name="theme" value={theme === "dark" ? "light" : "dark"} />
-        <button type="submit" className={btn} aria-label={theme === "dark" ? t.nav.toLight : t.nav.toDark}>
+      <button type="button" onClick={() => setPrefs({ theme: theme === "dark" ? "light" : "dark" })} className={btn} aria-label={theme === "dark" ? t.nav.toLight : t.nav.toDark}>
           {theme === "dark" ? (
             <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2">
               <circle cx="12" cy="12" r="4" />
@@ -103,16 +78,11 @@ function PrefsSwitches() {
               <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" />
             </svg>
           )}
-        </button>
-      </fetcher.Form>
-      <fetcher.Form method="post" action="/prefs">
-        <input type="hidden" name="returnTo" value={returnTo} />
-        <input type="hidden" name="lang" value={lang === "en" ? "ar" : "en"} />
-        {/* visible code (AR / EN) stays inside the accessible name; the full phrase is in the target language */}
-        <button type="submit" className={`${btn} tracking-wider`} aria-label={`${t.nav.switchLang} — ${t.nav.switchLangLabel}`} lang={lang === "en" ? "ar" : "en"}>
-          <span dir="ltr">{t.nav.switchLang}</span>
-        </button>
-      </fetcher.Form>
+      </button>
+      {/* visible code (AR / EN) stays inside the accessible name; the full phrase is in the target language */}
+      <button type="button" onClick={() => setPrefs({ lang: lang === "en" ? "ar" : "en" })} className={`${btn} tracking-wider`} aria-label={`${t.nav.switchLang} — ${t.nav.switchLangLabel}`} lang={lang === "en" ? "ar" : "en"}>
+        <span dir="ltr">{t.nav.switchLang}</span>
+      </button>
     </div>
   );
 }

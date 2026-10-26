@@ -1,7 +1,7 @@
 /**
  * The website behind each radar source (keyed by the source id in watchlist.json, without its "#2"-style suffix).
  * Domains come from the radar's own configuration and code (the sites it actually reads). Used to show each
- * source's logo; this list is also the allowlist for /media/logo — no other site is ever fetched for a logo.
+ * source's logo; this list is also the allowlist for the build's logo files (routes/media.$file.ts) — no other site is ever fetched for a logo.
  * Sources without a website (the team sheet, community submissions) show their initials instead.
  */
 export const SOURCE_SITES: Record<string, string> = {

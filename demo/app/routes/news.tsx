@@ -5,15 +5,9 @@ import { NewsFront } from "../features/events/components/NewsFront";
 import { todayInMuscat } from "../features/twin/stats";
 import { dict, langFromMatches, useI18n } from "../shared/i18n";
 import { PageHeader } from "../shared/ui/PageHeader";
-import { PAGE_HEADERS } from "../shared/http";
 
 export function meta({ matches }: Route.MetaArgs) {
   return [{ title: dict(langFromMatches(matches)).news.metaTitle }];
-}
-
-// Preference-dependent HTML: never shared, always revalidated (see shared/http.ts).
-export function headers() {
-  return PAGE_HEADERS;
 }
 
 export async function loader({}: Route.LoaderArgs) {

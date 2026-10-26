@@ -6,10 +6,12 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["sources.json", "community/**", "data/seed_*.csv", "radar/**"]
+    paths: ["sources.json", "community/**", "data/seed_*.csv", "radar/**", "demo/**", "docs/team/**", ".github/workflows/daily.yml"]
 
 permissions:
-  contents: write
+  contents: write   # commit the refreshed files
+  pages: write      # deploy the website
+  id-token: write   # required by actions/deploy-pages
 
 concurrency:
   group: daily-fetch
@@ -18,7 +20,10 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -42,3 +47,25 @@ jobs:
           # sequence numbers already sent by webhook) is never lost
           for attempt in 1 2 3; do git pull --rebase --quiet && git push && exit 0; sleep 10; done
           exit 1
+
+      # ---- website: the demo, pre-rendered with today's files, plus every API file at its usual URL ----
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: demo/package-lock.json
+      - name: Build website
+        working-directory: demo
+        env:
+          RADAR_DATA_DIR: ${{ github.workspace }}/docs
+        run: |
+          npm ci
+          npm test
+          npm run typecheck
+          npm run build
+          scripts/assemble-pages.sh "$RADAR_DATA_DIR" "${{ runner.temp }}/site"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/site
+      - id: deploy
+        uses: actions/deploy-pages@v4

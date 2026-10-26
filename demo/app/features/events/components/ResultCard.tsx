@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router";
 import { useI18n } from "../../../shared/i18n";
 import type { ResultKind, SearchResult } from "../searchResults";
+import { isPlaceholder, previewUrl } from "../../media/urls";
 
 const ICONS: Record<ResultKind, React.ReactNode> = {
   event: <><rect x="3.5" y="5" width="17" height="15" rx="2.5" /><path d="M3.5 10h17M8 3v4M16 3v4" /></>,
@@ -11,7 +12,7 @@ const ICONS: Record<ResultKind, React.ReactNode> = {
 };
 
 /**
- * The item's live preview image (/media/preview), lazy-loaded. Until it arrives — or when the page has none —
+ * The item's preview picture (a static file from the daily build), lazy-loaded. Until it arrives — or when the page has none —
  * a quiet engraved icon stands in, so a missing picture never looks broken.
  */
 function Preview({ result }: { result: SearchResult }) {
@@ -21,7 +22,7 @@ function Preview({ result }: { result: SearchResult }) {
   // An image that failed before hydration never fires onError for React: check it once on mount (DOM sync).
   useEffect(() => {
     const el = img.current;
-    if (el?.complete) setState(el.naturalWidth > 0 ? "ready" : "none");
+    if (el?.complete) setState(el.naturalWidth > 0 && !isPlaceholder(el) ? "ready" : "none");
   }, []);
 
   return (
@@ -32,12 +33,12 @@ function Preview({ result }: { result: SearchResult }) {
       {result.preview && state !== "none" && (
         <img
           ref={img}
-          src={`/media/preview?kind=${result.preview.kind}&id=${encodeURIComponent(result.preview.id)}`}
+          src={previewUrl(result.preview.kind, result.preview.id)}
           alt=""
           loading="lazy"
           decoding="async"
           referrerPolicy="no-referrer"
-          onLoad={() => setState("ready")}
+          onLoad={(e) => setState(isPlaceholder(e.currentTarget) ? "none" : "ready")}
           onError={() => setState("none")}
           className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-300 ${state === "ready" ? "opacity-100" : "opacity-0"}`}
         />

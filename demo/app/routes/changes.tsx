@@ -7,7 +7,6 @@ import { formatDay } from "../features/events/filters";
 import { dict, langFromMatches, useI18n } from "../shared/i18n";
 import { PageHeader } from "../shared/ui/PageHeader";
 import { Panel } from "../shared/ui/Panel";
-import { PAGE_HEADERS } from "../shared/http";
 
 const TYPE_STYLE: Record<string, string> = {
   "event.created": "bg-high-bg text-high",
@@ -19,11 +18,6 @@ const TYPE_STYLE: Record<string, string> = {
 
 export function meta({ matches }: Route.MetaArgs) {
   return [{ title: dict(langFromMatches(matches)).changes.metaTitle }];
-}
-
-// Preference-dependent HTML: never shared, always revalidated (see shared/http.ts).
-export function headers() {
-  return PAGE_HEADERS;
 }
 
 export async function loader({}: Route.LoaderArgs) {

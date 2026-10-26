@@ -167,6 +167,7 @@ export const en = {
     imageNote: "Pictures are the preview images each event or news page publishes, fetched live from that site when shown. Nothing is stored here; each card links to its source.",
   },
   footer: {
+    team: "Team calendar (classic)",
     pages: "Site pages",
     credits: "Credits",
     profiles: "Find me on",

@@ -8,18 +8,12 @@ import { WorkflowTimeline } from "../features/events/components/WorkflowTimeline
 import { SourceLogo } from "../features/twin/components/SourceLogo";
 import { formatDay, formatLongRange } from "../features/events/filters";
 import { dict, langFromMatches, useI18n } from "../shared/i18n";
-import { PAGE_HEADERS } from "../shared/http";
 import { HeroBackdrop } from "../shared/ui/HeroBackdrop";
 import { Panel } from "../shared/ui/Panel";
 
 export function meta({ loaderData, matches }: Route.MetaArgs) {
   const t = dict(langFromMatches(matches));
   return [{ title: loaderData ? `${loaderData.event.title} — ${t.nav.brand}` : t.event.metaFallback }];
-}
-
-// Preference-dependent HTML: never shared, always revalidated (see shared/http.ts).
-export function headers() {
-  return PAGE_HEADERS;
 }
 
 export async function loader({ params }: Route.LoaderArgs) {
@@ -44,7 +38,8 @@ export default function EventPage({ loaderData }: Route.ComponentProps) {
   const place = [event.venue, event.city].filter(Boolean).join(", ");
   // the published time, when the source gives one (Muscat time)
   const time = event.start_time ? (event.end_time ? `${event.start_time}–${event.end_time}` : event.start_time) : "";
-  const when = time ? `${formatLongRange(event.start, event.end, locale)} · ${time}` : formatLongRange(event.start, event.end, locale);
+  // the time range keeps left-to-right order inside Arabic text ("10:00–19:00", not reversed)
+  const when = time ? <>{formatLongRange(event.start, event.end, locale)} · <span dir="ltr">{time}</span></> : formatLongRange(event.start, event.end, locale);
   // the radar's source ids ("news:omandaily") shown by name, each once
   const sources = [...new Map(event.sources.map((s) => { const d = describeSource(s); return [d.name, d] as const; })).values()];
   const rows: [string, React.ReactNode][] = [
@@ -73,7 +68,7 @@ export default function EventPage({ loaderData }: Route.ComponentProps) {
             <StatusBadge status={event.status} />
           </div>
           {event.previous_start && <p className="mt-2 text-sm text-alert">{t.event.rescheduledFrom(formatDay(event.previous_start, locale))}</p>}
-          <p className="mt-5 text-lead text-ink"><bdi>{when}</bdi></p>
+          <p className="mt-5 text-lead text-ink">{when}</p>
           {place && <p className="mt-1 text-sm text-muted"><bdi>{place}</bdi></p>}
           {event.description && <p className="mt-4 text-sm leading-relaxed text-muted [overflow-wrap:anywhere]"><bdi>{event.description}</bdi></p>}
           {link && (

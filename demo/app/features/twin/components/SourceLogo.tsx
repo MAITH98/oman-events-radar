@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { logoUrl } from "../../media/urls";
 
 /** True when an image shows (next to) nothing on a white tile: almost every pixel near-white or transparent (e.g. a white-only icon). */
 function looksBlank(img: HTMLImageElement): boolean {
@@ -21,7 +22,7 @@ function looksBlank(img: HTMLImageElement): boolean {
 }
 
 /**
- * A source's logo, live from its own site via /media/logo (same origin, so its pixels can be checked), on a white
+ * A source's logo, a static file from the daily build (same origin, so its pixels can be checked), on a white
  * tile; its initials when it has no site, the logo fails, or the logo is blank. Decorative: the name is shown next to it.
  */
 export function SourceLogo({ name, site, className = "h-9 w-9" }: { name: string; site?: string; className?: string }) {
@@ -30,7 +31,7 @@ export function SourceLogo({ name, site, className = "h-9 w-9" }: { name: string
   return (
     <span aria-hidden="true" className={`flex shrink-0 items-center justify-center overflow-hidden text-xs font-semibold rounded-xl border border-[var(--glass-edge)] bg-white text-[#0b2a2c] shadow-[var(--neu-raised-sm)] ${className}`}>
       {failed ? initials || "•" : (
-        <img src={`/media/logo?site=${encodeURIComponent(site!)}`} alt="" loading="lazy" referrerPolicy="no-referrer"
+        <img src={logoUrl(site!)} alt="" loading="lazy" referrerPolicy="no-referrer"
           onLoad={(e) => looksBlank(e.currentTarget) && setFailed(true)}
           onError={() => setFailed(true)} className="block max-h-[66%] max-w-[66%] object-contain" />
       )}

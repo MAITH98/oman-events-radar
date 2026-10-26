@@ -2,7 +2,7 @@
 
 An open, **rule-based** (no AI) radar of business, technology and startup events in Oman — refreshed every day so teams can plan their posts weeks ahead instead of discovering events the day before.
 
-**Live calendar:** `https://maith98.github.io/oman-events-radar/` · **Subscribe:** `events.ics` (events) and `posts.ics` (content workflow)
+**Website:** **[maith98.github.io/oman-events-radar](https://maith98.github.io/oman-events-radar/)** — the demo below, rebuilt every morning · **Subscribe:** `events.ics` (events) and `posts.ics` (content workflow) · Classic team calendar: [`/team/`](https://maith98.github.io/oman-events-radar/team/)
 
 <p align="center">
   <img src="assets/readme/home-en.png" alt="The demo website's home page: a hero with search, a strip of source logos and the venue map" width="49%">
@@ -83,7 +83,7 @@ curl -s https://maith98.github.io/oman-events-radar/events.json \
 
 | File | For |
 |---|---|
-| `index.html` | Team calendar: filters, review queue, expected editions, copy-hashtags |
+| `team/index.html` | Classic team calendar (single page): filters, review queue, expected editions, copy-hashtags. The site's home page is the [demo website](#demo-website), deployed alongside these files |
 | `events.csv` | Same columns as the team's events sheet, plus workflow dates, region, confidence |
 | `events.ics` / `posts.ics` | Subscribe in Google Calendar / Outlook |
 | `events.json` | Full records (schema below) |
@@ -99,12 +99,12 @@ curl -s https://maith98.github.io/oman-events-radar/events.json \
 ```bash
 cd demo
 npm install
-npm run dev        # http://localhost:5173
+npm run dev        # http://localhost:5173/oman-events-radar/
 npm test           # unit tests (SSRF guard, preferences, media cache)
-npm run build && npm start   # production build
+npm run build      # static pre-render of every page and picture
 ```
 
-It reads the public API at request time (cached for 5 minutes) and needs no keys. Event and news pictures are fetched live from each item's own page by the server — only pages the radar already links to, through a hardened fetcher (public addresses only, checked again on every connection and redirect, size and time limits) — and are never stored. Details: [`demo/README.md`](demo/README.md).
+It is a **static site**: the daily GitHub Action builds it right after the fetch, with that morning's files, and deploys it to GitHub Pages together with every API file (same URLs as before). Search runs in the browser; language and theme are kept in the visitor's browser. Event, news and logo pictures are fetched once per build from each item's own page — only pages the radar already links to, through a hardened fetcher (public addresses only, checked on every connection and redirect, size and time limits) — and published with the site, not committed to git. Details: [`demo/README.md`](demo/README.md).
 
 ## Add an event
 
