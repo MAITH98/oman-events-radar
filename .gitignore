@@ -5,3 +5,8 @@ __pycache__/
 .env.*
 .venv/
 graphify-out/
+
+# demo website (React Router)
+demo/node_modules/
+demo/.react-router/
+demo/build/

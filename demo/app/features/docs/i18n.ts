@@ -1,0 +1,61 @@
+import { useI18n } from "../../shared/i18n";
+
+const ui = {
+  en: {
+    docs: "Docs",
+    documentation: "Documentation",
+    eyebrow: "API",
+    prevNext: "Previous and next page",
+    previous: "Previous",
+    next: "Next",
+    copy: "Copy",
+    copied: "Copied",
+    code: "code",
+    language: "Language",
+    field: "Field",
+    type: "Type",
+    group: "Group",
+    description: "Description",
+    run: "Run:",
+    onThisPage: "On this page",
+    useFor: "Use for:",
+    tryIt: "Try it live",
+    endpoint: "Endpoint",
+    send: "Send request",
+    sending: "Sending…",
+    items: "items",
+    failed: "The request failed. Check your connection and try again.",
+    response: "response",
+  },
+  ar: {
+    docs: "التوثيق",
+    documentation: "التوثيق",
+    eyebrow: "الواجهة البرمجية",
+    prevNext: "الصفحة السابقة والتالية",
+    previous: "السابق",
+    next: "التالي",
+    copy: "نسخ",
+    copied: "تم النسخ",
+    code: "الشيفرة",
+    language: "اللغة",
+    field: "الحقل",
+    type: "النوع",
+    group: "المجموعة",
+    description: "الوصف",
+    run: "التشغيل:",
+    onThisPage: "في هذه الصفحة",
+    useFor: "يُستخدم لـ:",
+    tryIt: "جرّبها مباشرة",
+    endpoint: "نقطة الوصول",
+    send: "إرسال الطلب",
+    sending: "جارٍ الإرسال…",
+    items: "عنصرًا",
+    failed: "فشل الطلب. تحقق من الاتصال وحاول مجددًا.",
+    response: "الاستجابة",
+  },
+};
+
+export function useDocsI18n() {
+  const { lang } = useI18n();
+  return { d: ui[lang], lang };
+}
