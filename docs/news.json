@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-26T21:00:03+00:00",
+ "generated_at": "2026-10-26T21:24:06+00:00",
  "count": 36,
  "articles": [
   {
@@ -29,6 +29,22 @@
      "title": "SQU conference explores Arabic language and literature"
     }
    ]
+  },
+  {
+   "id": "79f230dcae55",
+   "title": "Media Excellence Awards honour outstanding work",
+   "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-26",
+   "summary": "MUSCAT, OCT 26 The winners of the 2026 Media Excellence Awards were honoured at a ceremony organised by the Ministry of Information at its theatre on...",
+   "event": {
+    "name": "Media Excellence Awards",
+    "start": "2026-10-26",
+    "end": "2026-10-26",
+    "venue": "",
+    "organizer": "Ministry of Information"
+   }
   },
   {
    "id": "09a08e91dd12",
@@ -374,16 +390,6 @@
    "lang": "en",
    "published": "2026-10-24",
    "summary": "MUSCAT: The Media Excellence Competition represents a national platform for entrenching a culture of excellence and innovation in media work, and for...",
-   "event": null
-  },
-  {
-   "id": "da56b4328a9a",
-   "title": "Izdehari Forum in Muscat discusses women’s mental health",
-   "url": "https://www.omanobserver.om/article/1198479/oman/izdehari-forum-in-muscat-discusses-womens-mental-health",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-24",
-   "summary": "MUSCAT: The fourth Izdehari Mental Health Forum concluded in Muscat, bringing together specialists, experts and participants to discuss women’s...",
    "event": null
   },
   {

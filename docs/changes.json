@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 208,
+ "latest_sequence": 210,
  "changes": [
   {
    "schema_version": "1.0",
@@ -10911,6 +10911,112 @@
     ],
     "start_time": "",
     "end_time": "",
+    "removed_on": "2026-10-26"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 209,
+   "type": "event.created",
+   "occurred_at": "2026-10-26T21:24:06+00:00",
+   "event_id": "eafa35667b48",
+   "event_version": 1,
+   "idempotency_key": "eafa35667b48:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "eafa35667b48",
+    "version": 1,
+    "kind": "event",
+    "title": "Media Excellence Awards",
+    "start": "2026-10-26",
+    "end": "2026-10-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "Ministry of Information",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
+    "description": "MUSCAT, OCT 26 The winners of the 2026 Media Excellence Awards were honoured at a ceremony organised by the Ministry of Information at its theatre on...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#MediaExcellenceAwards"
+    ],
+    "_fp": "04765748a01c812faa0cd9121a99ada25f0e660f"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 210,
+   "type": "event.removed",
+   "occurred_at": "2026-10-26T21:24:06+00:00",
+   "event_id": "df888b7e5157",
+   "event_version": 2,
+   "idempotency_key": "df888b7e5157:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "df888b7e5157",
+    "version": 2,
+    "kind": "event",
+    "title": "The AI ERA Summit Oman 2026",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "previous_start": "",
+    "venue": "Muscat",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "rm events",
+    "organizer_url": "https://allevents.in/org/rm-events/27412279",
+    "audience": "",
+    "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+    "description": "The AI ERA Summit – Oman 2026, taking place on 5 November 2026 at Muscat, brings together AI innovators, government leaders, enterprise executives, investors, and technology experts to explore Generative AI, Agentic AI, enterprise AI adoption, AI governance, and digital transformation. Discover emer",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 9,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
     "removed_on": "2026-10-26"
    }
   }

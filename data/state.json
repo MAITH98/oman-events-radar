@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-26",
- "sequence": 208,
+ "sequence": 210,
  "records": {
   "82d140e09802": {
    "schema_version": "1.0",
@@ -1767,6 +1767,50 @@
    "series": "last updated on",
    "fingerprint": "0ac0a9a765b0df3bf2484b7874bf4c8f41f42661"
   },
+  "eafa35667b48": {
+   "schema_version": "1.0",
+   "id": "eafa35667b48",
+   "version": 1,
+   "kind": "event",
+   "title": "Media Excellence Awards",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "start_time": "",
+   "end_time": "",
+   "previous_start": "",
+   "venue": "",
+   "city": "",
+   "region": "Unknown",
+   "organizer": "Ministry of Information",
+   "organizer_url": "",
+   "audience": "",
+   "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
+   "description": "MUSCAT, OCT 26 The winners of the 2026 Media Excellence Awards were honoured at a ceremony organised by the Ministry of Information at its theatre on...",
+   "ticket_deadline": "",
+   "ticket_price": "",
+   "category": "General",
+   "relevance": "Low",
+   "score": 0,
+   "confidence": 30,
+   "status": "Lead – verify",
+   "sources": [
+    "news:observer-local"
+   ],
+   "tiers": [
+    "D"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "workflow": {},
+   "hashtags": [
+    "#Oman",
+    "#OmanEvents",
+    "#فعاليات_عمان",
+    "#MediaExcellenceAwards"
+   ],
+   "series": "media excellence awards",
+   "fingerprint": "04765748a01c812faa0cd9121a99ada25f0e660f"
+  },
   "3482799fb455": {
    "schema_version": "1.0",
    "id": "3482799fb455",
@@ -2412,7 +2456,7 @@
   "df888b7e5157": {
    "schema_version": "1.0",
    "id": "df888b7e5157",
-   "version": 1,
+   "version": 2,
    "kind": "event",
    "title": "The AI ERA Summit Oman 2026",
    "start": "2026-11-05",
@@ -2434,7 +2478,7 @@
    "relevance": "High",
    "score": 9,
    "confidence": 50,
-   "status": "Needs review",
+   "status": "Removed",
    "sources": [
     "allevents-muscat"
    ],
@@ -2452,8 +2496,9 @@
     "#DigitalOman",
     "#التحول_الرقمي"
    ],
+   "removed_on": "2026-10-26",
    "series": "ai era",
-   "fingerprint": "96ba83e90771fb6661963bd113d1313173b823f8"
+   "fingerprint": null
   },
   "c5aaee8e3379": {
    "start_time": "",
@@ -4364,11 +4409,11 @@
   },
   "allevents-muscat": {
    "failures": 0,
-   "last_count": 19,
+   "last_count": 18,
    "last_ok": "2026-10-26"
   },
   "eventbrite-muscat": {
-   "failures": 4,
+   "failures": 5,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -4388,7 +4433,7 @@
    "last_ok": "2026-10-26"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 10,
+   "failures": 11,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },

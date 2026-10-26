@@ -1085,5 +1085,23 @@
   "summary": "\"تصوير: هدى البحري\" انطلقت اليوم أعمال مؤتمر الشرق الأوسط للاتصالات الاستراتيجية الرابع عشر «ميستك 2026»، الذي تنظمه وزارة العمل بالتعاون مع المركز الخليجي للاتصالات الاستراتيجية (جي إس سي)، والذي...",
   "published": "2026-10-26",
   "event": null
+ },
+ "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work": {
+  "rules": 3,
+  "checked": "2026-10-26",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "summary": "MUSCAT, OCT 26 The winners of the 2026 Media Excellence Awards were honoured at a ceremony organised by the Ministry of Information at its theatre on...",
+  "published": "2026-10-26",
+  "event": {
+   "name": "Media Excellence Awards",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "venue": "",
+   "organizer": "Ministry of Information"
+  }
  }
 }

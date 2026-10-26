@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:00:03+00:00",
+ "generated_at": "2026-10-26T21:24:06+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -116,6 +116,14 @@
    "status": "Lead – verify"
   },
   {
+   "title": "Media Excellence Awards",
+   "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
+   "source": "news:observer-local",
+   "found": "2026-10-26",
+   "start": "2026-10-26",
+   "status": "Lead – verify"
+  },
+  {
    "title": "New exhibition unveils Al Batinah South’s rich heritage",
    "url": "https://www.omanobserver.om/article/1198616/oman/new-exhibition-unveils-al-batinah-souths-rich-heritage",
    "source": "news:observer-local",
@@ -184,14 +192,6 @@
    "url": "https://allevents.in/muscat/oman-tour/200030860939351",
    "source": "allevents-muscat",
    "found": "2026-10-25",
-   "start": "2026-11-05",
-   "status": "Needs review"
-  },
-  {
-   "title": "The AI ERA Summit Oman 2026",
-   "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
-   "source": "allevents-muscat",
-   "found": "2026-10-26",
    "start": "2026-11-05",
    "status": "Needs review"
   },
