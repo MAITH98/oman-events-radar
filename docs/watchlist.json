@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T12:33:50+00:00",
+ "generated_at": "2026-10-26T08:44:43+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -97,7 +97,7 @@
    "type": "source",
    "events": 1,
    "status": "ok",
-   "page_changed": "2026-10-25"
+   "page_changed": "2026-10-26"
   },
   {
    "entity": "site:omanlegalsummit.com",
@@ -123,14 +123,14 @@
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 9,
+   "events": 8,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-business",
    "type": "source",
-   "events": 2,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,14 +144,14 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 17,
+   "events": 24,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 6,
+   "events": 10,
    "status": "ok",
    "page_changed": ""
   },
