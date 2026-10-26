@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-26T20:52:33+00:00",
+ "generated_at": "2026-10-26T21:00:03+00:00",
  "count": 95,
  "events": [
   {
@@ -1658,7 +1658,7 @@
    "end": "2026-10-26",
    "start_time": "",
    "end_time": "",
-   "previous_start": "2026-10-25",
+   "previous_start": "",
    "venue": "",
    "city": "",
    "region": "Unknown",
@@ -2349,6 +2349,8 @@
    ]
   },
   {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "c5aaee8e3379",
    "version": 2,
@@ -2386,8 +2388,6 @@
     "#OmanEvents",
     "#فعاليات_عمان"
    ],
-   "start_time": "",
-   "end_time": "",
    "removed_on": "2026-10-26"
   },
   {

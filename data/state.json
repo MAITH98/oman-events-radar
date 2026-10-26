@@ -1733,7 +1733,7 @@
    "end": "2026-10-26",
    "start_time": "",
    "end_time": "",
-   "previous_start": "2026-10-25",
+   "previous_start": "",
    "venue": "",
    "city": "",
    "region": "Unknown",
@@ -2456,6 +2456,8 @@
    "fingerprint": "96ba83e90771fb6661963bd113d1313173b823f8"
   },
   "c5aaee8e3379": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "c5aaee8e3379",
    "version": 2,
@@ -2493,8 +2495,6 @@
     "#OmanEvents",
     "#فعاليات_عمان"
    ],
-   "start_time": "",
-   "end_time": "",
    "removed_on": "2026-10-26",
    "series": "arabic icon ramy sabry tamer ashour ocec",
    "fingerprint": null
@@ -4368,7 +4368,7 @@
    "last_ok": "2026-10-26"
   },
   "eventbrite-muscat": {
-   "failures": 3,
+   "failures": 4,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -4388,7 +4388,7 @@
    "last_ok": "2026-10-26"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 9,
+   "failures": 10,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
