@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:24:06+00:00",
+ "generated_at": "2026-10-27T06:51:30+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 18,
+   "events": 19,
    "status": "ok",
    "page_changed": ""
   },
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 2,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,7 +144,7 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 14,
+   "events": 17,
    "status": "ok",
    "page_changed": ""
   },

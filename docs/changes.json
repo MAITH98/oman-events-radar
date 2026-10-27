@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 210,
+ "latest_sequence": 214,
  "changes": [
   {
    "schema_version": "1.0",
@@ -11018,6 +11018,215 @@
      "#التحول_الرقمي"
     ],
     "removed_on": "2026-10-26"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 211,
+   "type": "event.updated",
+   "occurred_at": "2026-10-27T06:51:30+00:00",
+   "event_id": "4a0bbfb0fa42",
+   "event_version": 4,
+   "idempotency_key": "4a0bbfb0fa42:4:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4a0bbfb0fa42",
+    "version": 4,
+    "kind": "event",
+    "title": "Last updated on",
+    "start": "2026-10-26",
+    "end": "2026-10-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "Ministry of Transport, Communications and IT",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.mtcit.gov.om/",
+    "description": "",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Past",
+    "sources": [
+     "organiser:Ministry of Transport, Communications and IT"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#LastUpdatedOn"
+    ],
+    "_fp": "51c0c5a48b6f8e7d4ba0316d73561d507d6e9ce2"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 212,
+   "type": "event.updated",
+   "occurred_at": "2026-10-27T06:51:30+00:00",
+   "event_id": "12253e7a16fe",
+   "event_version": 3,
+   "idempotency_key": "12253e7a16fe:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "12253e7a16fe",
+    "version": 3,
+    "kind": "occasion",
+    "title": "Omani Youth Day",
+    "start": "2026-10-26",
+    "end": "2026-10-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "Oman",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "",
+    "description": "",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "National occasion",
+    "relevance": "High",
+    "score": 0,
+    "confidence": 70,
+    "status": "Past",
+    "sources": [
+     "occasions"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmaniYouthDay"
+    ],
+    "_fp": "63c193d6e7d47500861401de5e42ae6df72d19a1"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 213,
+   "type": "event.updated",
+   "occurred_at": "2026-10-27T06:51:30+00:00",
+   "event_id": "df888b7e5157",
+   "event_version": 3,
+   "idempotency_key": "df888b7e5157:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "df888b7e5157",
+    "version": 3,
+    "kind": "event",
+    "title": "The AI ERA Summit Oman 2026",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "previous_start": "",
+    "venue": "Muscat",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "rm events",
+    "organizer_url": "https://allevents.in/org/rm-events/27412279",
+    "audience": "",
+    "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+    "description": "The AI ERA Summit – Oman 2026, taking place on 5 November 2026 at Muscat, brings together AI innovators, government leaders, enterprise executives, investors, and technology experts to explore Generative AI, Agentic AI, enterprise AI adoption, AI governance, and digital transformation. Discover emer",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 9,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "96ba83e90771fb6661963bd113d1313173b823f8"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 214,
+   "type": "event.created",
+   "occurred_at": "2026-10-27T06:51:30+00:00",
+   "event_id": "cf3b252a164c",
+   "event_version": 1,
+   "idempotency_key": "cf3b252a164c:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "cf3b252a164c",
+    "version": 1,
+    "kind": "event",
+    "title": "قمة عُمان للهيدروجين الأخضر",
+    "start": "2027-04-26",
+    "end": "2027-04-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/396966/%D9%87%D8%A7%D9%8A%D8%AF%D8%B1%D9%88%D9%85-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%85%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-26-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84-2027",
+    "description": "مسقط- الرؤية أعلنت شركة هيدروجين عُمان «هايدروم» انطلاق أعمال قمة عُمان للهيدروجين الأخضر، المقررة في مسقط، خلال الفترة من 26 إلى 28 أبريل 2027، بالتزامن مع أسبوع عُمان للاستدامة. وتنعقد القمة",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "76db4fc5c1ef7652c3bbac5a3d2aecff9e12590b"
    }
   }
  ]
