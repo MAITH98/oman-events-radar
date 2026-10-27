@@ -133,9 +133,11 @@ def run(config_path, offline=False, today=None):
         unhealthy = bool(err) or (not dated and h.get("last_count", 0) >= 3)
         if unhealthy:
             h["failures"] = h.get("failures", 0) + 1
+            # carried records must still pass today's rules (a stricter rule can legitimately empty a watched page)
             carried = [_event_from_record(r) for r in known.values()
                        if src["name"] in r.get("sources", []) and r.get("kind") == "event"
-                       and r.get("status") != "Removed"]
+                       and r.get("status") != "Removed"
+                       and (src["type"] != "page_watch" or adapters.names_an_event(r["title"]))]
             collected += carried
             err = err or "returned 0 events (usually ≥3) – kept previous results"
         else:
