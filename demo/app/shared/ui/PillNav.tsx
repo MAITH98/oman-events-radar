@@ -20,14 +20,14 @@ function isActive(pathname: string, item: NavItem) {
  * ≥ sm: a pill with a sliding highlight under the current page (reference: segmented pill tabs).
  * < sm: a full-width menu button that opens the same links as a vertical list (no sideways rows on phones).
  */
-export function PillNav({ items, label }: { items: NavItem[]; label: string }) {
+export function PillNav({ items, label, other }: { items: NavItem[]; label: string; /** phone button text on pages not in the menu (news, search, credits) */ other: string }) {
   const { pathname } = useLocation();
   const still = usePrefersStill();
   const [open, setOpen] = useState(false);
   const listId = useId();
   const wrap = useRef<HTMLDivElement>(null);
   const button = useRef<HTMLButtonElement>(null);
-  const current = items.find((i) => isActive(pathname, i)) ?? items[0];
+  const current = items.find((i) => isActive(pathname, i));
 
   useEffect(() => setOpen(false), [pathname]);
   useEffect(() => {
@@ -61,7 +61,7 @@ export function PillNav({ items, label }: { items: NavItem[]; label: string }) {
           onClick={() => setOpen((o) => !o)}
           className="neu-raised flex min-h-11 w-full items-center justify-between gap-2 rounded-full px-4 text-sm font-medium"
         >
-          {current.label}
+          {current?.label ?? other}
           <svg aria-hidden="true" viewBox="0 0 20 20" className={`h-4 w-4 transition ${open ? "rotate-180" : ""}`}>
             <path d="M5 7l5 6 5-6" fill="none" stroke="currentColor" strokeWidth="2" />
           </svg>

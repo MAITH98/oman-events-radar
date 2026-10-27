@@ -58,6 +58,7 @@ export function trimLogo(site: string): Promise<TrimmedLogo> {
             }
           }
         }
+        if (lum / ink > 0.85) return resolve(null); // a light mark for dark backgrounds: unreadable on the white strip
         const darkInk = ink / (cw * ch) < 0.55 && lum / ink < 0.4;
         const out = document.createElement("canvas");
         out.width = cw;

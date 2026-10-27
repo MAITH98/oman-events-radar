@@ -12,6 +12,7 @@ export const ar: Dict = {
   dir: "rtl",
   locale: "ar-OM-u-nu-latn",
   nav: {
+    menu: "القائمة",
     skipIntro: "تخطَّ المقدمة",
     home: "الرئيسية",
     calendar: "التقويم",

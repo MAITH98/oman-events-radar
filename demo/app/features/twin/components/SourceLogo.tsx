@@ -10,10 +10,11 @@ function looksBlank(img: HTMLImageElement): boolean {
     if (!ctx) return false;
     ctx.drawImage(img, 0, 0, 16, 16);
     const px = ctx.getImageData(0, 0, 16, 16).data;
-    // a few grey edge pixels (anti-aliasing of a white mark) are not a visible logo: need some real ink
+    // a white or light-grey mark (made for dark backgrounds) is invisible on the white tile: count only pixels clearly
+    // darker than light grey, and a few anti-aliased edge pixels are not enough
     let ink = 0;
     for (let i = 0; i < px.length; i += 4) {
-      if (px[i + 3] > 40 && (px[i] < 225 || px[i + 1] < 225 || px[i + 2] < 225)) ink++;
+      if (px[i + 3] > 40 && 0.2126 * px[i] + 0.7152 * px[i + 1] + 0.0722 * px[i + 2] < 200) ink++;
     }
     return ink < 6;
   } catch {

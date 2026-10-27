@@ -121,7 +121,7 @@ export function NewsFront({ articles, today }: { articles: NewsArticle[]; today:
           <Picture article={lead} className="aspect-[16/9]" lazy={false} />
           <div className="mt-4">
             <Kicker article={lead} />
-            <Headline article={lead} className="mt-2 text-h1 text-ink" />
+            <Headline article={lead} className="mt-2 text-h2 text-ink sm:text-h1" />
             {lead.summary && <p className="mt-3 text-lead text-muted [overflow-wrap:anywhere]" lang={lead.lang}><bdi>{lead.summary}</bdi></p>}
             <AlsoIn article={lead} />
             <EventBox article={lead} />

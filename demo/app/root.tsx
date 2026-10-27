@@ -101,6 +101,7 @@ export default function App() {
           <div className="col-span-2 row-start-2 sm:col-span-1 sm:col-start-2 sm:row-start-1">
             <PillNav
               label={t.nav.main}
+              other={t.nav.menu}
               items={[
                 { to: "/", label: t.nav.home },
                 { to: "/calendar", label: t.nav.calendar, also: ["/events"] },

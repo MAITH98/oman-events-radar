@@ -39,7 +39,7 @@ export default function EventPage({ loaderData }: Route.ComponentProps) {
   // the published time, when the source gives one (Muscat time)
   const time = event.start_time ? (event.end_time ? `${event.start_time}–${event.end_time}` : event.start_time) : "";
   // the time range keeps left-to-right order inside Arabic text ("10:00–19:00", not reversed)
-  const when = time ? <>{formatLongRange(event.start, event.end, locale)} · <span dir="ltr">{time}</span></> : formatLongRange(event.start, event.end, locale);
+  const when = time ? <>{formatLongRange(event.start, event.end, locale)} · <span dir="ltr" className="whitespace-nowrap">{time}</span></> : formatLongRange(event.start, event.end, locale);
   // the radar's source ids ("news:omandaily") shown by name, each once
   const sources = [...new Map(event.sources.map((s) => { const d = describeSource(s); return [d.name, d] as const; })).values()];
   const rows: [string, React.ReactNode][] = [

@@ -26,7 +26,7 @@ export function Hero({ query, suggestions }: { query: string; suggestions: Sugge
       <div className="grid gap-8 lg:grid-cols-[1.35fr_1fr]">
         {/* Three zones: header (eyebrow) pinned to the top, footer (Use the API) pinned to the bottom,
             body (title → 24 → subline → 48 → search) centred between them, at least 48 px from each. */}
-        <div className="flex min-w-0 flex-col gap-12">
+        <div className="flex min-w-0 flex-col gap-8 sm:gap-12">
           <header className="flex items-center gap-3">
             <Eyebrow className="text-muted">{t.hero.eyebrow}</Eyebrow>
             <InfoPopup label={t.hero.infoLabel} title={t.hero.infoTitle} body={t.hero.sub} close={t.hero.infoClose} />
@@ -39,7 +39,7 @@ export function Hero({ query, suggestions }: { query: string; suggestions: Sugge
             <p className="mt-6 text-title text-muted">
               {t.hero.planFor} <RotatingWord words={t.hero.words} className="font-normal text-ink" />
             </p>
-            <div className="mt-12 max-w-xl">
+            <div className="mt-8 max-w-xl sm:mt-12">
               <SearchPill action="/search" label={t.hero.searchLabel} placeholder={t.hero.searchPlaceholder} button={t.hero.searchButton} defaultValue={query}
                 suggestions={suggestions} suggestLabels={t.suggest} />
             </div>

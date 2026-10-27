@@ -26,7 +26,8 @@ function Preview({ result }: { result: SearchResult }) {
   }, []);
 
   return (
-    <div className="well relative aspect-[16/9] overflow-hidden rounded-[var(--radius-control)]">
+    // no picture: a slim strip on phones instead of a large empty frame
+    <div className={`well relative overflow-hidden rounded-[var(--radius-control)] ${state === "none" ? "aspect-[4/1] sm:aspect-[16/9]" : "aspect-[16/9]"}`}>
       <span aria-hidden="true" className={`absolute inset-0 grid place-items-center text-muted transition-opacity ${state === "ready" ? "opacity-0" : "opacity-60"}`}>
         <svg viewBox="0 0 24 24" className="h-10 w-10" fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round">{ICONS[result.kind]}</svg>
       </span>

@@ -4,6 +4,7 @@ export const en = {
   dir: "ltr" as "ltr" | "rtl",
   locale: "en-GB",
   nav: {
+    menu: "Menu",
     skipIntro: "Skip intro",
     home: "Home",
     calendar: "Calendar",
