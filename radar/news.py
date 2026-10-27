@@ -141,6 +141,17 @@ def fold_duplicates(articles):
     return kept
 
 
+def picture(meta, base):
+    """The story's own picture as published for link previews (og:image, then twitter:image): an absolute
+    http(s) URL, or ""."""
+    import urllib.parse
+    raw = (meta.get("og:image") or meta.get("og:image:url") or meta.get("twitter:image") or "").strip()
+    if not raw:
+        return ""
+    url = urllib.parse.urljoin(base, raw)
+    return url if urllib.parse.urlsplit(url).scheme in ("http", "https") and len(url) <= 600 else ""
+
+
 # ---------- article reading ----------
 
 _META = re.compile(r'<meta\s+[^>]*(?:property|name)=["\']([^"\']+)["\'][^>]*content=["\']([^"\']*)["\']', re.I)
@@ -330,7 +341,7 @@ def pick_dates(text, published, today, horizon_days=400, lang="en", title=""):
 
 # ---------- collection ----------
 
-RULES_VERSION = 3  # bump when extraction rules change: cached articles are then read again
+RULES_VERSION = 4  # bump when extraction rules change: cached articles are then read again
 
 def collect(fetcher, cfg, state, today):
     """Returns (articles, events). `state` maps article url → cached extraction."""
@@ -381,6 +392,7 @@ def collect(fetcher, cfg, state, today):
                     "rules": RULES_VERSION,
                     "checked": today.isoformat(),
                     "sections": sections(page, link),
+                    "image": picture(meta, link),
                     "summary": clean(meta.get("og:description") or desc or body[:300], 300),
                     "published": (published or _pub_date(meta.get("article:published_time")) or today).isoformat(),
                     "event": None if not start else {
@@ -406,6 +418,7 @@ def collect(fetcher, cfg, state, today):
             "title": title, "url": link, "source": feed["label"], "lang": feed["lang"],
             "published": cached["published"], "summary": cached.get("summary", ""),
             "event": dict(cached["event"]) if cached.get("event") else None,
+            "image": cached.get("image", ""),
         }
         articles.append(art)
         ev = art["event"]

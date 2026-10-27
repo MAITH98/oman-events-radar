@@ -200,6 +200,7 @@ export async function fetchNews(): Promise<{ generatedAt: string; articles: News
               matchedEventId: str(e.matched_event_id, 40),
             }
           : null,
+        image: safeUrl(str(a.image, 600)) ?? "",
         also: (Array.isArray(a.also) ? a.also : []).flatMap((x) => {
           const o = x && typeof x === "object" ? (x as Record<string, unknown>) : null;
           const href = o ? safeUrl(str(o.url, 600)) : null;

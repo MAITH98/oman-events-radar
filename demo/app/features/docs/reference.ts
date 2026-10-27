@@ -82,7 +82,7 @@ export const ENDPOINTS: Endpoint[] = [
   "count": 37,
   "articles": [
     { "id": "…", "title": "…", "url": "https://…", "source": "Times of Oman", "lang": "en",
-      "published": "2026-10-25", "summary": "…",
+      "published": "2026-10-25", "summary": "…", "image": "https://…/picture.jpg",
       "event": { "start": "2026-11-12", "end": "2026-11-14", "venue": "OCEC", "organizer": "",
                  "matched_event_id": "1a2b3c4d5e6f" },
       "also": [ { "source": "Oman Observer", "url": "https://…", "title": "…" } ] }

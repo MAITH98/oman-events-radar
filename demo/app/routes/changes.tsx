@@ -1,6 +1,6 @@
 import { data, isRouteErrorResponse, Link } from "react-router";
 import type { Route } from "./+types/changes";
-import { fetchChanges, RadarApiError } from "../features/events/api";
+import { fetchChanges, fetchEvents, RadarApiError } from "../features/events/api";
 import { ApiErrorState } from "../features/events/components/ApiErrorState";
 import { Badge } from "../features/events/components/Badges";
 import { formatDay } from "../features/events/filters";
@@ -22,8 +22,10 @@ export function meta({ matches }: Route.MetaArgs) {
 
 export async function loader({}: Route.LoaderArgs) {
   try {
-    const feed = await fetchChanges();
-    return { latestSequence: feed.latestSequence, total: feed.changes.length, changes: feed.changes.slice(0, 50) };
+    const [feed, { events }] = await Promise.all([fetchChanges(), fetchEvents()]);
+    // the feed keeps 60 days; a removed event's record leaves events.json after 30 — only link events that have a page
+    const known = events.map((e) => e.id);
+    return { latestSequence: feed.latestSequence, total: feed.changes.length, changes: feed.changes.slice(0, 50), known };
   } catch (err) {
     if (err instanceof RadarApiError) throw data(err.message, { status: err.status });
     throw err;
@@ -32,6 +34,7 @@ export async function loader({}: Route.LoaderArgs) {
 
 export default function Changes({ loaderData }: Route.ComponentProps) {
   const { t, locale } = useI18n();
+  const known = new Set(loaderData.known);
   return (
     // Home's rhythm: cards 16 px apart
     <div className="space-y-4">
@@ -42,9 +45,13 @@ export default function Changes({ loaderData }: Route.ComponentProps) {
             <li key={c.sequence} className="grid grid-cols-[auto_minmax(0,1fr)] items-center gap-x-3 gap-y-1 py-2.5 sm:grid-cols-[4rem_7rem_minmax(0,1fr)_auto]">
               <span className="text-sm tabular-nums text-muted"><bdi>#{c.sequence}</bdi></span>
               <span><Badge className={TYPE_STYLE[c.type] ?? undefined}>{t.changeType[c.type] ?? c.type}</Badge></span>
-              <Link to={`/events/${c.eventId}`} className="col-span-2 min-w-0 font-medium [overflow-wrap:anywhere] hover:underline sm:col-span-1">
-                <bdi>{c.title}</bdi>
-              </Link>
+              {known.has(c.eventId) ? (
+                <Link to={`/events/${c.eventId}`} className="col-span-2 min-w-0 font-medium [overflow-wrap:anywhere] sm:col-span-1 hover:underline">
+                  <bdi>{c.title}</bdi>
+                </Link>
+              ) : (
+                <span className="col-span-2 min-w-0 font-medium [overflow-wrap:anywhere] sm:col-span-1 text-muted"><bdi>{c.title}</bdi></span>
+              )}
               <span className="col-span-2 text-sm text-muted sm:col-span-1">
                 {formatDay(c.start, locale)} · v{c.eventVersion}
               </span>

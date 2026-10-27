@@ -257,6 +257,19 @@ def _only_places(title):
             or bool(_UI_TEXT.match(title.strip())) or bool(_LABEL.match(title.strip())))
 
 
+# A dated line on an organiser's or venue's page is only a lead when its title names an event; otherwise it is
+# usually a news card, blog post or staff profile with its publication date ("OSW Feature by …", "Hilal … - Manager").
+_EVENT_WORD = re.compile(
+    r"\b(summit|expo|exhibition|show|week|forum|conference|congress|symposium|festival|fair|hackathon|awards?|"
+    r"convention|seminar|workshop|bootcamp|meetup|roadshow|gala|concert|championship|rally|marathon|tour|nights?|"
+    r"days?|ceremony|launch|career fair)\b|مؤتمر|معرض|ملتقى|منتدى|مهرجان|هاكاثون|أسبوع|قمة|جائزة|ندوة|حفل|بطولة",
+    re.I)
+
+
+def names_an_event(title):
+    return bool(_EVENT_WORD.search(title))
+
+
 _DATE_TEXT = re.compile(r"[\d٠-٩]{1,2}\s*[-–]?\s*[\d٠-٩]{0,2}\s+\S+\s+20\d{2}"
                         r"|\S+\s+\d{1,2}(\s*[-–]\s*\d{1,2})?,?\s+20\d{2}")
 
@@ -266,7 +279,7 @@ def _strip_dates(line):
 
 
 def page_watch(fetcher, src):
-    """Every line that contains an explicit date becomes a lead; the title is that line with
+    """Every line that contains an explicit date and names an event becomes a lead; the title is that line with
     the date removed, or the previous line when the line is only a date."""
     page = fetcher.get(src["url"])
     src["_hash"] = hashlib.sha1("\n".join(page_text_lines(page)).encode()).hexdigest()[:16]
@@ -279,7 +292,7 @@ def page_watch(fetcher, src):
             title = _strip_dates(line)
             if _only_places(title) and i:
                 title = _strip_dates(lines[i - 1])
-            if 6 <= len(title) <= 90 and len(title.split()) <= 12 and not _only_places(title):
+            if 6 <= len(title) <= 90 and len(title.split()) <= 12 and not _only_places(title) and names_an_event(title):
                 events.append(Event(title=title, start=start, end=end, url=src["url"],
                                     organizer=src.get("organizer", ""), venue=src.get("venue", ""),
                                     city=src.get("city", ""), source=src["name"]))

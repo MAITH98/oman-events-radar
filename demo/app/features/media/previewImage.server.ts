@@ -30,6 +30,13 @@ async function pageUrlFor(kind: PreviewKind, id: string): Promise<string | null>
 }
 
 async function resolveImageUrl(kind: PreviewKind, id: string): Promise<string | null> {
+  // News: the radar already read the article and recorded its picture — no need to open the page again (some
+  // papers sit behind bot protection that answers the radar's daily read but not a second visit).
+  if (kind === "news") {
+    const { articles } = await fetchNews();
+    const known = articles.find((a) => a.id === id)?.image;
+    if (known) return known;
+  }
   const page = await pageUrlFor(kind, id);
   if (!page) return null;
   const html = await fetchPublic(page, { maxBytes: PAGE_LIMIT, timeoutMs: TIMEOUT_MS, accept: (t) => t === "text/html" || t === "application/xhtml+xml" });

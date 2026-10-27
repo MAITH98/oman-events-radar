@@ -88,7 +88,7 @@ curl -s https://maith98.github.io/oman-events-radar/events.json \
 | `events.ics` / `posts.ics` | Subscribe in Google Calendar / Outlook |
 | `events.json` | Full records (schema below) |
 | `changes.json` | Change feed for systems such as an ERP (see [`docs/INTEGRATION.md`](docs/INTEGRATION.md)) |
-| `news.json` | Event stories from Omani newspapers (EN + AR): `title`, `url`, `source`, `lang`, `published`, `summary`; `event` (name, start, end, venue, organizer, and `matched_event_id` when it matches a calendar record) when the story gives a date; `also` lists other papers' stories about the same event |
+| `news.json` | Event stories from Omani newspapers (EN + AR): `title`, `url`, `source`, `lang`, `published`, `summary`, `image` (the story's own picture URL, as published for link previews, or `""`); `event` (name, start, end, venue, organizer, and `matched_event_id` when it matches a calendar record) when the story gives a date; `also` lists other papers' stories about the same event |
 | `leads.json` | Undated announcements and items waiting for review |
 | `watchlist.json` | Health of every source, venue, organiser and discovered site |
 

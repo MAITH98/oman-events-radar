@@ -176,6 +176,16 @@ class Parsers(unittest.TestCase):
                           ("Oman Petroleum & Energy Show", D(2027, 4, 26), D(2027, 4, 28))])
         self.assertTrue(src["_hash"])
 
+    def test_page_watch_needs_an_event_word(self):
+        # real lines from connectthroughus.com (news cards and profiles with their publication dates)
+        for t in ["OSW Feature by Swathi Suresh", "The global energy transition is entering a new phase",
+                  "Hilal Al Ghaithi - Keey Accounts Manager - Aggrekko",
+                  "A recent development by Petroleum Development Oman (PDO) illustrates this transition."]:
+            self.assertFalse(adapters.names_an_event(t), t)
+        for t in ["Oman Sustainability Week", "Oman Petroleum & Energy Show", "COMEX Global Technology Show",
+                  "ملتقى عُمان للذكاء الاصطناعي", "Muscat Nights"]:
+            self.assertTrue(adapters.names_an_event(t), t)
+
     def test_page_watch_skips_place_and_button_titles(self):
         class F:
             def get(self, url):
@@ -359,6 +369,11 @@ class NewsScreening(unittest.TestCase):
         for title, summary, lang in cases:
             with self.subTest(title=title):
                 self.assertEqual(self.why(title, summary, lang), "")
+
+    def test_picture_is_absolute_http_only(self):
+        self.assertEqual(self.news.picture({"og:image": "/thumb/a.jpg"}, "https://alroya.om/post/1/x"), "https://alroya.om/thumb/a.jpg")
+        self.assertEqual(self.news.picture({"twitter:image": "javascript:alert(1)"}, "https://alroya.om/post/1"), "")
+        self.assertEqual(self.news.picture({}, "https://alroya.om/post/1"), "")
 
     def test_place_is_a_whole_word(self):
         self.assertFalse(self.news._place_hits("الملتقى الأدبي والفني", ["دبي"]))

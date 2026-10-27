@@ -24,5 +24,6 @@ export async function loader({ params }: Route.LoaderArgs) {
     find(params.file ?? "").catch(() => null),
     new Promise<null>((resolve) => setTimeout(() => resolve(null), DEADLINE_MS)),
   ]);
+  if (!img) console.warn(`[media] no picture for ${params.file} (placeholder used)`); // shows in the build log
   return new Response((img ? img.body : PLACEHOLDER) as BodyInit, { headers: { "Content-Type": img?.contentType ?? "image/png" } });
 }

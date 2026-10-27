@@ -67,6 +67,8 @@ export interface NewsArticle {
   published: string;
   summary: string;
   event: NewsEvent | null;
+  /** the story's own picture URL (og:image) as read by the radar, or "" */
+  image: string;
   /** other papers' stories about the same event (the radar folds duplicates into the newest story) */
   also: { source: string; url: string; title: string }[];
 }
