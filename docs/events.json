@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-27T07:34:31+00:00",
- "count": 89,
+ "generated_at": "2026-10-27T07:46:27+00:00",
+ "count": 86,
  "events": [
   {
    "schema_version": "1.0",
@@ -1056,92 +1056,6 @@
   },
   {
    "schema_version": "1.0",
-   "id": "89d897b7ffc1",
-   "version": 2,
-   "kind": "event",
-   "title": "OPES Feature by Swathi Suresh",
-   "start": "2026-10-08",
-   "end": "2026-10-08",
-   "start_time": "",
-   "end_time": "",
-   "previous_start": "",
-   "venue": "",
-   "city": "Muscat",
-   "region": "Oman",
-   "organizer": "CONNECT (Sabco Group)",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omanpetroleumandenergyshow.com/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "Industry & Energy",
-   "relevance": "Low",
-   "score": 2,
-   "confidence": 30,
-   "status": "Past",
-   "sources": [
-    "organiser:CONNECT (Sabco Group)#2"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#OmanEnergy",
-    "#OmanSustainability"
-   ]
-  },
-  {
-   "schema_version": "1.0",
-   "id": "63eaa05db1d7",
-   "version": 2,
-   "kind": "event",
-   "title": "A recent development by Petroleum Development Oman (PDO) illustrates this transition.",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "start_time": "",
-   "end_time": "",
-   "previous_start": "",
-   "venue": "",
-   "city": "Muscat",
-   "region": "Oman",
-   "organizer": "CONNECT (Sabco Group)",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omanpetroleumandenergyshow.com/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "Industry & Energy",
-   "relevance": "Low",
-   "score": 2,
-   "confidence": 30,
-   "status": "Past",
-   "sources": [
-    "organiser:CONNECT (Sabco Group)#2"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان",
-    "#OmanEnergy",
-    "#OmanSustainability"
-   ]
-  },
-  {
-   "schema_version": "1.0",
    "id": "7198684e3081",
    "version": 2,
    "kind": "event",
@@ -1182,47 +1096,6 @@
     "#OmanEducation",
     "#Careers",
     "#EdutracOman"
-   ]
-  },
-  {
-   "schema_version": "1.0",
-   "id": "3f6633634cb7",
-   "version": 2,
-   "kind": "event",
-   "title": "Hilal Al Ghaithi - Keey Accounts Manager - Aggrekko",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "start_time": "",
-   "end_time": "",
-   "previous_start": "",
-   "venue": "",
-   "city": "Muscat",
-   "region": "Oman",
-   "organizer": "CONNECT (Sabco Group)",
-   "organizer_url": "",
-   "audience": "",
-   "url": "https://www.omanpetroleumandenergyshow.com/",
-   "description": "",
-   "ticket_deadline": "",
-   "ticket_price": "",
-   "category": "General",
-   "relevance": "Low",
-   "score": 0,
-   "confidence": 30,
-   "status": "Past",
-   "sources": [
-    "organiser:CONNECT (Sabco Group)#2"
-   ],
-   "tiers": [
-    "D"
-   ],
-   "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
-   "workflow": {},
-   "hashtags": [
-    "#Oman",
-    "#OmanEvents",
-    "#فعاليات_عمان"
    ]
   },
   {
@@ -3298,7 +3171,7 @@
   {
    "schema_version": "1.0",
    "id": "614569cf5a96",
-   "version": 2,
+   "version": 3,
    "kind": "event",
    "title": "VISIT WEBSITE",
    "start": "2027-04-18",
@@ -3320,7 +3193,7 @@
    "relevance": "Low",
    "score": 0,
    "confidence": 30,
-   "status": "Lead – verify",
+   "status": "Removed",
    "sources": [
     "organiser:CONNECT (Sabco Group)"
    ],
@@ -3335,7 +3208,8 @@
     "#OmanEvents",
     "#فعاليات_عمان",
     "#VISITWEBSITE"
-   ]
+   ],
+   "removed_on": "2026-10-27"
   },
   {
    "schema_version": "1.0",

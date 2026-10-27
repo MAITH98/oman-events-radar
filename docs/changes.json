@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 214,
+ "latest_sequence": 215,
  "changes": [
   {
    "schema_version": "1.0",
@@ -11227,6 +11227,58 @@
      "#فعاليات_عمان"
     ],
     "_fp": "76db4fc5c1ef7652c3bbac5a3d2aecff9e12590b"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 215,
+   "type": "event.removed",
+   "occurred_at": "2026-10-27T07:46:27+00:00",
+   "event_id": "614569cf5a96",
+   "event_version": 3,
+   "idempotency_key": "614569cf5a96:3:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "614569cf5a96",
+    "version": 3,
+    "kind": "event",
+    "title": "VISIT WEBSITE",
+    "start": "2027-04-18",
+    "end": "2027-04-21",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "CONNECT (Sabco Group)",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.connectthroughus.com/",
+    "description": "",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Removed",
+    "sources": [
+     "organiser:CONNECT (Sabco Group)"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VISITWEBSITE"
+    ],
+    "removed_on": "2026-10-27"
    }
   }
  ]
