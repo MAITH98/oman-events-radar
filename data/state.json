@@ -3312,6 +3312,8 @@
    "fingerprint": null
   },
   "614569cf5a96": {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "614569cf5a96",
    "version": 3,
@@ -3319,8 +3321,6 @@
    "title": "VISIT WEBSITE",
    "start": "2027-04-18",
    "end": "2027-04-21",
-   "start_time": "",
-   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "",
@@ -3972,7 +3972,7 @@
    "last_ok": "2026-10-27"
   },
   "eventbrite-muscat": {
-   "failures": 8,
+   "failures": 9,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
@@ -3992,12 +3992,12 @@
    "last_ok": "2026-10-27"
   },
   "organiser:CONNECT (Sabco Group)": {
-   "failures": 14,
+   "failures": 15,
    "last_count": 3,
    "last_ok": "2026-10-25"
   },
   "organiser:CONNECT (Sabco Group)#2": {
-   "failures": 2,
+   "failures": 3,
    "last_count": 4,
    "last_ok": "2026-10-27"
   },

@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-27T07:46:27+00:00",
+ "generated_at": "2026-10-27T08:50:49+00:00",
  "count": 39,
  "articles": [
   {
@@ -13,6 +13,24 @@
    "summary": "TV BRICS will act as the event’s international media partner",
    "event": null,
    "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793067639-1793067639-ps3mpdfdgtih-700x400.jpg"
+  },
+  {
+   "id": "041604365c05",
+   "title": "منتدى \"مسقط للمرونة البحرية 2026\" يستعرض تحديات القطاع وفرص تعزيز سلاسل الإمداد",
+   "url": "https://alroya.om/post/396982/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-2026-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D9%88%D9%81%D8%B1%D8%B5-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-27",
+   "summary": "مسقط- العمانية بدأت اليوم بمسقط أعمال منتدى \"مسقط للمرونة البحرية 2026\"، لاستعراض التحديات التي تواجه القطاع البحري، والتجارب والخبرات العملية، وبحث فرص تعزيز التعاون بين مختلف مكونات المنظومة البح",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/lzIvV.jpeg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1213538",
+     "title": "منتدى مسقط للمرونة البحرية يستعرض سبل تعزيز جاهزية الشبكات البحرية"
+    }
+   ]
   },
   {
    "id": "d58aa41ea485",
@@ -88,24 +106,6 @@
    "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793013689-1793013689-jtrxybwbrsta-700x400.jpeg"
   },
   {
-   "id": "793c511cc83f",
-   "title": "Conference on Language, Literature in Light of Interdisciplinary Studies Begins",
-   "url": "https://timesofoman.com//article/178393-conference-on-language-literature-in-light-of-interdisciplinary-studies-begins",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-10-26",
-   "summary": "The proceedings of the sixth international scientific conference of the Department of Arabic Language and Literature, titled \"Language and Literature in Light of Interdisciplinary Studies,\" opened on Monday at Sultan Qaboos University (SQU)",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793012322-1793012322-9ztr8uvkmhkw.jpg",
-   "also": [
-    {
-     "source": "Oman Observer",
-     "url": "https://www.omanobserver.om/article/1198614/oman/squ-conference-explores-arabic-language-and-literature",
-     "title": "SQU conference explores Arabic language and literature"
-    }
-   ]
-  },
-  {
    "id": "79f230dcae55",
    "title": "Media Excellence Awards honour outstanding work",
    "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
@@ -172,6 +172,17 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3557982.jpg"
+  },
+  {
+   "id": "e85efc9ab3a9",
+   "title": "SQU conference explores Arabic language and literature",
+   "url": "https://www.omanobserver.om/article/1198614/oman/squ-conference-explores-arabic-language-and-literature",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-26",
+   "summary": "MUSCAT: The proceedings of the sixth international scientific conference of the Department of Arabic Language and Literature, titled 'Language...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3557976.jpg"
   },
   {
    "id": "536e22247530",
@@ -373,17 +384,6 @@
    "summary": "انطلقت اليوم في الجامعة العربية المفتوحة بمسقط أعمال «مؤتمر المبتكرين والمبدعين العرب»، تحت شعار «ابتكار ملهم.. تنمية مزدهرة»، ويستمر ثلاثة أيام. رعى حفل افتتاح المؤتمر سعادة الدكتور سيف بن...",
    "event": null,
    "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/26/thumbs/400x400/3557619.jpg"
-  },
-  {
-   "id": "42820ba052da",
-   "title": "\"ميستك 2026\" يناقش مستقبل الاتصال المؤثر في عصر المنصات الرقمية",
-   "url": "https://www.omandaily.om/article/1213492",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-26",
-   "summary": "\"تصوير: هدى البحري\" انطلقت اليوم أعمال مؤتمر الشرق الأوسط للاتصالات الاستراتيجية الرابع عشر «ميستك 2026»، الذي تنظمه وزارة العمل بالتعاون مع المركز الخليجي للاتصالات الاستراتيجية (جي إس سي)، والذي...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/26/thumbs/400x400/3557486.jpg"
   },
   {
    "id": "485565071bc7",

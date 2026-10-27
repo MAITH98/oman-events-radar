@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-27T07:46:27+00:00",
+ "generated_at": "2026-10-27T08:50:49+00:00",
  "count": 86,
  "events": [
   {
@@ -3169,6 +3169,8 @@
    "removed_on": "2026-10-25"
   },
   {
+   "start_time": "",
+   "end_time": "",
    "schema_version": "1.0",
    "id": "614569cf5a96",
    "version": 3,
@@ -3176,8 +3178,6 @@
    "title": "VISIT WEBSITE",
    "start": "2027-04-18",
    "end": "2027-04-21",
-   "start_time": "",
-   "end_time": "",
    "previous_start": "",
    "venue": "",
    "city": "",
