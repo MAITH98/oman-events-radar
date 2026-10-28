@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 215,
+ "latest_sequence": 220,
  "changes": [
   {
    "schema_version": "1.0",
@@ -11279,6 +11279,280 @@
      "#VISITWEBSITE"
     ],
     "removed_on": "2026-10-27"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 216,
+   "type": "event.updated",
+   "occurred_at": "2026-10-28T09:30:36+00:00",
+   "event_id": "4d7b93930fdc",
+   "event_version": 4,
+   "idempotency_key": "4d7b93930fdc:4:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4d7b93930fdc",
+    "version": 4,
+    "kind": "event",
+    "title": "High Impact Marketing for Startups Workshop",
+    "start": "2026-10-28",
+    "end": "2026-10-28",
+    "start_time": "15:30",
+    "end_time": "17:30",
+    "previous_start": "",
+    "venue": "OmanTel HQ",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Omantel Innovation Labs",
+    "organizer_url": "https://allevents.in/org/omantel-innovation-labs/18747951",
+    "audience": "",
+    "url": "https://allevents.in/muscat/high-impact-marketing-for-startups-workshop/100001988748544432",
+    "description": "How Can Startups Build Strong Brands from Day One?",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Startups & SMEs",
+    "relevance": "High",
+    "score": 11,
+    "confidence": 75,
+    "status": "Ongoing",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "workflow": {
+     "brief": "2026-10-07",
+     "announce": "2026-10-14",
+     "design_lock": "2026-10-21",
+     "reminder": "2026-10-25",
+     "live": "2026-10-28",
+     "recap": "2026-10-29"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanStartups",
+     "#Entrepreneurship",
+     "#ريادة_الأعمال"
+    ],
+    "_fp": "2a6d9589de38c30d57a79aff22dc6ca7f0d2579e"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 217,
+   "type": "event.updated",
+   "occurred_at": "2026-10-28T09:30:36+00:00",
+   "event_id": "108402730c44",
+   "event_version": 3,
+   "idempotency_key": "108402730c44:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "108402730c44",
+    "version": 3,
+    "kind": "event",
+    "title": "Muscat art",
+    "start": "2026-10-28",
+    "end": "2026-10-30",
+    "start_time": "14:00",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://ocec.om/event/muscat-art/",
+    "description": "The Muscat Art exhibition stands as a yearly occasion that unites local and international artists alongside galleries. At its core, this event is driven by a fundamental goal: to elevate cultural consciousness and protect artistic legacies for the generations that follow",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Ongoing",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#MuscatArt"
+    ],
+    "_fp": "b4df29d09fd6d8b18ea7245bbee0f4fb9c09d087"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 218,
+   "type": "event.created",
+   "occurred_at": "2026-10-28T09:30:36+00:00",
+   "event_id": "4c6938eb9b39",
+   "event_version": 1,
+   "idempotency_key": "4c6938eb9b39:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4c6938eb9b39",
+    "version": 1,
+    "kind": "event",
+    "title": "‘Ray of Hope’ festival for children with disabilities opens",
+    "start": "2026-10-30",
+    "end": "2026-10-30",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "Association for Children",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1198692/oman/ray-of-hope-festival-for-children-with-disabilities-opens",
+    "description": "MUSCAT: The 'Ray of Hope' festival, organised by the Association for Children with Disabilities, opened on Monday at the Oman Automobile...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat"
+    ],
+    "_fp": "b7fc9f949b5c6506eb367afcf68da159af6287a5"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 219,
+   "type": "event.created",
+   "occurred_at": "2026-10-28T09:30:36+00:00",
+   "event_id": "290a1907857f",
+   "event_version": 1,
+   "idempotency_key": "290a1907857f:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "290a1907857f",
+    "version": 1,
+    "kind": "event",
+    "title": "مهرجان عُمان للعلوم 2026",
+    "start": "2026-11-02",
+    "end": "2026-11-02",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397057/500-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-2026-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+    "description": "◄ أمبوسعيدي: المهرجان منصة وطنية للتعلم والاستكشاف والإلهام ◄ إطلاق برنامج \"عجائب الكون\" بالتعاون مع المنظمة الأوروبية للأبحاث النووية ◄ المهرجان يسعى لمواكبة التطورات التقنية والتحول الرقم",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "dbfce5d23d7f868d1fc1cfda9be77ba016a00da0"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 220,
+   "type": "event.removed",
+   "occurred_at": "2026-10-28T09:30:36+00:00",
+   "event_id": "df888b7e5157",
+   "event_version": 4,
+   "idempotency_key": "df888b7e5157:4:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "df888b7e5157",
+    "version": 4,
+    "kind": "event",
+    "title": "The AI ERA Summit Oman 2026",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "previous_start": "",
+    "venue": "Muscat",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "rm events",
+    "organizer_url": "https://allevents.in/org/rm-events/27412279",
+    "audience": "",
+    "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+    "description": "The AI ERA Summit – Oman 2026, taking place on 5 November 2026 at Muscat, brings together AI innovators, government leaders, enterprise executives, investors, and technology experts to explore Generative AI, Agentic AI, enterprise AI adoption, AI governance, and digital transformation. Discover emer",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 9,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "removed_on": "2026-10-28"
    }
   }
  ]
