@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T09:30:36+00:00",
+ "generated_at": "2026-10-29T09:44:06+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,12 +92,20 @@
    "found": "2026-10-25"
   },
   {
-   "title": "17th MIDDLE EAST ENTERPRISE AI & ANALYTICS SUMMIT",
-   "url": "https://allevents.in/muscat/17th-middle-east-enterprise-ai-and-analytics-summit-tickets/80003528776739",
-   "source": "allevents-muscat",
+   "title": "الملتقى الأدبي والفني",
+   "url": "https://alroya.om/post/397108/%D8%BA%D8%AF%D8%A7-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%8A-%D8%A8%D8%B5%D8%AD%D8%A7%D8%B1",
+   "source": "news:alroya",
    "found": "2026-10-25",
-   "start": "2026-10-28",
-   "status": "Needs review"
+   "start": "2026-10-29",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "Documentary Exhibition",
+   "url": "https://www.omanobserver.om/article/1198769/oman/education/exhibition-showcases-over-2000-historical-documents-artefacts",
+   "source": "news:observer-local",
+   "found": "2026-10-29",
+   "start": "2026-10-30",
+   "status": "Lead – verify"
   },
   {
    "title": "NEMR: Rampant Disorder Stand Up Comedy Show in Muscat",
@@ -145,6 +153,14 @@
    "source": "news:alroya",
    "found": "2026-10-28",
    "start": "2026-11-02",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "مؤتمر الدولي للحوسبة وتحليل البيانات",
+   "url": "https://alroya.om/post/397096/4-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
+   "source": "news:alroya",
+   "found": "2026-10-29",
+   "start": "2026-11-04",
    "status": "Lead – verify"
   },
   {
@@ -236,14 +252,6 @@
    "status": "Expected – confirm"
   },
   {
-   "title": "قمة عُمان للهيدروجين الأخضر",
-   "url": "https://alroya.om/post/396966/%D9%87%D8%A7%D9%8A%D8%AF%D8%B1%D9%88%D9%85-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%85%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-26-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84-2027",
-   "source": "news:alroya",
-   "found": "2026-10-27",
-   "start": "2027-04-26",
-   "status": "Lead – verify"
-  },
-  {
    "title": "Enterprise AI Expo 2027",
    "url": "https://aienterpriseexpo.com/",
    "source": "recurrence",
@@ -265,6 +273,22 @@
    "source": "recurrence",
    "found": "2026-10-25",
    "start": "2027-08-18",
+   "status": "Expected – confirm"
+  },
+  {
+   "title": "17th MIDDLE EAST ENTERPRISE AI & ANALYTICS SUMMIT",
+   "url": "https://allevents.in/muscat/17th-middle-east-enterprise-ai-and-analytics-summit-tickets/80003528776739",
+   "source": "recurrence",
+   "found": "2026-10-29",
+   "start": "2027-10-27",
+   "status": "Expected – confirm"
+  },
+  {
+   "title": "High Impact Marketing for Startups Workshop",
+   "url": "https://allevents.in/muscat/high-impact-marketing-for-startups-workshop/100001988748544432",
+   "source": "recurrence",
+   "found": "2026-10-29",
+   "start": "2027-10-27",
    "status": "Expected – confirm"
   }
  ]
