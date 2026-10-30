@@ -1802,5 +1802,83 @@
   "summary": "استعرض ملتقى «مدن سعيدة ومزدهرة للجميع»، الذي نظمته المديرية العامة للإسكان والتخطيط العمراني بمحافظة الداخلية، ضمن فعاليات أكتوبر العمران 2026تحت شعار\" زاهية بناسها\" عددًا من الرؤى والتوجهات...",
   "published": "2026-10-28",
   "event": null
+ },
+ "https://timesofoman.com//article/178535-oman-participates-in-algiers-international-book-fair-2026": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [],
+  "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793293147-1793293146-g1mept0uxuvx-700x400.jpg",
+  "summary": "The participation aims at enhancing the Sultanate of Oman’s cultural presence at premier international book fairs",
+  "published": "2026-10-29",
+  "event": null
+ },
+ "https://www.omanobserver.om/article/1198803/oman/literary-artistic-forum-spotlights-omani-talents": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/29/thumbs/600x600/3561501.jpg",
+  "summary": "SUHAR, OCT 29 Emerging writers, poets and performers took the centre stage as the 28th Literary and Artistic Forum concluded in Sohar bringing...",
+  "published": "2026-10-29",
+  "event": {
+   "name": "Artistic Forum",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "venue": "Sohar",
+   "organizer": ""
+  }
+ },
+ "https://www.omanobserver.om/article/1198799/oman/oman-calls-for-biodiversity-conservation": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/29/thumbs/600x600/3561487.jpg",
+  "summary": "YEREVAN: The Sultanate of Oman, represented by the Environment Authority, participated in the High-Level Ministerial Segment of the 17th Conference of...",
+  "published": "2026-10-29",
+  "event": null
+ },
+ "https://alroya.om/post/397154/%D9%88%D8%B1%D8%B4%D8%A9-%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [
+   "الرئيسية",
+   "أخبار",
+   "محليات"
+  ],
+  "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/U9bvX.jpeg",
+  "summary": "مسقط- الرؤية في إطار جهودها الرامية إلى تعزيز الوعي بأحكام قانون حماية البيانات الشخصية ولائحته التنفيذية، نظمت اليوم وزارة النقل والاتصالات وتقنية المعلومات، بالتعاون مع كلية الخليج ورشة توعوية ب",
+  "published": "2026-10-29",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213760": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الاقتصادية"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561348.jpg",
+  "summary": "نظّمت جمعية المرأة العُمانية بجعلان بني بوحسن بمحافظة جنوب الشرقية ورشة تدريبية بعنوان «صناعة الألبان والأجبان الطازجة»، بمشاركة عدد من عضوات الجمعية وطالبات مدرسة الرفعة ومنتسبي مركز الوفاء، في...",
+  "published": "2026-10-29",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1213747": {
+  "rules": 4,
+  "checked": "2026-10-30",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561208.jpg",
+  "summary": "العُمانية/ شاركت سلطنة عُمان في أعمال الدورة السابعة والعشرين للجمعية العامة للمنظمة الدولية للحماية المدنية (ICDO)، التي بدأت اليوم بمركز جنيف الدولي للمؤتمرات. ويترأس وفد سلطنة عُمان اللواء...",
+  "published": "2026-10-29",
+  "event": null
  }
 }

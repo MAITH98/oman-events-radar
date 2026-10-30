@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:44:06+00:00",
+ "generated_at": "2026-10-30T09:50:17+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 16,
+   "events": 17,
    "status": "ok",
    "page_changed": ""
   },
@@ -116,14 +116,14 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 12,
+   "events": 10,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,14 +144,14 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 19,
+   "events": 13,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 8,
+   "events": 2,
    "status": "ok",
    "page_changed": ""
   },

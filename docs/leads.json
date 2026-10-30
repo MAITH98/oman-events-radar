@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:44:06+00:00",
+ "generated_at": "2026-10-30T09:50:17+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,14 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "الملتقى الأدبي والفني",
-   "url": "https://alroya.om/post/397108/%D8%BA%D8%AF%D8%A7-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%8A-%D8%A8%D8%B5%D8%AD%D8%A7%D8%B1",
-   "source": "news:alroya",
-   "found": "2026-10-25",
-   "start": "2026-10-29",
-   "status": "Lead – verify"
-  },
-  {
    "title": "Documentary Exhibition",
    "url": "https://www.omanobserver.om/article/1198769/oman/education/exhibition-showcases-over-2000-historical-documents-artefacts",
    "source": "news:observer-local",
@@ -132,28 +124,12 @@
    "status": "Needs review"
   },
   {
-   "title": "Ibri to host Agriculture Day exhibition on Oct 31",
-   "url": "https://www.omanobserver.om/article/1198617/oman/ibri-to-host-agriculture-day-exhibition-on-oct-31",
-   "source": "news:observer-local",
-   "found": "2026-10-26",
-   "start": "2026-10-31",
-   "status": "Lead – verify"
-  },
-  {
    "title": "OMÁN- Safari potápění ..A jedeme spolu s Andy a Vláďou",
    "url": "https://allevents.in/muscat/omÁn-safari-potápění-a-jedeme-spolu-s-andy-a-vláďou/200030638458803",
    "source": "allevents-muscat",
    "found": "2026-10-25",
    "start": "2026-10-31",
    "status": "Needs review"
-  },
-  {
-   "title": "مهرجان عُمان للعلوم 2026",
-   "url": "https://alroya.om/post/397057/500-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-2026-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-   "source": "news:alroya",
-   "found": "2026-10-28",
-   "start": "2026-11-02",
-   "status": "Lead – verify"
   },
   {
    "title": "مؤتمر الدولي للحوسبة وتحليل البيانات",
@@ -236,6 +212,14 @@
    "status": "Expected – confirm"
   },
   {
+   "title": "Global Higher Education Exhibition Oman",
+   "url": "https://allevents.in/muscat/global-higher-education-exhibition-oman/3700030933498648",
+   "source": "allevents-muscat",
+   "found": "2026-10-30",
+   "start": "2027-04-11",
+   "status": "Needs review"
+  },
+  {
    "title": "The Oman Design & Build Week",
    "url": "https://allevents.in/muscat/the-oman-design-and-build-week/3700030903449301",
    "source": "allevents-muscat",
@@ -273,14 +257,6 @@
    "source": "recurrence",
    "found": "2026-10-25",
    "start": "2027-08-18",
-   "status": "Expected – confirm"
-  },
-  {
-   "title": "17th MIDDLE EAST ENTERPRISE AI & ANALYTICS SUMMIT",
-   "url": "https://allevents.in/muscat/17th-middle-east-enterprise-ai-and-analytics-summit-tickets/80003528776739",
-   "source": "recurrence",
-   "found": "2026-10-29",
-   "start": "2027-10-27",
    "status": "Expected – confirm"
   },
   {

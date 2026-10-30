@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 227,
+ "latest_sequence": 228,
  "changes": [
   {
    "schema_version": "1.0",
@@ -11924,6 +11924,59 @@
      "#MuscatArt"
     ],
     "removed_on": "2026-10-29"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 228,
+   "type": "event.created",
+   "occurred_at": "2026-10-30T09:50:17+00:00",
+   "event_id": "a08dc4e4bbba",
+   "event_version": 1,
+   "idempotency_key": "a08dc4e4bbba:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a08dc4e4bbba",
+    "version": 1,
+    "kind": "event",
+    "title": "Global Higher Education Exhibition Oman",
+    "start": "2027-04-11",
+    "end": "2027-04-13",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/global-higher-education-exhibition-oman/3700030933498648",
+    "description": "The Global Higher Education Exhibition (GHEDEX) 2025 is set to take place at the Oman Convention & Exhibition Centre in Muscat, Oman. As the 24th edition of this esteemed event, GHEDEX serves as a premier platform dedicated to academic excellence and career exploration. With a strong focus on higher",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Education & Careers",
+    "relevance": "Medium",
+    "score": 3,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEducation",
+     "#Careers"
+    ],
+    "_fp": "ae3bcbcfba7277cc0b231fb936b3dc24789d9e5d"
    }
   }
  ]

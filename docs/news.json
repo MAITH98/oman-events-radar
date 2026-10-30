@@ -1,8 +1,58 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-29T09:44:06+00:00",
- "count": 42,
+ "generated_at": "2026-10-30T09:50:17+00:00",
+ "count": 29,
  "articles": [
+  {
+   "id": "56cf5b06548e",
+   "title": "Oman participates in Algiers International Book Fair 2026",
+   "url": "https://timesofoman.com//article/178535-oman-participates-in-algiers-international-book-fair-2026",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-10-29",
+   "summary": "The participation aims at enhancing the Sultanate of Oman’s cultural presence at premier international book fairs",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793293147-1793293146-g1mept0uxuvx-700x400.jpg"
+  },
+  {
+   "id": "cdac822348cf",
+   "title": "Literary, artistic forum spotlights Omani talents",
+   "url": "https://www.omanobserver.om/article/1198803/oman/literary-artistic-forum-spotlights-omani-talents",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-29",
+   "summary": "SUHAR, OCT 29 Emerging writers, poets and performers took the centre stage as the 28th Literary and Artistic Forum concluded in Sohar bringing...",
+   "event": {
+    "name": "Artistic Forum",
+    "start": "2026-10-29",
+    "end": "2026-10-29",
+    "venue": "Sohar",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/29/thumbs/600x600/3561501.jpg"
+  },
+  {
+   "id": "f145fc7c0bff",
+   "title": "Oman calls for biodiversity conservation",
+   "url": "https://www.omanobserver.om/article/1198799/oman/oman-calls-for-biodiversity-conservation",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-29",
+   "summary": "YEREVAN: The Sultanate of Oman, represented by the Environment Authority, participated in the High-Level Ministerial Segment of the 17th Conference of...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/29/thumbs/600x600/3561487.jpg"
+  },
+  {
+   "id": "bfcab0b83eba",
+   "title": "ورشة توعوية لقطاع التعليم حول قانون حماية البيانات الشخصية",
+   "url": "https://alroya.om/post/397154/%D9%88%D8%B1%D8%B4%D8%A9-%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-29",
+   "summary": "مسقط- الرؤية في إطار جهودها الرامية إلى تعزيز الوعي بأحكام قانون حماية البيانات الشخصية ولائحته التنفيذية، نظمت اليوم وزارة النقل والاتصالات وتقنية المعلومات، بالتعاون مع كلية الخليج ورشة توعوية ب",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/U9bvX.jpeg"
+  },
   {
    "id": "94c2a7feeda9",
    "title": "\"منتدى عُمان للشلل الدماغي لدى الأطفال\" يوصي بدعم برامج التدريب والتطوير المهني",
@@ -24,6 +74,28 @@
    "summary": "◄ تظاهرة فنية وثقافية تجمع أكثر من 300 فنان من سلطنة عُمان ومختلف دول العالم مسقط- العُمانية رعى صاحب السمو السيد بلعرب بن هيثم آل سعيد، وزير الدولة ومحافظ مسقط، أمس، أعمال النسخة الخامسة من معر",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/OiFXY.jpeg"
+  },
+  {
+   "id": "dfac0b24d62a",
+   "title": "ورشة تدريبية بجعلان بني بوحسن لتعزيز ثقافة الإنتاج الذاتي",
+   "url": "https://www.omandaily.om/article/1213760",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-29",
+   "summary": "نظّمت جمعية المرأة العُمانية بجعلان بني بوحسن بمحافظة جنوب الشرقية ورشة تدريبية بعنوان «صناعة الألبان والأجبان الطازجة»، بمشاركة عدد من عضوات الجمعية وطالبات مدرسة الرفعة ومنتسبي مركز الوفاء، في...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561348.jpg"
+  },
+  {
+   "id": "2e7f630dafa0",
+   "title": "سلطنة عُمان تُشارك في الدورة الـ27 للجمعية العامة للمنظمة الدولية للحماية المدنية",
+   "url": "https://www.omandaily.om/article/1213747",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-29",
+   "summary": "العُمانية/ شاركت سلطنة عُمان في أعمال الدورة السابعة والعشرين للجمعية العامة للمنظمة الدولية للحماية المدنية (ICDO)، التي بدأت اليوم بمركز جنيف الدولي للمؤتمرات. ويترأس وفد سلطنة عُمان اللواء...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561208.jpg"
   },
   {
    "id": "ff67a014f992",
@@ -206,133 +278,6 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/c1ysF.jpeg"
   },
   {
-   "id": "7a47ecc63641",
-   "title": "مناقشة مستجدات التعليم العسكري في عصر الذكاء الاصطناعي",
-   "url": "https://alroya.om/post/397061/%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- العُمانية نظّم الجيش السلطاني العُماني ممثّلًا بأكاديمية الجيش السلطاني العُماني أمس ندوة \"التعليم العسكري في عصر الذكاء الاصطناعي\"، تحت رعاية اللواء الركن مطر بن سالم البلوشي قائد الجيش السل",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/s3qEw.jpeg"
-  },
-  {
-   "id": "38e6e9a8ef48",
-   "title": "500 فعالية وورشة عمل مع انطلاق \"مهرجان عُمان للعلوم 2026\".. الإثنين المقبل",
-   "url": "https://alroya.om/post/397057/500-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-2026-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "◄ أمبوسعيدي: المهرجان منصة وطنية للتعلم والاستكشاف والإلهام ◄ إطلاق برنامج \"عجائب الكون\" بالتعاون مع المنظمة الأوروبية للأبحاث النووية ◄ المهرجان يسعى لمواكبة التطورات التقنية والتحول الرقم",
-   "event": {
-    "name": "مهرجان عُمان للعلوم 2026",
-    "start": "2026-11-02",
-    "end": "2026-11-02",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/WjJkq.jpeg"
-  },
-  {
-   "id": "0bcb879e60cc",
-   "title": "إبراز المبادرات والمشروعات النسائية التطوعية والصالونات الثقافية",
-   "url": "https://alroya.om/post/397055/%D8%A5%D8%A8%D8%B1%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B9%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- الرؤية نظَّمت أكاديمية المرأة العُمانية، بالشراكة مع وزارة الصحة، معرض «قمة الأثر المستدام للمرأة» بمبنى ديوان عام الوزارة، ضمن الاحتفال بيوم المرأة العُمانية بهدف تسليط الضوء على المبادرات و",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/PAKDF.jpeg"
-  },
-  {
-   "id": "3abb4811c7e9",
-   "title": "\"فن مسقط\" بنسخته الخامسة يجمع أكثر من 1500 عمل من 15 دولة",
-   "url": "https://www.omandaily.om/article/1213708",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "افتتح اليوم معرض \"فن مسقط\" بنسخته الخامسة تحت رعاية صاحب السمو السيد بلعرب بن هيثم آل سعيد وزير الدولة ومحافظ مسقط، وحضور جمع من المهتمين بالفن من داخل عمان وخارجها. ويمثل المعرض الذي يضم أكثر من 1500...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560625.jpg"
-  },
-  {
-   "id": "c26b3bbaeb5b",
-   "title": "الملتقى الثقافي الرابع ببهلا يكرّم المشاركين في حفل استعرض أبرز محطاته",
-   "url": "https://www.omandaily.om/article/1213691",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "اختتمت بقاعة الجوري بجمعية المرأة العُمانية بولاية بهلا فعاليات الملتقى الثقافي الرابع لمنطقة امتياز شركة تنمية نفط عُمان، الذي نظمته الشركة بالتعاون مع النادي الثقافي على مدى ثلاثة أيام، برعاية...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560285.jpg"
-  },
-  {
-   "id": "ca85bf5e9b0e",
-   "title": "ندوة «جنوب الباطنة في ذاكرة التاريخ العُماني» توصي بتوثيق الإرث الفكري واستثمار الموارد التاريخية والثقافية للمحافظة",
-   "url": "https://www.omandaily.om/article/1213690",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "دعت ندوة «محافظة جنوب الباطنة في ذاكرة التاريخ العُماني» إلى توسيع نطاق البحث والتوثيق التاريخي للمحافظة من خلال جمع المخطوطات والوثائق وتحقيقها وإتاحتها للنشر العلمي، وإعداد موسوعات تخصصية...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560279.jpg"
-  },
-  {
-   "id": "70949a762720",
-   "title": "مؤتمر الطب النفسي الدولي يستعرض أحدث المستجدات في العلاجات السلوكية والدوائية",
-   "url": "https://www.omandaily.om/article/1213686",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "العُمانية: افتتحت المدينة الطبية للأجهزة العسكرية والأمنية اليوم في مسقط أعمال مؤتمر الطب النفسي الدولي الثاني 2026، ويستمر يومين. رعى افتتاح المؤتمر معالي الدكتور سعود بن حمود الحبسي وزير الثروة...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560156.jpg"
-  },
-  {
-   "id": "dc9b5a53d113",
-   "title": "الملتقى العربي الخامس بجامعة السلطان قابوس يستعرض التحولات في مجال الإعلام والاتصال",
-   "url": "https://www.omandaily.om/article/1213685",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "\"عمان\": انطلقت اليوم الأربعاء بجامعة السلطان قابوس أعمال الملتقى العربي الخامس لطلبة الدراسات العليا في علوم الإعلام والاتصال، الذي ينظمه قسم الإعلام بكلية الآداب والعلوم الاجتماعية والشبكة...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560149.jpg"
-  },
-  {
-   "id": "33ce14344b8f",
-   "title": "مؤتمر بجامعة السلطان قابوس يناقش التغيرات المناخية والتحول في الطاقة",
-   "url": "https://www.omandaily.om/article/1213684",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "\"عمان\": ناقش المؤتمر العلمي العاشر لكلية الحقوق بجامعة السلطان قابوس، الذي انطلقت أعماله اليوم بفندق جي دبليو ماريوت بمسقط، الأطر القانونية المنظمة للتحول في الطاقة ومواجهة التغيرات المناخية،...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560116.jpg"
-  },
-  {
-   "id": "1a31153acde0",
-   "title": "مؤتمر بشمال الشرقية يستعرض أحدث تقنيات أشعة الأسنان وتطبيقاتها التشخيصية",
-   "url": "https://www.omandaily.om/article/1213682",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "نظمت المديرية العامة للخدمات الصحية بمحافظة شمال الشرقية ممثلة بدائرة الخدمات الصحية والبرامج وبالتعاون مع قسم الأشعة بمستشفى إبراء المؤتمر الأول لأشعة الأسنان بمشاركة عدد من أطباء الأسنان...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560065.jpg"
-  },
-  {
-   "id": "1e13a6fe4a1f",
-   "title": "ملتقى يناقش مستقبل التخطيط الحضري والمشروعات العمرانية بالداخلية",
-   "url": "https://www.omandaily.om/article/1213671",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "استعرض ملتقى «مدن سعيدة ومزدهرة للجميع»، الذي نظمته المديرية العامة للإسكان والتخطيط العمراني بمحافظة الداخلية، ضمن فعاليات أكتوبر العمران 2026تحت شعار\" زاهية بناسها\" عددًا من الرؤى والتوجهات...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/28/thumbs/400x400/3560001.jpg"
-  },
-  {
    "id": "081d3d717e00",
    "title": "‘Ray of Hope’ festival for children with disabilities opens",
    "url": "https://www.omanobserver.om/article/1198692/oman/ray-of-hope-festival-for-children-with-disabilities-opens",
@@ -404,118 +349,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/27/thumbs/600x600/3558863.jpg"
-  },
-  {
-   "id": "420fd1ee376e",
-   "title": "6 شركات تقنية عُمانية تستكشف فرص التوسع التجاري في سنغافورة",
-   "url": "https://alroya.om/post/397025/6-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-27",
-   "summary": "مسقط- الرؤية نظّمت وزارة النقل والاتصالات وتقنية المعلومات زيارةً استكشافيةً إلى معرض سنغافورة للابتكار والتكنولوجيا \"سويتش 2026\"، بمشاركة وفد يضم 6 شركات تقنية وناشئة عُمانية منتسبة",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/d18i4.jpeg"
-  },
-  {
-   "id": "cc06f23961bb",
-   "title": "خبراء ومتخصصون يناقشون المسؤولية المهنية والأخلاقية في استخدام منصات الإعلام الرقمي",
-   "url": "https://alroya.om/post/397006/%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D9%88%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D9%88%D9%86-%D9%8A%D9%86%D8%A7%D9%82%D8%B4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-27",
-   "summary": "مسقط- العُمانية أُقيمت أمس ندوة \"منصات الإعلام الرقمي بين الحرية والمسؤولية\" التي نظمها مركز السلطان قابوس العالي للثقافة والعلوم بديوان البلاط السلطاني، تحت رعاية سعادة ال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/5cGx7.jpeg"
-  },
-  {
-   "id": "2a8b724b80f4",
-   "title": "شراكة بين \"العز الإسلامي\" و\"الأوقاف\" في مؤتمر الحج والعمرة",
-   "url": "https://alroya.om/post/397001/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B2-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%88-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-27",
-   "summary": "مسقط- الرؤية شارك بنك العز الإسلامي بصفته شريكاً في النسخة الثالثة من مؤتمر الحج والعمرة، الذي أقيم تحت رعاية معالي الدكتور عبدالله السعيدي، وزير العدل والشؤون القانونية، وبحضور معالي الد",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/dBUcF.jpeg"
-  },
-  {
-   "id": "041604365c05",
-   "title": "منتدى \"مسقط للمرونة البحرية 2026\" يستعرض تحديات القطاع وفرص تعزيز سلاسل الإمداد",
-   "url": "https://alroya.om/post/396982/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-2026-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D9%88%D9%81%D8%B1%D8%B5-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-27",
-   "summary": "مسقط- العمانية بدأت اليوم بمسقط أعمال منتدى \"مسقط للمرونة البحرية 2026\"، لاستعراض التحديات التي تواجه القطاع البحري، والتجارب والخبرات العملية، وبحث فرص تعزيز التعاون بين مختلف مكونات المنظومة البح",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/lzIvV.jpeg"
-  },
-  {
-   "id": "79f230dcae55",
-   "title": "Media Excellence Awards honour outstanding work",
-   "url": "https://www.omanobserver.om/article/1198642/oman/media-excellence-awards-honour-outstanding-work",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-26",
-   "summary": "MUSCAT, OCT 26 The winners of the 2026 Media Excellence Awards were honoured at a ceremony organised by the Ministry of Information at its theatre on...",
-   "event": {
-    "name": "Media Excellence Awards",
-    "start": "2026-10-26",
-    "end": "2026-10-26",
-    "venue": "",
-    "organizer": "Ministry of Information"
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3558210.jpg"
-  },
-  {
-   "id": "09a08e91dd12",
-   "title": "MESTEC 2026 focuses on impactful communication",
-   "url": "https://www.omanobserver.om/article/1198620/oman/mestec-2026-focuses-on-impactful-communication",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-26",
-   "summary": "MUSCAT, OCT 26 The 14th Middle East Strategic Communications Conference (MESTEC 2026) began in Muscat on Monday, bringing together experts in media...",
-   "event": {
-    "name": "14th Middle East Strategic Communications Conference",
-    "start": "2026-10-26",
-    "end": "2026-10-26",
-    "venue": "",
-    "organizer": "Gulf Strategic Communications Centre"
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3557991.jpg"
-  },
-  {
-   "id": "ec0761f05c03",
-   "title": "Ibri to host Agriculture Day exhibition on Oct 31",
-   "url": "https://www.omanobserver.om/article/1198617/oman/ibri-to-host-agriculture-day-exhibition-on-oct-31",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-26",
-   "summary": "IBRI: The Directorate General of Agriculture and Water Resources in Al Dhahirah Governorate will host an event to mark 'Agriculture Day'...",
-   "event": {
-    "name": "Ibri to host Agriculture Day exhibition on Oct 31",
-    "start": "2026-10-31",
-    "end": "2026-10-31",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3557985.jpg"
-  },
-  {
-   "id": "9d779a640622",
-   "title": "New exhibition unveils Al Batinah South’s rich heritage",
-   "url": "https://www.omanobserver.om/article/1198616/oman/new-exhibition-unveils-al-batinah-souths-rich-heritage",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-26",
-   "summary": "MUSCAT, OCT 26 The National Records and Archives Authority has unveiled more than 2,000 paper and digital documents, photographs and historical...",
-   "event": {
-    "name": "New exhibition unveils Al Batinah South’s rich heritage",
-    "start": "2026-10-26",
-    "end": "2026-10-26",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/26/thumbs/600x600/3557982.jpg"
   },
   {
    "id": "4c857f18cd85",
