@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 228,
+ "latest_sequence": 229,
  "changes": [
   {
    "schema_version": "1.0",
@@ -11977,6 +11977,57 @@
      "#Careers"
     ],
     "_fp": "ae3bcbcfba7277cc0b231fb936b3dc24789d9e5d"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 229,
+   "type": "event.created",
+   "occurred_at": "2026-10-31T09:29:20+00:00",
+   "event_id": "eab68799ceb5",
+   "event_version": 1,
+   "idempotency_key": "eab68799ceb5:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "eab68799ceb5",
+    "version": 1,
+    "kind": "event",
+    "title": "UK-Oman Friendly Football Game",
+    "start": "2026-11-11",
+    "end": "2026-11-11",
+    "start_time": "18:00",
+    "end_time": "20:00",
+    "previous_start": "",
+    "venue": "British School Muscat المدرسة البريطانية",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "British Embassy Muscat",
+    "organizer_url": "https://allevents.in/org/british-embassy-muscat/25013744",
+    "audience": "",
+    "url": "https://allevents.in/muscat/uk-oman-friendly-football-game/100002004057611263",
+    "description": "As part of the British Festival, the British Embassy has organised a friendly football match, in collaboration with Habsi Football Academy.",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "6dd2526689024d381ac4b270d06a5955403fcd8a"
    }
   }
  ]

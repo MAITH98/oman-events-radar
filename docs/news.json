@@ -1,19 +1,8 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-30T09:50:17+00:00",
- "count": 29,
+ "generated_at": "2026-10-31T09:29:20+00:00",
+ "count": 17,
  "articles": [
-  {
-   "id": "56cf5b06548e",
-   "title": "Oman participates in Algiers International Book Fair 2026",
-   "url": "https://timesofoman.com//article/178535-oman-participates-in-algiers-international-book-fair-2026",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-10-29",
-   "summary": "The participation aims at enhancing the Sultanate of Oman’s cultural presence at premier international book fairs",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793293147-1793293146-g1mept0uxuvx-700x400.jpg"
-  },
   {
    "id": "cdac822348cf",
    "title": "Literary, artistic forum spotlights Omani talents",
@@ -52,50 +41,6 @@
    "summary": "مسقط- الرؤية في إطار جهودها الرامية إلى تعزيز الوعي بأحكام قانون حماية البيانات الشخصية ولائحته التنفيذية، نظمت اليوم وزارة النقل والاتصالات وتقنية المعلومات، بالتعاون مع كلية الخليج ورشة توعوية ب",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/U9bvX.jpeg"
-  },
-  {
-   "id": "94c2a7feeda9",
-   "title": "\"منتدى عُمان للشلل الدماغي لدى الأطفال\" يوصي بدعم برامج التدريب والتطوير المهني",
-   "url": "https://alroya.om/post/397145/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B4%D9%84%D9%84-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D9%8A-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%8A%D9%88%D8%B5%D9%8A-%D8%A8%D8%AF%D8%B9%D9%85-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-29",
-   "summary": "الجبل الأخضر- الرؤية رعى سعادة الشيخ هلال بن سعيد الحجري محافظ الداخلية، أمس في الجبل الأخضر، انطلاق \"منتدى عمان للشلل الدماغي لدى الأطفال\" بتنظيم من منصة عيون الإلكترونية. وتضمن المنتدى 7 أوراق",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/VPWTX.jpeg"
-  },
-  {
-   "id": "9fffd625b86c",
-   "title": "السيد بلعرب يقص شريط افتتاح معرض \"فن مسقط 2026\"",
-   "url": "https://alroya.om/post/397141/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D9%84%D8%B9%D8%B1%D8%A8-%D9%8A%D9%82%D8%B5-%D8%B4%D8%B1%D9%8A%D8%B7-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D9%81%D9%86-%D9%85%D8%B3%D9%82%D8%B7-2026",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-29",
-   "summary": "◄ تظاهرة فنية وثقافية تجمع أكثر من 300 فنان من سلطنة عُمان ومختلف دول العالم مسقط- العُمانية رعى صاحب السمو السيد بلعرب بن هيثم آل سعيد، وزير الدولة ومحافظ مسقط، أمس، أعمال النسخة الخامسة من معر",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/OiFXY.jpeg"
-  },
-  {
-   "id": "dfac0b24d62a",
-   "title": "ورشة تدريبية بجعلان بني بوحسن لتعزيز ثقافة الإنتاج الذاتي",
-   "url": "https://www.omandaily.om/article/1213760",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-29",
-   "summary": "نظّمت جمعية المرأة العُمانية بجعلان بني بوحسن بمحافظة جنوب الشرقية ورشة تدريبية بعنوان «صناعة الألبان والأجبان الطازجة»، بمشاركة عدد من عضوات الجمعية وطالبات مدرسة الرفعة ومنتسبي مركز الوفاء، في...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561348.jpg"
-  },
-  {
-   "id": "2e7f630dafa0",
-   "title": "سلطنة عُمان تُشارك في الدورة الـ27 للجمعية العامة للمنظمة الدولية للحماية المدنية",
-   "url": "https://www.omandaily.om/article/1213747",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-10-29",
-   "summary": "العُمانية/ شاركت سلطنة عُمان في أعمال الدورة السابعة والعشرين للجمعية العامة للمنظمة الدولية للحماية المدنية (ICDO)، التي بدأت اليوم بمركز جنيف الدولي للمؤتمرات. ويترأس وفد سلطنة عُمان اللواء...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/29/thumbs/400x400/3561208.jpg"
   },
   {
    "id": "ff67a014f992",
@@ -180,102 +125,6 @@
    "summary": "Bidiya in North Al Sharqiyah Governorate hosted the 17th Poetry and Folk Heritage Forum, bringing together poets, researchers and enthusiasts of...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/28/thumbs/600x600/3560430.jpg"
-  },
-  {
-   "id": "b41a1b74f90d",
-   "title": "ظفار الإسلامي يستعرض المنتجات المصرفية في \"مؤتمر الحج والعمرة\"",
-   "url": "https://alroya.om/post/397116/%D8%B8%D9%81%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AD%D8%AC-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- الرؤية يُشارك ظفار الإسلامي في مؤتمر ومعرض الحج والعمرة الثالث، الذي يعُد منصة تجمع مختلف الجهات الحكومية والخاصة والشركات العاملة في القطاعات المرتبطة بالحج والعمرة، بما يُتيح فرص للتواصل ال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/QXQ7z.jpeg"
-  },
-  {
-   "id": "e2f1afc2cb4f",
-   "title": "استعراض المواقف التفاوضية على المستويين الوطني والإقليمي حول تغير المناخ",
-   "url": "https://alroya.om/post/397111/%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D8%AD%D9%88%D9%84-%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- العُمانية عقدت هيئة البيئة الاجتماع الختامي للفريق الوطني التفاوضي بشأن تغير المناخ وذلك في إطار الاستعدادات النهائية لمشاركة سلطنة عُمان في مؤتمر الأطراف الحادي والثلاثين لاتفاقية الأمم",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/1oGXL.jpeg"
-  },
-  {
-   "id": "75f6fc2f9d4c",
-   "title": "غدا.. إعلان نتائج المسابقات في ختام \"الملتقى الأدبي والفني\" بصحار",
-   "url": "https://alroya.om/post/397108/%D8%BA%D8%AF%D8%A7-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%8A-%D8%A8%D8%B5%D8%AD%D8%A7%D8%B1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "صحار- الرؤية يختتم، غدا الخميس، الملتقى الأدبي والفني في نسخته الثامنة والعشرين لعام 2026، فعالياته في ولاية صحار بمحافظة شمال الباطنة، تحت رعاية سعادة محمد بن سليمان الكندي، محافظ شمال الباطنة، بح",
-   "event": {
-    "name": "الملتقى الأدبي والفني",
-    "start": "2026-10-29",
-    "end": "2026-10-29",
-    "venue": "Sohar",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/aq4ZS.jpeg"
-  },
-  {
-   "id": "91aaa1390ed9",
-   "title": "4 نوفمبر.. انطلاق المؤتمر الدولي للحوسبة وتحليل البيانات",
-   "url": "https://alroya.om/post/397096/4-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "صلالة- الرؤية تستعد جامعة التقنية والعلوم التطبيقية بصلالة لانطلاق أعمال المؤتمر الدولي الثالث للحوسبة وتحليل البيانات، يومي الرابع والخامس من نوفمبر 2026م، بمشاركة واسعة م",
-   "event": {
-    "name": "مؤتمر الدولي للحوسبة وتحليل البيانات",
-    "start": "2026-11-04",
-    "end": "2026-11-04",
-    "venue": "Salalah",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/tAHD5.jpeg",
-   "also": [
-    {
-     "source": "الرؤية",
-     "url": "https://alroya.om/post/397084/4-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A8%D9%80-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D9%84%D8%A9",
-     "title": "4 نوفمبر.. انطلاق المؤتمر الدولي للحوسبة وتحليل البيانات بـ\"جامعة التقنية\" في صلالة"
-    }
-   ]
-  },
-  {
-   "id": "d95f2ae62fb4",
-   "title": "الدعوة لإطلاق مجمع لغوي عُماني للحفاظ على \"العربية\" ومواكبة التطورات العالمية",
-   "url": "https://alroya.om/post/397095/%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%AC%D9%85%D8%B9-%D9%84%D8%BA%D9%88%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D9%83%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- الرؤية اختُتمت بجامعة السلطان قابوس أعمال المؤتمر العلمي الدولي السادس لقسم اللغة العربية وآدابها بكلية الآداب والعلوم الاجتماعية، الذي عُقِد على مدى يومين تحت ع",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/tcgTg.jpeg"
-  },
-  {
-   "id": "df9475725c4e",
-   "title": "مذكرة تعاون لتوفير 150 فرصة عمل للمواطنين في قطاع الطاقة",
-   "url": "https://alroya.om/post/397087/%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-150-%D9%81%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D9%84-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- الرؤية شهد ملتقى الشركاء الاستراتيجيين، الذي نظمته شركة تنمية نفط عُمان، توقيع مذكرة تعاون بين الشركة والجمعية العُمانية للطاقة \"أوبال\"؛ لتأهيل الكفاءات العُمانية لشغ",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/VuxSf.jpeg"
-  },
-  {
-   "id": "960c963753fa",
-   "title": "المشيخي يطرح رؤية عميقة تستعرض تأثير التحولات الرقمية على الشباب",
-   "url": "https://alroya.om/post/397081/%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AE%D9%8A-%D9%8A%D8%B7%D8%B1%D8%AD-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%B9%D9%85%D9%8A%D9%82%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-28",
-   "summary": "مسقط- الرؤية شارك الدكتور محمد بن عوض المشيخي أستاذ الرأي العام والاتصال الجماهير أمس الثلاثاء في الندوة التي نظمها مركز السلطان قابوس العالي للثقافة والعلوم بعنوان \"منصات الإعلام الرقمي",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/c1ysF.jpeg"
   },
   {
    "id": "081d3d717e00",

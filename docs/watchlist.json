@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T09:50:17+00:00",
+ "generated_at": "2026-10-31T09:29:20+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 1,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,14 +144,14 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 13,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 2,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },
