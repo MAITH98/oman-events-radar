@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T09:29:20+00:00",
+ "generated_at": "2026-11-01T10:18:43+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 17,
+   "events": 15,
    "status": "ok",
    "page_changed": ""
   },
@@ -48,14 +48,14 @@
    "type": "source",
    "events": 0,
    "status": "returned 0 events (usually ≥3) – kept previous results",
-   "page_changed": "2026-10-29"
+   "page_changed": "2026-11-01"
   },
   {
    "entity": "organiser:CONNECT (Sabco Group)#3",
    "type": "source",
    "events": 1,
    "status": "ok",
-   "page_changed": "2026-10-29"
+   "page_changed": "2026-11-01"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -97,7 +97,7 @@
    "type": "source",
    "events": 0,
    "status": "ok",
-   "page_changed": "2026-10-29"
+   "page_changed": "2026-11-01"
   },
   {
    "entity": "site:omanlegalsummit.com",
@@ -116,21 +116,21 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 10,
+   "events": 9,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-business",
    "type": "source",
-   "events": 1,
+   "events": 2,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,14 +144,14 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 1,
+   "events": 8,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 0,
+   "events": 7,
    "status": "ok",
    "page_changed": ""
   },
@@ -161,7 +161,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Enterprise AI Expo 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "asia.collectionsummit.com",
@@ -169,7 +169,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Strategic Collections in Asia's Evolving Credit Landscape",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "bahrain.collectionsummit.com",
@@ -177,7 +177,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Elevating Credit Strategy in a Transforming Market",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "bee-om.com",
@@ -185,7 +185,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Beauty Elements Exhibition (BEE)",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "edutracoman.com",
@@ -193,7 +193,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "EduTraC Oman 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "gha26.com",
@@ -201,7 +201,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "18th Gulf Heart Association Conference",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "horecaoman.com",
@@ -233,7 +233,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Digital-first Strategy In a Fast-changing Landscape",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "ioraoman.com",
@@ -247,9 +247,9 @@
    "entity": "mctbookfair.gov.om",
    "type": "discovered site",
    "events": 0,
-   "status": "error",
+   "status": "no-feed",
    "discovered_from": "Muscat International Book Fair 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "ofsecevent.com",
@@ -257,7 +257,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "OFSEC",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "omanagrofood.com",
@@ -265,7 +265,15 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Oman AgroFood 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
+  },
+  {
+   "entity": "omandaily.om",
+   "type": "discovered site",
+   "events": 0,
+   "status": "no-feed",
+   "discovered_from": "أسبوع الماضي ببورصة مسقط",
+   "checked": "2026-11-01"
   },
   {
    "entity": "omanhealthexpo.com",
@@ -273,7 +281,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Oman Health Exhibition & Conference 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "omanlegalsummit.com",
@@ -281,7 +289,7 @@
    "events": 1,
    "status": "ok",
    "discovered_from": "Oman LegalTech Summit 2026",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "omanplast.net",
@@ -297,7 +305,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "OMNEX",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "project-oman.com",
@@ -305,7 +313,7 @@
    "events": 1,
    "status": "ok",
    "discovered_from": "Project oman",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "entity": "thefuture-event.com",

@@ -1,8 +1,269 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-10-31T09:29:20+00:00",
- "count": 17,
+ "generated_at": "2026-11-01T10:18:43+00:00",
+ "count": 30,
  "articles": [
+  {
+   "id": "3add7a8601af",
+   "title": "Oman Science Festival opens tomorrow",
+   "url": "https://www.omanobserver.om/article/1198911/oman/education/oman-science-festival-opens-tomorrow",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-01",
+   "summary": "Muscat: The fifth edition of the Oman Science Festival, themed ‘Our Compass is Science,’ kicks off today and will run until November 11 at the...",
+   "event": {
+    "name": "Oman Science Festival",
+    "start": "2026-11-02",
+    "end": "2026-11-02",
+    "venue": "Oman Convention & Exhibition Centre",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/01/thumbs/600x600/3563265.jpg"
+  },
+  {
+   "id": "5aafeca4660e",
+   "title": "80 خيلا تشارك في مهرجان الفروسية بلوى",
+   "url": "https://www.omandaily.om/article/1213905",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-01",
+   "summary": "لوى - عبدالله المانعي حصد «برق» لقب شوط البرق للخيول المهجنة، وتُوّج «زناد الفيصل» بلقب شوط هزاع للخيول العربية، ضمن منافسات مهرجان الفروسية الذي أُقيم بميدان الفروسية بولاية لوى، بمشاركة ٨٠ خيلًا...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/01/thumbs/400x400/3563443.jpg"
+  },
+  {
+   "id": "5b250c5b53af",
+   "title": "Enforcement of Foreign Arbitral Awards Under Omani Law: Explained",
+   "url": "https://timesofoman.com//article/178598-enforcement-of-foreign-arbitral-awards-under-omani-law-explained",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-10-31",
+   "summary": "A foreign arbitral award is generally an award made outside Oman or one that is not considered a domestic award in Oman for the purposes of recognition and enforcement.",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793460118-1793460118-smopnjxvykrv.jpg"
+  },
+  {
+   "id": "56a8b0412222",
+   "title": "Forum to discuss latest developments in financial markets",
+   "url": "https://timesofoman.com//article/178593-forum-to-discuss-latest-developments-in-financial-markets",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-10-31",
+   "summary": "The Middle East Capital Markets Networking Forum 2026, hosted by the Muscat Stock Exchange (MSX) in cooperation with Muscat Clearing and Depository Company, will begin on Monday for two days,",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793448953-1793448953-vahbhfqw37sr.jpg"
+  },
+  {
+   "id": "9d479b33dabf",
+   "title": "Al Mazunah forum to boost Oman-Yemen trade and investment",
+   "url": "https://timesofoman.com//article/178589-al-mazunah-forum-to-boost-oman-yemen-trade-and-investment",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-10-31",
+   "summary": "A panel discussion will also examine investment incentives",
+   "event": {
+    "name": "Al Mazyouna Economic Exhibition",
+    "start": "2026-11-02",
+    "end": "2026-11-02",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1793443618-1793443618-kqvdztiuag7q-700x400.jpeg",
+   "also": [
+    {
+     "source": "Oman Observer · Business",
+     "url": "https://www.omanobserver.om/article/1198867/business/economy/al-mazyouna-forum-targets-omanyemen-trade",
+     "title": "Al Mazyouna forum targets Oman–Yemen trade"
+    }
+   ]
+  },
+  {
+   "id": "e601fda71694",
+   "title": "MoSD paper recycling workshop empowers people with disabilities",
+   "url": "https://www.omanobserver.om/article/1198880/oman/mosd-paper-recycling-workshop-empowers-people-with-disabilities",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-31",
+   "summary": "MUSCAT: The Ministry of Social Development, in partnership with Al Jisr Foundation for Charitable Works, inaugurated a protected paper recycling...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/31/thumbs/600x600/3562920.jpg"
+  },
+  {
+   "id": "fea49a516b16",
+   "title": "Oman showcases cultural heritage at Algiers Intl Book Fair",
+   "url": "https://www.omanobserver.om/article/1198879/oman/oman-showcases-cultural-heritage-at-algiers-intl-book-fair",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-10-31",
+   "summary": "ALGIERS: The Sultanate of Oman, represented by the Ministry of Culture, Sports and Youth, is participating in the 29th Algiers International Book Fair...",
+   "event": {
+    "name": "Algiers Intl Book Fair",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/31/thumbs/600x600/3562918.jpg"
+  },
+  {
+   "id": "3ee7ca076ae1",
+   "title": "الإثنين.. انطلاق مهرجان عُمان للعلوم تحت شعار \"بوصلتنا العلوم\"",
+   "url": "https://alroya.om/post/397234/%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%AA%D8%AD%D8%AA-%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A8%D9%88%D8%B5%D9%84%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "مسقط- الرؤية يرعى معالي سلطان بن سالم الحبسي وزير المالية، الإثنين، انطلاق مهرجان عمان للعلوم في نسخته الخامسة، تنحت شعار \"بوصلتنا العلوم\"، وذلك في مركز عمان للمؤتمرات والمعارض، ويستمر حتى 12",
+   "event": {
+    "name": "مهرجان عُمان للعلوم في نسخته الخامسة",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "venue": "Oman Convention & Exhibition Centre",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/MolFR.jpeg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1213865",
+     "title": "الاثنين..انطلاق مهرجان عُمان للعلوم في نسخته الخامسة"
+    }
+   ]
+  },
+  {
+   "id": "4b5e178b0e6f",
+   "title": "نقاشات \"منتدى مسقط للمرونة البحرية\" تؤسس لإطلاق \"إطار مسقط للمرونة البحرية\"",
+   "url": "https://alroya.om/post/397233/%D9%86%D9%82%D8%A7%D8%B4%D8%A7%D8%AA-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%AA%D8%A4%D8%B3%D8%B3-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A5%D8%B7%D8%A7%D8%B1-%D9%85%D8%B3%D9%82%D8%B7-%D9%84%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "مسقط- الرؤية اختُتمت أعمال منتدى مسقط للمرونة البحرية 2026، تحت رعاية معالي عبدالسلام بن محمد المرشدي، رئيس جهاز الاستثمار العُماني. وفي الكلمة الختامية، قال المرشدي: \"تجسد النقاشات الجادة التي",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/EanfC.jpeg"
+  },
+  {
+   "id": "5d71dc2f464d",
+   "title": "فريق \"تبليل\" التطوعي يحصد جائزة \"الأعلى إيرادًا\" في \"النسخة المليونية\" من مسابقة العطاء الكبرى",
+   "url": "https://alroya.om/post/397231/%D9%81%D8%B1%D9%8A%D9%82-%D8%AA%D8%A8%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B9%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "مسقط- الرؤية واصل فريق تبليل التطوعي حضوره المتميز في مسابقة العطاء الكبرى، بعد تتويجه بجائزة «الأعلى إيرادًا»، التي تمثل الجائزة الكبرى في المسابقة، وذلك للعام الثالث على التوالي، خلال النسخة العا",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/8pcoc.jpeg"
+  },
+  {
+   "id": "9954f858a9d7",
+   "title": "4 آلاف زائر و50 رحلة مدرسة إلى معرض \"جنوب الباطنة في ذاكرة التاريخ العُماني\"",
+   "url": "https://alroya.om/post/397224/4-%D8%A2%D9%84%D8%A7%D9%81-%D8%B2%D8%A7%D8%A6%D8%B1-%D9%8850-%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%81%D9%8A-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "الرستاق- الرؤية اختتمت هيئة الوثائق والمحفوظات الوطنية أعمال المعرض الوثائقي \"محافظة جنوب الباطنة في ذاكرة التاريخ العُماني\"، الذي أُقيم بقاعة مكتب والي الرستاق خلال الفترة من 26 إلى 30 أكتوبر",
+   "event": {
+    "name": "معرض جنوب الباطنة في ذاكرة التاريخ العُماني",
+    "start": "2026-10-26",
+    "end": "2026-10-30",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/Hqt7s.jpeg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1213886",
+     "title": "معرض \"ذاكرة التاريخ العماني\" في جنوب الباطنة يستقطب 4 آلاف زائر"
+    }
+   ]
+  },
+  {
+   "id": "4a380df7d2ac",
+   "title": "الإثنين.. \"العُمانية لنقل الكهرباء\" تستضيف \"مؤتمر كهرباء الخليج\"",
+   "url": "https://alroya.om/post/397219/%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "مسقط- الرؤية تستضيفُ الشركة العُمانية لنقل الكهرباء مؤتمر ومعرض كهرباء الخليج 2026، خلال الفترة من 2 وحتى 4 نوفمبر 2026م، في فندق جي دبليو ماريوت مسقط، تحت رعاية وزارة الطاقة والمعادن، وبإشراف وإدا",
+   "event": {
+    "name": "مؤتمر كهرباء الخليج",
+    "start": "2026-11-04",
+    "end": "2026-11-04",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/SwrJY.png"
+  },
+  {
+   "id": "d3dee6e52d29",
+   "title": "فوز \"حماية المستهلك\" بجائزة الحكومة الرقمية الخليجية",
+   "url": "https://alroya.om/post/397214/%D9%81%D9%88%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "مسقط- الرؤية حصدت هيئة حماية المستهلك جائزة الحكومة الرقمية لدول مجلس التعاون لدول الخليج العربية لعام 2026، التي استضافتها البحرين في دورتها السابعة، عن فئة أفضل خدمة رقمية حكومية، وذلك",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/02R7P.jpeg"
+  },
+  {
+   "id": "2d057cbfa201",
+   "title": "الأسبوع القرآني بمدرسة الحُباب بن المنذر.. قيم راسخة وإبداعات طلابية",
+   "url": "https://alroya.om/post/397178/%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%8A-%D8%A8%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A8%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1-%D9%82%D9%8A%D9%85-%D8%B1%D8%A7%D8%B3%D8%AE%D8%A9-%D9%88%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%D8%A8%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "الرؤية - إبراهيم الهادي افتتحت مدرسة الحُباب بن المنذر المعرض المصاحب للأسبوع القرآني في نسخته الثانية، برعاية سعادة الدكتور صالح بن سالم الرحبي، المستشار بديوان البلاط السلطاني، وذلك بمش",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/cYNFn.jpeg"
+  },
+  {
+   "id": "6922136e603e",
+   "title": "سلطنة عُمان تشارك في قمة أسبوع سنغافورة الدولي للطاقة 2026",
+   "url": "https://www.omandaily.om/article/1213875",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "العُمانية: شاركت سلطنة عُمان في قمة \"أسبوع سنغافورة الدولي للطاقة 2026\"، التي تهدف إلى تعزيز العلاقات الاقتصادية بين سلطنة عُمان وجمهورية سنغافورة، وتوسيع مجالات التعاون والشراكة في الطاقة المتجددة...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/31/thumbs/400x400/3562633.jpg"
+  },
+  {
+   "id": "ced6c1c0a17b",
+   "title": "بعد غد.. مدائن تفتتح اعمال النسخة الثانية من معرض وملتقى المزيونة الاقتصادي",
+   "url": "https://www.omandaily.om/article/1213871",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "العُمانية: تفتتح بعد غد بالمنطقة الحرة بالمزيونة بمحافظة ظفار أعمال النسخة الثانية من معرض وملتقى المزيونة الاقتصادي، بتنظيم من المؤسسة العامة للمناطق الصناعية \"مدائن\"، وبمشاركة قرابة الـ(٥٠)...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/31/thumbs/400x400/3562552.jpg"
+  },
+  {
+   "id": "828a9f6e8c46",
+   "title": "المؤسسات الاستثمارية المحلية تضخ مزيدًا من السيولة في تداولات الأسبوع الماضي ببورصة مسقط",
+   "url": "https://www.omandaily.om/article/1213867",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "العُمانية: قلّص المؤشر الرئيسي لبورصة مسقط الأسبوع الماضي خسائره، متراجعًا 33 نقطة بعد تراجعه بنحو 300 نقطة و154 نقطة في الأسبوعين السابقين، مستفيدًا من ارتفاع مشتريات الصناديق والمؤسسات الاستثمارية...",
+   "event": {
+    "name": "أسبوع الماضي ببورصة مسقط",
+    "start": "2026-11-02",
+    "end": "2026-11-02",
+    "venue": "Salalah",
+    "organizer": ""
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/31/thumbs/400x400/3562540.jpg"
+  },
+  {
+   "id": "ddd586577483",
+   "title": "بعد غدٍ.. بدء أعمال منتدى التواصل لأسواق المال بالشرق الأوسط 2026",
+   "url": "https://www.omandaily.om/article/1213862",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-10-31",
+   "summary": "العُمانية: تبدأ بعد غدٍ /الاثنين/ أعمال منتدى التواصل لأسواق المال بالشرق الأوسط 2026، الذي تستضيفه بورصة مسقط، بالتعاون مع شركة مسقط للمقاصة والإيداع، لمدة يومين، بمشاركة ممثلين من أسواق رأس المال...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/10/31/thumbs/400x400/3562500.jpg"
+  },
   {
    "id": "cdac822348cf",
    "title": "Literary, artistic forum spotlights Omani talents",
@@ -30,17 +291,6 @@
    "summary": "YEREVAN: The Sultanate of Oman, represented by the Environment Authority, participated in the High-Level Ministerial Segment of the 17th Conference of...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/29/thumbs/600x600/3561487.jpg"
-  },
-  {
-   "id": "bfcab0b83eba",
-   "title": "ورشة توعوية لقطاع التعليم حول قانون حماية البيانات الشخصية",
-   "url": "https://alroya.om/post/397154/%D9%88%D8%B1%D8%B4%D8%A9-%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-10-29",
-   "summary": "مسقط- الرؤية في إطار جهودها الرامية إلى تعزيز الوعي بأحكام قانون حماية البيانات الشخصية ولائحته التنفيذية، نظمت اليوم وزارة النقل والاتصالات وتقنية المعلومات، بالتعاون مع كلية الخليج ورشة توعوية ب",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/10/U9bvX.jpeg"
   },
   {
    "id": "ff67a014f992",
@@ -125,62 +375,6 @@
    "summary": "Bidiya in North Al Sharqiyah Governorate hosted the 17th Poetry and Folk Heritage Forum, bringing together poets, researchers and enthusiasts of...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/28/thumbs/600x600/3560430.jpg"
-  },
-  {
-   "id": "081d3d717e00",
-   "title": "‘Ray of Hope’ festival for children with disabilities opens",
-   "url": "https://www.omanobserver.om/article/1198692/oman/ray-of-hope-festival-for-children-with-disabilities-opens",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-27",
-   "summary": "MUSCAT: The 'Ray of Hope' festival, organised by the Association for Children with Disabilities, opened on Monday at the Oman Automobile...",
-   "event": {
-    "name": "‘Ray of Hope’ festival for children with disabilities opens",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "venue": "",
-    "organizer": "Association for Children"
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/27/thumbs/600x600/3559251.jpg"
-  },
-  {
-   "id": "874b998d14f2",
-   "title": "Consumer forum winds up with key initiatives",
-   "url": "https://www.omanobserver.om/article/1198690/oman/consumer-forum-winds-up-with-key-initiatives",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-27",
-   "summary": "NIZWA: The forum titled “In the Eyes of Youth”—that was organised by the Consumer Protection Department in Al Dakhiliyah Governorate —wound up...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/27/thumbs/600x600/3559247.jpg"
-  },
-  {
-   "id": "ad8a19354334",
-   "title": "Oman Science Festival targets over 350,000",
-   "url": "https://www.omanobserver.om/article/1198685/oman/oman-science-festival-targets-over-350000",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-27",
-   "summary": "MUSCAT, OCT 27 The fifth edition of the Oman Science Festival 2026 is expected to attract more than 350,000 visitors, as the 10-day event seeks to...",
-   "event": {
-    "name": "Oman Science Festival 2026",
-    "start": "2026-10-27",
-    "end": "2026-10-27",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/27/thumbs/600x600/3559190.jpg"
-  },
-  {
-   "id": "0cde3237db35",
-   "title": "Gulf workshop pushes for unified childhood statistics",
-   "url": "https://www.omanobserver.om/article/1198683/oman/gulf-workshop-pushes-for-unified-childhood-statistics",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-10-27",
-   "summary": "MUSCAT: The First Regional Workshop on 'Improving Childhood Statistics in the GCC Countries' opened in Muscat on Tuesday with a call to...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/27/thumbs/600x600/3559186.jpg"
   },
   {
    "id": "cafeca1c771d",

@@ -4,7 +4,7 @@
   "from": "OMNEX",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "omanlegalsummit.com": {
@@ -12,24 +12,24 @@
   "from": "Oman LegalTech Summit 2026",
   "first_seen": "2026-10-25",
   "status": "ok",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 1
  },
  "mctbookfair.gov.om": {
   "url": "https://mctbookfair.gov.om/",
   "from": "Muscat International Book Fair 2026",
   "first_seen": "2026-10-25",
-  "status": "error",
-  "checked": "2026-10-25",
-  "error": "URLError",
-  "failures": 1
+  "status": "no-feed",
+  "checked": "2026-11-01",
+  "failures": 1,
+  "events": 0
  },
  "bahrain.collectionsummit.com": {
   "url": "https://bahrain.collectionsummit.com/",
   "from": "Elevating Credit Strategy in a Transforming Market",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "asia.collectionsummit.com": {
@@ -37,7 +37,7 @@
   "from": "Strategic Collections in Asia's Evolving Credit Landscape",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "india.collectionsummit.com": {
@@ -45,7 +45,7 @@
   "from": "Digital-first Strategy In a Fast-changing Landscape",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "horecaoman.com": {
@@ -60,7 +60,7 @@
   "from": "Oman Health Exhibition & Conference 2026",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "edutracoman.com": {
@@ -68,7 +68,7 @@
   "from": "EduTraC Oman 2026",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "ofsecevent.com": {
@@ -76,7 +76,7 @@
   "from": "OFSEC",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "project-oman.com": {
@@ -84,7 +84,7 @@
   "from": "Project oman",
   "first_seen": "2026-10-25",
   "status": "ok",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 1
  },
  "omanagrofood.com": {
@@ -92,7 +92,7 @@
   "from": "Oman AgroFood 2026",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "aienterpriseexpo.com": {
@@ -100,7 +100,7 @@
   "from": "Enterprise AI Expo 2026",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "bee-om.com": {
@@ -108,7 +108,7 @@
   "from": "Beauty Elements Exhibition (BEE)",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "gha26.com": {
@@ -116,7 +116,7 @@
   "from": "18th Gulf Heart Association Conference",
   "first_seen": "2026-10-25",
   "status": "no-feed",
-  "checked": "2026-10-25",
+  "checked": "2026-11-01",
   "events": 0
  },
  "ioraoman.com": {
@@ -156,6 +156,14 @@
   "first_seen": "2026-10-25",
   "status": "no-feed",
   "checked": "2026-10-25",
+  "events": 0
+ },
+ "omandaily.om": {
+  "url": "https://www.omandaily.om/",
+  "from": "أسبوع الماضي ببورصة مسقط",
+  "first_seen": "2026-11-01",
+  "status": "no-feed",
+  "checked": "2026-11-01",
   "events": 0
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T09:29:20+00:00",
+ "generated_at": "2026-11-01T10:18:43+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,20 +92,36 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Creative Meditation",
-   "url": "https://allevents.in/muscat/creative-meditation/100002001582822102",
-   "source": "allevents-muscat",
-   "found": "2026-10-25",
-   "start": "2026-10-31",
-   "status": "Needs review"
+   "title": "Al Mazyouna Economic Exhibition",
+   "url": "https://www.omanobserver.om/article/1198867/business/economy/al-mazyouna-forum-targets-omanyemen-trade",
+   "source": "news:observer-business",
+   "found": "2026-11-01",
+   "start": "2026-11-02",
+   "status": "Lead – verify"
   },
   {
-   "title": "OMÁN- Safari potápění ..A jedeme spolu s Andy a Vláďou",
-   "url": "https://allevents.in/muscat/omÁn-safari-potápění-a-jedeme-spolu-s-andy-a-vláďou/200030638458803",
-   "source": "allevents-muscat",
-   "found": "2026-10-25",
-   "start": "2026-10-31",
-   "status": "Needs review"
+   "title": "Oman Science Festival",
+   "url": "https://www.omanobserver.om/article/1198911/oman/education/oman-science-festival-opens-tomorrow",
+   "source": "news:observer-local",
+   "found": "2026-11-01",
+   "start": "2026-11-02",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "أسبوع الماضي ببورصة مسقط",
+   "url": "https://www.omandaily.om/article/1213867",
+   "source": "news:omandaily",
+   "found": "2026-11-01",
+   "start": "2026-11-02",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "مؤتمر كهرباء الخليج",
+   "url": "https://alroya.om/post/397219/%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+   "source": "news:alroya",
+   "found": "2026-11-01",
+   "start": "2026-11-04",
+   "status": "Lead – verify"
   },
   {
    "title": "Oman tour",
@@ -124,12 +140,28 @@
    "status": "Needs review"
   },
   {
+   "title": "Algiers Intl Book Fair",
+   "url": "https://www.omanobserver.om/article/1198879/oman/oman-showcases-cultural-heritage-at-algiers-intl-book-fair",
+   "source": "news:observer-local",
+   "found": "2026-11-01",
+   "start": "2026-11-07",
+   "status": "Lead – verify"
+  },
+  {
    "title": "UK-Oman Friendly Football Game",
    "url": "https://allevents.in/muscat/uk-oman-friendly-football-game/100002004057611263",
    "source": "allevents-muscat",
    "found": "2026-10-31",
    "start": "2026-11-11",
    "status": "Needs review"
+  },
+  {
+   "title": "مهرجان عُمان للعلوم في نسخته الخامسة",
+   "url": "https://www.omandaily.om/article/1213865",
+   "source": "news:omandaily",
+   "found": "2026-11-01",
+   "start": "2026-11-12",
+   "status": "Lead – verify"
   },
   {
    "title": "9th OmanDerm International Conference & Exhibition",
