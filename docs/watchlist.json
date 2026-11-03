@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:50:35+00:00",
+ "generated_at": "2026-11-03T10:42:09+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 15,
+   "events": 17,
    "status": "ok",
    "page_changed": ""
   },
@@ -32,7 +32,7 @@
   {
    "entity": "venue:Oman Convention & Exhibition Centre (OCEC)",
    "type": "source",
-   "events": 17,
+   "events": 16,
    "status": "ok",
    "page_changed": ""
   },
@@ -55,7 +55,7 @@
    "type": "source",
    "events": 2,
    "status": "ok",
-   "page_changed": "2026-11-02"
+   "page_changed": "2026-11-03"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -97,7 +97,7 @@
    "type": "source",
    "events": 0,
    "status": "ok",
-   "page_changed": "2026-11-01"
+   "page_changed": "2026-11-03"
   },
   {
    "entity": "site:omanlegalsummit.com",
@@ -116,42 +116,42 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 6,
+   "events": 5,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-business",
    "type": "source",
-   "events": 2,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 6,
+   "events": 4,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 16,
+   "events": 17,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 1,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },

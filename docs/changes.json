@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 240,
+ "latest_sequence": 246,
  "changes": [
   {
    "schema_version": "1.0",
@@ -12612,6 +12612,330 @@
      "#فعاليات_عمان"
     ],
     "_fp": "f69b2268e6e1763a66da9221447787cf3a5486bf"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 241,
+   "type": "event.updated",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "c93010dfe7c5",
+   "event_version": 5,
+   "idempotency_key": "c93010dfe7c5:5:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c93010dfe7c5",
+    "version": 5,
+    "kind": "event",
+    "title": "Project oman",
+    "start": "2026-11-02",
+    "end": "2026-11-04",
+    "start_time": "11:00",
+    "end_time": "19:00",
+    "previous_start": "",
+    "venue": "Oman Convention and Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "IFP Group",
+    "organizer_url": "https://ifpexpo.com/",
+    "audience": "",
+    "url": "https://project-oman.com/",
+    "description": "The 5th edition of Project Oman, Oman's international construction technology, infrastructure, building materials, manufacturing, energy, supply chain, and facility management exhibition.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 95,
+    "status": "Ongoing",
+    "sources": [
+     "site:project-oman.com",
+     "team-seed-2026"
+    ],
+    "tiers": [
+     "B"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-03",
+    "workflow": {
+     "brief": "2026-10-23",
+     "announce": "2026-10-26",
+     "reminder": "2026-10-31"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#ProjectOman"
+    ],
+    "_fp": "fcaf99d234c732b428a669610f90043f4bc3af77"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 242,
+   "type": "event.updated",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "2df5aa257894",
+   "event_version": 2,
+   "idempotency_key": "2df5aa257894:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "2df5aa257894",
+    "version": 2,
+    "kind": "event",
+    "title": "مؤتمر كهرباء الخليج",
+    "start": "2026-11-04",
+    "end": "2026-11-04",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397374/%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D9%85%D8%B3%D9%82%D8%B7-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+    "description": "الرؤية- ريم الحامدية افتتحت، الإثنين، أعمال مؤتمر ومعرض كهرباء الخليج الذي تستضيفه الشركة العُمانية لنقل الكهرباء، خلال الفترة من 2 وحتى 4 نوفمبر 2026م، تحت رعاية معالي المهندس سالم بن ن",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "9f065ecf3c0eb73fd3a4dc61b315205c26809c90"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 243,
+   "type": "event.created",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "c472d3fcfd2b",
+   "event_version": 1,
+   "idempotency_key": "c472d3fcfd2b:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c472d3fcfd2b",
+    "version": 1,
+    "kind": "event",
+    "title": "مؤتمر الحوسبة والهندسة والتصميم",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "بالشراكة مع جامعة نوسا بوترا الإندونيسية",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397393/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A",
+    "description": "البريمي- الرؤية تستضيف جامعة البريمي، يومي 4 و5 نوفمبر 2026، مؤتمر الحوسبة والهندسة والتصميم (ICCED 2026)، الذي تنظمه بالشراكة مع جامعة نوسا بوترا الإندونيسية، وبالتعاون مع معهد مهندسي الكهرباء وال",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "ff5f940581541fa411c85e66be11a70408a34d02"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 244,
+   "type": "event.created",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "d8b1ea8010d5",
+   "event_version": 1,
+   "idempotency_key": "d8b1ea8010d5:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "d8b1ea8010d5",
+    "version": 1,
+    "kind": "event",
+    "title": "International Medical Tourism & Healthcare",
+    "start": "2026-11-22",
+    "end": "2026-11-24",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
+    "description": "The International Medical Tourism & Healthcare Exhibition, taking place at the Oman Convention & Exhibition Centre in Muscat, Oman, is back for its seventh edition, promising to be bigger and more impactful than ever. This premier event stands as Oman's foremost platform for showcasing the healthcar",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Health",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanHealth",
+     "#InternationalMedicalTourismHealthcare"
+    ],
+    "_fp": "6b8886729031a1338577b448afde09f4189d49b5"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 245,
+   "type": "event.updated",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "8829a7e5efcc",
+   "event_version": 3,
+   "idempotency_key": "8829a7e5efcc:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "8829a7e5efcc",
+    "version": 3,
+    "kind": "event",
+    "title": "Interior Design Furnishing Expo 2027",
+    "start": "2027-01-12",
+    "end": "2027-01-14",
+    "start_time": "11:00",
+    "end_time": "20:00",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://idfoman.com/",
+    "description": "IDFOman is a design and decor exhibition happening alongside related dedicated events: Kitchen & Bathroom Show, Tile & Stone Show, Light Oman Show and Smart Living & Workspaces Expo, covering the spectrum of products and services required for the design, fit out and upgrade of residential, hospitality, office and retail spaces Registration Link Facebook | X | LinkedIn | Instagram",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 100,
+    "status": "Upcoming",
+    "sources": [
+     "allevents-muscat",
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A",
+     "C"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#InteriorDesignFurnishingExpo"
+    ],
+    "_fp": "5b0e721638bbe68b6aadc4a6c6aa6e6f8abce9d9"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 246,
+   "type": "event.created",
+   "occurred_at": "2026-11-03T10:42:09+00:00",
+   "event_id": "85b457f9eb50",
+   "event_version": 1,
+   "idempotency_key": "85b457f9eb50:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "85b457f9eb50",
+    "version": 1,
+    "kind": "expected",
+    "title": "Project Oman",
+    "start": "2027-11-01",
+    "end": "2027-11-03",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "OCEC",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://project-oman.com/",
+    "description": "Predicted from the 2026 edition (2026-11-02). Confirm dates.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 4,
+    "confidence": 30,
+    "status": "Expected – confirm",
+    "sources": [
+     "recurrence"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#ProjectOman"
+    ],
+    "_fp": "bfe4a632bd8fac9f287948499efedcda1066098d"
    }
   }
  ]
