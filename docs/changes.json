@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 246,
+ "latest_sequence": 249,
  "changes": [
   {
    "schema_version": "1.0",
@@ -12936,6 +12936,168 @@
      "#ProjectOman"
     ],
     "_fp": "bfe4a632bd8fac9f287948499efedcda1066098d"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 247,
+   "type": "event.rescheduled",
+   "occurred_at": "2026-11-04T10:44:10+00:00",
+   "event_id": "d752e0292098",
+   "event_version": 2,
+   "idempotency_key": "d752e0292098:2:event.rescheduled",
+   "event": {
+    "schema_version": "1.0",
+    "id": "d752e0292098",
+    "version": 2,
+    "kind": "event",
+    "title": "Rakhyout Sarb Festival",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "2026-11-04",
+    "venue": "Salalah",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1198947/oman/rakhyout-sarb-festival-returns-on-nov-5-with-new-opening-day-festivities",
+    "description": "SALALAH, NOV 1 The season of Sarb — characterised by bright sunshine, mild breezes, and blooming landscapes — has arrived once again in Dhofar,...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#RakhyoutSarbFestival"
+    ],
+    "_fp": "43376248d16e4397e79657ca3abe3e42e5c2ac01"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 248,
+   "type": "event.updated",
+   "occurred_at": "2026-11-04T10:44:10+00:00",
+   "event_id": "85b457f9eb50",
+   "event_version": 2,
+   "idempotency_key": "85b457f9eb50:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "85b457f9eb50",
+    "version": 2,
+    "kind": "expected",
+    "title": "Project oman",
+    "start": "2027-11-01",
+    "end": "2027-11-03",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Oman Convention and Exhibition Centre",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://project-oman.com/",
+    "description": "Predicted from the 2026 edition (2026-11-02). Confirm dates.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 4,
+    "confidence": 30,
+    "status": "Expected – confirm",
+    "sources": [
+     "recurrence"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#ProjectOman"
+    ],
+    "_fp": "b43c7014a77bfd1fb940a61f683f1343befdef5c"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 249,
+   "type": "event.removed",
+   "occurred_at": "2026-11-04T10:44:10+00:00",
+   "event_id": "a601be2063a4",
+   "event_version": 3,
+   "idempotency_key": "a601be2063a4:3:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a601be2063a4",
+    "version": 3,
+    "kind": "event",
+    "title": "Beauty Elements Exhibition (BEE)",
+    "start": "2026-11-09",
+    "end": "2026-11-11",
+    "start_time": "09:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.bee-om.com",
+    "description": "BEE 2026 is the first edition of the Beauty Element Exhibition, hosted at the prestigious OCEC, gathering international beauty brands, distributors, and investors under one roof.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Removed",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-03",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#BeautyElementsExhibitionBEE"
+    ],
+    "removed_on": "2026-11-04"
    }
   }
  ]
