@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T10:44:10+00:00",
+ "generated_at": "2026-11-05T10:39:47+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,35 +92,11 @@
    "found": "2026-10-25"
   },
   {
-   "title": "مؤتمر كهرباء الخليج",
-   "url": "https://alroya.om/post/397374/%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D9%85%D8%B3%D9%82%D8%B7-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-   "source": "news:alroya",
-   "found": "2026-11-01",
-   "start": "2026-11-04",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "Oman tour",
-   "url": "https://allevents.in/muscat/oman-tour/200030860939351",
-   "source": "allevents-muscat",
-   "found": "2026-10-25",
-   "start": "2026-11-05",
-   "status": "Needs review"
-  },
-  {
-   "title": "Rakhyout Sarb Festival",
-   "url": "https://www.omanobserver.om/article/1198947/oman/rakhyout-sarb-festival-returns-on-nov-5-with-new-opening-day-festivities",
-   "source": "news:observer-local",
-   "found": "2026-11-02",
-   "start": "2026-11-05",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "مؤتمر الحوسبة والهندسة والتصميم",
-   "url": "https://alroya.om/post/397393/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A",
-   "source": "news:alroya",
-   "found": "2026-11-03",
-   "start": "2026-11-05",
+   "title": "معرض الشارقة الدولي للكتاب",
+   "url": "https://www.omandaily.om/article/1214186",
+   "source": "news:omandaily",
+   "found": "2026-11-05",
+   "start": "2026-11-06",
    "status": "Lead – verify"
   },
   {
@@ -130,6 +106,22 @@
    "found": "2026-10-25",
    "start": "2026-11-06",
    "status": "Needs review"
+  },
+  {
+   "title": "Grand Opening",
+   "url": "https://allevents.in/muscat/grand-opening/200030968153417",
+   "source": "allevents-muscat",
+   "found": "2026-11-05",
+   "start": "2026-11-09",
+   "status": "Needs review"
+  },
+  {
+   "title": "ملتقى في ضيافة المحافظ",
+   "url": "https://alroya.om/post/397510/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%81%D9%8A-%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86",
+   "source": "news:alroya",
+   "found": "2026-11-05",
+   "start": "2026-11-09",
+   "status": "Lead – verify"
   },
   {
    "title": "UK-Oman Friendly Football Game",
@@ -162,14 +154,6 @@
    "found": "2026-10-25",
    "start": "2026-12-25",
    "status": "Needs review"
-  },
-  {
-   "title": "Exhibition reflects on humanity’s relationship with nature",
-   "url": "https://www.omanobserver.om/article/1198387/features/arts/exhibition-reflects-on-humanitys-relationship-with-nature",
-   "source": "news:observer-lifestyle",
-   "found": "2026-10-26",
-   "start": "2026-12-30",
-   "status": "Lead – verify"
   },
   {
    "title": "বন্ধুদেরকে নিয়ে আলোচনা",
@@ -250,6 +234,14 @@
    "found": "2026-10-25",
    "start": "2027-08-18",
    "status": "Expected – confirm"
+  },
+  {
+   "title": "Oman Health Exhibition & Conference",
+   "url": "https://allevents.in/muscat/oman-health-exhibition-and-conference/3700030973063954",
+   "source": "allevents-muscat",
+   "found": "2026-11-05",
+   "start": "2027-09-19",
+   "status": "Needs review"
   },
   {
    "title": "High Impact Marketing for Startups Workshop",

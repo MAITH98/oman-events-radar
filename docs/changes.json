@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 249,
+ "latest_sequence": 256,
  "changes": [
   {
    "schema_version": "1.0",
@@ -13098,6 +13098,376 @@
      "#BeautyElementsExhibitionBEE"
     ],
     "removed_on": "2026-11-04"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 250,
+   "type": "event.updated",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "c93010dfe7c5",
+   "event_version": 6,
+   "idempotency_key": "c93010dfe7c5:6:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c93010dfe7c5",
+    "version": 6,
+    "kind": "event",
+    "title": "Project oman",
+    "start": "2026-11-02",
+    "end": "2026-11-04",
+    "start_time": "11:00",
+    "end_time": "19:00",
+    "previous_start": "",
+    "venue": "Oman Convention and Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "IFP Group",
+    "organizer_url": "https://ifpexpo.com/",
+    "audience": "",
+    "url": "https://project-oman.com/",
+    "description": "The 5th edition of Project Oman, Oman's international construction technology, infrastructure, building materials, manufacturing, energy, supply chain, and facility management exhibition.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 95,
+    "status": "Past",
+    "sources": [
+     "site:project-oman.com",
+     "team-seed-2026"
+    ],
+    "tiers": [
+     "B"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#ProjectOman"
+    ],
+    "_fp": "ee4121eca85d704a6c0582e5dc11039dfe58d780"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 251,
+   "type": "event.created",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "fb1e8cb6b4ba",
+   "event_version": 1,
+   "idempotency_key": "fb1e8cb6b4ba:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "fb1e8cb6b4ba",
+    "version": 1,
+    "kind": "event",
+    "title": "معرض الشارقة الدولي للكتاب",
+    "start": "2026-11-06",
+    "end": "2026-11-06",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sultan Qaboos University",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1214186",
+    "description": "لشارقة - شذى البلوشيلم يكن افتتاح جناح سلطنة عُمان في معرض الشارقة الدولي للكتاب بمثابة مشاركة ثقافية فحسب، وإنما هي علاقات طويلة متجذرة بانت ملامحها في التاريخ والثقافة والمعرفة، ارتباط بحري...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "cb1bc7c65c0533b34c6762091496f68bf8a07619"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 252,
+   "type": "event.updated",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "a601be2063a4",
+   "event_version": 4,
+   "idempotency_key": "a601be2063a4:4:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a601be2063a4",
+    "version": 4,
+    "kind": "event",
+    "title": "Beauty Elements Exhibition (BEE)",
+    "start": "2026-11-09",
+    "end": "2026-11-11",
+    "start_time": "09:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.bee-om.com",
+    "description": "BEE 2026 is the first edition of the Beauty Element Exhibition, hosted at the prestigious OCEC, gathering international beauty brands, distributors, and investors under one roof.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Upcoming",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#BeautyElementsExhibitionBEE"
+    ],
+    "_fp": "d091635bc36fef9e4e6a81d89ff97f871bd337d3"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 253,
+   "type": "event.created",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "7154b07b7b70",
+   "event_version": 1,
+   "idempotency_key": "7154b07b7b70:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "7154b07b7b70",
+    "version": 1,
+    "kind": "event",
+    "title": "Grand Opening",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "start_time": "03:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Muscat, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Granos",
+    "organizer_url": "https://allevents.in/org/granos/28345268",
+    "audience": "",
+    "url": "https://allevents.in/muscat/grand-opening/200030968153417",
+    "description": "🎉🍕 YOU’RE ALL INVITED! 🍝🎉 The wait is almost over! ❤️✨ We are excited to invite everyone to the SOFT OPENING of GRANOS Pizza & Pasta! 🥳🍽️ Come and join us as we begin our journey of serving you delicious Italian-inspired flavors, freshly prepared pizzas, mouthwatering pasta, and a memorable dinin",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#GrandOpening"
+    ],
+    "_fp": "9e8da610156ab9f46f7e44be1ab5f60eecf99860"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 254,
+   "type": "event.created",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "f6596c7caa6d",
+   "event_version": 1,
+   "idempotency_key": "f6596c7caa6d:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "f6596c7caa6d",
+    "version": 1,
+    "kind": "event",
+    "title": "ملتقى في ضيافة المحافظ",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Nizwa",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397510/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%81%D9%8A-%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86",
+    "description": "نزوى- ناصر العبري تنظم محافظة الداخلية، الإثنين المقبل، النسخة السادسة من ملتقى «في ضيافة المحافظ» بولاية الجبل الأخضر، تحت عنوان \"الجبل الأخضر.. آفاق تتجاوز السياحة\"، بمشاركة م",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "f6e8dae5e2d1842fd5d9146569a42aeab1a6647a"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 255,
+   "type": "event.created",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "445781085865",
+   "event_version": 1,
+   "idempotency_key": "445781085865:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "445781085865",
+    "version": 1,
+    "kind": "event",
+    "title": "Oman Health Exhibition & Conference",
+    "start": "2027-09-19",
+    "end": "2027-09-21",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/oman-health-exhibition-and-conference/3700030973063954",
+    "description": "The Oman Health Exhibition & Conference highlights healthcare technology advancements, medical equipment, and innovative health solutions, offering networking, expert-led sessions, and opportunities to engage with industry leaders and cutting-edge products.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Health",
+    "relevance": "Medium",
+    "score": 3,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanHealth",
+     "#OmanHealthExhibitionConference"
+    ],
+    "_fp": "b57cb0dcae1cf55d65e55c9bf42b6b53eb3d0e49"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 256,
+   "type": "event.removed",
+   "occurred_at": "2026-11-05T10:39:47+00:00",
+   "event_id": "c29f4da730e9",
+   "event_version": 3,
+   "idempotency_key": "c29f4da730e9:3:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c29f4da730e9",
+    "version": 3,
+    "kind": "event",
+    "title": "Oman tour",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Muttrah",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/oman-tour/200030860939351",
+    "description": "Permission to post, Admin and if not allowed you may remove, thanks Hi everyone! I’m Niru I’m so excited to be putting together a 5-day Oman adventure , happening 5 Nov 2026 – 9 Nov 2026 We’ll be exploring some incredible places together, including: Muscat– culture, heritage & local life Wad",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 45,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#OmanTour"
+    ],
+    "removed_on": "2026-11-05"
    }
   }
  ]
