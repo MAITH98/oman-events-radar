@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 256,
+ "latest_sequence": 257,
  "changes": [
   {
    "schema_version": "1.0",
@@ -13468,6 +13468,60 @@
      "#OmanTour"
     ],
     "removed_on": "2026-11-05"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 257,
+   "type": "event.created",
+   "occurred_at": "2026-11-06T10:39:52+00:00",
+   "event_id": "1f1788c7f01f",
+   "event_version": 1,
+   "idempotency_key": "1f1788c7f01f:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "1f1788c7f01f",
+    "version": 1,
+    "kind": "expected",
+    "title": "The AI ERA Summit Oman 2027",
+    "start": "2027-11-04",
+    "end": "2027-11-04",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Muscat",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+    "description": "Predicted from the 2026 edition (2026-11-05). Confirm dates.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 30,
+    "status": "Expected – confirm",
+    "sources": [
+     "recurrence"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "4ad522cccf20e5100e9b46897e42f19b187be650"
    }
   }
  ]

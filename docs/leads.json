@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T10:39:47+00:00",
+ "generated_at": "2026-11-06T10:39:52+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -90,14 +90,6 @@
    "url": "https://timesofoman.com//article/178348-jetour-showcases-the-future-of-travel-at-ongoing-global-technology-experience-day",
    "source": "news-en",
    "found": "2026-10-25"
-  },
-  {
-   "title": "معرض الشارقة الدولي للكتاب",
-   "url": "https://www.omandaily.om/article/1214186",
-   "source": "news:omandaily",
-   "found": "2026-11-05",
-   "start": "2026-11-06",
-   "status": "Lead – verify"
   },
   {
    "title": "🎶✨ MUSICAL FIESTA 2026 ✨🎶",
@@ -257,6 +249,14 @@
    "source": "recurrence",
    "found": "2026-11-03",
    "start": "2027-11-01",
+   "status": "Expected – confirm"
+  },
+  {
+   "title": "The AI ERA Summit Oman 2027",
+   "url": "https://allevents.in/muscat/the-ai-era-summit-oman-2026/80003630806505",
+   "source": "recurrence",
+   "found": "2026-11-06",
+   "start": "2027-11-04",
    "status": "Expected – confirm"
   }
  ]

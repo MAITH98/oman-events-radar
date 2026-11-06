@@ -1,8 +1,125 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-05T10:39:47+00:00",
- "count": 29,
+ "generated_at": "2026-11-06T10:39:52+00:00",
+ "count": 30,
  "articles": [
+  {
+   "id": "1805cde0a24b",
+   "title": "ملتقى علمي بولاية منح يناقش أحدث أساليب علاج الالتهابات المزمنة للعظام والمفاصل",
+   "url": "https://www.omandaily.om/article/1214290",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-06",
+   "summary": "ناقش ملتقى علمي نظمته الجمعية العُمانية لجراحة العظام اليوم بمتحف عُمان عبر الزمان في ولاية منح بمحافظة الداخلية، أحدث المستجدات في تشخيص وعلاج الالتهابات المزمنة للعظام والمفاصل، والتحديات...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/06/thumbs/400x400/3569890.jpg"
+  },
+  {
+   "id": "4e742d81f43d",
+   "title": "Oman participates in 4th Minsk International Conference on Eurasian Security",
+   "url": "https://timesofoman.com//article/178831-oman-participates-in-4th-minsk-international-conference-on-eurasian-security",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "The Sultanate of Oman participated in the 4th Minsk International Conference on Eurasian Security, held in the Republic of Belarus",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793882953-1793882953-oztombbvotnx.jpg"
+  },
+  {
+   "id": "2b8821312f6e",
+   "title": "Patient, family experience conference recommends developing care system for newborns",
+   "url": "https://timesofoman.com//article/178829-patient-family-experience-conference-recommends-developing-care-system-for-newborns",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "The Patient and Family Experience in Neonatal Care Conference recommended, at the conclusion of its proceedings on Thursday",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793882479-1793882479-izisuo4bzlpf.jpg"
+  },
+  {
+   "id": "5a96be41d6aa",
+   "title": "International Conference on Computing, Data Analysis concludes in Salalah",
+   "url": "https://timesofoman.com//article/178828-international-conference-on-computing-data-analysis-concludes-in-salalah",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "The 3rd International Conference on Computing and Data Analysis, organised by the University of Technology and Applied Sciences in Salalah, concluded its proceedings on Thursday",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793882211-1793882211-zdmmjps2hg5w.jpg"
+  },
+  {
+   "id": "d07d3c6a1273",
+   "title": "Forum explores expanding cooperation between rehabilitation centres, educational institutions",
+   "url": "https://timesofoman.com//article/178827-forum-explores-expanding-cooperation-between-rehabilitation-centres-educational-institutions",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "The Ministry of Social Development organised on Thursday the 2nd Professional Inclusion Forum between rehabilitation centres, schools and colleges.",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793881860-1793881860-odtnmmkzbwnj.jpg"
+  },
+  {
+   "id": "3cecbdea5b99",
+   "title": "Oman Science Festival’s tech offerings draw large crowds",
+   "url": "https://www.omanobserver.om/article/1199191/oman/oman-science-festivals-tech-offerings-draw-large-crowds",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "STAFF REPORTER MUSCAT, NOV 5 The fifth edition of the Oman Science Festival continued to attract large crowds on its fourth consecutive day at the...",
+   "event": {
+    "name": "Oman Science Festival",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "venue": "Oman Convention & Exhibition Centre",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569806.jpg"
+  },
+  {
+   "id": "11a7e69d06c3",
+   "title": "Ayn features over 85,000 media items and a children's section",
+   "url": "https://www.omanobserver.om/article/1199187/oman/ayn-features-over-85000-media-items-and-a-childrens-section",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "NIZWA, NOV 5 The Ministry of Information showcased the services of the Ayn digital platform during a workshop organised by Al Dakhiliyah Governorate,...",
+   "event": {
+    "name": "Ayn features over 85,000 media items and a children's section",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "venue": "Nizwa",
+    "organizer": "Al Dakhiliyah Governorate"
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569793.jpg"
+  },
+  {
+   "id": "bdb7da53460f",
+   "title": "Al Baleed Culinary Arts Festival opens in Salalah",
+   "url": "https://www.omanobserver.om/article/1199185/oman/al-baleed-culinary-arts-festival-opens-in-salalah",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-05",
+   "summary": "SALALAH: The Al Baleed Culinary Arts Festival 2026 opened at Al Baleed Resort Salalah by Anantara in Dhofar Governorate, bringing together...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569789.jpg"
+  },
+  {
+   "id": "8f062781423a",
+   "title": "4 جلسات نقاشية ضمن أعمال ندوة تاريخ التعليم النظامي في السويق",
+   "url": "https://alroya.om/post/397584/4-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA-%D9%86%D9%82%D8%A7%D8%B4%D9%8A%D8%A9-%D8%B6%D9%85%D9%86-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%86%D8%AF%D9%88%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%82",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-05",
+   "summary": "تقرير: راشـد بن حمــد النهاشــي ضمن أعمال اليوم الثاني من الندوة التاسعة لولاية السويق، التي جاءت بعنوان «تاريخ التعليم النظامي في السويق»، عُقدت أمس الأربعاء 4 نوفمبر 2026م أربع جلسات علمية،",
+   "event": {
+    "name": "ندوة تاريخ التعليم النظامي في السويق",
+    "start": "2026-11-04",
+    "end": "2026-11-04",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/UAAYQ.jpeg"
+  },
   {
    "id": "72281a2f86dd",
    "title": "سلطنة عُمان ضيف شرف \"الشارقة الدولي للكتاب\"",
@@ -11,24 +128,13 @@
    "lang": "ar",
    "published": "2026-11-05",
    "summary": "الشارقة- العُمانية تحل سلطنة عُمان ضيف شرف على الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، الذي انطلقت فعالياته أمس في إمارة الشارقة، في مشاركة ثقافية واسعة تعكس عمق العلاقات الأخو",
-   "event": {
-    "name": "معرض الشارقة الدولي للكتاب",
-    "start": "2026-11-06",
-    "end": "2026-11-06",
-    "venue": "Sultan Qaboos University",
-    "organizer": ""
-   },
+   "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/WQK78.jpeg",
    "also": [
     {
      "source": "الرؤية",
      "url": "https://alroya.om/post/397574/%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D8%B6%D9%8A%D9%81-%D8%B4%D8%B1%D9%81-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%AC%D8%B3%D9%8A%D8%AF-%D9%84%D8%B9%D9%85%D9%82-%D8%A3%D9%88%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A5%D8%AE%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
      "title": "سلطنةُ عُمان ضيف شرف معرض الشارقة الدولي للكتاب تجسيدٌ لعمق أواصر الإخاء والعلاقات التاريخية الوثيقة مع الإمارات"
-    },
-    {
-     "source": "جريدة عُمان",
-     "url": "https://www.omandaily.om/article/1214186",
-     "title": "سلطنة عُمان تصنع الحكايات في معرض الشارقة الدولي للكتاب"
     }
    ]
   },
@@ -44,55 +150,26 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/XwGID.jpeg"
   },
   {
-   "id": "4db3a559bb51",
-   "title": "سلطنة عُمان تشارك في مؤتمر مينسك الدولي الرابع للأمن الأوراسي",
-   "url": "https://www.omandaily.om/article/1214220",
+   "id": "4eeaa6470b9c",
+   "title": "مؤتمر الحوسبة وتحليل البيانات بصلالة يوصي بتعزيز المرونة السيبرانية الوطنية",
+   "url": "https://www.omandaily.om/article/1214256",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-05",
-   "summary": "العُمانية/ شاركت سلطنة عُمان في مؤتمر مينسك الدولي الرابع للأمن الأوراسي، الذي عُقد في جمهورية بيلاروسيا. ترأس وفد سلطنة عُمان معالي الشيخ عبد العزيز بن عبد الله الهنائي، السّفير المُتجوّل بوزارة...",
+   "summary": "تصوير - حامد الكثيري أوصى المؤتمر الدولي الثالث للحوسبة وتحليل البيانات بتعزيز المرونة السيبرانية الوطنية من خلال تسريع تبني بنية انعدام الثقة والاستعداد للتشفير المقاوم للهجمات الكمومية في...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/05/thumbs/400x400/3568888.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/05/thumbs/400x400/3569380.jpg"
   },
   {
-   "id": "f3edb0eda9de",
-   "title": "ملتقى القيادات للجاهزية المستقبلية يستعرض تطوير نماذج العمل والخدمات الحكومية",
-   "url": "https://www.omandaily.om/article/1214218",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-05",
-   "summary": "العُمانية/ استُكملت اليوم أعمال \"ملتقى القيادات للجاهزية المستقبلية\"، ضمن برنامج \"ارتقاء\"، ويهدف إلى تعزيز استراتيجيات بناء حكومات جاهزة للمستقبل ومواكبة التحولات التقنية المتسارعة، وترسيخ...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/05/thumbs/400x400/3568760.jpg"
-  },
-  {
-   "id": "b950f830a51d",
-   "title": "Researchers from 27 countries discuss future of computing, AI in Salalah",
-   "url": "https://timesofoman.com//article/178790-researchers-from-27-countries-discuss-future-of-computing-ai-in-salalah",
-   "source": "Times of Oman",
+   "id": "614f8e542566",
+   "title": "Oman-South Korea forum explores partnerships",
+   "url": "https://www.omanobserver.om/article/1199123/oman/oman-south-korea-forum-explores-partnerships",
+   "source": "Oman Observer",
    "lang": "en",
    "published": "2026-11-04",
-   "summary": "The conference discussed latest researches and scientific developments in the fields of software engineering",
+   "summary": "MUSCAT: The Royal Academy of Management hosted the Oman-South Korea Economic Cooperation Forum under the theme “Geopolitical Changes and the Future...",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793803719-1793803719-ujhsmejrvt7s-700x400.jpg"
-  },
-  {
-   "id": "1f7d6e413da2",
-   "title": "Forum discusses future of partnership between Oman, Korea",
-   "url": "https://timesofoman.com//article/178789-forum-discusses-future-of-partnership-between-oman-korea",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-04",
-   "summary": "The Royal Academy of Management (RAM) hosted the forum",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1793803222-1793803221-arqkzjkf0zoz-700x400.jpg",
-   "also": [
-    {
-     "source": "Oman Observer",
-     "url": "https://www.omanobserver.om/article/1199123/oman/oman-south-korea-forum-explores-partnerships",
-     "title": "Oman-South Korea forum explores partnerships"
-    }
-   ]
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/04/thumbs/600x600/3568504.jpg"
   },
   {
    "id": "d8ea458a6abd",
@@ -268,67 +345,6 @@
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/03/thumbs/600x600/3567271.jpg"
   },
   {
-   "id": "e7fe4d44f856",
-   "title": "\"جامعة التقنية\" تنظم ورشة لتطوير منظومة التخطيط الاستراتيجي وقياس الأداء المؤسسي",
-   "url": "https://alroya.om/post/397465/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D9%88%D9%82%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-03",
-   "summary": "مسقط- الرؤية عقد مكتب متابعة تنفيذ رؤية \"عمان 2040\" بجامعة التقنية والعلوم التطبيقية، وبالتعاون مع دائرة التخطيط والتطوير، ورشة عمل بعنوان: مراجعة وتحديث بطاقة الأهداف الرئيسية للجامعة للفترة 2026–",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/iW53u.jpeg"
-  },
-  {
-   "id": "713b78aff1d1",
-   "title": "تجارب علمية ومسرحيات هادفة في اليوم الثاني من \"مهرجان عمان للعلوم\"",
-   "url": "https://alroya.om/post/397464/%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%88%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A7%D8%AA-%D9%87%D8%A7%D8%AF%D9%81%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-03",
-   "summary": "مسقط- الرؤية تواصلت فعاليات وبرامج مهرجان عمان للعلوم 2026 في نسخته الخامسة، والذي حمل شعار \"بوصلتنا العلوم\" بمركز عمان للمؤتمرات. وتنوعت فعاليات وأنشطة المهرجان في يومه الثاني، وقدمت للزوار وال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/nnATN.jpeg"
-  },
-  {
-   "id": "77c784fbfee1",
-   "title": "الخميس.. انطلاق مؤتمر عُمان لطب الأسنان بمشاركة 500 مختصا",
-   "url": "https://alroya.om/post/397463/%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-500-%D9%85%D8%AE%D8%AA%D8%B5%D8%A7",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-03",
-   "summary": "مسقط- الرؤية بدأت، الثلاثاء بمركز عُمان للمؤتمرات والمعارض، الحلقات العلمية المتخصصة المصاحبة لمؤتمر عُمان لطب الأسنان والمعرض المصاحب له 2026، الذي تنظمه الرابطة العُمانية لطب الأسنان على مدى ثلاث",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/YKSHw.png"
-  },
-  {
-   "id": "8ce8bcf67f01",
-   "title": "جامعة السلطان قابوس تشارك في \"قمة QS للتعليم العالي\"",
-   "url": "https://alroya.om/post/397459/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%88%D8%B3-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-QS-%D9%84%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-03",
-   "summary": "مسقط- الرؤية تشارك جامعة السلطان قابوس في أعمال قمة QS للتعليم العالي لمنطقة آسيا والمحيط الهادئ، التي تُعقد في جزيرة بالي بجمهورية إندونيسيا خلال المدة من 3 إلى 5 نوفمبر 2026، بمشاركة نخبة من القي",
-   "event": {
-    "name": "قمة QS للتعليم العالي",
-    "start": "2026-11-03",
-    "end": "2026-11-05",
-    "venue": "Sultan Qaboos University",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/joXgs.jpeg"
-  },
-  {
-   "id": "24044b709f05",
-   "title": "\"صحار الدولي\" يوقّع 3 اتفاقيات استراتيجية مع مؤسسات مالية صينية",
-   "url": "https://alroya.om/post/397430/%D8%B5%D8%AD%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%88%D9%82-%D8%B9-3-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-03",
-   "summary": "مسقط- الرؤية شارك صحار الدولي في منتدى «آفاق الشراكات الاستثمارية»، الذي نظّمه جهاز الاستثمار العُماني بالتعاون مع بنك الصين في العاصمة الصينية بكين، بالتزامن مع زيارة دولة التي",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/mA31L.jpeg"
-  },
-  {
    "id": "b73b6e09e718",
    "title": "Oman Science Festival opens its fifth edition",
    "url": "https://www.omanobserver.om/article/1199009/oman/oman-science-festival-opens-its-fifth-edition",
@@ -355,23 +371,6 @@
    "summary": "The Ahmed Zabana National Museum in Oran, Algeria, hosted a retrospective exhibition titled 'Between Light and the Mediterranean Sea... Feelings...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/01/thumbs/600x600/3564178.jpg"
-  },
-  {
-   "id": "efbe37762af8",
-   "title": "Al Mazyouna forum targets Oman–Yemen trade",
-   "url": "https://www.omanobserver.om/article/1198867/business/economy/al-mazyouna-forum-targets-omanyemen-trade",
-   "source": "Oman Observer · Business",
-   "lang": "en",
-   "published": "2026-10-31",
-   "summary": "AL MAZYOUNA: Nearly 50 exhibitors from the Sultanate of Oman and Yemen will take part in the second Al Mazyouna Economic Exhibition and Forum, opening...",
-   "event": {
-    "name": "Al Mazyouna Economic Exhibition",
-    "start": "2026-11-02",
-    "end": "2026-11-02",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/31/thumbs/600x600/3562808.jpg"
   },
   {
    "id": "31d5f5116ac9",
