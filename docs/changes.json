@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 257,
+ "latest_sequence": 259,
  "changes": [
   {
    "schema_version": "1.0",
@@ -13522,6 +13522,111 @@
      "#التحول_الرقمي"
     ],
     "_fp": "4ad522cccf20e5100e9b46897e42f19b187be650"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 258,
+   "type": "event.created",
+   "occurred_at": "2026-11-07T09:52:15+00:00",
+   "event_id": "13bbfdc599c0",
+   "event_version": 1,
+   "idempotency_key": "13bbfdc599c0:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "13bbfdc599c0",
+    "version": 1,
+    "kind": "event",
+    "title": "Wadi Bani Khalid and Wahiba Sands",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "start_time": "08:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Rawasco Al-Khuwair",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Oman Horizon Tours",
+    "organizer_url": "https://allevents.in/org/oman-horizon-tours/28363913",
+    "audience": "",
+    "url": "https://allevents.in/muscat/wadi-bani-khalid-and-wahiba-sands/200030988138015",
+    "description": "For our next shared group tour with Oman Horizon Tours, we have prepared an exciting day trip to Wadi Bani Khalid and Wahiba Sands scheduled for November 26, 2026. Just send a message to book, and payment will be made on the day of the tour itself, so you can schedule now!",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "31b61faca96d903c090629a4d3697b094f7f2609"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 259,
+   "type": "event.removed",
+   "occurred_at": "2026-11-07T09:52:15+00:00",
+   "event_id": "e8f82593d0f8",
+   "event_version": 3,
+   "idempotency_key": "e8f82593d0f8:3:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "e8f82593d0f8",
+    "version": 3,
+    "kind": "event",
+    "title": "🎶✨ MUSICAL FIESTA 2026 ✨🎶",
+    "start": "2026-11-06",
+    "end": "2026-11-07",
+    "start_time": "19:00",
+    "end_time": "03:00",
+    "previous_start": "",
+    "venue": "Bayt al Falaj",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Amplify Media & Advertising LLC",
+    "organizer_url": "https://allevents.in/org/amplify-media-and-advertising-llc/28216167",
+    "audience": "",
+    "url": "https://allevents.in/muscat/musical-fiesta-2026/200030802877137",
+    "description": "🎶✨ MUSICAL FIESTA 2026 ✨🎶 Amplify Media & Advertising LLC is honored to collaborate with Zuraiq in bringing you an unforgettable night of music, entertainment, and Diwali celebrations! ✨🤝 Get ready for THE BIGGEST MUSICAL EVENT FOR DIWALI! 🔥 🌟 W.i.S.H – All-Girl Pop Group 🎤 Nadeem Al Balushi – Re",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-06",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#MUSICALFIESTA"
+    ],
+    "removed_on": "2026-11-07"
    }
   }
  ]
