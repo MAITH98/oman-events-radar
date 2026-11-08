@@ -1,62 +1,338 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-07T09:52:15+00:00",
- "count": 17,
+ "generated_at": "2026-11-08T10:05:46+00:00",
+ "count": 33,
  "articles": [
   {
-   "id": "0fd95bce3648",
-   "title": "حلقة عمل تناقش علم النفس الرياضي وأهميته وتطوره التاريخي",
-   "url": "https://www.omandaily.om/article/1214348",
+   "id": "f0c9ee77e687",
+   "title": "ختام منافسات مهرجان الخابورة لمزاينة الهجن",
+   "url": "https://www.omandaily.om/article/1214415",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "عُمان: حصدت «مصيحة» سيف الشوط الذهبي لسن الحول، وفازت «بحري المر» بسيف الشوط الذهبي لسن الحجائج، في ختام مهرجان الخابورة لمزاينة الهجن البواطن لعام 2026. وأُقيم الحفل الختامي بميدان سباقات الهجن في...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/08/thumbs/400x400/3571707.jpg"
+  },
+  {
+   "id": "afcec02557be",
+   "title": "الاحتفال بالأسبوع العالمي لريادة الأعمال",
+   "url": "https://www.omandaily.om/article/1214408",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "العُمانية/ افتُتحت اليوم بولاية أدم بمحافظة الداخلية فعاليات الأسبوع العالمي لريادة الأعمال الذي تنظمه إدارة تنمية المؤسسات الصغيرة والمتوسطة \"ريادة\" بمحافظة الداخلية تحت شعار \" ريادة تلهم...",
+   "event": {
+    "name": "أسبوع العالمي لريادة الأعمال الذي تنظمه إدارة",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "venue": "",
+    "organizer": "إدارة تنمية المؤسسات الصغيرة والمتوسطة \"ريادة\" بمحافظة الداخ"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/08/thumbs/400x400/3571486.jpg"
+  },
+  {
+   "id": "3fe3e4e7f88e",
+   "title": "Science Festival showcases AI, robotics and innovation",
+   "url": "https://www.omanobserver.om/article/1199275/oman/science-festival-showcases-ai-robotics-and-innovation",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "MUSCAT, NOV 7 The Oman Science Festival attracted large crowds over the weekend, with visitors from different segments of society exploring its...",
+   "event": {
+    "name": "Oman Science Festival",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571362.jpg"
+  },
+  {
+   "id": "33b0d5e39d97",
+   "title": "Expo aims to spotlight Oman’s adventure sector",
+   "url": "https://www.omanobserver.om/article/1199274/oman/expo-aims-to-spotlight-omans-adventure-sector",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "MUSCAT, NOV 7 From mountain peaks to stretches of desert, and from the charm of the wadis to the beauty of its coasts and islands, Oman offers what...",
+   "event": {
+    "name": "Oman Camp Expo 2026",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571359.jpg"
+  },
+  {
+   "id": "76f769e85de7",
+   "title": "Sultanate of OF Oman to participate in COP31 in Türkiye",
+   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-of-oman-to-participate-in-cop31-in-turkiye",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "ANTALYA: The Sultanate of Oman will partake in the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31),...",
+   "event": {
+    "name": "Sultanate of OF Oman to participate in COP31 in Türkiye",
+    "start": "2026-11-09",
+    "end": "2026-11-20",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571350.jpg"
+  },
+  {
+   "id": "4b20924b41f0",
+   "title": "Rakhyout Festival highlights heritage and tourism",
+   "url": "https://www.omanobserver.om/article/1199271/oman/rakhyout-festival-highlights-heritage-and-tourism",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "RAKHYOUT: The Sarb Rakhyout Festival 2026 opened on Thursday in the Wilayat of Rakhyout, Dhofar Governorate, showcasing the region’s cultural...",
+   "event": {
+    "name": "Sarb Rakhyout Festival 2026",
+    "start": "2026-11-13",
+    "end": "2026-11-13",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571345.jpg"
+  },
+  {
+   "id": "da341140d79c",
+   "title": "OCHS signs academic agreement with Indonesian university",
+   "url": "https://www.omanobserver.om/article/1199269/oman/ochs-signs-academic-agreement-with-indonesian-university",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "MUSCAT: Oman College of Health Sciences (OCHS) has strengthened its international academic engagement through participation in the QS Higher Education...",
+   "event": {
+    "name": "QS Higher Education Summit",
+    "start": "2026-11-03",
+    "end": "2026-11-05",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571341.jpg"
+  },
+  {
+   "id": "58d6c557e5a6",
+   "title": "Oman showcases maritime heritage at Sharjah book fair",
+   "url": "https://www.omanobserver.om/article/1199236/features/books/oman-showcases-maritime-heritage-at-sharjah-book-fair",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "AHMED AL KAABI The Sultanate of Oman participated as Guest of Honour at the 45th Sharjah International Book Fair on Wednesday, presenting its literary...",
+   "event": {
+    "name": "45th Sharjah International Book Fair",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "venue": "Sultan Qaboos University",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3570683.jpg"
+  },
+  {
+   "id": "eb04c35411a2",
+   "title": "Actor Khaled el Sawy explores the craft of stage presence",
+   "url": "https://www.omanobserver.om/article/1199235/features/books/actor-khaled-el-sawy-explores-the-craft-of-stage-presence",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-07",
+   "summary": "Talent alone is not enough to command an audience, Egyptian actor Khaled El Sawy told participants at the Sharjah International Book Fair 2026,...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3570665.jpg"
+  },
+  {
+   "id": "320a7d41657e",
+   "title": "مشاركات خليجية ودولية في المعرض السنوي لنادي النفاخ العُماني",
+   "url": "https://alroya.om/post/397663/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D8%AA-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D8%AE-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "نخل- خالد بن سالم السيابي نظّم نادي النفاخ العُماني معرضه السنوي للإنتاج، بالتعاون مع جمعية المرأة العُمانية في ولاية نخل، وذلك بمشاركة واسعة من أعضاء النادي ومربي ومحبي حمام الزينة من مختلف محافظ",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/TZuyi.jpeg"
+  },
+  {
+   "id": "69b5bbd5afe7",
+   "title": "افتتاح \"مؤتمر طب الطوارئ العصبية\" بمستشفى سناو",
+   "url": "https://alroya.om/post/397661/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B7%D8%A8-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%B3%D9%86%D8%A7%D9%88",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "سناو- راشد بن حميد الراشدي نظم مستشفى سناو مؤتمر طب الطوارئ العصبية برعاية الدكتور أحمد بن سعيد السعيدي مدير عام المديرية العامة للخدمات الصحية بمحافظة شمال الشرقية، وبمشاركة عدد من الأطباء والعام",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/7KLlh.jpeg"
+  },
+  {
+   "id": "d067421da1fb",
+   "title": "محافظ جنوب الباطنة يكرم الفائزين في ختام منافسات بطولة الرماية التقليدية",
+   "url": "https://alroya.om/post/397660/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%8A%D9%83%D8%B1%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A7%D8%AA-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "المصنعة- خالد بن سالم السيابي اختُتمت بميدان المصنعة للرماية بولاية المصنعة في محافظة جنوب الباطنة، منافسات النسخة العاشرة لبطولة منتدى الرماية بالأسلحة التقليدية، وذلك تحت رعاية سعادة المهندس مسع",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/NUvRU.jpeg"
+  },
+  {
+   "id": "7cfc6cab4f7a",
+   "title": "\"الشارقة الدولي للكتاب\" يحتفي بالمبادرات الثقافية الأهلية في سلطنة عُمان",
+   "url": "https://alroya.om/post/397658/%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "الشارقة- الرؤية نظم معرض الشارقة الدولي للكتاب، الذي تحل فيه سلطنة عُمان ضيف شرف، جلسة حوارية بعنوان «المبادرات والمراكز الثقافية الأهلية في سلطنة عُمان.. شراكة مجتمعية في صناعة المشهد ال",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/JraZ3.jpeg"
+  },
+  {
+   "id": "07eca26a96ad",
+   "title": "مهرجان رياضي لطلبة ذوي الإعاقة في جنوب الباطنة لاكتشاف المواهب وتعزيز الدمج",
+   "url": "https://alroya.om/post/397657/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9-%D9%84%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AF%D9%85%D8%AC",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "الرستاق- خالد بن سالم السيابي نظّم الاتحاد العماني للرياضة المدرسية بالتعاون والشراكة مع لجنة الرياضة المدرسية بالمديرية العامة للتعليم بمحافظة جنوب الباطنة \"المهرجان الرياضي المدرسي لطلبة ذوي الإ",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/UwgMU.jpeg"
+  },
+  {
+   "id": "f99dd3329e74",
+   "title": "\"عُمران\" تُعزز تنافسية السياحة العُمانية في \"سوق السفر العالمي\"",
+   "url": "https://alroya.om/post/397649/%D8%B9-%D9%85%D8%B1%D8%A7%D9%86-%D8%AA-%D8%B9%D8%B2%D8%B2-%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "مسقط- الرؤية اختتمت الشركة العُمانية للتنمية السياحية \"مجموعة عُمران\" مشاركتها في معرض سوق السفر العالمي (WTM) بلندن 2026، ضمن جناح سلطنة عُمان الذي نظمته وزارة التراث والسياحة.",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/o9Qcy.jpeg"
+  },
+  {
+   "id": "c578469ae085",
+   "title": "حضور مرتقب للمنتج العُماني مع انطلاق معرض شنغهاي الدولي للأغذية والضيافة.. الثلاثاء",
+   "url": "https://alroya.om/post/397628/%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B4%D9%86%D8%BA%D9%87%D8%A7%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "مسقط- العُمانية تشارك سلطنة عُمان بعد غدٍ الثلاثاء في معرض شنغهاي الدّولي للأغذية والضّيافة الذي يُقام بمدينة شنغهاي بجُمهوريّة الصّين الشّعبية لتعزيز حضور المنتجات الوطنية في الأسواق الع",
+   "event": {
+    "name": "معرض شنغهاي الدولي للأغذية والضيافة",
+    "start": "2026-11-10",
+    "end": "2026-11-10",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/djNMm.jpeg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1214364",
+     "title": "الثلاثاء المقبل.. سلطنة عُمان تشارك في معرض شنجهاي الدولي للأغذية والضيافة"
+    }
+   ]
+  },
+  {
+   "id": "e703cf642e7e",
+   "title": "الأطفال يمارسون مهن المستقبل ضمن ورش تدريبية في \"الشارقة الدولي للكتاب\"",
+   "url": "https://alroya.om/post/397619/%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%8A%D9%85%D8%A7%D8%B1%D8%B3%D9%88%D9%86-%D9%85%D9%87%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%B6%D9%85%D9%86-%D9%88%D8%B1%D8%B4-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "الرؤية- عبدالله الشافعي جرّب الأطفال من زوار الدورة الخامسة والأربعين لمعرض الشارقة الدولي للكتاب ممارسة مهن مختلفة، في مدينة تعليمية مصغرة أتاحت لهم أداء أدوار الطبيب والمحقق والعامل في ورشة",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/10upf.jpeg"
+  },
+  {
+   "id": "2e815469791f",
+   "title": "كلية عُمان للعلوم الصحية تستكشف آفاق التعاون الأكاديمي في مؤتمر كيو إس بإندونيسيا",
+   "url": "https://alroya.om/post/397615/%D9%83%D9%84%D9%8A%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%83%D9%8A%D9%88-%D8%A5%D8%B3-%D8%A8%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "الرؤية - إبراهيم الهادي شاركت كلية عُمان للعلوم الصحية في مؤتمر كيو إس للتعليم العالي لجامعات آسيا والمحيط الهادئ 2026، الذي استضافته مدينة بالي بجمهورية إندونيسيا خلال الفترة من 3 إلى 5",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/ppnnB.jpeg"
+  },
+  {
+   "id": "f85565bdb721",
+   "title": "برنامج ثقافي عماني يستقطب جمهور \"الشارقة للكتاب\" عبر الفن والأب والفكر\"",
+   "url": "https://www.omandaily.om/article/1214388",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-07",
-   "summary": "\"عمان\": ناقشت حلقة العمل التخصصية «علم النفس الرياضي» -التي نظمتها وزارة الثقافة والرياضة والشباب، ممثلة بالمديرية العامة للرعاية والتطوير الرياضي، ممثلة في دائرة الطب وعلوم الرياضة- جملة من...",
+   "summary": "الشارقة- شذى البلوشي تصوير- المنتصر الجرداني أقيمت ضمن البرنامج الثقافي لضيف الشرف في معرض الشارقة الدولي للكتاب، مجموعة من الفعاليات الثقافية والفنية، اجتمع فيها عدد من المثقفين والأدباء...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570618.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3571074.jpg"
   },
   {
-   "id": "43851f4dd005",
-   "title": "جناح سلطنة عمان في معرض الشارقة الدولي للكتاب.. الشراع يستحضر أمجاد البحر ويفتح أشرعته للثقافة والمعرفة",
-   "url": "https://www.omandaily.om/article/1214342",
+   "id": "8e6388a8bc31",
+   "title": "سلطنة عُمان تشارك في مؤتمر الأطراف لتغيّر المناخ \"كوب 31\" في أنطاليا التركية",
+   "url": "https://www.omandaily.om/article/1214382",
    "source": "جريدة عُمان",
    "lang": "ar",
-   "published": "2026-11-06",
-   "summary": "العُمانية: يجسد جناح سلطنة عُمان المشارك ضيف شرف في الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، تجربة ثقافية ومعرفية تستلهم ملامحها من التاريخ البحري العُماني وتبرز الامتداد...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/06/thumbs/400x400/3570436.jpg"
+   "published": "2026-11-07",
+   "summary": "العُمانية: تشارك سلطنة عُمان في أعمال مؤتمر الأطراف في اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ \"كوب 31\" المزمع عقده في مدينة أنطاليا بجمهورية تركيا الثلاثاء المقبل وحتى 20 نوفمبر الجاري، في...",
+   "event": {
+    "name": "مؤتمر الأطراف لتغيّر المناخ",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3571023.jpg"
   },
   {
-   "id": "e9032372a34b",
-   "title": "\"عمان والعالم\" يجمع فرق الموسيقى العسكرية بدار الأوبرا السلطانية",
-   "url": "https://www.omandaily.om/article/1214329",
+   "id": "9eea924d021a",
+   "title": "إطلاق النسخة الخامسة من مهرجان البليد للطهي 2026",
+   "url": "https://www.omandaily.om/article/1214374",
    "source": "جريدة عُمان",
    "lang": "ar",
-   "published": "2026-11-06",
-   "summary": "استقطبت الساحة الخارجية لدار الأوبرا السلطانية مسقط جمهورا كبيرا تابع عروض مهرجان الموسيقى العسكرية \"عمان والعالم\"، بمشاركة عدد من الفرق العسكرية العمانية إلى جانب فرق زائرة من جمهوريتي سلوفاكيا...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/06/thumbs/400x400/3570298.jpg"
+   "published": "2026-11-07",
+   "summary": "انطلقت بمنتجع البليد صلالة بإدارة أنانتارا بمحافظة ظفار فعاليات مهرجان البليد لفنون الطهي 2026، بمشاركة عدد من الطهاة العالميين الحاصلين على تقدير دليل ميشلان، إلى جانب طهاة عُمانيين ودوليين،...",
+   "event": {
+    "name": "مهرجان البليد للطهي 2026",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "venue": "Salalah",
+    "organizer": "فعاليات ثقافية وفنية حية وتجارب متخصصة في صناعة الحلويات الم"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570824.jpg"
   },
   {
-   "id": "e419221e814a",
-   "title": "مؤشر بورصة مسقط الأسبوعي ينخفض 69 نقطة والتداولات تتراجع إلى 180 مليون ريال",
-   "url": "https://www.omandaily.om/article/1214311",
+   "id": "b0a5a963a587",
+   "title": "حلقة عمل ببركاء لتعزز الوعي بإجراءات السلامة والوقاية من الحرائق",
+   "url": "https://www.omandaily.om/article/1214369",
    "source": "جريدة عُمان",
    "lang": "ar",
-   "published": "2026-11-06",
-   "summary": "سجل مؤشر بورصة مسقط خلال الأسبوع انخفاضا بمقدار 69.8 نقطة وبنسبة 0.95% مقارنة مع الأسبوع السابق، وأغلق عند مستوى 7276.41 نقطة، وبلغت قيمة التداول 180.1 مليون ريال عماني منخفضة بنسبة 43.52% عن الأسبوع السابق...",
+   "published": "2026-11-07",
+   "summary": "نظّمت دائرة التنمية الاجتماعية ببركاء، ممثلة بقسم التنمية الأسرية، وبالتعاون مع وحدة الدفاع المدني والإسعاف بمحافظة جنوب الباطنة، حلقة تدريبية توعوية حول الوقاية من الحرائق ومبادئ الإسعافات...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/06/thumbs/400x400/3570026.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570775.jpg"
   },
   {
-   "id": "48f97908e016",
-   "title": "مهرجان صرب رخيوت وجهة سياحية تجمع بين الطبيعة وأصالة الموروث",
-   "url": "https://www.omandaily.om/article/1214308",
+   "id": "c057348c5589",
+   "title": "ملتقى مؤسسات التعليم العالي يعزز التواصل المباشر بين الطلبة والجامعات والكليات بتعليمية مسقط",
+   "url": "https://www.omandaily.om/article/1214367",
    "source": "جريدة عُمان",
    "lang": "ar",
-   "published": "2026-11-06",
-   "summary": "انطلقت مساء الخميس فعاليات مهرجان صرب رخيوت في ولاية رخيوت بمحافظة ظفار، الذي تنظمه بلدية ظفار بالتعاون مع مكتب والي رخيوت، ويستمر حتى الثالث عشر من نوفمبر الجاري. يقام المهرجان تحت رعاية معالي...",
+   "published": "2026-11-07",
+   "summary": "شكل الملتقى التعريفي لمؤسسات التعليم العالي في نسخته الخامسة منصة تفاعلية جمعت الطلبة بمؤسسات التعليم الجامعي، وأتاح لهم فرصة التعرف عن قرب على البرامج الأكاديمية والتخصصات الدراسية والمسارات...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/06/thumbs/400x400/3570018.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570763.jpg"
+  },
+  {
+   "id": "a80511858479",
+   "title": "مؤتمر صحي بشمال الشرقية يستعرض ممارسات التعامل مع الحالات الحرجة",
+   "url": "https://www.omandaily.om/article/1214366",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-07",
+   "summary": "نظمت المديرية العامة للخدمات الصحية بمحافظة شمال الشرقية، ممثلة بمستشفى سناو، مؤتمر طب طوارئ الأعصاب، في إطار الجهود الرامية إلى تطوير مهارات الكوادر الصحية وتعزيز كفاءتها في التعامل مع الحالات...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570757.jpg"
   },
   {
    "id": "3cecbdea5b99",
@@ -104,23 +380,6 @@
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569789.jpg"
   },
   {
-   "id": "8f062781423a",
-   "title": "4 جلسات نقاشية ضمن أعمال ندوة تاريخ التعليم النظامي في السويق",
-   "url": "https://alroya.om/post/397584/4-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA-%D9%86%D9%82%D8%A7%D8%B4%D9%8A%D8%A9-%D8%B6%D9%85%D9%86-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%86%D8%AF%D9%88%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%82",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-05",
-   "summary": "تقرير: راشـد بن حمــد النهاشــي ضمن أعمال اليوم الثاني من الندوة التاسعة لولاية السويق، التي جاءت بعنوان «تاريخ التعليم النظامي في السويق»، عُقدت أمس الأربعاء 4 نوفمبر 2026م أربع جلسات علمية،",
-   "event": {
-    "name": "ندوة تاريخ التعليم النظامي في السويق",
-    "start": "2026-11-04",
-    "end": "2026-11-04",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/UAAYQ.jpeg"
-  },
-  {
    "id": "614f8e542566",
    "title": "Oman-South Korea forum explores partnerships",
    "url": "https://www.omanobserver.om/article/1199123/oman/oman-south-korea-forum-explores-partnerships",
@@ -130,17 +389,6 @@
    "summary": "MUSCAT: The Royal Academy of Management hosted the Oman-South Korea Economic Cooperation Forum under the theme “Geopolitical Changes and the Future...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/04/thumbs/600x600/3568504.jpg"
-  },
-  {
-   "id": "d8ea458a6abd",
-   "title": "Oman is Guest of Honor at Sharjah International Book Fair 2026",
-   "url": "https://www.omanobserver.om/article/1199104/oman/community/oman-is-guest-of-honor-at-sharjah-international-book-fair-2026",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-04",
-   "summary": "Sharjah: The Sultanate of Oman is participating as the Guest of Honor at the 45th edition of the Sharjah International Book Fair 2026, which commenced...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/04/thumbs/600x600/3568105.jpg"
   },
   {
    "id": "1f4ea5e66814",
@@ -158,23 +406,6 @@
     "organizer": "Special Economic Zone"
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/04/thumbs/600x600/3568408.jpg"
-  },
-  {
-   "id": "7d082fef5de2",
-   "title": "Scientific research conference seeks to develop security policies",
-   "url": "https://www.omanobserver.om/article/1199060/oman/scientific-research-conference-seeks-to-develop-security-policies",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-03",
-   "summary": "NIZWA, NOV 3 The Sultan Qaboos Academy for Police Sciences witnessed the opening ceremony for the third International Scientific Conference, which...",
-   "event": {
-    "name": "International Scientific Conference",
-    "start": "2026-11-03",
-    "end": "2026-11-03",
-    "venue": "Nizwa",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/03/thumbs/600x600/3567414.jpg"
   },
   {
    "id": "4b766f67d241",
