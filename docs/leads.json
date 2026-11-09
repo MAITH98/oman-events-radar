@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T10:05:46+00:00",
+ "generated_at": "2026-11-09T11:15:13+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,16 +92,16 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Grand Opening",
-   "url": "https://allevents.in/muscat/grand-opening/200030968153417",
-   "source": "allevents-muscat",
-   "found": "2026-11-05",
+   "title": "British Festival 2026",
+   "url": "https://www.omanobserver.om/article/1199307/features/arts/british-and-omani-artists-to-exhibit-at-stal-gallery",
+   "source": "news:observer-lifestyle",
+   "found": "2026-11-09",
    "start": "2026-11-09",
-   "status": "Needs review"
+   "status": "Lead – verify"
   },
   {
-   "title": "Sultanate of OF Oman to participate in COP31 in Türkiye",
-   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-of-oman-to-participate-in-cop31-in-turkiye",
+   "title": "Sultanate of Oman to participate in COP31 in Türkiye",
+   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-oman-to-participate-in-cop31-in-turkiye",
    "source": "news:observer-local",
    "found": "2026-11-08",
    "start": "2026-11-09",
@@ -124,22 +124,6 @@
    "status": "Needs review"
   },
   {
-   "title": "أسبوع العالمي لريادة الأعمال الذي تنظمه إدارة",
-   "url": "https://www.omandaily.om/article/1214408",
-   "source": "news:omandaily",
-   "found": "2026-11-08",
-   "start": "2026-11-12",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "مهرجان البليد للطهي 2026",
-   "url": "https://www.omandaily.om/article/1214374",
-   "source": "news:omandaily",
-   "found": "2026-11-08",
-   "start": "2026-11-12",
-   "status": "Lead – verify"
-  },
-  {
    "title": "Sarb Rakhyout Festival 2026",
    "url": "https://www.omanobserver.om/article/1199271/oman/rakhyout-festival-highlights-heritage-and-tourism",
    "source": "news:observer-local",
@@ -148,19 +132,27 @@
    "status": "Lead – verify"
   },
   {
+   "title": "\"التراث والسياحة\" تشارك في 3 فعاليات بجناح عُمان في \"الشارقة الدولي للكتاب\"",
+   "url": "https://alroya.om/post/397721/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9-%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+   "source": "news:alroya",
+   "found": "2026-11-09",
+   "start": "2026-11-15",
+   "status": "Lead – verify"
+  },
+  {
    "title": "45th Sharjah International Book Fair",
-   "url": "https://www.omanobserver.om/article/1199236/features/books/oman-showcases-maritime-heritage-at-sharjah-book-fair",
+   "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
    "source": "news:observer-lifestyle",
    "found": "2026-11-08",
    "start": "2026-11-15",
    "status": "Lead – verify"
   },
   {
-   "title": "مؤتمر الأطراف لتغيّر المناخ",
-   "url": "https://www.omandaily.om/article/1214382",
-   "source": "news:omandaily",
-   "found": "2026-11-08",
-   "start": "2026-11-20",
+   "title": "Duqm targets faster port operations",
+   "url": "https://www.omanobserver.om/article/1199311/business/economy/duqm-targets-faster-port-operations",
+   "source": "news:observer-business",
+   "found": "2026-11-09",
+   "start": "2026-11-15",
    "status": "Lead – verify"
   },
   {

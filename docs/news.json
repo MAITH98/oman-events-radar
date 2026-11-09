@@ -1,35 +1,336 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-08T10:05:46+00:00",
- "count": 33,
+ "generated_at": "2026-11-09T11:15:13+00:00",
+ "count": 47,
  "articles": [
   {
-   "id": "f0c9ee77e687",
-   "title": "ختام منافسات مهرجان الخابورة لمزاينة الهجن",
-   "url": "https://www.omandaily.om/article/1214415",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-08",
-   "summary": "عُمان: حصدت «مصيحة» سيف الشوط الذهبي لسن الحول، وفازت «بحري المر» بسيف الشوط الذهبي لسن الحجائج، في ختام مهرجان الخابورة لمزاينة الهجن البواطن لعام 2026. وأُقيم الحفل الختامي بميدان سباقات الهجن في...",
+   "id": "19fa858fb28c",
+   "title": "15 Omani companies to participate in Oman-Rwanda Business Forum",
+   "url": "https://timesofoman.com//article/178960-15-omani-companies-to-participate-in-oman-rwanda-business-forum",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-09",
+   "summary": "The activities of the participating Omani companies cover food industries, agricultural products",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/08/thumbs/400x400/3571707.jpg"
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794222506-1794222506-tcf9lph784te-700x400.jpeg"
   },
   {
-   "id": "afcec02557be",
-   "title": "الاحتفال بالأسبوع العالمي لريادة الأعمال",
-   "url": "https://www.omandaily.om/article/1214408",
+   "id": "2a5018f59c4d",
+   "title": "Muscat Media Group and 182 other media organisations participate in 'Belt and Road' Media Forum 2026 in Fuzhou",
+   "url": "https://timesofoman.com//article/178952-muscat-media-group-and-182-other-media-organisations-participate-in-belt-and-road-media-forum-2026-in-fuzhou",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-09",
+   "summary": "The \"Belt and Road Initiative\" has become a \"public good\" for the world.",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794208051-1794208051-demta2jspu2r-700x400.jpg"
+  },
+  {
+   "id": "f066036b49c7",
+   "title": "ضمن \"مهرجان عُمان للعلوم\".. \"التعليم\" تحتفي بالفائزين بجائزة \"تنمية نفط عُمان\" للطاقة المتجددة",
+   "url": "https://alroya.om/post/397769/%D8%B6%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "مسقط- الرؤية احتفت وزارة التعليم بإعلان نتائج الدورة السابعة من جائزة شركة تنمية نفط عُمان للطاقة المتجددة، التي حملت هذا العام عنوان: \"الذكاء الاصطناعي في استدامة الطاقة\"، تحت رعاية سعادة عبد",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/RugtP.jpeg"
+  },
+  {
+   "id": "ab98f63b0ae7",
+   "title": "\"جامعة التقنية\" تشارك بـ40 مشروعًا و12 ابتكارًا في \"المهرجان\"",
+   "url": "https://alroya.om/post/397766/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D8%A8%D9%8040-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7-%D9%8812-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "مسقط- الرؤية تشارك جامعة التقنية والعلوم التطبيقية في فعاليات مهرجان عُمان للعلوم 2026، من خلال برنامج علمي وتفاعلي يضم 40 مشروعا من منتسبيها، إلى جانب عرض 12 ابتكارا طلابيا من عدد من فروع الجامعة،",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/xdDAl.jpeg"
+  },
+  {
+   "id": "d4f21425eb79",
+   "title": "الملتقى الوطني لمسؤولي السلامة الدوائية يبحث تحسين جودة الرعاية الصحية",
+   "url": "https://alroya.om/post/397765/%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "مسقط- الرؤية نظمت وزارة الصحة ممثَّلةً بالمديرية العامة للتموين الطبي -دائرة الرعاية الصيدلانية- الملتقى الوطني الأول لمسؤولي السلامة الدوائية، تزامنًا مع الأسبوع العالمي للسلامة الدوائية. رعت ح",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/8dTjL.jpeg"
+  },
+  {
+   "id": "3d190023f580",
+   "title": "\"تنمية نفط عُمان\": 412 ابتكارًا طلابيًا بالدورة السابعة من جائزة الطاقة المتجددة",
+   "url": "https://alroya.om/post/397764/%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-412-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7-%D8%B7%D9%84%D8%A7%D8%A8%D9%8A-%D8%A7-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D9%86-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "مسقط- الرؤية اختتمت شركة تنمية نفط عُمان، بالشراكة مع وزارة التعليم، الدورة السابعة من جائزة الطاقة المتجددة، وذلك تحت رعاية الدكتور عبدالله بن علي الشبلي وكيل وزارة التعليم للتعليم العالي، وبحضور",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/mZZXT.jpeg"
+  },
+  {
+   "id": "b927b7fbdf9b",
+   "title": "البريمي تطلق فعاليات الأسبوع العالمي لريادة الأعمال بمشاركة 10 جهات تمويلية",
+   "url": "https://www.omandaily.om/article/1214498",
    "source": "جريدة عُمان",
    "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "انطلقت اليوم بمحافظة البريمي فعاليات الأسبوع العالمي لريادة الأعمال، الذي تنظمه إدارة تنمية المؤسسات الصغيرة والمتوسطة بالمحافظة، من خلال برنامج متكامل يجمع بين التوعية والإرشاد والاستشارات...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/09/thumbs/400x400/3572870.jpg"
+  },
+  {
+   "id": "e955337ea493",
+   "title": "بدء أعمال منتدى \"أوكيو\" للتدقيق الداخلي 2026",
+   "url": "https://www.omandaily.om/article/1214497",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "\"العُمانية\": بدأت بمركز عُمان للمؤتمرات والمعارض، اليوم أعمال منتدى \"أوكيو\" للتدقيق الداخلي 2026 تحت شعار \"ضمان بلا حدود\" ويستمر لمدة يومين، بمشاركة نحو 700 من القيادات التنفيذية وأعضاء مجالس الإدارة...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/09/thumbs/400x400/3572858.jpg"
+  },
+  {
+   "id": "159a71144f8f",
+   "title": "15 شركة عُمانية تشارك في منتدى الأعمال العُماني الرواندي",
+   "url": "https://www.omandaily.om/article/1214482",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-09",
+   "summary": "العُمانية: تنظم وزارة التجارة والصناعة وترويج الاستثمار، منتدى الأعمال العُماني الرواندي في العاصمة الرواندية كيغالي غدًا الثلاثاء بمشاركة 15 شركة عُمانية تعمل في قطاعات اقتصادية متنوعة. ويهدف...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/09/thumbs/400x400/3572567.jpg"
+  },
+  {
+   "id": "5191fe0cfb2a",
+   "title": "Science festival inspires young minds globally",
+   "url": "https://www.omanobserver.om/article/1199346/oman/science-festival-inspires-young-minds-globally",
+   "source": "Oman Observer",
+   "lang": "en",
    "published": "2026-11-08",
-   "summary": "العُمانية/ افتُتحت اليوم بولاية أدم بمحافظة الداخلية فعاليات الأسبوع العالمي لريادة الأعمال الذي تنظمه إدارة تنمية المؤسسات الصغيرة والمتوسطة \"ريادة\" بمحافظة الداخلية تحت شعار \" ريادة تلهم...",
+   "summary": "MUSCAT, NOV 8 The Knowledge Bridges pavilion at the Oman Science Festival is offering visitors an opportunity to explore international scientific...",
    "event": {
-    "name": "أسبوع العالمي لريادة الأعمال الذي تنظمه إدارة",
-    "start": "2026-11-12",
-    "end": "2026-11-12",
+    "name": "Oman Science Festival",
+    "start": "2026-11-08",
+    "end": "2026-11-08",
     "venue": "",
-    "organizer": "إدارة تنمية المؤسسات الصغيرة والمتوسطة \"ريادة\" بمحافظة الداخ"
+    "organizer": ""
    },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/08/thumbs/400x400/3571486.jpg"
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572512.jpg"
+  },
+  {
+   "id": "cd5e8ce5b8f0",
+   "title": "Researchers from 27 countries discuss AI, computing in Salalah",
+   "url": "https://www.omanobserver.om/article/1199338/oman/researchers-from-27-countries-discuss-ai-computing-in-salalah",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-08",
+   "summary": "SALALAH: Researchers and academics from 27 countries took part in the third International Conference on Computing and Data Analysis, which was held in...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572440.jpg"
+  },
+  {
+   "id": "575e0618088e",
+   "title": "Duqm targets faster port operations",
+   "url": "https://www.omanobserver.om/article/1199311/business/economy/duqm-targets-faster-port-operations",
+   "source": "Oman Observer · Business",
+   "lang": "en",
+   "published": "2026-11-08",
+   "summary": "MUSCAT: The Public Authority for Special Economic Zones and Free Zones (OPAZ) has launched a workshop to improve Port of Duqm operations, reduce cargo...",
+   "event": {
+    "name": "Duqm targets faster port operations",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "venue": "Duqm",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572129.jpg"
+  },
+  {
+   "id": "2fd3624e2859",
+   "title": "Oman showcases maritime heritage at Sharjah book fair",
+   "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-08",
+   "summary": "The Sultanate of Oman participated as Guest of Honour at the 45th Sharjah International Book Fair on Wednesday, presenting its literary heritage,...",
+   "event": {
+    "name": "45th Sharjah International Book Fair",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "venue": "Sultan Qaboos University",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572273.jpg",
+   "also": [
+    {
+     "source": "Oman Observer · Lifestyle",
+     "url": "https://www.omanobserver.om/article/1199317/features/books/egyptian-pocket-novels-bring-childhood-memories-to-sharjah-book-fair",
+     "title": "Egyptian pocket novels bring childhood memories to Sharjah book fair"
+    },
+    {
+     "source": "Oman Observer · Lifestyle",
+     "url": "https://www.omanobserver.om/article/1199236/features/books/oman-showcases-maritime-heritage-at-sharjah-book-fair",
+     "title": "Oman showcases maritime heritage at Sharjah book fair"
+    }
+   ]
+  },
+  {
+   "id": "7e61d7e223c3",
+   "title": "Sharjah Ruler launches historical novel Al Julanda at book fair",
+   "url": "https://www.omanobserver.om/article/1199318/features/books/sharjah-ruler-launches-historical-novel-al-julanda-at-book-fair",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-08",
+   "summary": "His Highness Shaikh Dr Sultan bin Mohammed al Qasimi, Supreme Council Member and Ruler of Sharjah, launched his latest book, Al Julanda Khalid bin...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572260.jpg"
+  },
+  {
+   "id": "26dc0419bbe3",
+   "title": "British and Omani artists to exhibit at Stal Gallery",
+   "url": "https://www.omanobserver.om/article/1199307/features/arts/british-and-omani-artists-to-exhibit-at-stal-gallery",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-08",
+   "summary": "A new exhibition bringing together British and Omani artists will open at Stal Gallery on Monday, November 9, as part of the British Festival 2026....",
+   "event": {
+    "name": "British Festival 2026",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "venue": "",
+    "organizer": "British Omani Society"
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572032.jpg"
+  },
+  {
+   "id": "00cf876e90dd",
+   "title": "انطلاق الدورة الـ13 من \"مؤتمر الشارقة الدولي للمكتبات\" بمشاركة 400 مختص من 16 دولة",
+   "url": "https://alroya.om/post/397758/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%8013-%D9%85%D9%86-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A7%D8%AA-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-400-%D9%85%D8%AE%D8%AA%D8%B5-%D9%85%D9%86-16-%D8%AF%D9%88%D9%84%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "الرؤية- عبدالله الشافعي انطلقت، الأحد، أعمال الدورة الثالثة عشرة من مؤتمر الشارقة الدولي للمكتبات، الذي تنظمه هيئة الشارقة للكتاب بالتعاون مع جمعية المكتبات الأميركية، بالتزامن مع فعاليات الدورة ال",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/p7f63.jpeg"
+  },
+  {
+   "id": "844077d684a1",
+   "title": "انطلاق الأسبوع العالمي لريادة الأعمال لترسيخ ثقافة العمل الحر وتنمية مهارات الشباب",
+   "url": "https://alroya.om/post/397742/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%84%D8%AA%D8%B1%D8%B3%D9%8A%D8%AE-%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "أدم- العُمانية افتُتحت أمس بولاية أدم بمحافظة الداخلية فعاليات الأسبوع العالمي لريادة الأعمال الذي تنظمه إدارة تنمية المؤسسات الصغيرة والمتوسطة \"ريادة\" بمحافظة الداخلي",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/V6liD.jpeg"
+  },
+  {
+   "id": "c7b4332d0927",
+   "title": "ضمن \"الأسبوع العالمي\".. إطلاق قافلة الخدمات الريادية بشمال الشرقية",
+   "url": "https://alroya.om/post/397739/%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "إبراء- وليد الحسني دشّنت إدارة تنمية المؤسسات الصغيرة والمتوسطة بمحافظة شمال الشرقية «ريادة»، أمس، حزمة من البرامج والفعاليات والمبادرات الريادية، احتفاءً بالأسبوع العالمي لريادة الأعمال،",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/6MmCO.jpeg"
+  },
+  {
+   "id": "55770334943b",
+   "title": "\"نوفوتيل مسقط\" يُلبي تطلعات سياحة الأعمال ويقدم تجارب نوعية للنزلاء",
+   "url": "https://alroya.om/post/397723/%D9%86%D9%88%D9%81%D9%88%D8%AA%D9%8A%D9%84-%D9%85%D8%B3%D9%82%D8%B7-%D9%8A-%D9%84%D8%A8%D9%8A-%D8%AA%D8%B7%D9%84%D8%B9%D8%A7%D8%AA-%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%88%D9%8A%D9%82%D8%AF%D9%85-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%B2%D9%84%D8%A7%D8%A1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "مسقط – الرؤية يشهد قطاع الضيافة في سلطنة عُمان تحولات متسارعة تتجاوز التوسع في المنتجعات الفاخرة والمشروعات السياحية الكبرى، مع تنامي دور الفنادق التي تركز على سياحة الأعمال والمؤتمرات وا",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/YkHqv.jpeg"
+  },
+  {
+   "id": "ada1715cc734",
+   "title": "\"التراث والسياحة\" تشارك في 3 فعاليات بجناح عُمان في \"الشارقة الدولي للكتاب\"",
+   "url": "https://alroya.om/post/397721/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9-%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "مسقط- الرؤية شاركت وزارة التراث والسياحة في 3 فعاليات رئيسية ضمن البرنامج الثقافي لجناح سلطنة عُمان، ضيف شرف معرض الشارقة الدولي للكتاب 2026، والذي يستمر حتى 15 نوفمبر الجاري بمركز اكسبو",
+   "event": {
+    "name": "\"التراث والسياحة\" تشارك في 3 فعاليات بجناح عُمان في \"الشارقة الدولي للكتاب\"",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/EEjnX.jpeg"
+  },
+  {
+   "id": "4fd1cdaa00c2",
+   "title": "الثلاثاء.. إعلان الفائزين بـ\"جائزة تواصل للأفلام القصيرة\"",
+   "url": "https://alroya.om/post/397719/%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D8%A8%D9%80-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%B1%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "مسقط- الرؤية تنظم وزارة الثقافة والرياضة والشباب، غدا الثلاثاء، حفل إعلان الفائزين في جائزة تواصل للأفلام القصيرة في دورتها الرابعة لعام 2026، وذلك تحت رعاية سعادة باسل بن أحمد الروا",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/uflda.jpeg"
+  },
+  {
+   "id": "341deccfbad0",
+   "title": "السفارة الإيطالية في مسقط تحتفل بـ\"أسبوع المطبخ الإيطالي في العالم\"",
+   "url": "https://alroya.om/post/397709/%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7-%D8%AA%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D9%80-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "مسقط- الرؤية تحتفل سفارة الجمهورية الإيطالية في مسقط بالنسخة الحادية عشرة من أسبوع المطبخ الإيطالي في العالم، خلال الفترة من 8 إلى 15 نوفمبر 2026، تحت شعار: \"المطبخ الإيطال",
+   "event": {
+    "name": "أسبوع المطبخ الإيطالي في العالم",
+    "start": "2026-11-08",
+    "end": "2026-11-15",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/BB3XV.jpeg"
+  },
+  {
+   "id": "29f37aae2790",
+   "title": "مؤسسة الزبير تستعرض الحلول الصناعية والكيميائية في \"معرض أديبك\"",
+   "url": "https://alroya.om/post/397706/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A3%D8%AF%D9%8A%D8%A8%D9%83",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "مسقط- الرؤية اختتمت مؤسسة الزبير- ممثلةً بقطاع الحلول الصناعية والكيميائية- مشاركتها في معرض ومؤتمر أبوظبي الدولي للبترول (أديبك 2026)، الذي أُقيم خلال الفترة من 2 إلى 5 نوفمبر في مركز أد",
+   "event": {
+    "name": "معرض أديبك",
+    "start": "2026-11-02",
+    "end": "2026-11-05",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/dgcTn.jpeg"
+  },
+  {
+   "id": "35f6f2494f68",
+   "title": "صحف ومجلات نادرة بـ\"معرض الشارقة الدولي للكتاب\" توثق 7 عقود من مسيرة الإمارة",
+   "url": "https://alroya.om/post/397705/%D8%B5%D8%AD%D9%81-%D9%88%D9%85%D8%AC%D9%84%D8%A7%D8%AA-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D9%80-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D9%88%D8%AB%D9%82-7-%D8%B9%D9%82%D9%88%D8%AF-%D9%85%D9%86-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "الرؤية- عبدالله الشافعي بين صفحات مجلات نادرة وصحف قديمة يعود تاريخ بعضها إلى عام 1954، تتكشف محطات من تاريخ الشارقة وتحولاتها على مدى أكثر من سبعة عقود، من خلال مئات المطبوعات والصور التاريخية الت",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/deKIb.jpeg"
+  },
+  {
+   "id": "094c58132e13",
+   "title": "جناح عُمان في \"الشارقة الدولي للكتاب\" يستعرض مخطوطات نادرة بمختلف العلوم",
+   "url": "https://alroya.om/post/397701/%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9-%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A7%D8%AA-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-08",
+   "summary": "الرؤية- عبدالله الشافعي يعرض جناح سلطنة عُمان، ضيف شرف الدورة الـ 45 من المعرض، مجموعة من المخطوطات العمانية النادرة التي تكشف عن تنوع الحركة العلمية والثقافية في السلطنة، وما حفظته المخطوطات",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/urIOV.jpeg"
   },
   {
    "id": "3fe3e4e7f88e",
@@ -66,15 +367,15 @@
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571359.jpg"
   },
   {
-   "id": "76f769e85de7",
-   "title": "Sultanate of OF Oman to participate in COP31 in Türkiye",
-   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-of-oman-to-participate-in-cop31-in-turkiye",
+   "id": "3ae7569e8710",
+   "title": "Sultanate of Oman to participate in COP31 in Türkiye",
+   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-oman-to-participate-in-cop31-in-turkiye",
    "source": "Oman Observer",
    "lang": "en",
    "published": "2026-11-07",
    "summary": "ANTALYA: The Sultanate of Oman will partake in the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31),...",
    "event": {
-    "name": "Sultanate of OF Oman to participate in COP31 in Türkiye",
+    "name": "Sultanate of Oman to participate in COP31 in Türkiye",
     "start": "2026-11-09",
     "end": "2026-11-20",
     "venue": "",
@@ -115,23 +416,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3571341.jpg"
-  },
-  {
-   "id": "58d6c557e5a6",
-   "title": "Oman showcases maritime heritage at Sharjah book fair",
-   "url": "https://www.omanobserver.om/article/1199236/features/books/oman-showcases-maritime-heritage-at-sharjah-book-fair",
-   "source": "Oman Observer · Lifestyle",
-   "lang": "en",
-   "published": "2026-11-07",
-   "summary": "AHMED AL KAABI The Sultanate of Oman participated as Guest of Honour at the 45th Sharjah International Book Fair on Wednesday, presenting its literary...",
-   "event": {
-    "name": "45th Sharjah International Book Fair",
-    "start": "2026-11-15",
-    "end": "2026-11-15",
-    "venue": "Sultan Qaboos University",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3570683.jpg"
   },
   {
    "id": "eb04c35411a2",
@@ -225,14 +509,7 @@
     "venue": "",
     "organizer": ""
    },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/djNMm.jpeg",
-   "also": [
-    {
-     "source": "جريدة عُمان",
-     "url": "https://www.omandaily.om/article/1214364",
-     "title": "الثلاثاء المقبل.. سلطنة عُمان تشارك في معرض شنجهاي الدولي للأغذية والضيافة"
-    }
-   ]
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/djNMm.jpeg"
   },
   {
    "id": "e703cf642e7e",
@@ -255,84 +532,6 @@
    "summary": "الرؤية - إبراهيم الهادي شاركت كلية عُمان للعلوم الصحية في مؤتمر كيو إس للتعليم العالي لجامعات آسيا والمحيط الهادئ 2026، الذي استضافته مدينة بالي بجمهورية إندونيسيا خلال الفترة من 3 إلى 5",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/ppnnB.jpeg"
-  },
-  {
-   "id": "f85565bdb721",
-   "title": "برنامج ثقافي عماني يستقطب جمهور \"الشارقة للكتاب\" عبر الفن والأب والفكر\"",
-   "url": "https://www.omandaily.om/article/1214388",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "الشارقة- شذى البلوشي تصوير- المنتصر الجرداني أقيمت ضمن البرنامج الثقافي لضيف الشرف في معرض الشارقة الدولي للكتاب، مجموعة من الفعاليات الثقافية والفنية، اجتمع فيها عدد من المثقفين والأدباء...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3571074.jpg"
-  },
-  {
-   "id": "8e6388a8bc31",
-   "title": "سلطنة عُمان تشارك في مؤتمر الأطراف لتغيّر المناخ \"كوب 31\" في أنطاليا التركية",
-   "url": "https://www.omandaily.om/article/1214382",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "العُمانية: تشارك سلطنة عُمان في أعمال مؤتمر الأطراف في اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ \"كوب 31\" المزمع عقده في مدينة أنطاليا بجمهورية تركيا الثلاثاء المقبل وحتى 20 نوفمبر الجاري، في...",
-   "event": {
-    "name": "مؤتمر الأطراف لتغيّر المناخ",
-    "start": "2026-11-20",
-    "end": "2026-11-20",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3571023.jpg"
-  },
-  {
-   "id": "9eea924d021a",
-   "title": "إطلاق النسخة الخامسة من مهرجان البليد للطهي 2026",
-   "url": "https://www.omandaily.om/article/1214374",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "انطلقت بمنتجع البليد صلالة بإدارة أنانتارا بمحافظة ظفار فعاليات مهرجان البليد لفنون الطهي 2026، بمشاركة عدد من الطهاة العالميين الحاصلين على تقدير دليل ميشلان، إلى جانب طهاة عُمانيين ودوليين،...",
-   "event": {
-    "name": "مهرجان البليد للطهي 2026",
-    "start": "2026-11-12",
-    "end": "2026-11-12",
-    "venue": "Salalah",
-    "organizer": "فعاليات ثقافية وفنية حية وتجارب متخصصة في صناعة الحلويات الم"
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570824.jpg"
-  },
-  {
-   "id": "b0a5a963a587",
-   "title": "حلقة عمل ببركاء لتعزز الوعي بإجراءات السلامة والوقاية من الحرائق",
-   "url": "https://www.omandaily.om/article/1214369",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "نظّمت دائرة التنمية الاجتماعية ببركاء، ممثلة بقسم التنمية الأسرية، وبالتعاون مع وحدة الدفاع المدني والإسعاف بمحافظة جنوب الباطنة، حلقة تدريبية توعوية حول الوقاية من الحرائق ومبادئ الإسعافات...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570775.jpg"
-  },
-  {
-   "id": "c057348c5589",
-   "title": "ملتقى مؤسسات التعليم العالي يعزز التواصل المباشر بين الطلبة والجامعات والكليات بتعليمية مسقط",
-   "url": "https://www.omandaily.om/article/1214367",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "شكل الملتقى التعريفي لمؤسسات التعليم العالي في نسخته الخامسة منصة تفاعلية جمعت الطلبة بمؤسسات التعليم الجامعي، وأتاح لهم فرصة التعرف عن قرب على البرامج الأكاديمية والتخصصات الدراسية والمسارات...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570763.jpg"
-  },
-  {
-   "id": "a80511858479",
-   "title": "مؤتمر صحي بشمال الشرقية يستعرض ممارسات التعامل مع الحالات الحرجة",
-   "url": "https://www.omandaily.om/article/1214366",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-07",
-   "summary": "نظمت المديرية العامة للخدمات الصحية بمحافظة شمال الشرقية، ممثلة بمستشفى سناو، مؤتمر طب طوارئ الأعصاب، في إطار الجهود الرامية إلى تطوير مهارات الكوادر الصحية وتعزيز كفاءتها في التعامل مع الحالات...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/07/thumbs/400x400/3570757.jpg"
   },
   {
    "id": "3cecbdea5b99",
@@ -367,28 +566,6 @@
     "organizer": "Al Dakhiliyah Governorate"
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569793.jpg"
-  },
-  {
-   "id": "bdb7da53460f",
-   "title": "Al Baleed Culinary Arts Festival opens in Salalah",
-   "url": "https://www.omanobserver.om/article/1199185/oman/al-baleed-culinary-arts-festival-opens-in-salalah",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-05",
-   "summary": "SALALAH: The Al Baleed Culinary Arts Festival 2026 opened at Al Baleed Resort Salalah by Anantara in Dhofar Governorate, bringing together...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/05/thumbs/600x600/3569789.jpg"
-  },
-  {
-   "id": "614f8e542566",
-   "title": "Oman-South Korea forum explores partnerships",
-   "url": "https://www.omanobserver.om/article/1199123/oman/oman-south-korea-forum-explores-partnerships",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-04",
-   "summary": "MUSCAT: The Royal Academy of Management hosted the Oman-South Korea Economic Cooperation Forum under the theme “Geopolitical Changes and the Future...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/04/thumbs/600x600/3568504.jpg"
   },
   {
    "id": "1f4ea5e66814",

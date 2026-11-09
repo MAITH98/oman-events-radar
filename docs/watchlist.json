@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T10:05:46+00:00",
+ "generated_at": "2026-11-09T11:15:13+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 19,
+   "events": 18,
    "status": "ok",
    "page_changed": ""
   },
@@ -48,14 +48,14 @@
    "type": "source",
    "events": 0,
    "status": "returned 0 events (usually ≥3) – kept previous results",
-   "page_changed": "2026-11-05"
+   "page_changed": "2026-11-09"
   },
   {
    "entity": "organiser:CONNECT (Sabco Group)#3",
    "type": "source",
    "events": 2,
    "status": "ok",
-   "page_changed": "2026-11-08"
+   "page_changed": "2026-11-09"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -97,7 +97,7 @@
    "type": "source",
    "events": 0,
    "status": "ok",
-   "page_changed": "2026-11-06"
+   "page_changed": "2026-11-09"
   },
   {
    "entity": "site:omanlegalsummit.com",
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 2,
    "status": "ok",
    "page_changed": ""
   },
@@ -130,28 +130,28 @@
   {
    "entity": "news:observer-business",
    "type": "source",
-   "events": 1,
+   "events": 2,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 6,
+   "events": 10,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 10,
+   "events": 24,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 9,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
@@ -217,7 +217,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Interior Design Furnishing Expo 2027",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "entity": "ifpexpo.com",
@@ -225,7 +225,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Project Oman 2026",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "entity": "india.collectionsummit.com",
@@ -241,7 +241,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "IORA Aquaculture & Fisheries Business Forum & Exhibition",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "entity": "mctbookfair.gov.om",
@@ -321,7 +321,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Oman Legal Tech Summit 2026",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   }
  ]
 }

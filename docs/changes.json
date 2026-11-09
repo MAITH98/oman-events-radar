@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 266,
+ "latest_sequence": 273,
  "changes": [
   {
    "schema_version": "1.0",
@@ -13992,6 +13992,373 @@
      "#فعاليات_عمان"
     ],
     "_fp": "bff0809b0421acc3217192b46384ff2f29f4fd93"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 267,
+   "type": "event.updated",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "a601be2063a4",
+   "event_version": 5,
+   "idempotency_key": "a601be2063a4:5:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a601be2063a4",
+    "version": 5,
+    "kind": "event",
+    "title": "Beauty Elements Exhibition (BEE)",
+    "start": "2026-11-09",
+    "end": "2026-11-11",
+    "start_time": "09:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.bee-om.com",
+    "description": "BEE 2026 is the first edition of the Beauty Element Exhibition, hosted at the prestigious OCEC, gathering international beauty brands, distributors, and investors under one roof.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Ongoing",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#BeautyElementsExhibitionBEE"
+    ],
+    "_fp": "507bc25ddbe522df4af1d492052b675d3809f7a3"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 268,
+   "type": "event.created",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "535d65d573a8",
+   "event_version": 1,
+   "idempotency_key": "535d65d573a8:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "535d65d573a8",
+    "version": 1,
+    "kind": "event",
+    "title": "British Festival 2026",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "British Omani Society",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199307/features/arts/british-and-omani-artists-to-exhibit-at-stal-gallery",
+    "description": "A new exhibition bringing together British and Omani artists will open at Stal Gallery on Monday, November 9, as part of the British Festival 2026....",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-lifestyle"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#BritishFestival"
+    ],
+    "_fp": "9320f2630fd7e1d51bc94dcebc57129ed66d0548"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 269,
+   "type": "event.updated",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "a2533c816ede",
+   "event_version": 2,
+   "idempotency_key": "a2533c816ede:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a2533c816ede",
+    "version": 2,
+    "kind": "event",
+    "title": "Sultanate of Oman to participate in COP31 in Türkiye",
+    "start": "2026-11-09",
+    "end": "2026-11-20",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-oman-to-participate-in-cop31-in-turkiye",
+    "description": "ANTALYA: The Sultanate of Oman will partake in the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31),...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "b928b1d541396f0506ee07376981cdab417ca8cb"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 270,
+   "type": "event.created",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "b024a350a15a",
+   "event_version": 1,
+   "idempotency_key": "b024a350a15a:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "b024a350a15a",
+    "version": 1,
+    "kind": "event",
+    "title": "\"التراث والسياحة\" تشارك في 3 فعاليات بجناح عُمان في \"الشارقة الدولي للكتاب\"",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397721/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9-%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+    "description": "مسقط- الرؤية شاركت وزارة التراث والسياحة في 3 فعاليات رئيسية ضمن البرنامج الثقافي لجناح سلطنة عُمان، ضيف شرف معرض الشارقة الدولي للكتاب 2026، والذي يستمر حتى 15 نوفمبر الجاري بمركز اكسبو",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#3"
+    ],
+    "_fp": "860b044ad618c85560beea51ab7462bd76699328"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 271,
+   "type": "event.updated",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "c6297a16b5ee",
+   "event_version": 2,
+   "idempotency_key": "c6297a16b5ee:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c6297a16b5ee",
+    "version": 2,
+    "kind": "event",
+    "title": "45th Sharjah International Book Fair",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sultan Qaboos University",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
+    "description": "The Sultanate of Oman participated as Guest of Honour at the 45th Sharjah International Book Fair on Wednesday, presenting its literary heritage,...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-lifestyle"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat"
+    ],
+    "_fp": "83aa24d10825dbc51654189ed67b843ed58945e6"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 272,
+   "type": "event.created",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "06e965181322",
+   "event_version": 1,
+   "idempotency_key": "06e965181322:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "06e965181322",
+    "version": 1,
+    "kind": "event",
+    "title": "Duqm targets faster port operations",
+    "start": "2026-11-15",
+    "end": "2026-11-15",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Duqm",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199311/business/economy/duqm-targets-faster-port-operations",
+    "description": "MUSCAT: The Public Authority for Special Economic Zones and Free Zones (OPAZ) has launched a workshop to improve Port of Duqm operations, reduce cargo...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-business"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "4475d029dd4f12f2b4cd2767ee06c0988921a2cb"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 273,
+   "type": "event.removed",
+   "occurred_at": "2026-11-09T11:15:13+00:00",
+   "event_id": "7154b07b7b70",
+   "event_version": 2,
+   "idempotency_key": "7154b07b7b70:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "7154b07b7b70",
+    "version": 2,
+    "kind": "event",
+    "title": "Grand Opening",
+    "start": "2026-11-09",
+    "end": "2026-11-09",
+    "start_time": "03:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Muscat, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Granos",
+    "organizer_url": "https://allevents.in/org/granos/28345268",
+    "audience": "",
+    "url": "https://allevents.in/muscat/grand-opening/200030968153417",
+    "description": "🎉🍕 YOU’RE ALL INVITED! 🍝🎉 The wait is almost over! ❤️✨ We are excited to invite everyone to the SOFT OPENING of GRANOS Pizza & Pasta! 🥳🍽️ Come and join us as we begin our journey of serving you delicious Italian-inspired flavors, freshly prepared pizzas, mouthwatering pasta, and a memorable dinin",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#GrandOpening"
+    ],
+    "removed_on": "2026-11-09"
    }
   }
  ]
