@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 273,
+ "latest_sequence": 275,
  "changes": [
   {
    "schema_version": "1.0",
@@ -14359,6 +14359,113 @@
      "#GrandOpening"
     ],
     "removed_on": "2026-11-09"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 274,
+   "type": "event.created",
+   "occurred_at": "2026-11-10T10:56:43+00:00",
+   "event_id": "951e416dfce7",
+   "event_version": 1,
+   "idempotency_key": "951e416dfce7:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "951e416dfce7",
+    "version": 1,
+    "kind": "event",
+    "title": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
+    "start": "2026-12-07",
+    "end": "2026-12-07",
+    "start_time": "19:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "Crowne Plaza Muscat by IHG",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "CIOB Middle East & North Africa (MENA)",
+    "organizer_url": "https://allevents.in/org/ciob-middle-east-and-north-africa-mena/19176603",
+    "audience": "",
+    "url": "https://allevents.in/muscat/smart-and-sustainable-building-intelligent-ecosystems-for-tomorrows-cities/100002004572173332",
+    "description": "An in-person session on AI-driven decision-making and predictive tools fosters resilient, regenerative projects through collaboration.",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability"
+    ],
+    "_fp": "c5646a935832e63ee894630c1132d180d35de8aa"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 275,
+   "type": "event.removed",
+   "occurred_at": "2026-11-10T10:56:43+00:00",
+   "event_id": "a601be2063a4",
+   "event_version": 6,
+   "idempotency_key": "a601be2063a4:6:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "a601be2063a4",
+    "version": 6,
+    "kind": "event",
+    "title": "Beauty Elements Exhibition (BEE)",
+    "start": "2026-11-09",
+    "end": "2026-11-11",
+    "start_time": "09:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.bee-om.com",
+    "description": "BEE 2026 is the first edition of the Beauty Element Exhibition, hosted at the prestigious OCEC, gathering international beauty brands, distributors, and investors under one roof.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Removed",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-09",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#BeautyElementsExhibitionBEE"
+    ],
+    "removed_on": "2026-11-10"
    }
   }
  ]

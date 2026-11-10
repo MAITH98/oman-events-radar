@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:15:13+00:00",
+ "generated_at": "2026-11-10T10:56:43+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,30 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "British Festival 2026",
-   "url": "https://www.omanobserver.om/article/1199307/features/arts/british-and-omani-artists-to-exhibit-at-stal-gallery",
-   "source": "news:observer-lifestyle",
-   "found": "2026-11-09",
-   "start": "2026-11-09",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "Sultanate of Oman to participate in COP31 in Türkiye",
-   "url": "https://www.omanobserver.om/article/1199273/oman/sultanate-of-oman-to-participate-in-cop31-in-turkiye",
-   "source": "news:observer-local",
-   "found": "2026-11-08",
-   "start": "2026-11-09",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "معرض شنغهاي الدولي للأغذية والضيافة",
-   "url": "https://alroya.om/post/397628/%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B4%D9%86%D8%BA%D9%87%D8%A7%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
-   "source": "news:alroya",
-   "found": "2026-11-08",
-   "start": "2026-11-10",
-   "status": "Lead – verify"
-  },
-  {
    "title": "UK-Oman Friendly Football Game",
    "url": "https://allevents.in/muscat/uk-oman-friendly-football-game/100002004057611263",
    "source": "allevents-muscat",
@@ -169,6 +145,14 @@
    "source": "allevents-muscat",
    "found": "2026-11-07",
    "start": "2026-11-26",
+   "status": "Needs review"
+  },
+  {
+   "title": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
+   "url": "https://allevents.in/muscat/smart-and-sustainable-building-intelligent-ecosystems-for-tomorrows-cities/100002004572173332",
+   "source": "allevents-muscat",
+   "found": "2026-11-10",
+   "start": "2026-12-07",
    "status": "Needs review"
   },
   {

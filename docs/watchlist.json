@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:15:13+00:00",
+ "generated_at": "2026-11-10T10:56:43+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 18,
+   "events": 19,
    "status": "ok",
    "page_changed": ""
   },
@@ -32,7 +32,7 @@
   {
    "entity": "venue:Oman Convention & Exhibition Centre (OCEC)",
    "type": "source",
-   "events": 16,
+   "events": 15,
    "status": "ok",
    "page_changed": ""
   },
@@ -48,14 +48,14 @@
    "type": "source",
    "events": 0,
    "status": "returned 0 events (usually ≥3) – kept previous results",
-   "page_changed": "2026-11-09"
+   "page_changed": "2026-11-10"
   },
   {
    "entity": "organiser:CONNECT (Sabco Group)#3",
    "type": "source",
    "events": 2,
    "status": "ok",
-   "page_changed": "2026-11-09"
+   "page_changed": "2026-11-10"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -97,7 +97,7 @@
    "type": "source",
    "events": 0,
    "status": "ok",
-   "page_changed": "2026-11-09"
+   "page_changed": "2026-11-10"
   },
   {
    "entity": "site:omanlegalsummit.com",
@@ -137,14 +137,14 @@
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 10,
+   "events": 8,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 24,
+   "events": 26,
    "status": "ok",
    "page_changed": ""
   },
