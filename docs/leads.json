@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:56:43+00:00",
+ "generated_at": "2026-11-11T10:38:25+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -100,22 +100,6 @@
    "status": "Needs review"
   },
   {
-   "title": "Sarb Rakhyout Festival 2026",
-   "url": "https://www.omanobserver.om/article/1199271/oman/rakhyout-festival-highlights-heritage-and-tourism",
-   "source": "news:observer-local",
-   "found": "2026-11-08",
-   "start": "2026-11-13",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "\"التراث والسياحة\" تشارك في 3 فعاليات بجناح عُمان في \"الشارقة الدولي للكتاب\"",
-   "url": "https://alroya.om/post/397721/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AC%D9%86%D8%A7%D8%AD-%D8%B9-%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
-   "source": "news:alroya",
-   "found": "2026-11-09",
-   "start": "2026-11-15",
-   "status": "Lead – verify"
-  },
-  {
    "title": "45th Sharjah International Book Fair",
    "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
    "source": "news:observer-lifestyle",
@@ -130,6 +114,30 @@
    "found": "2026-11-09",
    "start": "2026-11-15",
    "status": "Lead – verify"
+  },
+  {
+   "title": "المؤتمر الخليجي للعمل الاجتماعي",
+   "url": "https://alroya.om/post/397902/%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B8%D9%81%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A",
+   "source": "news:alroya",
+   "found": "2026-11-11",
+   "start": "2026-11-15",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "مؤتمر الخليجي الرابع للعمل الاجتماعي بمشاركة نخبة",
+   "url": "https://www.omandaily.om/article/1214674",
+   "source": "news:omandaily",
+   "found": "2026-11-11",
+   "start": "2026-11-16",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD EDITION",
+   "url": "https://allevents.in/muscat/oman-visionaries-business-leadership-summit-2026-3rd-edition/200031019541614",
+   "source": "allevents-muscat",
+   "found": "2026-11-11",
+   "start": "2026-11-18",
+   "status": "Needs review"
   },
   {
    "title": "International Medical Tourism & Healthcare",

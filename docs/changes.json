@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 275,
+ "latest_sequence": 278,
  "changes": [
   {
    "schema_version": "1.0",
@@ -14466,6 +14466,159 @@
      "#BeautyElementsExhibitionBEE"
     ],
     "removed_on": "2026-11-10"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 276,
+   "type": "event.created",
+   "occurred_at": "2026-11-11T10:38:25+00:00",
+   "event_id": "847d70597546",
+   "event_version": 1,
+   "idempotency_key": "847d70597546:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "847d70597546",
+    "version": 1,
+    "kind": "event",
+    "title": "المؤتمر الخليجي للعمل الاجتماعي",
+    "start": "2026-11-15",
+    "end": "2026-11-16",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Salalah",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://alroya.om/post/397902/%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B8%D9%81%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A",
+    "description": "صلالة- الرؤية تستضيف جامعة ظفار- ممثلة بكلية الآداب والعلوم التطبيقية، قسم العلوم الاجتماعية- أعمال المؤتمر الخليجي الرابع للعمل الاجتماعي، يومي 15 و16 نوفمبر الجاري، تحت رعاية معالي الدكتورة ليلى",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:alroya"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "fa267ca18f52a0a26ac166ed926dae6e1d218c17"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 277,
+   "type": "event.created",
+   "occurred_at": "2026-11-11T10:38:25+00:00",
+   "event_id": "67df5888bc2c",
+   "event_version": 1,
+   "idempotency_key": "67df5888bc2c:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "67df5888bc2c",
+    "version": 1,
+    "kind": "event",
+    "title": "مؤتمر الخليجي الرابع للعمل الاجتماعي بمشاركة نخبة",
+    "start": "2026-11-16",
+    "end": "2026-11-16",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "المؤتمر ضمن الاهتمام المتزايد بقضايا الإدمان بوصفها إحدى الق",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1214674",
+    "description": "تستضيف جامعة ظفار، ممثلة بكلية الآداب والعلوم التطبيقية، قسم العلوم الاجتماعية، يومي 15 و16 نوفمبر 2026، أعمال المؤتمر الخليجي الرابع للعمل الاجتماعي، برعاية معالي الدكتورة ليلى بنت أحمد النجار،...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "c706e8b4bb067effbb221f2911bc074b6594025e"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 278,
+   "type": "event.created",
+   "occurred_at": "2026-11-11T10:38:25+00:00",
+   "event_id": "cb41abd9f3d2",
+   "event_version": 1,
+   "idempotency_key": "cb41abd9f3d2:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "cb41abd9f3d2",
+    "version": 1,
+    "kind": "event",
+    "title": "OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD EDITION",
+    "start": "2026-11-18",
+    "end": "2026-11-18",
+    "start_time": "17:30",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "IntercityHotel Muscat",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "BCI",
+    "organizer_url": "https://allevents.in/org/bci/25458935",
+    "audience": "",
+    "url": "https://allevents.in/muscat/oman-visionaries-business-leadership-summit-2026-3rd-edition/200031019541614",
+    "description": "Announcement of OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD INTERNATIONAL EDITION!! 18TH NOVEMBER 2026, 5:30 PM AT INTERCITY HOTEL- ALRAYA BALLROOM . WE BCI are Celebrating the Vision. Reflecting the Vision. Building the Vision. Sustaining the Vision. Powered by BCI. Inspired by Oman. Dr",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "27836a48629989c4105267d323ef10693a1f28a1"
    }
   }
  ]
