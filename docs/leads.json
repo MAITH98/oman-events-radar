@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:38:25+00:00",
+ "generated_at": "2026-11-12T10:51:43+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,14 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "UK-Oman Friendly Football Game",
-   "url": "https://allevents.in/muscat/uk-oman-friendly-football-game/100002004057611263",
-   "source": "allevents-muscat",
-   "found": "2026-10-31",
-   "start": "2026-11-11",
-   "status": "Needs review"
-  },
-  {
    "title": "45th Sharjah International Book Fair",
    "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
    "source": "news:observer-lifestyle",
@@ -121,14 +113,6 @@
    "source": "news:alroya",
    "found": "2026-11-11",
    "start": "2026-11-15",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "مؤتمر الخليجي الرابع للعمل الاجتماعي بمشاركة نخبة",
-   "url": "https://www.omandaily.om/article/1214674",
-   "source": "news:omandaily",
-   "found": "2026-11-11",
-   "start": "2026-11-16",
    "status": "Lead – verify"
   },
   {
@@ -210,6 +194,22 @@
    "found": "2026-10-25",
    "start": "2027-02-09",
    "status": "Expected – confirm"
+  },
+  {
+   "title": "45th Sharjah International Book Fair",
+   "url": "https://www.omanobserver.om/article/1199508/features/books/omans-living-heritage-connects-generations-at-sharjah-book-fair",
+   "source": "news:observer-lifestyle",
+   "found": "2026-11-12",
+   "start": "2027-03-01",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "স্বাগতম",
+   "url": "https://allevents.in/muscat/স্বাগতম/200031028960512",
+   "source": "allevents-muscat",
+   "found": "2026-11-12",
+   "start": "2027-03-01",
+   "status": "Needs review"
   },
   {
    "title": "Global Higher Education Exhibition Oman",
