@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:51:43+00:00",
+ "generated_at": "2026-11-13T10:46:55+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,6 +92,14 @@
    "found": "2026-10-25"
   },
   {
+   "title": "Weekend Special",
+   "url": "https://allevents.in/muscat/weekend-special/200031033609438",
+   "source": "allevents-muscat",
+   "found": "2026-11-13",
+   "start": "2026-11-13",
+   "status": "Needs review"
+  },
+  {
    "title": "45th Sharjah International Book Fair",
    "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
    "source": "news:observer-lifestyle",
@@ -108,20 +116,20 @@
    "status": "Lead – verify"
   },
   {
-   "title": "المؤتمر الخليجي للعمل الاجتماعي",
-   "url": "https://alroya.om/post/397902/%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B8%D9%81%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A",
-   "source": "news:alroya",
-   "found": "2026-11-11",
-   "start": "2026-11-15",
-   "status": "Lead – verify"
-  },
-  {
    "title": "OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD EDITION",
    "url": "https://allevents.in/muscat/oman-visionaries-business-leadership-summit-2026-3rd-edition/200031019541614",
    "source": "allevents-muscat",
    "found": "2026-11-11",
    "start": "2026-11-18",
    "status": "Needs review"
+  },
+  {
+   "title": "Career forum to train Omani youth on November 19",
+   "url": "https://www.omanobserver.om/article/1199584/oman/career-forum-to-train-omani-youth-on-november-19",
+   "source": "news:observer-local",
+   "found": "2026-11-13",
+   "start": "2026-11-19",
+   "status": "Lead – verify"
   },
   {
    "title": "International Medical Tourism & Healthcare",

@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 281,
+ "latest_sequence": 285,
  "changes": [
   {
    "schema_version": "1.0",
@@ -14775,6 +14775,214 @@
      "#فعاليات_عمان"
     ],
     "_fp": "fbb9b72f316e0bbc2260753586a8f18c8dd4bb28"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 282,
+   "type": "event.updated",
+   "occurred_at": "2026-11-13T10:46:55+00:00",
+   "event_id": "900f59548a7e",
+   "event_version": 3,
+   "idempotency_key": "900f59548a7e:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "900f59548a7e",
+    "version": 3,
+    "kind": "event",
+    "title": "Elissa at OCEC in Muscat",
+    "start": "2026-11-13",
+    "end": "2026-11-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "previous_start": "",
+    "venue": "OCEC",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://muscat.platinumlist.net/event-tickets/105427/elissa-at-ocec-in-oman",
+    "description": "Experience a voice synonymous with romance, grace, and unforgettable melodies OCEC Oman Convention & Exhibition Centre Get ready for an unforgettable evening with the Queen of Arabic Romantic Music, Elissa, performing live in Muscat. On 13 November 2026, music lovers in Oman will experience a spectacular concert filled with emotion, elegance, and timeless hits. Known for her powerful voice and…",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 75,
+    "status": "Ongoing",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-13",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "9bc775e1cefcca775602eea73bdeb2ea537eb584"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 283,
+   "type": "event.created",
+   "occurred_at": "2026-11-13T10:46:55+00:00",
+   "event_id": "c6708e15faaf",
+   "event_version": 1,
+   "idempotency_key": "c6708e15faaf:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c6708e15faaf",
+    "version": 1,
+    "kind": "event",
+    "title": "Weekend Special",
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "start_time": "18:00",
+    "end_time": "23:00",
+    "previous_start": "",
+    "venue": "Madinat Qaboos, Muscat, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Universal Queen",
+    "organizer_url": "https://allevents.in/org/universal-queen/28404635",
+    "audience": "",
+    "url": "https://allevents.in/muscat/weekend-special/200031033609438",
+    "description": "✨ Escape the Daily Rush & Treat Yourself to Pure Luxury in Madinat Sultan Qaboos! ✨ Looking for a peaceful, premium salon experience designed just for you? At Universal Queen Beauty Salon, we combine world-class products, skilled experts, and a serene, relaxing atmosphere to give you the pampering y",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#WeekendSpecial"
+    ],
+    "_fp": "28374d3285da27f8e64acf217bac37d46015d9a2"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 284,
+   "type": "event.created",
+   "occurred_at": "2026-11-13T10:46:55+00:00",
+   "event_id": "563c976a0b67",
+   "event_version": 1,
+   "idempotency_key": "563c976a0b67:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "563c976a0b67",
+    "version": 1,
+    "kind": "event",
+    "title": "Career forum to train Omani youth on November 19",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Oman",
+    "organizer": "Avicen",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199584/oman/career-forum-to-train-omani-youth-on-november-19",
+    "description": "MUSCAT, NOV 11 Omani youth working across various sectors will receive a day-long training programme on November 19 at the Intercity Hotel in Al...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Education & Careers",
+    "relevance": "Medium",
+    "score": 3,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEducation",
+     "#Careers"
+    ],
+    "_fp": "7787b841d7bfd44262b6ae39edfbb2193ebf4469"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 285,
+   "type": "event.removed",
+   "occurred_at": "2026-11-13T10:46:55+00:00",
+   "event_id": "e660c49222a8",
+   "event_version": 4,
+   "idempotency_key": "e660c49222a8:4:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "e660c49222a8",
+    "version": 4,
+    "kind": "event",
+    "title": "18th Gulf Heart Association Conference",
+    "start": "2026-11-12",
+    "end": "2026-11-14",
+    "start_time": "08:00",
+    "end_time": "15:00",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://gha26.com/",
+    "description": "The Gulf Heart Association Conference continues to stand as a leading regional scientific platform dedicated to advancing cardiovascular medicine, research, and clinical practice. The 18th edition brings together eminent regional and international experts who will share the latest scientific evidence, innovative approaches, and best practices across the spectrum of cardiovascular care. The…",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Health",
+    "relevance": "Low",
+    "score": 2,
+    "confidence": 70,
+    "status": "Removed",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-12",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanHealth"
+    ],
+    "removed_on": "2026-11-13"
    }
   }
  ]
