@@ -1,8 +1,63 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-13T10:46:55+00:00",
- "count": 41,
+ "generated_at": "2026-11-14T10:02:11+00:00",
+ "count": 29,
  "articles": [
+  {
+   "id": "0285c592fc74",
+   "title": "ناشرون يحددون 3 معايير أساسية لاختيار الأعمال المرشحة للنشر",
+   "url": "https://alroya.om/post/398096/%D9%86%D8%A7%D8%B4%D8%B1%D9%88%D9%86-%D9%8A%D8%AD%D8%AF%D8%AF%D9%88%D9%86-3-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D9%84%D9%86%D8%B4%D8%B1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "الشارقة- الرؤية حدد ناشرون في معرض الشارقة الدولي للكتاب ثلاثة معايير أساسية لاختيار الأعمال المرشحة للنشر، تشمل جودة المخطوط، وتماسك بنائه الأدبي والفني، ومدى انسجامه مع توجهات دار النشر ومشروعها",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/IVPpM.jpeg"
+  },
+  {
+   "id": "e005c3a5d5ea",
+   "title": "بالصور.. الحلوى العُمانية تنقل تقاليد الضيافة إلى زوار \"الشارقة الدولي للكتاب\"",
+   "url": "https://alroya.om/post/398084/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%89-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%86%D9%82%D9%84-%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A5%D9%84%D9%89-%D8%B2%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "الشارقة- الرؤية تُعرّف سلطنة عُمان، ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، زوار المعرض بأحد أبرز ملامح تراثها المرتبط بالضيافة والمناسبات الاجتماعية، من خلال",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/lo8BQ.jpeg"
+  },
+  {
+   "id": "14957fac651a",
+   "title": "سلطنة عُمان تستعرض فرص تصنيع معدات الطاقة والقطاعات الغذائية",
+   "url": "https://www.omandaily.om/article/1214875",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "العُمانية: استعرضت الهيئة العامة للمناطق الاقتصادية الخاصة والمناطق الحرة، خلال مشاركتها في مؤتمر الاستثمار العالمي بمدينة جنيف السويسرية، فرص إقامة مشروعات في تصنيع معدات الطاقة المتجددة...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/14/thumbs/400x400/3578012.jpg"
+  },
+  {
+   "id": "10cd120fe955",
+   "title": "Silicon Valley worries over Nvidia scandal",
+   "url": "https://www.omanobserver.om/article/1199622/business/silicon-valley-worries-over-nvidia-scandal",
+   "source": "Oman Observer · Business",
+   "lang": "en",
+   "published": "2026-11-13",
+   "summary": "SAN FRANCISCO: Hours after Jensen Huang resigned from Nvidia, shocked tech insiders at a conference in San Francisco saw his departure as troubling...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/13/thumbs/600x600/3577851.jpg"
+  },
+  {
+   "id": "5f01adc8f46e",
+   "title": "مخطوطة عمرها أكثر من 350 عاما تستحضر تقاليد تدوين خطب العيدين في عُمان",
+   "url": "https://alroya.om/post/398073/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-%D8%B9%D9%85%D8%B1%D9%87%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-350-%D8%B9%D8%A7%D9%85%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AD%D8%B6%D8%B1-%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%AF-%D8%AA%D8%AF%D9%88%D9%8A%D9%86-%D8%AE%D8%B7%D8%A8-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-13",
+   "summary": "الشارقة- الرؤية في واجهة جناح سلطنة عمان، ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، تستوقف الزوار مخطوطة عُمانية نادرة تمتد على هيئة شريط ورقي طويل، تحيط بها إضاءة د",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/dT6QJ.jpeg"
+  },
   {
    "id": "000f7e5e0e76",
    "title": "مستشفى السويق ينظّم فعالية توعوية بمناسبة اليوم العالمي للأشعة 2026",
@@ -15,61 +70,37 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/XsbsG.jpeg"
   },
   {
-   "id": "e223f5cf9771",
-   "title": "وزارةُ الطّاقة والمعادن توقّع على 10 اتفاقيات ومُبادرات لدعم مُستهدفات الحياد الصفري بتركيا",
-   "url": "https://www.omandaily.om/article/1214806",
+   "id": "d323f5958cd9",
+   "title": "الفنان اليمني أحمد يحيى: الفن مفتاح لباب الأمل ومسار لاكتشاف الحياة",
+   "url": "https://www.omandaily.om/article/1214844",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-13",
-   "summary": "العُمانية: وقّعت وزارةُ الطاقة والمعادن، مُمثلةً في مركز عُمان للحياد الصفري على 10 اتفاقيات ومبادرات تعاون دولية على هامش مشاركة سلطنة عُمان في مؤتمر الأطراف الحادي والثلاثين لاتفاقية الأمم...",
+   "summary": "كتب – عامر بن عبدالله الأنصاري مثل غيري الكثير، عرفت عن افتتاح المعرض الفني \"فن مسقط\" خلال الفترة الماضية، وقد صاحب ذلك حضور كثيف على منصات التواصل الاجتماعي، يبدو أن الخوارزميات تفهم انحيازي إلى...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577176.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577651.jpg"
   },
   {
-   "id": "5bdc43ed9ad9",
-   "title": "Royal Hospital Congress gets European accreditation for adhering to ethical standards",
-   "url": "https://timesofoman.com//article/179096-royal-hospital-congress-gets-european-accreditation-for-adhering-to-ethical-standards",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-12",
-   "summary": "The accreditation serves as an international benchmark for companies and organizations affiliated with the European medical technology",
+   "id": "cd889eebbbcc",
+   "title": "ندوة إزكي تستعرض المسيرة العلمية والإرشادية للشيخ إبراهيم الرقيشي",
+   "url": "https://www.omandaily.om/article/1214839",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-13",
+   "summary": "احتضنت قاعة إزكي العامة اليوم أعمال ندوة علمية حول سيرة الشيخ إبراهيم بن محمد بن سالم الرقيشي (المتوفى عام 1402هـ)، تحت عنوان «سيرة علم وعطاء وإرشاد»، برعاية سعادة الشيخ أحمد بن سعود السيابي، الأمين...",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794493886-1794493886-eqha0bseabzi-700x400.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577628.jpg"
   },
   {
-   "id": "e67408bf67c1",
-   "title": "18th Gulf Heart conference discusses latest advances in diagnosis, treatment of cardiovascular diseases",
-   "url": "https://timesofoman.com//article/179087-18th-gulf-heart-conference-discusses-latest-advances-in-diagnosis-treatment-of-cardiovascular-diseases",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-12",
-   "summary": "The opening ceremony was held under the patronage of Dr. Hilal Ali Al Sabti",
-   "event": {
-    "name": "Gulf Heart Association Conference",
-    "start": "2026-11-12",
-    "end": "2026-11-14",
-    "venue": "Oman Convention & Exhibition Centre",
-    "organizer": "Oman... MUSCAT"
-   },
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794489066-1794489065-dicsyjaeswi4-700x400.jpg",
-   "also": [
-    {
-     "source": "Oman Observer",
-     "url": "https://www.omanobserver.om/article/1199587/oman/gcc-conference-discusses-cardiovascular-diseases",
-     "title": "GCC conference discusses cardiovascular diseases"
-    }
-   ]
-  },
-  {
-   "id": "4fe8aefeb86e",
-   "title": "Oman awards two green hydrogen projects in Duqm",
-   "url": "https://timesofoman.com//article/179084-oman-awards-two-green-hydrogen-projects-in-duqm",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-12",
-   "summary": "Oman launches Round 4 Green-Powered Data Centre Hydrogen Auction at COP31",
+   "id": "e1fff0fcdb5b",
+   "title": "ملتقى إبراء للابتكار والترفيه.. مشاريع إبداعية وحراك اقتصادي واجتماعي",
+   "url": "https://www.omandaily.om/article/1214826",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-13",
+   "summary": "تتواصل بحديقة إبراء العامة بمحافظة شمال الشرقية فعاليات ملتقى «إبراء للابتكار والترفيه»، الذي يقام تحت شعار «إبراء تجمعنا»، بمشاركة عدد من المؤسسات الحكومية والخاصة والتعليمية ورواد الأعمال...",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794488623-1794488622-iwhrfllvabg4-700x400.jpeg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577392.jpg"
   },
   {
    "id": "3de114d87ec5",
@@ -92,6 +123,23 @@
    "summary": "AL BURAM: Suhar branch of the University of Technology and Applied Sciences (UTAS) on Thursday organised a forum titled “Emerging Technologies and...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577071.jpg"
+  },
+  {
+   "id": "6237c5a5240b",
+   "title": "GCC conference discusses cardiovascular diseases",
+   "url": "https://www.omanobserver.om/article/1199587/oman/gcc-conference-discusses-cardiovascular-diseases",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-12",
+   "summary": "MUSCAT: The 18th edition of the Gulf Heart Association Conference began today at Oman Convention and Exhibition Centre. The event is hosted by Oman...",
+   "event": {
+    "name": "Gulf Heart Association Conference",
+    "start": "2026-11-12",
+    "end": "2026-11-14",
+    "venue": "Oman Convention & Exhibition Centre",
+    "organizer": "Oman... MUSCAT"
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577069.jpg"
   },
   {
    "id": "6123701846db",
@@ -153,85 +201,6 @@
    "summary": "أكد النجم القطري القدير صلاح الملا أن تكريمه الرسمي الأول، خلال مهرجان المسرح الخليجي الذي تستضيف إمارة الفجيرة بدولة الإمارات العربية المتحدة دورته الخامسة عشرة، يأتي بمثابة حافز لمزيد من العطاء",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/5HYWi.jpeg"
-  },
-  {
-   "id": "ae9c2545c9c1",
-   "title": "فوز سامي الغاوي ويحيى المنذري بجائزة السلطان قابوس للثقافة والفنون والآداب",
-   "url": "https://alroya.om/post/398037/%D9%81%D9%88%D8%B2-%D8%B3%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%BA%D8%A7%D9%88%D9%8A-%D9%88%D9%8A%D8%AD%D9%8A%D9%89-%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1%D9%8A-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%88%D8%B3-%D9%84%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "◄ الريامي: الأعمال المشاركة في \"مجال الدراسات\" لم تبلغ المستوى العلمي المطلوب من الأصالة والجودة ◄ الخطاط سامي الغاوي تميز فنيًا في حُسن توظيف الحرف العربي ◄ يحيى المنذري طرح رؤية سردية ما بعد ح",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/J7YCb.jpeg",
-   "also": [
-    {
-     "source": "الرؤية",
-     "url": "https://alroya.om/post/397962/%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%B3-%D9%84%D8%B7%D8%A7%D9%86-%D9%82%D8%A7%D8%A8%D9%88%D8%B3-%D9%84%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8",
-     "title": "بالأسماء.. الفائزين بجائزة السُّلطان قابوس للثقافة والفنون والآداب"
-    }
-   ]
-  },
-  {
-   "id": "3629be1fc476",
-   "title": "جلالة السلطان المعظم يتلقى برقية شكر من المشاركين في الدورة العادية للمؤتمر العام لمنظمة الألكسو",
-   "url": "https://www.omandaily.om/article/1214803",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "العُمانية: تلقّى حضرةُ صاحبِ الجلالةِ السُّلطان هيثم بن طارق المُعظم /حفظهُ اللهُ ورعاهُ/ برقية شكر من أصحاب المعالي والسعادة المشاركين في أعمال الدورة العادية الثامنة والعشرين للمؤتمر العام...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/12/thumbs/400x400/3577125.jpg"
-  },
-  {
-   "id": "56e899764b24",
-   "title": "مؤتمر \"الألكسو\" يبحث بمسقط أولويات العمل العربي في مجالات التربية والثقافة والعلوم",
-   "url": "https://www.omandaily.om/article/1214778",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "\"عمان\" انطلقت اليوم بمسقط أعمال الدورة العادية الثامنة والعشرين (28) للمؤتمر العام للمنظمة العربية للتربية والثقافة والعلوم (الألكسو) بمشاركة أصحاب المعالي والسعادة رؤساء وفود الدول العربية الأعضاء...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/12/thumbs/400x400/3576797.jpg"
-  },
-  {
-   "id": "42fab5fb528a",
-   "title": "قمة «بصمة العالمية» تفتح آفاقًا جديدة لتمكين المرأة في المدن الذكية",
-   "url": "https://www.omandaily.om/article/1214772",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "افتُتحت صباح اليوم بمتحف عُمان عبر الزمان فعاليات قمة \"بصمة العالمية\" ضمن مبادرة \"نساء مدن المستقبل\"، التي تستمر ثلاثة أيام، وتهدف إلى تمكين المرأة وتعزيز مشاركتها في تطوير المدن الذكية والمستدامة،...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/12/thumbs/400x400/3576684.jpg"
-  },
-  {
-   "id": "b0f6b7e7bcf7",
-   "title": "35 أسرة منتجة تشارك في ملتقى «من الدار» بولاية صحار",
-   "url": "https://www.omandaily.om/article/1214769",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "افتُتح اليوم بالحديقة العامة في ولاية صحار ملتقى «مِن الدار»، الذي تقيمه المديرية العامة للتنمية الاجتماعية بمحافظة شمال الباطنة، ويستمر حتى بعد غدٍ السبت، بمشاركة 35 أسرة منتجة، في إطار جهود...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/12/thumbs/400x400/3576674.jpg"
-  },
-  {
-   "id": "200b475479e3",
-   "title": "مؤتمر جمعية القلب الخليجية يناقش أحدث مستجدات التشخيص والعلاج",
-   "url": "https://www.omandaily.om/article/1214766",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "العُمانية: بدأت اليوم بمركز عُمان للمؤتمرات والمعارض بولاية السيب أعمال مؤتمر جمعية القلب الخليجية في نسخته الثامنة عشرة، الذي تستضيفه الجمعية العُمانية لطب القلب خلال الفترة من 12 إلى 14 نوفمبر...",
-   "event": {
-    "name": "مؤتمر جمعية القلب الخليجية يناقش أحدث مستجدات",
-    "start": "2026-11-12",
-    "end": "2026-11-14",
-    "venue": "Oman Convention & Exhibition Centre",
-    "organizer": ""
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/12/thumbs/400x400/3576653.jpg"
   },
   {
    "id": "1df2fec2b788",
@@ -309,129 +278,6 @@
    ]
   },
   {
-   "id": "6504cfd88c28",
-   "title": "\"جامعة التقنية\" بالمصنعة تستشرف مستقبل الإرشاد والتوجيه في ندوة متخصصة",
-   "url": "https://alroya.om/post/398022/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B4%D8%B1%D9%81-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%81%D9%8A-%D9%86%D8%AF%D9%88%D8%A9-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "المصنعة- خالد بن سالم السيابي نظّمت جامعة التقنية والعلوم التطبيقية بالمصنعة، ممثلةً في قسم الإرشاد والتوجيه، ندوة بعنوان «الذكاء الاصطناعي ودوره في تطوير خدمات الإرشاد والتوجيه»، ب",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/ttZrn.jpeg"
-  },
-  {
-   "id": "1c1730549a4d",
-   "title": "\"عُمان شل\" تُعزز شغف الأجيال الناشئة بالعلوم والابتكار في مهرجان عُمان للعلوم",
-   "url": "https://alroya.om/post/398021/%D8%B9-%D9%85%D8%A7%D9%86-%D8%B4%D9%84-%D8%AA-%D8%B9%D8%B2%D8%B2-%D8%B4%D8%BA%D9%81-%D8%A7%D9%84%D8%A3%D8%AC%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9-%D8%A8%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "مسقط- الرؤية سعيًا لإلهام الأجيال الناشئة بتجارب علمية تُنمِّي مهارات الاكتشاف والابتكار لديهم، واصلتْ شركة شل للتنمية- عُمان (عُمان شل) دعمَها لمهرجان عُمان للعلوم وذلك في نسخته الخ",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/kZwin.jpeg"
-  },
-  {
-   "id": "161c6f8c7b2b",
-   "title": "المشيخي: الإدمان قضية المجتمع بأسره.. و\"مؤتمر جامعة ظفار\" يسعى لفهم شمولي للظاهرة",
-   "url": "https://alroya.om/post/398015/%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%AE%D9%8A-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A8%D8%A3%D8%B3%D8%B1%D9%87-%D9%88-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B8%D9%81%D8%A7%D8%B1-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D9%81%D9%87%D9%85-%D8%B4%D9%85%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "◄ \"المؤتمر الخليجي\" بجامعة ظفار يفتح باب الحوار حول الوقاية والشراكة المجتمعية من مخاطر الإدمان صلالة- حسن جعبوب أبرز الدكتور خالد بن مسلم المشيخي عميد كلية ال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/AOvsW.jpeg"
-  },
-  {
-   "id": "f947ec4414d2",
-   "title": "«استثمر في عُمان» تحصد \"جائزة التميز\" ضمن جوائز الاتحاد العالمي لوكالات ترويج الاستثمار ومجموعة البنك الإسلامي للتنمية",
-   "url": "https://alroya.om/post/398013/%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D8%B2-%D8%B6%D9%85%D9%86-%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "◄ الفروجي: الجائزة تترجم نجاحات منظومة ترويج الاستثمار وفق منهجية عمل مؤسسي ◄ عُمان تشارك في الطاولة الوزارية المستديرة حول \"العقد المقبل للاستثمار العالمي\"",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/sGaiV.jpeg",
-   "also": [
-    {
-     "source": "الرؤية",
-     "url": "https://alroya.om/post/397971/%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D8%B2-%D9%81%D9%8A-%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%84%D8%B9%D8%A7%D9%85-2026",
-     "title": "سلطنة عُمان تحصد جائزة التميز في تيسير الاستثمار لعام 2026"
-    }
-   ]
-  },
-  {
-   "id": "37a1b1aff978",
-   "title": "بنك ظفار يعزز دعمه للمؤسسات الصغيرة والمتوسطة مع انطلاق \"ملتقى نمو\" بصحار",
-   "url": "https://alroya.om/post/398012/%D8%A8%D9%86%D9%83-%D8%B8%D9%81%D8%A7%D8%B1-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9-%D9%85%D8%B9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%86%D9%85%D9%88-%D8%A8%D8%B5%D8%AD%D8%A7%D8%B1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "مسقط- الرؤية نظم بنك ظفار ملتقى نمو للمؤسسات الصغيرة والمتوسطة في صحار بحضور المهندس سعيد بن علي العبري رئيس مجلس إدارة فرع غرفة تجارة وصناعة عُمان بمحافظة شمال الباطنة والمسؤولين من",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/F1ErQ.jpeg"
-  },
-  {
-   "id": "369134b3be65",
-   "title": "\"ملتقى أمناء سر الأندية\" يناقش جهود تعزيز الحوكمة والأداء المؤسسي",
-   "url": "https://alroya.om/post/398004/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A3%D9%85%D9%86%D8%A7%D8%A1-%D8%B3%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AC%D9%87%D9%88%D8%AF-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "مسقط- الرؤية انطلقت في مسقط أعمال \"ملتقى أمناء سر الأندية الرياضية لعام 2026\"، الذي تنظمه وزارة الثقافة والرياضة والشباب ممثلة بمركز إعداد القادة؛ بمشاركة أمناء السر في 42 ناديًا رياضيًا",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/r4Wn7.jpeg"
-  },
-  {
-   "id": "9ddace4378d7",
-   "title": "بالشغف العلمي والتفاعل مع التجارب والابتكارات.. مهرجان عُمان للعلوم يسدل الستار على النسخة الخامسة",
-   "url": "https://alroya.om/post/398002/%D8%A8%D8%A7%D9%84%D8%B4%D8%BA%D9%81-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%8A%D8%B3%D8%AF%D9%84-%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "مسقط - الرؤية اختتمت وزارة التعليم مساء اليوم الأربعاء الموافق 11 نوفمبر 2026 فعاليات النسخة الخامسة من مهرجان عُمان للعلوم 2026، الذي أُقيم تحت شعار \"بوصلتنا العلوم\" وذلك بمركز عُمان للم",
-   "event": {
-    "name": "مهرجان عُمان للعلوم يسدل الستار على النسخة",
-    "start": "2026-11-11",
-    "end": "2026-11-11",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/TnaRf.jpeg"
-  },
-  {
-   "id": "df52f3fce31a",
-   "title": "مترجمون وباحثون: ترجمة الأدب العربي لا تكفي لانتشاره عالميا.. والتأثير بالقارئ الأجنبي معيار للنجاح",
-   "url": "https://alroya.om/post/397983/%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D9%88%D9%86-%D9%88%D8%A8%D8%A7%D8%AD%D8%AB%D9%88%D9%86-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D8%A7-%D8%AA%D9%83%D9%81%D9%8A-%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D9%87-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A6-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%B9%D9%8A%D8%A7%D8%B1-%D9%84%D9%84%D9%86%D8%AC%D8%A7%D8%AD",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "الشارقة- الرؤية ناقشت الندوة الدولية الخامسة لمجلة \"كتاب\" التي تنظمها هيئة الشارقة للكتاب ضمن فعاليات الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب، تحت عنوان \"ترجمة الجهات.. رحل",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/dbCpd.jpeg"
-  },
-  {
-   "id": "a3f5aab5cdc8",
-   "title": "بالصور.. وزير الثقافة الإماراتي والسفير الصيني يطلعان على الإصدارات العمانية في جناح السلطنة بـ\"الشارقة الدولي للكتاب\"",
-   "url": "https://alroya.om/post/397970/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%88%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%8A%D8%B7%D9%84%D8%B9%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AC%D9%86%D8%A7%D8%AD-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%A8%D9%80-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "الشارقة- عبدالله الشافعي زار كل من معالي الشيخ سالم بن خالد القاسمي، وزير الثقافة الإماراتي، وتسنغ جيشين، السفير الصيني لدى دولة الإمارات، جناح سلطنة عمان في معرض الشارقة الدولي للكتاب 2026، الذي",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/9XsQc.jpeg"
-  },
-  {
-   "id": "2597f0320e6f",
-   "title": "\"القلب الكبير\" و\"مجلس كتب اليافعين\" يوقّعان مذكرة تفاهم لدعم حق الأطفال في القراءة والمعرفة",
-   "url": "https://alroya.om/post/397968/%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D9%88-%D9%85%D8%AC%D9%84%D8%B3-%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%8A%D8%A7%D9%81%D8%B9%D9%8A%D9%86-%D9%8A%D9%88%D9%82-%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AF%D8%B9%D9%85-%D8%AD%D9%82-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-11",
-   "summary": "الشارقة- الرؤية وقّعت مؤسسة القلب الكبير والمجلس الإماراتي لكتب اليافعين مذكرة تفاهم خلال معرض الشارقة الدولي للكتاب، لتوسيع فرص وصول الأطفال واليافعين إلى الكتب والمعرفة في المجتمعات المستفيدة من",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/R6LUR.jpeg"
-  },
-  {
    "id": "a8adf862fbe8",
    "title": "Al Jabal Al Akhdhar to get a boost with RO 4.3m Investments",
    "url": "https://www.omanobserver.om/article/1199475/oman/al-jabal-al-akhdhar-to-get-a-boost-with-ro-43m-investments",
@@ -475,23 +321,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/10/thumbs/600x600/3574495.jpg"
-  },
-  {
-   "id": "575e0618088e",
-   "title": "Duqm targets faster port operations",
-   "url": "https://www.omanobserver.om/article/1199311/business/economy/duqm-targets-faster-port-operations",
-   "source": "Oman Observer · Business",
-   "lang": "en",
-   "published": "2026-11-08",
-   "summary": "MUSCAT: The Public Authority for Special Economic Zones and Free Zones (OPAZ) has launched a workshop to improve Port of Duqm operations, reduce cargo...",
-   "event": {
-    "name": "Duqm targets faster port operations",
-    "start": "2026-11-15",
-    "end": "2026-11-15",
-    "venue": "Duqm",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/08/thumbs/600x600/3572129.jpg"
   },
   {
    "id": "7e61d7e223c3",

@@ -16,26 +16,8 @@ TZNAME:+04
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:900f59548a7e@oman-events-radar
-DTSTAMP:20261113T104655Z
-DTSTART;TZID=Asia/Muscat:20261113T190000
-DTEND;TZID=Asia/Muscat:20261113T230000
-SUMMARY:Elissa at OCEC in Muscat
-DESCRIPTION:Experience a voice synonymous with romance\, grace\, and unfor
- gettable melodies OCEC Oman Convention & Exhibition Centre Get ready for a
- n unforgettable evening with the Queen of Arabic Romantic Music\, Elissa\,
-  performing live in Muscat. On 13 November 2026\, music lovers in Oman wil
- l experience a spectacular concert filled with emotion\, elegance\, and ti
- meless hits. Known for her powerful voice and…\n\nRelevance: Low · Gene
- ral · confidence 75\nSources: venue:Oman Convention & Exhibition Centre (
- OCEC)
-URL:https://muscat.platinumlist.net/event-tickets/105427/elissa-at-ocec-in
- -oman
-LOCATION:OCEC\, Muscat
-END:VEVENT
-BEGIN:VEVENT
 UID:cee66478afdf@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Oman National Day
@@ -46,7 +28,7 @@ LOCATION:Oman
 END:VEVENT
 BEGIN:VEVENT
 UID:7e2d08cff36a@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261123T100000
 DTEND;TZID=Asia/Muscat:20261125T200000
 SUMMARY:the 7th International HealthCare\, Medical Tourism Exhibition & Co
@@ -67,7 +49,7 @@ LOCATION:Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:ca45f4b160e2@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261126T160000
 DTEND;TZID=Asia/Muscat:20261126T203000
 SUMMARY:The Comedy Play ‘Master of Fine Taste’
@@ -84,7 +66,7 @@ LOCATION:Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:beee3f82e59d@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261201T110000
 DTEND;TZID=Asia/Muscat:20261203T190000
 SUMMARY:IORA Aquaculture & Fisheries Business Forum & Exhibition
@@ -101,7 +83,7 @@ LOCATION:OCEC\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:004b9276829a@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261201T110000
 DTEND;TZID=Asia/Muscat:20261203T190000
 SUMMARY:Oman Agrofood
@@ -111,14 +93,14 @@ DESCRIPTION:Oman AgroFood\, the 8th International Trade Exhibition for Agr
  government decision-makers\, international stakeholders\, regional buyers\
  , traders\, and technology providers\, creating a strategic platform for c
  ollaboration\, knowledge exchange\, and investment.…\n\nRelevance: Low 
- · Industry & Energy · confidence 100\nSources: team-seed-2026\, venue:Om
- an Convention & Exhibition Centre (OCEC)
+ · Industry & Energy · confidence 100\nSources: allevents-muscat\, team-s
+ eed-2026\, venue:Oman Convention & Exhibition Centre (OCEC)
 URL:https://omanagrofood.com/
 LOCATION:OCEC\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:0b04b5f013eb@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261203T140000
 DTEND;TZID=Asia/Muscat:20261207T220000
 SUMMARY:The 15th Muscat International Jewelry Exhibition – MIJEX
@@ -135,7 +117,7 @@ LOCATION:Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:56fb57cd5786@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261204T090000
 DTEND;TZID=Asia/Muscat:20261204T230000
 SUMMARY:The Golden Voice of Spacetoon – Rasha Rizk Live in Musca
@@ -152,8 +134,23 @@ URL:https://ocec.om/event/the-golden-voice-of-spacetoon-rasha-rizk-live-in
 LOCATION:Muscat
 END:VEVENT
 BEGIN:VEVENT
+UID:951e416dfce7@oman-events-radar
+DTSTAMP:20261114T100211Z
+DTSTART;TZID=Asia/Muscat:20261207T190000
+DTEND;TZID=Asia/Muscat:20261207T210000
+SUMMARY:Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow
+ ’s Cities
+DESCRIPTION:An in-person session on AI-driven decision-making and predicti
+ ve tools fosters resilient\, regenerative projects through collaboration.\
+ n\nRelevance: Medium · Industry & Energy · confidence 75\nSources: allev
+ ents-muscat\, eventbrite-muscat
+URL:https://allevents.in/muscat/smart-and-sustainable-building-intelligent
+ -ecosystems-for-tomorrows-cities/100002004572173332
+LOCATION:Crowne Plaza Muscat by IHG\, Muscat
+END:VEVENT
+BEGIN:VEVENT
 UID:e43bd1e311df@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261208T100000
 DTEND;TZID=Asia/Muscat:20271210T180000
 SUMMARY:10th OMAN PLAST 2026
@@ -166,12 +163,11 @@ DESCRIPTION:10th INTERNATIONAL PLASTICS\, RUBBER\, PETROCHEMICALS\, CHEMIC
  Industry & Energy · confidence 100\nSources: allevents-muscat\, eventbrit
  e-muscat\, venue:Oman Convention & Exhibition Centre (OCEC)
 URL:https://www.omanplast.net
-LOCATION:Oman Convention & Exhibition Centre\, Muscat\, Sultanate of Oman\
- , Muscat
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:b65a00e29286@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20261208T100000
 DTEND;TZID=Asia/Muscat:20261209T200000
 SUMMARY:LOGISTEX
@@ -189,7 +185,7 @@ LOCATION:Oman Convention & Exhibition Centre\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:f7421d0c8422@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Accession Day of His Majesty Sultan Haitham
@@ -199,7 +195,7 @@ LOCATION:Oman
 END:VEVENT
 BEGIN:VEVENT
 UID:8829a7e5efcc@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20270112T110000
 DTEND;TZID=Asia/Muscat:20270114T200000
 SUMMARY:Interior Design Furnishing Expo 2027
@@ -216,7 +212,7 @@ LOCATION:Oman Convention & Exhibition Centre\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:eeb8c0cc9023@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20270120T110000
 DTEND;TZID=Asia/Muscat:20270126T220000
 SUMMARY:Oman Perfume Show
@@ -232,7 +228,7 @@ LOCATION:OCEC\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:769993e81dcd@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20270201T100000
 DTEND;TZID=Asia/Muscat:20270204T190000
 SUMMARY:COMEX – Global Technology Show 2027
@@ -249,7 +245,7 @@ LOCATION:Oman Convention & Exhibition Centre (OCEC)\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:1107a2d64384@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20270426T090000
 DTEND;TZID=Asia/Muscat:20270428T180000
 SUMMARY:Oman Petroleum & Energy Show
@@ -266,7 +262,7 @@ LOCATION:Oman Convention & Exhibition Centre\, Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:9a927e809981@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;TZID=Asia/Muscat:20270426T090000
 DTEND;TZID=Asia/Muscat:20270428T180000
 SUMMARY:Oman Sustainability Week
@@ -283,7 +279,7 @@ LOCATION:Muscat
 END:VEVENT
 BEGIN:VEVENT
 UID:f9cceb8b5d89@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
 SUMMARY:Omani Women's Day
@@ -293,7 +289,7 @@ LOCATION:Oman
 END:VEVENT
 BEGIN:VEVENT
 UID:95b3ebc3a584@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271027
 SUMMARY:Omani Youth Day
@@ -303,7 +299,7 @@ LOCATION:Oman
 END:VEVENT
 BEGIN:VEVENT
 UID:cb27a78d838b@oman-events-radar
-DTSTAMP:20261113T104655Z
+DTSTAMP:20261114T100211Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:Oman National Day

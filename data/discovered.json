@@ -165,5 +165,13 @@
   "status": "no-feed",
   "checked": "2026-11-08",
   "events": 0
+ },
+ "eventbrite.co.uk": {
+  "url": "https://www.eventbrite.co.uk/",
+  "from": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
+  "first_seen": "2026-11-14",
+  "status": "no-feed",
+  "checked": "2026-11-14",
+  "events": 0
  }
 }

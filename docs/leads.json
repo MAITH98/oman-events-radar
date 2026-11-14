@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T10:46:55+00:00",
+ "generated_at": "2026-11-14T10:02:11+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,14 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Weekend Special",
-   "url": "https://allevents.in/muscat/weekend-special/200031033609438",
-   "source": "allevents-muscat",
-   "found": "2026-11-13",
-   "start": "2026-11-13",
-   "status": "Needs review"
-  },
-  {
    "title": "45th Sharjah International Book Fair",
    "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
    "source": "news:observer-lifestyle",
@@ -108,12 +100,12 @@
    "status": "Lead – verify"
   },
   {
-   "title": "Duqm targets faster port operations",
-   "url": "https://www.omanobserver.om/article/1199311/business/economy/duqm-targets-faster-port-operations",
-   "source": "news:observer-business",
-   "found": "2026-11-09",
-   "start": "2026-11-15",
-   "status": "Lead – verify"
+   "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
+   "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
+   "source": "eventbrite-muscat",
+   "found": "2026-11-14",
+   "start": "2026-11-17",
+   "status": "Needs review"
   },
   {
    "title": "OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD EDITION",
@@ -148,14 +140,6 @@
    "status": "Needs review"
   },
   {
-   "title": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
-   "url": "https://allevents.in/muscat/smart-and-sustainable-building-intelligent-ecosystems-for-tomorrows-cities/100002004572173332",
-   "source": "allevents-muscat",
-   "found": "2026-11-10",
-   "start": "2026-12-07",
-   "status": "Needs review"
-  },
-  {
    "title": "9th OmanDerm International Conference & Exhibition",
    "url": "https://allevents.in/muscat/9th-omanderm-international-conference-and-exhibition/100001986150966005",
    "source": "allevents-muscat",
@@ -177,6 +161,14 @@
    "source": "allevents-muscat",
    "found": "2026-10-25",
    "start": "2026-12-31",
+   "status": "Needs review"
+  },
+  {
+   "title": "Kitchen & Bathroom Show",
+   "url": "https://allevents.in/muscat/kitchen-and-bathroom-show/3700031042709545",
+   "source": "allevents-muscat",
+   "found": "2026-11-14",
+   "start": "2027-01-10",
    "status": "Needs review"
   },
   {
@@ -282,6 +274,14 @@
    "found": "2026-10-29",
    "start": "2027-10-27",
    "status": "Expected – confirm"
+  },
+  {
+   "title": "Arabal",
+   "url": "https://allevents.in/muscat/arabal/3700031042861605",
+   "source": "allevents-muscat",
+   "found": "2026-11-14",
+   "start": "2027-11-01",
+   "status": "Needs review"
   },
   {
    "title": "Project oman",

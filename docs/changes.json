@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 285,
+ "latest_sequence": 291,
  "changes": [
   {
    "schema_version": "1.0",
@@ -14983,6 +14983,337 @@
      "#OmanHealth"
     ],
     "removed_on": "2026-11-13"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 286,
+   "type": "event.created",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "03133e5fd324",
+   "event_version": 1,
+   "idempotency_key": "03133e5fd324:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "03133e5fd324",
+    "version": 1,
+    "kind": "event",
+    "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "InterContinental Muscat by IHG",
+    "city": "Area",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
+    "description": "Discover how the Manchester MBA can help you develop future-ready leadership skills, navigate disruption and accelerate your career.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "733174622a2681deb12c58823ba436daae924e1b"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 287,
+   "type": "event.updated",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "951e416dfce7",
+   "event_version": 2,
+   "idempotency_key": "951e416dfce7:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "951e416dfce7",
+    "version": 2,
+    "kind": "event",
+    "title": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
+    "start": "2026-12-07",
+    "end": "2026-12-07",
+    "start_time": "19:00",
+    "end_time": "21:00",
+    "previous_start": "",
+    "venue": "Crowne Plaza Muscat by IHG",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "CIOB Middle East & North Africa (MENA)",
+    "organizer_url": "https://allevents.in/org/ciob-middle-east-and-north-africa-mena/19176603",
+    "audience": "",
+    "url": "https://allevents.in/muscat/smart-and-sustainable-building-intelligent-ecosystems-for-tomorrows-cities/100002004572173332",
+    "description": "An in-person session on AI-driven decision-making and predictive tools fosters resilient, regenerative projects through collaboration.",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 75,
+    "status": "Upcoming",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-14",
+    "workflow": {
+     "brief": "2026-11-27",
+     "announce": "2026-11-30",
+     "reminder": "2026-12-05"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability"
+    ],
+    "_fp": "53be629213131b8fb663aeffcd945062ad0a2199"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 288,
+   "type": "event.updated",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "e43bd1e311df",
+   "event_version": 3,
+   "idempotency_key": "e43bd1e311df:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "e43bd1e311df",
+    "version": 3,
+    "kind": "event",
+    "title": "10th OMAN PLAST 2026",
+    "start": "2026-12-08",
+    "end": "2027-12-10",
+    "start_time": "10:00",
+    "end_time": "18:00",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanplast.net",
+    "description": "10th INTERNATIONAL PLASTICS, RUBBER, PETROCHEMICALS, CHEMICALS, FERTILIZERS, PLASTICS RECYCLING, PRINTING AND PACKAGING INDUSTRY EXHIBITION 2026 10th OMAN PLAST 2026 is a three days event that plays an important role in developing the economy of the region. It will showcase the latest technologies and machineries necessary for the manufacturing of plastic and petrochemicals. This show will bring…",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 3,
+    "confidence": 100,
+    "status": "Upcoming",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat",
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A",
+     "C"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-14",
+    "workflow": {
+     "brief": "2026-11-28",
+     "announce": "2026-12-01",
+     "reminder": "2026-12-06"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#10thOMANPLAST"
+    ],
+    "_fp": "eb257f1145a20e592dd0bbbb8021bf4f7338bcdd"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 289,
+   "type": "event.created",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "5e815730d172",
+   "event_version": 1,
+   "idempotency_key": "5e815730d172:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "5e815730d172",
+    "version": 1,
+    "kind": "event",
+    "title": "Kitchen & Bathroom Show",
+    "start": "2027-01-10",
+    "end": "2027-01-12",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/kitchen-and-bathroom-show/3700031042709545",
+    "description": "The Kitchen & Bathroom Show (KBS) in Oman is a premier event that showcases the finest local and global brands in kitchen and bathroom design. This annual exhibition takes place at the Oman Convention & Exhibition Centre in Muscat, attracting a diverse audience of residential and construction profes",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Low",
+    "score": 1,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#KitchenBathroomShow"
+    ],
+    "_fp": "8c20c67a6c9393cca800abe21983336011820097"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 290,
+   "type": "event.created",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "19fccf33225d",
+   "event_version": 1,
+   "idempotency_key": "19fccf33225d:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "19fccf33225d",
+    "version": 1,
+    "kind": "event",
+    "title": "Arabal",
+    "start": "2027-11-01",
+    "end": "2027-11-03",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Bank Muscat Ghubrah",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/arabal/3700031042861605",
+    "description": "The Arabal International Aluminium Conference & Exhibition is a premier event organized in partnership with the aluminium industry in the Middle East. This conference serves as a significant platform for industry leaders to share insights and discuss the latest market trends affecting the aluminium",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#Arabal"
+    ],
+    "_fp": "09d83f540645e32535e777fc2b55c5fcbfb9a613"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 291,
+   "type": "event.removed",
+   "occurred_at": "2026-11-14T10:02:11+00:00",
+   "event_id": "c6708e15faaf",
+   "event_version": 2,
+   "idempotency_key": "c6708e15faaf:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c6708e15faaf",
+    "version": 2,
+    "kind": "event",
+    "title": "Weekend Special",
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "start_time": "18:00",
+    "end_time": "23:00",
+    "previous_start": "",
+    "venue": "Madinat Qaboos, Muscat, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Universal Queen",
+    "organizer_url": "https://allevents.in/org/universal-queen/28404635",
+    "audience": "",
+    "url": "https://allevents.in/muscat/weekend-special/200031033609438",
+    "description": "✨ Escape the Daily Rush & Treat Yourself to Pure Luxury in Madinat Sultan Qaboos! ✨ Looking for a peaceful, premium salon experience designed just for you? At Universal Queen Beauty Salon, we combine world-class products, skilled experts, and a serene, relaxing atmosphere to give you the pampering y",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#WeekendSpecial"
+    ],
+    "removed_on": "2026-11-14"
    }
   }
  ]
