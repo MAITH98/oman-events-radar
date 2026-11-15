@@ -1,8 +1,168 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-14T10:02:11+00:00",
- "count": 29,
+ "generated_at": "2026-11-15T10:37:47+00:00",
+ "count": 32,
  "articles": [
+  {
+   "id": "8a703ced3536",
+   "title": "A Michelin Journey Through the Sultanate of Oman: Al Baleed Culinary Festival Returns for its Fifth Edition",
+   "url": "https://timesofoman.com//article/179176-a-michelin-journey-through-the-sultanate-of-oman-al-baleed-culinary-festival-returns-for-its-fifth-edition-1",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-15",
+   "summary": "A Michelin Journey Through the Sultanate of Oman: Al Baleed Culinary Festival Returns for its Fifth Edition",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794718588-1794718588-6lqfqzrjcntn.PNG"
+  },
+  {
+   "id": "bccd796667d2",
+   "title": "A Taste of Oman: Chefs Ammar Al Harthi and Khalood Abdullah Celebrate Omani Culinary Heritage at Al Baleed Culinary Festival 2026",
+   "url": "https://timesofoman.com//article/179175-a-taste-of-oman-chefs-ammar-al-harthi-and-khalood-abdullah-celebrate-omani-culinary-heritage-at-al-baleed-culinary-festival-2026",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-15",
+   "summary": "A Taste of Oman: Chefs Ammar Al Harthi and Khalood Abdullah Celebrate Omani Culinary Heritage at Al Baleed Culinary Festival 2026",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794718026-1794718026-kioaq8wi0ozg.PNG"
+  },
+  {
+   "id": "e0399e1a9ce6",
+   "title": "ملتقى الثقافة العُمانية في تونس يُبهر الزوار بالتعريف بتاريخ السلطنة وتراثها",
+   "url": "https://alroya.om/post/398202/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3-%D9%8A-%D8%A8%D9%87%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D9%88%D8%AA%D8%B1%D8%A7%D8%AB%D9%87%D8%A7",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "تونس - عزيزة راشد في إطار تعزيز التبادل الثقافي ومد جسور التواصل بين الشعوب، شاركت سلطنة عُمان في فعاليات ملتقى الثقافة العُمانية الذي تستضيفه مدينة الحمامات التونسية، في مبادرة تعكس عمق العلاقات ا",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/NMCjS.jpeg"
+  },
+  {
+   "id": "2c074a1a56b0",
+   "title": "ملتقى أمناء سر الأندية يناقش الحوكمة والاستثمار",
+   "url": "https://www.omandaily.om/article/1214921",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "عمان: اختُتمت بمسقط أعمال ملتقى أمناء سر الأندية الرياضية لعام 2026، الذي نظمته وزارة الثقافة والرياضة والشباب، ممثلة بمركز إعداد القادة، برعاية سعادة الشيخ أحمد بن علي الحبسي، والي بوشر، وذلك بفندق...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3578907.jpg"
+  },
+  {
+   "id": "27309ea48215",
+   "title": "التوقيع على برامج تعاون مع كبرى الشركات لتعزيز عناصر المحتوى المحلي",
+   "url": "https://www.omandaily.om/article/1214917",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "العُمانية/ شهد ملتقى المحتوى المحلي في القطاع الصناعي الذي نظمته وزارة التجارة والصناعة وترويج الاستثمار اليوم إطلاق مبادرات لتعزيز المحتوى المحلي في القطاع الصناعي، والتوقيع على برامج تعاون مع...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3578897.jpg"
+  },
+  {
+   "id": "dc7fc29d3cd0",
+   "title": "جولة أخيرة بين الكتب والفعاليات.. ماذا يخبئ اليوم الختامي لزوار معرض الشارقة الدولي للكتاب؟",
+   "url": "https://alroya.om/post/398164/%D8%AC%D9%88%D9%84%D8%A9-%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D9%88%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%A8%D8%A6-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D8%AA%D8%A7%D9%85%D9%8A-%D9%84%D8%B2%D9%88%D8%A7%D8%B1-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "الشارقة- الرؤية تتواصل متعة اكتشاف الكتب واللقاء بالمبدعين وخوض التجارب التفاعلية في اليوم الختامي للدورة الـ45 من معرض الشارقة الدولي للكتاب، الذي يسدل الستار على فعالياته اليوم الأحد في",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/d7uYz.jpeg"
+  },
+  {
+   "id": "7f1d98a6a867",
+   "title": "\"الشارقة الدولي للكتاب\" يمدد ساعات استقبال الزوار اليوم حتى منتصف الليل",
+   "url": "https://alroya.om/post/398163/%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%8A%D9%85%D8%AF%D8%AF-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D9%84%D9%8A%D9%84",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "الشارقة- الرؤية نظراً للإقبال الكبير الذي يشهده معرض الشارقة الدولي للكتاب اليوم (السبت 14 نوفمبر)، أعلنت إدارة المعرض تمديد ساعات استقبال الزوار حتى الساعة الثانية عشرة منتصف الليل،",
+   "event": {
+    "name": "\"الشارقة الدولي للكتاب\" يمدد ساعات استقبال الزوار اليوم حتى منتصف الليل",
+    "start": "2026-11-14",
+    "end": "2026-11-14",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/xWmmF.jpeg"
+  },
+  {
+   "id": "75cc39d6d587",
+   "title": "\"منتدى التقنيات الناشئة والاقتصاد الأخضر\" بالبريمي يبحث فرص الاستدامة والاستثمار",
+   "url": "https://alroya.om/post/398139/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "◄ 4 أوراق عمل وجلسة نقاشية بختام أسبوع التميز المؤسسي والابتكار بمحافظة البريمي البريمي- ناصر العبري امتدادًا لفعاليات أسبوع التميز المؤسسي والابتكار بمحافظة البريم",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Q5Tzn.jpeg"
+  },
+  {
+   "id": "7a1b18083e75",
+   "title": "إعلان تفاصيل النسخة الخامسة من \"مهرجان صحار\" والكشف عن الهوية البصرية الجديدة",
+   "url": "https://alroya.om/post/398138/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "صحار- خالد بن علي الخوالدي تعقد اللجنة المنظمة لمهرجان صحار، اليوم الأحد، مؤتمرًا صحفيًا للإعلان عن تفاصيل النسخة الخامسة من مهرجان صحار، والكشف عن هويته البصرية الجد",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/M4eRw.jpeg"
+  },
+  {
+   "id": "2a5c311ce088",
+   "title": "939 مشاركًا ضمن 166 فريقًا يتنافسون في \"هاكاثون تحدي ناسا لتطبيقات الفضاء\"",
+   "url": "https://alroya.om/post/398128/939-%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7-%D8%B6%D9%85%D9%86-166-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7-%D9%8A%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%88%D9%86-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A-%D9%86%D8%A7%D8%B3%D8%A7-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "بدية- العُمانية انطلقت أمس بولاية بدية في محافظة شمال الشرقية فعاليات النسخة الخامسة من هاكاثون تحدي ناسا لتطبيقات الفضاء 2026، الذي تنظمه جامعة التقنية والعلوم التطبيقية ب",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/2I8Bk.jpeg"
+  },
+  {
+   "id": "7f230b787d12",
+   "title": "مؤتمر مُستخدمي \"تطبيقات إزري\" يسلط الضوء على أبرز تقنيات نظم المعلومات الجغرافية",
+   "url": "https://alroya.om/post/398127/%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%85-%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A5%D8%B2%D8%B1%D9%8A-%D9%8A%D8%B3%D9%84%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%86%D8%B8%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "مسقط- الرؤية نظمت شركة \" إزري مسقط\" مؤتمر مستخدمي تطبيقات إزري في سلطنة عُمان، في حدث سنوي يجمع مستخدمي منصة «ArcGIS» من إزري في سلطنة عُمان. وشهدت نسخة هذا العام حضور أكثر من 30",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Jo5ws.jpeg"
+  },
+  {
+   "id": "ea3173d01898",
+   "title": "البنك الوطني العُماني يحصد جائزة \"أفضل بنك في عُمان\" ضمن جوائز \"MEED\" للتميُّز",
+   "url": "https://alroya.om/post/398126/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D8%A8%D9%86%D9%83-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86-%D8%B6%D9%85%D9%86-%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-MEED-%D9%84%D9%84%D8%AA%D9%85%D9%8A-%D8%B2",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "مسقط- الرؤية حصل البنك الوطني العُماني على جائزة \"أفضل بنك في عُمان\" ضمن جوائز (MEED) للتميُّز المصرفي في الشرق الأوسط وشمال أفريقيا لفئة الشركات والاستثمار 2026، ليُص",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/syp57.png"
+  },
+  {
+   "id": "b1110d8fdd1d",
+   "title": "بنك مسقط يثري معارف زوار \"مهرجان عُمان للعلوم\" عبر جناح \"الخزنة\" التفاعلي",
+   "url": "https://alroya.om/post/398125/%D8%A8%D9%86%D9%83-%D9%85%D8%B3%D9%82%D8%B7-%D9%8A%D8%AB%D8%B1%D9%8A-%D9%85%D8%B9%D8%A7%D8%B1%D9%81-%D8%B2%D9%88%D8%A7%D8%B1-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%B9%D8%A8%D8%B1-%D8%AC%D9%86%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "مسقط- الرؤية شهد جناح بنك مسقط، المؤسّسة المالية الرائدة في سلطنة عُمان، إقبالًا كبيرًا من الزوار من مختلف الفئات العمرية خلال النسخة الخامسة من مهرجان عُمان للعلوم الذي نظّمته وزارة",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/xZhaL.jpeg"
+  },
+  {
+   "id": "1aa9e658a70c",
+   "title": "ركن الخط العربي يخطف أنظار جمهور \"الشارقة للكتاب\".. والأنامل العمانية تهدي الزوّار بطاقات فنية بأسمائهم",
+   "url": "https://alroya.om/post/398116/%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AE%D8%B7%D9%81-%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%8A-%D8%A7%D9%84%D8%B2%D9%88-%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D9%81%D9%86%D9%8A%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A6%D9%87%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-14",
+   "summary": "الشارقة- عبدالله الشافعي في قلب جناح سلطنة عمان- ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026- يصطف الزوّار من مختلف الفئات أمام ركن الخط العربي للتعرف على أعمال الخطاطين الع",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/M6Reg.jpeg"
+  },
   {
    "id": "0285c592fc74",
    "title": "ناشرون يحددون 3 معايير أساسية لاختيار الأعمال المرشحة للنشر",
@@ -26,17 +186,6 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/lo8BQ.jpeg"
   },
   {
-   "id": "14957fac651a",
-   "title": "سلطنة عُمان تستعرض فرص تصنيع معدات الطاقة والقطاعات الغذائية",
-   "url": "https://www.omandaily.om/article/1214875",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-14",
-   "summary": "العُمانية: استعرضت الهيئة العامة للمناطق الاقتصادية الخاصة والمناطق الحرة، خلال مشاركتها في مؤتمر الاستثمار العالمي بمدينة جنيف السويسرية، فرص إقامة مشروعات في تصنيع معدات الطاقة المتجددة...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/14/thumbs/400x400/3578012.jpg"
-  },
-  {
    "id": "10cd120fe955",
    "title": "Silicon Valley worries over Nvidia scandal",
    "url": "https://www.omanobserver.om/article/1199622/business/silicon-valley-worries-over-nvidia-scandal",
@@ -57,50 +206,6 @@
    "summary": "الشارقة- الرؤية في واجهة جناح سلطنة عمان، ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، تستوقف الزوار مخطوطة عُمانية نادرة تمتد على هيئة شريط ورقي طويل، تحيط بها إضاءة د",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/dT6QJ.jpeg"
-  },
-  {
-   "id": "000f7e5e0e76",
-   "title": "مستشفى السويق ينظّم فعالية توعوية بمناسبة اليوم العالمي للأشعة 2026",
-   "url": "https://alroya.om/post/398062/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%82-%D9%8A%D9%86%D8%B8-%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%B9%D8%A9-2026",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-13",
-   "summary": "◄ معرض متخصص يستعرض خدمات التصوير الطبي ودورها في التشخيص وتعزيز جودة الرعاية الصحية السويق – الرؤية نظّم مستشفى السويق، بالتعاون مع مجمع السويق الصحي ومركزي القصبي والثرمد الصحيين، فعالية توع",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/XsbsG.jpeg"
-  },
-  {
-   "id": "d323f5958cd9",
-   "title": "الفنان اليمني أحمد يحيى: الفن مفتاح لباب الأمل ومسار لاكتشاف الحياة",
-   "url": "https://www.omandaily.om/article/1214844",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-13",
-   "summary": "كتب – عامر بن عبدالله الأنصاري مثل غيري الكثير، عرفت عن افتتاح المعرض الفني \"فن مسقط\" خلال الفترة الماضية، وقد صاحب ذلك حضور كثيف على منصات التواصل الاجتماعي، يبدو أن الخوارزميات تفهم انحيازي إلى...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577651.jpg"
-  },
-  {
-   "id": "cd889eebbbcc",
-   "title": "ندوة إزكي تستعرض المسيرة العلمية والإرشادية للشيخ إبراهيم الرقيشي",
-   "url": "https://www.omandaily.om/article/1214839",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-13",
-   "summary": "احتضنت قاعة إزكي العامة اليوم أعمال ندوة علمية حول سيرة الشيخ إبراهيم بن محمد بن سالم الرقيشي (المتوفى عام 1402هـ)، تحت عنوان «سيرة علم وعطاء وإرشاد»، برعاية سعادة الشيخ أحمد بن سعود السيابي، الأمين...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577628.jpg"
-  },
-  {
-   "id": "e1fff0fcdb5b",
-   "title": "ملتقى إبراء للابتكار والترفيه.. مشاريع إبداعية وحراك اقتصادي واجتماعي",
-   "url": "https://www.omandaily.om/article/1214826",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-13",
-   "summary": "تتواصل بحديقة إبراء العامة بمحافظة شمال الشرقية فعاليات ملتقى «إبراء للابتكار والترفيه»، الذي يقام تحت شعار «إبراء تجمعنا»، بمشاركة عدد من المؤسسات الحكومية والخاصة والتعليمية ورواد الأعمال...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/13/thumbs/400x400/3577392.jpg"
   },
   {
    "id": "3de114d87ec5",
@@ -168,39 +273,6 @@
    "summary": "A child can become a halwa maker, wooden boat builder or rose picker through a personalised portrait at the Public Children’s Library corner in...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577008.jpg"
-  },
-  {
-   "id": "952e94768af9",
-   "title": "\"سلام لك يا شيخ سلطان\".. عُمان تهدي حاكم الشارقة \"رزفة\" تراثية وسط تفاعل زوار المعرض",
-   "url": "https://alroya.om/post/398053/%D8%B3%D9%84%D8%A7%D9%85-%D9%84%D9%83-%D9%8A%D8%A7-%D8%B4%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D9%87%D8%AF%D9%8A-%D8%AD%D8%A7%D9%83%D9%85-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%B1%D8%B2%D9%81%D8%A9-%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D8%B2%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "الشارقة- الرؤية على إيقاعات فن الرزفة، صدحت أصوات أعضاء الفرقة التراثية العُمانية \"بن داود للفنون الشعبية\" في ردهات معرض الشارقة الدولي للكتاب 2026، بقصيدة مهداة إلى صاحب السمو الشيخ الدكتور س",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/IvXPy.jpeg"
-  },
-  {
-   "id": "0a3553c29547",
-   "title": "بدور القاسمي: مواصلة الاستثمار في المنظومة الثقافية تعزز حضور الشارقة العالمي وتفتح آفاقاً جديدة لصناعة النشر",
-   "url": "https://alroya.om/post/398049/%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B6%D9%88%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D8%B4%D8%B1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "الشارة- الرؤية ترأست سمو الشيخة بدور بنت سلطان القاسمي، رئيسة مجلس إدارة هيئة الشارقة للكتاب، الاجتماع السابع لمجلس إدارة الهيئة، الذي عُقد بالتزامن مع فعاليات الدورة الخامسة والأربعين من \"معرض الش",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/2Cch1.jpeg"
-  },
-  {
-   "id": "c3e899bcefbe",
-   "title": "بمناسبة تكريمه في مهرجان المسرح الخليجي بالفجيرة.. صلاح الملا: تكريمي الرسمي الأول دافع لمزيد من العطاء المتجدد",
-   "url": "https://alroya.om/post/398039/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%AA%D9%83%D8%B1%D9%8A%D9%85%D9%87-%D9%81%D9%8A-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%AD-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D8%A8%D8%A7%D9%84%D9%81%D8%AC%D9%8A%D8%B1%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D9%84%D8%A7-%D8%AA%D9%83%D8%B1%D9%8A%D9%85%D9%8A-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%AF%D8%A7%D9%81%D8%B9-%D9%84%D9%85%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-12",
-   "summary": "أكد النجم القطري القدير صلاح الملا أن تكريمه الرسمي الأول، خلال مهرجان المسرح الخليجي الذي تستضيف إمارة الفجيرة بدولة الإمارات العربية المتحدة دورته الخامسة عشرة، يأتي بمثابة حافز لمزيد من العطاء",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/5HYWi.jpeg"
   },
   {
    "id": "1df2fec2b788",
@@ -278,34 +350,6 @@
    ]
   },
   {
-   "id": "a8adf862fbe8",
-   "title": "Al Jabal Al Akhdhar to get a boost with RO 4.3m Investments",
-   "url": "https://www.omanobserver.om/article/1199475/oman/al-jabal-al-akhdhar-to-get-a-boost-with-ro-43m-investments",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-10",
-   "summary": "AL JABAL AL AKHDHAR, NOV 10 The sixth edition of the 'Governor’s Forum' organised by Al Dakhiliyah Governorate in the Wilayat of Al Jabal...",
-   "event": {
-    "name": "Governor’s Forum",
-    "start": "2026-11-10",
-    "end": "2026-11-10",
-    "venue": "",
-    "organizer": "Al Dakhiliyah Governorate"
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/10/thumbs/600x600/3574861.jpg"
-  },
-  {
-   "id": "c138c70a59e5",
-   "title": "SQU symposium weighs four decades of impact",
-   "url": "https://www.omanobserver.om/article/1199469/oman/squ-symposium-weighs-four-decades-of-impact",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-10",
-   "summary": "MUSCAT: The scientific symposium accompanying the 40th anniversary of the opening of Sultan Qaboos University (SQU) began on Tuesday under the title...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/10/thumbs/600x600/3574806.jpg"
-  },
-  {
    "id": "22e407459949",
    "title": "Italian Cuisine Week brings a taste of tradition to Oman",
    "url": "https://www.omanobserver.om/article/1199442/features/food/italian-cuisine-week-brings-a-taste-of-tradition-to-oman",
@@ -377,17 +421,6 @@
    "summary": "Talent alone is not enough to command an audience, Egyptian actor Khaled El Sawy told participants at the Sharjah International Book Fair 2026,...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/07/thumbs/600x600/3570665.jpg"
-  },
-  {
-   "id": "4b766f67d241",
-   "title": "Oman strengthens its presence at international animation film festivals",
-   "url": "https://www.omanobserver.om/article/1199053/features/filmstv/oman-strengthens-its-presence-at-international-animation-film-festivals",
-   "source": "Oman Observer · Lifestyle",
-   "lang": "en",
-   "published": "2026-11-03",
-   "summary": "Omani filmmaker Fahad al Hadhrami represented the Sultanate of Oman at the sixth edition of the Babylon Animation Film Festival 2026 in Iraq, where he...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/03/thumbs/600x600/3567271.jpg"
   }
  ]
 }
