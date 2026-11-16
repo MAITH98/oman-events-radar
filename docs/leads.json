@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:37:47+00:00",
+ "generated_at": "2026-11-16T10:54:30+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,11 +92,11 @@
    "found": "2026-10-25"
   },
   {
-   "title": "45th Sharjah International Book Fair",
-   "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
-   "source": "news:observer-lifestyle",
-   "found": "2026-11-08",
-   "start": "2026-11-15",
+   "title": "ندوة تناقش تطوير زراعة القمح وتعزيز جودة",
+   "url": "https://www.omandaily.om/article/1215013",
+   "source": "news:omandaily",
+   "found": "2026-11-16",
+   "start": "2026-11-16",
    "status": "Lead – verify"
   },
   {
@@ -116,10 +116,18 @@
    "status": "Needs review"
   },
   {
-   "title": "Career forum to train Omani youth on November 19",
-   "url": "https://www.omanobserver.om/article/1199584/oman/career-forum-to-train-omani-youth-on-november-19",
-   "source": "news:observer-local",
-   "found": "2026-11-13",
+   "title": "ملتقى الثقافة العُمانية في تونس يستعرض الموروث",
+   "url": "https://www.omandaily.om/article/1214969",
+   "source": "news:omandaily",
+   "found": "2026-11-16",
+   "start": "2026-11-19",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "مهرجان صحار بحزمة من الفعاليات والمبادرات المجتمعية",
+   "url": "https://www.omandaily.om/article/1215014",
+   "source": "news:omandaily",
+   "found": "2026-11-16",
    "start": "2026-11-19",
    "status": "Lead – verify"
   },
@@ -130,6 +138,14 @@
    "found": "2026-11-03",
    "start": "2026-11-22",
    "status": "Needs review"
+  },
+  {
+   "title": "مهرجان أبي تمام بالموصل",
+   "url": "https://www.omandaily.om/article/1214999",
+   "source": "news:omandaily",
+   "found": "2026-11-16",
+   "start": "2026-11-22",
+   "status": "Lead – verify"
   },
   {
    "title": "Wadi Bani Khalid and Wahiba Sands",
@@ -172,12 +188,28 @@
    "status": "Needs review"
   },
   {
+   "title": "Light Oman",
+   "url": "https://allevents.in/muscat/light-oman/3700031053695128",
+   "source": "allevents-muscat",
+   "found": "2026-11-16",
+   "start": "2027-01-10",
+   "status": "Needs review"
+  },
+  {
    "title": "welday kashi",
    "url": "https://allevents.in/muscat/welday-kashi/200030802914113",
    "source": "allevents-muscat",
    "found": "2026-10-25",
    "start": "2027-01-27",
    "status": "Needs review"
+  },
+  {
+   "title": "مهرجان صحار",
+   "url": "https://alroya.om/post/398264/%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1",
+   "source": "news:alroya",
+   "found": "2026-11-16",
+   "start": "2027-01-31",
+   "status": "Lead – verify"
   },
   {
    "title": "Oman LegalTech Summit 2027",

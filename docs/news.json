@@ -1,29 +1,242 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-15T10:37:47+00:00",
- "count": 32,
+ "generated_at": "2026-11-16T10:54:30+00:00",
+ "count": 43,
  "articles": [
   {
-   "id": "8a703ced3536",
-   "title": "A Michelin Journey Through the Sultanate of Oman: Al Baleed Culinary Festival Returns for its Fifth Edition",
-   "url": "https://timesofoman.com//article/179176-a-michelin-journey-through-the-sultanate-of-oman-al-baleed-culinary-festival-returns-for-its-fifth-edition-1",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-15",
-   "summary": "A Michelin Journey Through the Sultanate of Oman: Al Baleed Culinary Festival Returns for its Fifth Edition",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794718588-1794718588-6lqfqzrjcntn.PNG"
+   "id": "4f2ec8e783dd",
+   "title": "الخميس.. انطلاق النسخة الخامسة لمهرجان صحار بحزمة من الفعاليات والمبادرات المجتمعية",
+   "url": "https://www.omandaily.om/article/1215014",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "أعلنت اللجنة المنظمة لمهرجان صحار عن تفاصيل برنامج النسخة الخامسة من المهرجان التي تنطلق 19 نوفمبر الجاري وتستمر حتى 31 يناير القادم وذلك خلال المؤتمر الصحفي الذي عقد في فندق راديسون بلو صحار بحضور...",
+   "event": {
+    "name": "مهرجان صحار بحزمة من الفعاليات والمبادرات المجتمعية",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "venue": "Sohar",
+    "organizer": "المهرجان بما يسهم في إكسابهم الخبرات العملية وتنمية مهاراتهم"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580305.jpg"
   },
   {
-   "id": "bccd796667d2",
-   "title": "A Taste of Oman: Chefs Ammar Al Harthi and Khalood Abdullah Celebrate Omani Culinary Heritage at Al Baleed Culinary Festival 2026",
-   "url": "https://timesofoman.com//article/179175-a-taste-of-oman-chefs-ammar-al-harthi-and-khalood-abdullah-celebrate-omani-culinary-heritage-at-al-baleed-culinary-festival-2026",
+   "id": "06841cc5afd4",
+   "title": "ندوة تناقش تطوير زراعة القمح وتعزيز جودة الإنتاج بمحافظة ظفار",
+   "url": "https://www.omandaily.om/article/1215013",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "أُقيمت اليوم بقاعة مكتب والي ثمريت فعاليات ندوة الإدارة السليمة لزراعة وإنتاج وضبط جودة محصول القمح، التي تنظمها وزارة الثروة الزراعية والسمكية وموارد المياه، ممثلة بالمديرية العامة للثروة...",
+   "event": {
+    "name": "ندوة تناقش تطوير زراعة القمح وتعزيز جودة",
+    "start": "2026-11-16",
+    "end": "2026-11-17",
+    "venue": "",
+    "organizer": "وزارة الثروة الزراعية والسمكية وموارد المياه"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580295.jpg"
+  },
+  {
+   "id": "7938bd8443bc",
+   "title": "توقيع 3 اتفاقيات لدعم مشروعات تنموية وخدمية بملتقى ولاية آدم",
+   "url": "https://www.omandaily.om/article/1215012",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "وقّعت خلال النسخة الثانية من ملتقى أدم للشراكة بين القطاعين العام والخاص ثلاث اتفاقيات تعاون مع شركات من القطاع الخاص، لدعم وتنفيذ مشروعات تنموية وخدمية في ولاية أدم بمحافظة الداخلية، شملت قطاعات...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580286.jpg"
+  },
+  {
+   "id": "dff2833e81de",
+   "title": "7 آلاف ريال جوائز مهرجان بهلا للفروسية احتفاءً باليوم الوطني",
+   "url": "https://www.omandaily.om/article/1214998",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "تستعد ولاية بهلا لاحتضان مهرجان الفروسية يوم الجمعة المقبل، الذي تنظمه جمعية بهلا للفروسية بالشراكة مع محافظة الداخلية، احتفاءً باليوم الوطني، وذلك بميدان الفروسية المجاور لسيح الشامخات، برعاية...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580144.jpg"
+  },
+  {
+   "id": "dde544eadfe9",
+   "title": "ثلاثة شعراء عُمانيين يشاركون في مهرجان أبي تمام بالموصل",
+   "url": "https://www.omandaily.om/article/1214999",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "يشارك الشعراء العُمانيون حسن المطروشي وعائشة السيفي وطلال الصلتي في الدورة الثامنة من مهرجان أبي تمام للشعر العربي، التي ينظمها اتحاد الأدباء والكتاب في نينوى بمدينة الموصل العراقية خلال الفترة...",
+   "event": {
+    "name": "مهرجان أبي تمام بالموصل",
+    "start": "2026-11-22",
+    "end": "2026-11-24",
+    "venue": "",
+    "organizer": "اتحاد الأدباء والكتاب في نينوى بمدينة الموصل العراقية خلال ا"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580196.jpg"
+  },
+  {
+   "id": "2f4e3690ad8c",
+   "title": "حلقة عمل بظفار للتعريف بالممتلكات الثقافية ومكافحة الاتجار غير المشروع بها",
+   "url": "https://www.omandaily.om/article/1214985",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-16",
+   "summary": "العُمانية: نظّمت وزارة التراث والسياحة، ممثلةً بالمديرية العامة للتراث والسياحة بمحافظة ظفار، حلقة عمل بعنوان \"التعريف بالممتلكات الثقافية ومكافحة الاتجار غير المشروع بها\"، وذلك بمتنزه البليد...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3579913.jpg"
+  },
+  {
+   "id": "c2b7a1813dfb",
+   "title": "Oman’s civilizational & cultural heritage figures high at Tunisia Forum",
+   "url": "https://timesofoman.com//article/179202-omans-civilizational-cultural-heritage-figures-high-at-tunisia-forum",
    "source": "Times of Oman",
    "lang": "en",
    "published": "2026-11-15",
-   "summary": "A Taste of Oman: Chefs Ammar Al Harthi and Khalood Abdullah Celebrate Omani Culinary Heritage at Al Baleed Culinary Festival 2026",
+   "summary": "The forum, which included a number of events and exhibitions, introduced visitors to the Sultanate of Oman’s civilizational legacy",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794718026-1794718026-kioaq8wi0ozg.PNG"
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794758905-1794758905-im5o49jailof-700x400.jpg"
+  },
+  {
+   "id": "94f95b77007d",
+   "title": "Dhofar University hosts conference on addiction prevention",
+   "url": "https://www.omanobserver.om/article/1199731/oman/dhofar-university-hosts-conference-on-addiction-prevention",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-15",
+   "summary": "SALALAH: The proceedings of the Fourth Gulf Conference on Social Work, organised by Dhofar University, began under the theme 'Addiction: A...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/15/thumbs/600x600/3579742.jpg"
+  },
+  {
+   "id": "9601096bbf95",
+   "title": "Kids' Choice Awards honor Chris Pratt, BTS",
+   "url": "https://www.omanobserver.om/article/1199714/features/filmstv/kids-choice-awards-honor-chris-pratt-bts",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-15",
+   "summary": "The Nickelodeon Kids' Choice Awards on Saturday honored Chris Pratt ​with the \"King of Comedy\" ​title, while South Korean boy band BTS took...",
+   "event": null,
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/15/thumbs/600x600/3579527.jpg"
+  },
+  {
+   "id": "f05c3ddc2dc4",
+   "title": "\"جامعة التقنية\" تشارك في نقاشات حول أخلاقيات استخدام الذكاء الاصطناعي بالتعليم",
+   "url": "https://alroya.om/post/398272/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%86%D9%82%D8%A7%D8%B4%D8%A7%D8%AA-%D8%AD%D9%88%D9%84-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "مسقط- الرؤية شاركت جامعة التقنية والعلوم التطبيقية، ممثلة بكرسي الإيسيسكو لأخلاقيات الذكاء الاصطناعي، في ورشة عمل بعنوان «الاستخدام الأخلاقي والمسؤول للذكاء الاصطناعي في القاعة الدراسية»، التي",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/7oSuK.jpeg"
+  },
+  {
+   "id": "9dc2a0f4786a",
+   "title": "فعاليات متنوعة ضمن \"أسبوع الوعي الجغرافي\" بـ\"تعليمية جنوب الباطنة\"",
+   "url": "https://alroya.om/post/398271/%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9-%D8%B6%D9%85%D9%86-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A-%D8%A8%D9%80-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "الرستاق- خالد بن سالم السيابي انطلقت فعاليات \"أسبوع الوعي الجغرافي\" بالمديرية العامة للتعليم بمحافظة جنوب الباطنة، الأحد، والتي تنظمها دائرة تطوير الأداء المدرسي ممثلة بقسم إشراف العلوم الإنس",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/VL82B.jpeg"
+  },
+  {
+   "id": "f661b6aed746",
+   "title": "\"أسبوع التدريب والتوجيه\" يعزز جاهزية طلبة \"جامعة التقنية\" لسوق العمل",
+   "url": "https://alroya.om/post/398266/%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%B7%D9%84%D8%A8%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "شناص- الرؤية نظّمت جامعة التقنية والعلوم التطبيقية بشناص، ممثلةً بمركز التدريب والتوجيه الوظيفي، أسبوع التدريب والتوجيه الوظيفي للعام الأكاديمي 2026–2027، خلال الفترة من 15 إلى 19 نوفمبر 2026م",
+   "event": {
+    "name": "أسبوع التدريب والتوجيه",
+    "start": "2026-11-15",
+    "end": "2026-11-19",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Cxyki.jpeg"
+  },
+  {
+   "id": "66a63c143186",
+   "title": "بالأسماء.. إعلان الفائزين في \"هاكاثون تحدي ناسا لتطبيقات الفضاء\"",
+   "url": "https://alroya.om/post/398265/%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A-%D9%86%D8%A7%D8%B3%D8%A7-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "بدية- العُمانية أعلن اليوم الأحد بولاية بدية بمحافظة شمال الشرقية عن الفرق العشرة الفائزة محليًّا في هاكاثون تحدي ناسا لتطبيقات الفضاء، الذي نظمته جامعة التقنية والعلوم التطبيقية بإبراء.",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/EbdMJ.jpeg",
+   "also": [
+    {
+     "source": "الرؤية",
+     "url": "https://alroya.om/post/398128/939-%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7-%D8%B6%D9%85%D9%86-166-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7-%D9%8A%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%88%D9%86-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A-%D9%86%D8%A7%D8%B3%D8%A7-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+     "title": "939 مشاركًا ضمن 166 فريقًا يتنافسون في \"هاكاثون تحدي ناسا لتطبيقات الفضاء\""
+    }
+   ]
+  },
+  {
+   "id": "10638df92651",
+   "title": "ينطلق يوم الخميس.. فعاليات نوعية في النسخة الخامسة من \"مهرجان صحار\"",
+   "url": "https://alroya.om/post/398264/%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "صحار- العُمانية كشفت اللجنة المنظمة لمهرجان صحار، اليوم، عن تفاصيل النسخة الخامسة من المهرجان، التي ستنطلق في 19 نوفمبر الجاري، وتستمر حتى 31 يناير 2027، متضمنة حزمة متنوعة من الفعاليات السياح",
+   "event": {
+    "name": "مهرجان صحار",
+    "start": "2027-01-31",
+    "end": "2027-01-31",
+    "venue": "Sohar",
+    "organizer": ""
+   },
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/h0i60.jpeg"
+  },
+  {
+   "id": "53e837f5ebc2",
+   "title": "قيادات دينية وتقليدية وشعوب أصلية تجتمع في مسقط تمهيدًا لـ\"منتدى خطة مسقط العالمي\"",
+   "url": "https://alroya.om/post/398263/%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%B4%D8%B9%D9%88%D8%A8-%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D8%AA%D8%AC%D8%AA%D9%85%D8%B9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7-%D8%AA%D9%85%D9%87%D9%8A%D8%AF-%D8%A7-%D9%84%D9%80-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%AE%D8%B7%D8%A9-%D9%85%D8%B3%D9%82%D8%B7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "◄ المعمري: السلام لا يتحقق مع توقف النزاعات.. وترسيخ الثقة بين المجتمعات ضرورة لتحقيق التعايش مسقط- العُمانية انطلقت اليوم في مسقط أعمال الاجتماع التشاوري للقيادات الدينية والتقليدية وممثلي",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Ms6b0.jpeg"
+  },
+  {
+   "id": "bf3650525192",
+   "title": "مهرجان الرباط لسينما المؤلف يكرم عمار آل إبراهيم",
+   "url": "https://alroya.om/post/398259/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7-%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%A4%D9%84%D9%81-%D9%8A%D9%83%D8%B1%D9%85-%D8%B9%D9%85%D8%A7%D8%B1-%D8%A2%D9%84-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "مسقط- سعيد الهنداسي كرّم مهرجان الرباط الدولي لسينما المؤلف المخرج العُماني عمار آل إبراهيم، تقديراً لجهوده في الترويج لمحافظة ظفار سياحياً وسينمائياً، عبر حملته الإعلامية «جايلِك يا ظفار». وجاء",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/pySXQ.jpeg"
+  },
+  {
+   "id": "68420ad93de9",
+   "title": "مدرسة الشيخ جاعد بن خميس الخروصي بالعوابي تنظم \"ملتقى أولياء الأمور\"",
+   "url": "https://alroya.om/post/398257/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AC%D8%A7%D8%B9%D8%AF-%D8%A8%D9%86-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%B5%D9%8A-%D8%A8%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%A8%D9%8A-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A3%D9%88%D9%84%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "​العوابي- خالد بن سالم السيابي ​نظّمت مدرسة الشيخ جاعد بن خميس الخروصي للصفوف (9–12) بولاية العوابي في محافظة جنوب الباطنة فعاليات ملتقى أولياء الأمور الأول للفصل الدراسي الأول من العام الدراسي 20",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/tVwFu.jpeg"
+  },
+  {
+   "id": "1320c3c6ecbb",
+   "title": "أكاديميون يستعرضون بصلالة أحدث إجراءات تأهيل ودمج المدمنين",
+   "url": "https://alroya.om/post/398225/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%88%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D8%A8%D8%B5%D9%84%D8%A7%D9%84%D8%A9-%D8%A3%D8%AD%D8%AF%D8%AB-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AF%D9%85%D9%86%D9%8A%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-15",
+   "summary": "صلالة- الرؤية بدأت، الأحد بجامعة ظفار، أعمال المؤتمر الخليجي الرابع للعمل الاجتماعي، الذي تنظمه الجامعة ممثلة بكلية الآداب والعلوم التطبيقية، وقسم العلوم الاجتماعية، تحت عنوان «",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/l9fIx.png"
   },
   {
    "id": "e0399e1a9ce6",
@@ -37,26 +250,32 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/NMCjS.jpeg"
   },
   {
-   "id": "2c074a1a56b0",
-   "title": "ملتقى أمناء سر الأندية يناقش الحوكمة والاستثمار",
-   "url": "https://www.omandaily.om/article/1214921",
+   "id": "e38d7a2196ed",
+   "title": "سلطنة عمان تختتم مشاركتها في معرض الشارقة الدولي للكتاب",
+   "url": "https://www.omandaily.om/article/1214970",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-15",
-   "summary": "عمان: اختُتمت بمسقط أعمال ملتقى أمناء سر الأندية الرياضية لعام 2026، الذي نظمته وزارة الثقافة والرياضة والشباب، ممثلة بمركز إعداد القادة، برعاية سعادة الشيخ أحمد بن علي الحبسي، والي بوشر، وذلك بفندق...",
+   "summary": "اختتم اليوم مشاركة سلطنة عُمان كضيف شرف في معرض الشارقة الدولي للكتاب في دورته الخامسة والأربعين، والتي كانت قد أقيمت في الفترة من الرابع وحتى الخامس عشر من نوفمبر الحالي، استقطب خلالها الجناح...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3578907.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3579500.jpg"
   },
   {
-   "id": "27309ea48215",
-   "title": "التوقيع على برامج تعاون مع كبرى الشركات لتعزيز عناصر المحتوى المحلي",
-   "url": "https://www.omandaily.om/article/1214917",
+   "id": "be4d04af3ade",
+   "title": "ملتقى الثقافة العُمانية في تونس يستعرض الموروث الحضاري والتراثي لسلطنة عُمان",
+   "url": "https://www.omandaily.om/article/1214969",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-15",
-   "summary": "العُمانية/ شهد ملتقى المحتوى المحلي في القطاع الصناعي الذي نظمته وزارة التجارة والصناعة وترويج الاستثمار اليوم إطلاق مبادرات لتعزيز المحتوى المحلي في القطاع الصناعي، والتوقيع على برامج تعاون مع...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3578897.jpg"
+   "summary": "تونس \"العُمانية\": استعرض ملتقى الثقافة العُمانية، المقام في مدينة الحمامات التونسية، جوانب من التاريخ والتراث والثقافة العُمانية، من خلال مجموعة من الفعاليات والمعارض التي تعرّف الزوار بالموروث...",
+   "event": {
+    "name": "ملتقى الثقافة العُمانية في تونس يستعرض الموروث",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/15/thumbs/400x400/3579494.jpg"
   },
   {
    "id": "dc7fc29d3cd0",
@@ -107,17 +326,6 @@
    "summary": "صحار- خالد بن علي الخوالدي تعقد اللجنة المنظمة لمهرجان صحار، اليوم الأحد، مؤتمرًا صحفيًا للإعلان عن تفاصيل النسخة الخامسة من مهرجان صحار، والكشف عن هويته البصرية الجد",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/M4eRw.jpeg"
-  },
-  {
-   "id": "2a5c311ce088",
-   "title": "939 مشاركًا ضمن 166 فريقًا يتنافسون في \"هاكاثون تحدي ناسا لتطبيقات الفضاء\"",
-   "url": "https://alroya.om/post/398128/939-%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7-%D8%B6%D9%85%D9%86-166-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7-%D9%8A%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%88%D9%86-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A-%D9%86%D8%A7%D8%B3%D8%A7-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-14",
-   "summary": "بدية- العُمانية انطلقت أمس بولاية بدية في محافظة شمال الشرقية فعاليات النسخة الخامسة من هاكاثون تحدي ناسا لتطبيقات الفضاء 2026، الذي تنظمه جامعة التقنية والعلوم التطبيقية ب",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/2I8Bk.jpeg"
   },
   {
    "id": "7f230b787d12",
@@ -175,17 +383,6 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/IVPpM.jpeg"
   },
   {
-   "id": "e005c3a5d5ea",
-   "title": "بالصور.. الحلوى العُمانية تنقل تقاليد الضيافة إلى زوار \"الشارقة الدولي للكتاب\"",
-   "url": "https://alroya.om/post/398084/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%89-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%86%D9%82%D9%84-%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A5%D9%84%D9%89-%D8%B2%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-14",
-   "summary": "الشارقة- الرؤية تُعرّف سلطنة عُمان، ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، زوار المعرض بأحد أبرز ملامح تراثها المرتبط بالضيافة والمناسبات الاجتماعية، من خلال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/lo8BQ.jpeg"
-  },
-  {
    "id": "10cd120fe955",
    "title": "Silicon Valley worries over Nvidia scandal",
    "url": "https://www.omanobserver.om/article/1199622/business/silicon-valley-worries-over-nvidia-scandal",
@@ -195,17 +392,6 @@
    "summary": "SAN FRANCISCO: Hours after Jensen Huang resigned from Nvidia, shocked tech insiders at a conference in San Francisco saw his departure as troubling...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/13/thumbs/600x600/3577851.jpg"
-  },
-  {
-   "id": "5f01adc8f46e",
-   "title": "مخطوطة عمرها أكثر من 350 عاما تستحضر تقاليد تدوين خطب العيدين في عُمان",
-   "url": "https://alroya.om/post/398073/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-%D8%B9%D9%85%D8%B1%D9%87%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-350-%D8%B9%D8%A7%D9%85%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AD%D8%B6%D8%B1-%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%AF-%D8%AA%D8%AF%D9%88%D9%8A%D9%86-%D8%AE%D8%B7%D8%A8-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-13",
-   "summary": "الشارقة- الرؤية في واجهة جناح سلطنة عمان، ضيف شرف الدورة الخامسة والأربعين من معرض الشارقة الدولي للكتاب 2026، تستوقف الزوار مخطوطة عُمانية نادرة تمتد على هيئة شريط ورقي طويل، تحيط بها إضاءة د",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/dT6QJ.jpeg"
   },
   {
    "id": "3de114d87ec5",
@@ -247,23 +433,6 @@
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577069.jpg"
   },
   {
-   "id": "6123701846db",
-   "title": "Career forum to train Omani youth on November 19",
-   "url": "https://www.omanobserver.om/article/1199584/oman/career-forum-to-train-omani-youth-on-november-19",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-12",
-   "summary": "MUSCAT, NOV 11 Omani youth working across various sectors will receive a day-long training programme on November 19 at the Intercity Hotel in Al...",
-   "event": {
-    "name": "Career forum to train Omani youth on November 19",
-    "start": "2026-11-19",
-    "end": "2026-11-19",
-    "venue": "",
-    "organizer": "Avicen"
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577061.jpg"
-  },
-  {
    "id": "e606a8fffe49",
    "title": "Omani heritage takes centre stage at Sharjah book fair",
    "url": "https://www.omanobserver.om/article/1199567/features/books/omani-heritage-takes-centre-stage-at-sharjah-book-fair",
@@ -273,30 +442,6 @@
    "summary": "A child can become a halwa maker, wooden boat builder or rose picker through a personalised portrait at the Public Children’s Library corner in...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/12/thumbs/600x600/3577008.jpg"
-  },
-  {
-   "id": "1df2fec2b788",
-   "title": "Science festival reaffirms knowledge-based society",
-   "url": "https://www.omanobserver.om/article/1199554/oman/science-festival-reaffirms-knowledge-based-society",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-11",
-   "summary": "MUSCAT, NOV 11 The fifth edition of the Oman Science Festival concluded on Wednesday at the Oman Convention and Exhibition Centre, under the auspices...",
-   "event": {
-    "name": "Oman Science Festival",
-    "start": "2026-11-11",
-    "end": "2026-11-11",
-    "venue": "Oman Convention & Exhibition Centre",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/11/thumbs/600x600/3576204.jpg",
-   "also": [
-    {
-     "source": "Oman Observer",
-     "url": "https://www.omanobserver.om/article/1199532/oman/muscat-schools-organise-2nd-edition-of-science-festival",
-     "title": "Muscat schools organise 2nd edition of Science Festival"
-    }
-   ]
   },
   {
    "id": "aa3f70a187b0",
