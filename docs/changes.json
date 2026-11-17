@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 297,
+ "latest_sequence": 300,
  "changes": [
   {
    "schema_version": "1.0",
@@ -15621,6 +15621,162 @@
      "#فعاليات_عمان"
     ],
     "_fp": "14763c63b0075f980398e5f88eaebf0a5cccb7ab"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 298,
+   "type": "event.created",
+   "occurred_at": "2026-11-17T11:39:34+00:00",
+   "event_id": "ff54e4465404",
+   "event_version": 1,
+   "idempotency_key": "ff54e4465404:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "ff54e4465404",
+    "version": 1,
+    "kind": "event",
+    "title": "مؤتمر إنشاء منطقة خالية من أسلحة الدمار",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215068",
+    "description": "العُمانية/ ترأست سلطنة عُمان أعمال الدورة السابعة لمؤتمر إنشاء منطقة خالية من الأسلحة النووية وغيرها من أسلحة الدمار الشامل في الشرق الأوسط، التي بدأت بمقر الأمم المتحدة في نيويورك وتستمر حتى 20...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "2115c5d8d610e2013ce52706975efec7d065003d"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 299,
+   "type": "event.created",
+   "occurred_at": "2026-11-17T11:39:34+00:00",
+   "event_id": "b10a95674481",
+   "event_version": 1,
+   "idempotency_key": "b10a95674481:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "b10a95674481",
+    "version": 1,
+    "kind": "event",
+    "title": "OCEC showcases arts and culture in 2026 season",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199806/oman/ocec-showcases-arts-and-culture-in-2026-season",
+    "description": "MUSCAT: Oman Convention and Exhibition Centre is continuing its 2026 Arts and Culture Season, which brings together musical concerts, artistic...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "3d9882c9582f9daf7fd5128e6340cfa17471d14e"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 300,
+   "type": "event.created",
+   "occurred_at": "2026-11-17T11:39:34+00:00",
+   "event_id": "b490383277d9",
+   "event_version": 1,
+   "idempotency_key": "b490383277d9:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "b490383277d9",
+    "version": 1,
+    "kind": "event",
+    "title": "Sohar Festival",
+    "start": "2027-01-31",
+    "end": "2027-01-31",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sohar",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199802/oman/sohar-festival-set-to-open-on-nov-19-with-expanded-attractions",
+    "description": "SUHAR, NOV 16 The fifth edition of Sohar Festival will open on November 19, featuring an expanded programme of entertainment, digital experiences,...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat",
+     "#SoharFestival"
+    ],
+    "_fp": "9b8a5202357a7907a6fc79abfce52ad6225ed7c9"
    }
   }
  ]

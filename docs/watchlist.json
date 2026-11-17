@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:54:30+00:00",
+ "generated_at": "2026-11-17T11:39:34+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -25,8 +25,8 @@
   {
    "entity": "eventbrite-muscat",
    "type": "source",
-   "events": 0,
-   "status": "HTTPError: HTTP Error 405: Not Allowed",
+   "events": 4,
+   "status": "ok",
    "page_changed": ""
   },
   {
@@ -48,14 +48,14 @@
    "type": "source",
    "events": 0,
    "status": "returned 0 events (usually ≥3) – kept previous results",
-   "page_changed": "2026-11-16"
+   "page_changed": "2026-11-17"
   },
   {
    "entity": "organiser:CONNECT (Sabco Group)#3",
    "type": "source",
    "events": 1,
    "status": "ok",
-   "page_changed": "2026-11-16"
+   "page_changed": "2026-11-17"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -116,14 +116,14 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 1,
+   "events": 2,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 4,
+   "events": 6,
    "status": "ok",
    "page_changed": ""
   },
@@ -137,21 +137,21 @@
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 12,
+   "events": 11,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 22,
+   "events": 19,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 8,
+   "events": 4,
    "status": "ok",
    "page_changed": ""
   },
