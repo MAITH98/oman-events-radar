@@ -1,8 +1,69 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-17T11:39:34+00:00",
- "count": 39,
+ "generated_at": "2026-11-18T11:26:27+00:00",
+ "count": 29,
  "articles": [
+  {
+   "id": "a2f50f7970d1",
+   "title": "بدء أعمال النسخة الثالثة من أسبوع الأمن السيبراني بقطاع الطيران المدني",
+   "url": "https://www.omandaily.om/article/1215172",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "\"العُمانية\": بدأت اليوم أعمال النسخة الثالثة من برنامج أسبوع الأمن السيبراني بقطاع الطيران المدني، تحت شعار \"رحلة آمنة في فضاء رقمي\"، والذي ينظمه فريق التوعية بالأمن السيبراني في قطاع الطيران...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/18/thumbs/400x400/3583071.jpg"
+  },
+  {
+   "id": "fd6ca5509add",
+   "title": "Municipal Councils key to community partnership",
+   "url": "https://www.omanobserver.om/article/1199839/oman/municipal-councils-key-to-community-partnership",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-17",
+   "summary": "MUSCAT, NOV 17 The role of municipal councils in driving local development and strengthening community partnership was highlighted at a seminar...",
+   "event": {
+    "name": "Municipal Councils key to community partnership",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "venue": "",
+    "organizer": "Media Committee for the Fourth Term Municipal Council Elections"
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/17/thumbs/600x600/3582372.jpg"
+  },
+  {
+   "id": "5d99dc567ccd",
+   "title": "انطلاق أسبوع التدريب والتوجيه الوظيفي في كلية التربية بالرستاق",
+   "url": "https://alroya.om/post/398430/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%A7%D9%84%D9%88%D8%B8%D9%8A%D9%81%D9%8A-%D9%81%D9%8A-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%82",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-17",
+   "summary": "الرستاق- خالد بن سالم السيابي انطلقت بجامعة التقنية والعلوم التطبيقية كلية التربية بالرستاق -ممثلة في قسم التوجيه الوظيفي- فعاليات أسبوع التدريب والتوجيه الوظيفي، برعاية ﻃﻼل ﺑﻦ ﻧﺎﺻﺮ ﺑﻦ ﻋﻠﻲ اﻟﻌﺪوي",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Vsqa4.jpeg"
+  },
+  {
+   "id": "d49fc316035b",
+   "title": "ندوة حوارية موسعة حول أوضاع حقوق الإنسان في عُمان",
+   "url": "https://alroya.om/post/398415/%D9%86%D8%AF%D9%88%D8%A9-%D8%AD%D9%88%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D9%88%D8%B3%D8%B9%D8%A9-%D8%AD%D9%88%D9%84-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-17",
+   "summary": "مسقط- الرؤية تنظم اللجنة العُمانية لحقوق الإنسان، اليوم الأربعاء، ندوة حوارية وطنية موسعة تحت عنوان: \"حقوق الإنسان في ماضي وحاضر عُمان\"، وذلك تحت رعاية سعادة منصور بن زاهر الحجري، نائب رئ",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/EpuUy.jpeg"
+  },
+  {
+   "id": "d094088bb6c2",
+   "title": "\"ندوة المجالس البلدية\" تناقش جهود دعم التنمية المحلية وسبل تعزيز التكامل المؤسسي",
+   "url": "https://alroya.om/post/398413/%D9%86%D8%AF%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%B3-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-17",
+   "summary": "مسقط- العُمانية نظمت اللجنة الإعلامية لانتخابات أعضاء المجالس البلدية للفترة الرابعة 2026م، الثلاثاء، ندوة بعنوان \"المجالس البلدية.. شراكة مجتمعية وتنمية مستدامة\"، ناقشت أدوار المجالس الب",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/HN7Hz.jpeg"
+  },
   {
    "id": "7b5904c22cdf",
    "title": "توقيع اتفاقيات لدعم المشروعات التنموية والخدمية في ولاية أدم",
@@ -13,56 +74,6 @@
    "summary": "أدم- ناصر العبري شهدت النسخة الثانية من ملتقى أدم للشراكة بين القطاعين العام والخاص، الذي نظمته محافظة الداخلية ممثلةً بمكتب والي أدم بمتحف عُمان عبر الزمان بولاية منح، توقيع اتفاقيات تعاون مع عدد",
    "event": null,
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/bB76P.jpeg"
-  },
-  {
-   "id": "6c7f0f10a3a8",
-   "title": "\"عين السبعين\" يعزز حضور السينما الوثائقية العمانية في مهرجان طنجة الدولي",
-   "url": "https://www.omandaily.om/article/1215084",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-17",
-   "summary": "عمان: سجلت السينما الوثائقية العمانية حضورا في الدورة الخامسة عشرة من مهرجان طنجة للفيلم بالمملكة المغربية، من خلال مشاركة فيلم \"عين السبعين\" للمخرج محمد الغافري، ضمن المنافسة الدولية المخصصة...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/17/thumbs/400x400/3581625.jpg"
-  },
-  {
-   "id": "37e5075de847",
-   "title": "سلطنة عُمان تترأس أعمال مؤتمر إنشاء منطقة خالية من أسلحة الدمار الشامل في الشرق الأوسط",
-   "url": "https://www.omandaily.om/article/1215068",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-17",
-   "summary": "العُمانية/ ترأست سلطنة عُمان أعمال الدورة السابعة لمؤتمر إنشاء منطقة خالية من الأسلحة النووية وغيرها من أسلحة الدمار الشامل في الشرق الأوسط، التي بدأت بمقر الأمم المتحدة في نيويورك وتستمر حتى 20...",
-   "event": {
-    "name": "مؤتمر إنشاء منطقة خالية من أسلحة الدمار",
-    "start": "2026-11-20",
-    "end": "2026-11-20",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/17/thumbs/400x400/3581448.jpg"
-  },
-  {
-   "id": "69850f1dff64",
-   "title": "Forum held in Nizwa reviews efforts to control juvenile delinquency",
-   "url": "https://timesofoman.com//article/179252-forum-held-in-nizwa-reviews-efforts-to-control-juvenile-delinquency",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-16",
-   "summary": "The forum addressed an audience of social workers",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794850570-1794850570-qobafh1agluc-700x400.jpg"
-  },
-  {
-   "id": "db4ddd61cc39",
-   "title": "Muscat Plan Global Forum underscores role of religious & traditional leaders in peacebuilding",
-   "url": "https://timesofoman.com//article/179251-muscat-plan-global-forum-underscores-role-of-religious-traditional-leaders-in-peacebuilding",
-   "source": "Times of Oman",
-   "lang": "en",
-   "published": "2026-11-16",
-   "summary": "Participants in the forum elaborated on combating hate speech",
-   "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1794850462-1794850462-wgu83ofku5on-700x400.jpg"
   },
   {
    "id": "4c6b804d38e7",
@@ -223,21 +234,8 @@
    "lang": "ar",
    "published": "2026-11-16",
    "summary": "صحار- خالد بن علي الخوالدي كشفت اللجنة المنظمة لمهرجان صحار في نسخته الخامسة، عن تفاصيل المهرجان وبرامجه وفعالياته المتنوعة، والذي تنطلق فعالياته بعد غدٍ الخميس، وتستم",
-   "event": {
-    "name": "مهرجان صحار",
-    "start": "2027-01-31",
-    "end": "2027-01-31",
-    "venue": "Sohar",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/zZBxY.jpeg",
-   "also": [
-    {
-     "source": "الرؤية",
-     "url": "https://alroya.om/post/398264/%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1",
-     "title": "ينطلق يوم الخميس.. فعاليات نوعية في النسخة الخامسة من \"مهرجان صحار\""
-    }
-   ]
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/zZBxY.jpeg"
   },
   {
    "id": "fd2eb5a25d26",
@@ -251,39 +249,6 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/snfkI.jpeg"
   },
   {
-   "id": "1ab21a4e3942",
-   "title": "منتدى \"خطة مسقط\" يدعو إلى تحويل الالتزامات الدولية إلى مبادرات محلية لصناعة السلام",
-   "url": "https://www.omandaily.om/article/1215062",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "وزير الأوقاف : عُمان تؤمن بأن السلام خيار استراتيجي والاعتدال قوة أخلاقية وسياسية - اجتماع سنوي في مسقط لمتابعة تنفيذ الخطة وإشراك الشباب في جهود الوساطة -رفع مستوى الوعي بخطة مسقط ووضع أطر...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3581342.jpg"
-  },
-  {
-   "id": "8e9b44786b0f",
-   "title": "تواصل فعاليات الملتقى الشبابي «ثروة» بولاية نزوى",
-   "url": "https://www.omandaily.om/article/1215041",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "تتواصل بمركز نزوى الثقافي فعاليات الملتقى الشبابي «ثروة» في نسخته الثانية بمشاركة 50 شابًا وشابة، من خلال حلقات تدريبية وجلسات حوارية ونقاشية تهدف إلى تأصيل المعرفة في سياقات وطنية متنوعة، وتعزيز...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/16/thumbs/400x400/3580698.jpg"
-  },
-  {
-   "id": "94f95b77007d",
-   "title": "Dhofar University hosts conference on addiction prevention",
-   "url": "https://www.omanobserver.om/article/1199731/oman/dhofar-university-hosts-conference-on-addiction-prevention",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-15",
-   "summary": "SALALAH: The proceedings of the Fourth Gulf Conference on Social Work, organised by Dhofar University, began under the theme 'Addiction: A...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/15/thumbs/600x600/3579742.jpg"
-  },
-  {
    "id": "9601096bbf95",
    "title": "Kids' Choice Awards honor Chris Pratt, BTS",
    "url": "https://www.omanobserver.om/article/1199714/features/filmstv/kids-choice-awards-honor-chris-pratt-bts",
@@ -293,100 +258,6 @@
    "summary": "The Nickelodeon Kids' Choice Awards on Saturday honored Chris Pratt ​with the \"King of Comedy\" ​title, while South Korean boy band BTS took...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/15/thumbs/600x600/3579527.jpg"
-  },
-  {
-   "id": "f05c3ddc2dc4",
-   "title": "\"جامعة التقنية\" تشارك في نقاشات حول أخلاقيات استخدام الذكاء الاصطناعي بالتعليم",
-   "url": "https://alroya.om/post/398272/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%86%D9%82%D8%A7%D8%B4%D8%A7%D8%AA-%D8%AD%D9%88%D9%84-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "مسقط- الرؤية شاركت جامعة التقنية والعلوم التطبيقية، ممثلة بكرسي الإيسيسكو لأخلاقيات الذكاء الاصطناعي، في ورشة عمل بعنوان «الاستخدام الأخلاقي والمسؤول للذكاء الاصطناعي في القاعة الدراسية»، التي",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/7oSuK.jpeg"
-  },
-  {
-   "id": "9dc2a0f4786a",
-   "title": "فعاليات متنوعة ضمن \"أسبوع الوعي الجغرافي\" بـ\"تعليمية جنوب الباطنة\"",
-   "url": "https://alroya.om/post/398271/%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9-%D8%B6%D9%85%D9%86-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A-%D8%A8%D9%80-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "الرستاق- خالد بن سالم السيابي انطلقت فعاليات \"أسبوع الوعي الجغرافي\" بالمديرية العامة للتعليم بمحافظة جنوب الباطنة، الأحد، والتي تنظمها دائرة تطوير الأداء المدرسي ممثلة بقسم إشراف العلوم الإنس",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/VL82B.jpeg"
-  },
-  {
-   "id": "f661b6aed746",
-   "title": "\"أسبوع التدريب والتوجيه\" يعزز جاهزية طلبة \"جامعة التقنية\" لسوق العمل",
-   "url": "https://alroya.om/post/398266/%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%B7%D9%84%D8%A8%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "شناص- الرؤية نظّمت جامعة التقنية والعلوم التطبيقية بشناص، ممثلةً بمركز التدريب والتوجيه الوظيفي، أسبوع التدريب والتوجيه الوظيفي للعام الأكاديمي 2026–2027، خلال الفترة من 15 إلى 19 نوفمبر 2026م",
-   "event": {
-    "name": "أسبوع التدريب والتوجيه",
-    "start": "2026-11-15",
-    "end": "2026-11-19",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Cxyki.jpeg"
-  },
-  {
-   "id": "66a63c143186",
-   "title": "بالأسماء.. إعلان الفائزين في \"هاكاثون تحدي ناسا لتطبيقات الفضاء\"",
-   "url": "https://alroya.om/post/398265/%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A-%D9%86%D8%A7%D8%B3%D8%A7-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "بدية- العُمانية أعلن اليوم الأحد بولاية بدية بمحافظة شمال الشرقية عن الفرق العشرة الفائزة محليًّا في هاكاثون تحدي ناسا لتطبيقات الفضاء، الذي نظمته جامعة التقنية والعلوم التطبيقية بإبراء.",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/EbdMJ.jpeg"
-  },
-  {
-   "id": "53e837f5ebc2",
-   "title": "قيادات دينية وتقليدية وشعوب أصلية تجتمع في مسقط تمهيدًا لـ\"منتدى خطة مسقط العالمي\"",
-   "url": "https://alroya.om/post/398263/%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%B4%D8%B9%D9%88%D8%A8-%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D8%AA%D8%AC%D8%AA%D9%85%D8%B9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7-%D8%AA%D9%85%D9%87%D9%8A%D8%AF-%D8%A7-%D9%84%D9%80-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%AE%D8%B7%D8%A9-%D9%85%D8%B3%D9%82%D8%B7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "◄ المعمري: السلام لا يتحقق مع توقف النزاعات.. وترسيخ الثقة بين المجتمعات ضرورة لتحقيق التعايش مسقط- العُمانية انطلقت اليوم في مسقط أعمال الاجتماع التشاوري للقيادات الدينية والتقليدية وممثلي",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Ms6b0.jpeg"
-  },
-  {
-   "id": "bf3650525192",
-   "title": "مهرجان الرباط لسينما المؤلف يكرم عمار آل إبراهيم",
-   "url": "https://alroya.om/post/398259/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7-%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%A4%D9%84%D9%81-%D9%8A%D9%83%D8%B1%D9%85-%D8%B9%D9%85%D8%A7%D8%B1-%D8%A2%D9%84-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "مسقط- سعيد الهنداسي كرّم مهرجان الرباط الدولي لسينما المؤلف المخرج العُماني عمار آل إبراهيم، تقديراً لجهوده في الترويج لمحافظة ظفار سياحياً وسينمائياً، عبر حملته الإعلامية «جايلِك يا ظفار». وجاء",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/pySXQ.jpeg"
-  },
-  {
-   "id": "68420ad93de9",
-   "title": "مدرسة الشيخ جاعد بن خميس الخروصي بالعوابي تنظم \"ملتقى أولياء الأمور\"",
-   "url": "https://alroya.om/post/398257/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AC%D8%A7%D8%B9%D8%AF-%D8%A8%D9%86-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%B5%D9%8A-%D8%A8%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%A8%D9%8A-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A3%D9%88%D9%84%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "​العوابي- خالد بن سالم السيابي ​نظّمت مدرسة الشيخ جاعد بن خميس الخروصي للصفوف (9–12) بولاية العوابي في محافظة جنوب الباطنة فعاليات ملتقى أولياء الأمور الأول للفصل الدراسي الأول من العام الدراسي 20",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/tVwFu.jpeg"
-  },
-  {
-   "id": "1320c3c6ecbb",
-   "title": "أكاديميون يستعرضون بصلالة أحدث إجراءات تأهيل ودمج المدمنين",
-   "url": "https://alroya.om/post/398225/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%88%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D8%A8%D8%B5%D9%84%D8%A7%D9%84%D8%A9-%D8%A3%D8%AD%D8%AF%D8%AB-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AF%D9%85%D9%86%D9%8A%D9%86",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-15",
-   "summary": "صلالة- الرؤية بدأت، الأحد بجامعة ظفار، أعمال المؤتمر الخليجي الرابع للعمل الاجتماعي، الذي تنظمه الجامعة ممثلة بكلية الآداب والعلوم التطبيقية، وقسم العلوم الاجتماعية، تحت عنوان «",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/l9fIx.png"
   },
   {
    "id": "10cd120fe955",
@@ -452,11 +323,6 @@
     {
      "source": "Oman Observer · Lifestyle",
      "url": "https://www.omanobserver.om/article/1199319/features/lifestyle/oman-showcases-maritime-heritage-at-sharjah-book-fair",
-     "title": "Oman showcases maritime heritage at Sharjah book fair"
-    },
-    {
-     "source": "Oman Observer · Lifestyle",
-     "url": "https://www.omanobserver.om/article/1199236/features/books/oman-showcases-maritime-heritage-at-sharjah-book-fair",
      "title": "Oman showcases maritime heritage at Sharjah book fair"
     }
    ]

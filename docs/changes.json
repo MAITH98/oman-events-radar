@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 300,
+ "latest_sequence": 302,
  "changes": [
   {
    "schema_version": "1.0",
@@ -15777,6 +15777,114 @@
      "#SoharFestival"
     ],
     "_fp": "9b8a5202357a7907a6fc79abfce52ad6225ed7c9"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 301,
+   "type": "event.updated",
+   "occurred_at": "2026-11-18T11:26:27+00:00",
+   "event_id": "03133e5fd324",
+   "event_version": 2,
+   "idempotency_key": "03133e5fd324:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "03133e5fd324",
+    "version": 2,
+    "kind": "event",
+    "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "InterContinental Muscat by IHG",
+    "city": "Area",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
+    "description": "Discover how the Manchester MBA can help you develop future-ready leadership skills, navigate disruption and accelerate your career.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 45,
+    "status": "Past",
+    "sources": [
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-18",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "d3a62de872926c9121e59ea9ae9fe765710c2cb1"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 302,
+   "type": "event.created",
+   "occurred_at": "2026-11-18T11:26:27+00:00",
+   "event_id": "72c2aa48d4e3",
+   "event_version": 1,
+   "idempotency_key": "72c2aa48d4e3:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "72c2aa48d4e3",
+    "version": 1,
+    "kind": "expected",
+    "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
+    "start": "2027-11-16",
+    "end": "2027-11-16",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "InterContinental Muscat by IHG",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
+    "description": "Predicted from the 2026 edition (2026-11-17). Confirm dates.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 30,
+    "status": "Expected – confirm",
+    "sources": [
+     "recurrence"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "f9676c57ed0e63fed71c1c22598bb1c3369f14a5"
    }
   }
  ]

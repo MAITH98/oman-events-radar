@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:39:34+00:00",
+ "generated_at": "2026-11-18T11:26:27+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,28 +92,12 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
-   "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
-   "source": "eventbrite-muscat",
-   "found": "2026-11-14",
-   "start": "2026-11-17",
-   "status": "Needs review"
-  },
-  {
    "title": "OMAN VISIONARIES BUSINESS LEADERSHIP SUMMIT 2026- 3RD EDITION",
    "url": "https://allevents.in/muscat/oman-visionaries-business-leadership-summit-2026-3rd-edition/200031019541614",
    "source": "allevents-muscat",
    "found": "2026-11-11",
    "start": "2026-11-18",
    "status": "Needs review"
-  },
-  {
-   "title": "مؤتمر إنشاء منطقة خالية من أسلحة الدمار",
-   "url": "https://www.omandaily.om/article/1215068",
-   "source": "news:omandaily",
-   "found": "2026-11-17",
-   "start": "2026-11-20",
-   "status": "Lead – verify"
   },
   {
    "title": "International Medical Tourism & Healthcare",
@@ -192,14 +176,6 @@
    "url": "https://www.omanobserver.om/article/1199802/oman/sohar-festival-set-to-open-on-nov-19-with-expanded-attractions",
    "source": "news:observer-local",
    "found": "2026-11-17",
-   "start": "2027-01-31",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "مهرجان صحار",
-   "url": "https://alroya.om/post/398264/%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1",
-   "source": "news:alroya",
-   "found": "2026-11-16",
    "start": "2027-01-31",
    "status": "Lead – verify"
   },
@@ -313,6 +289,14 @@
    "source": "recurrence",
    "found": "2026-11-06",
    "start": "2027-11-04",
+   "status": "Expected – confirm"
+  },
+  {
+   "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
+   "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
+   "source": "recurrence",
+   "found": "2026-11-18",
+   "start": "2027-11-16",
    "status": "Expected – confirm"
   }
  ]

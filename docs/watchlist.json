@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:39:34+00:00",
+ "generated_at": "2026-11-18T11:26:27+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,15 +18,15 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 22,
+   "events": 23,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "eventbrite-muscat",
    "type": "source",
-   "events": 4,
-   "status": "ok",
+   "events": 0,
+   "status": "HTTPError: HTTP Error 405: Not Allowed",
    "page_changed": ""
   },
   {
@@ -55,7 +55,7 @@
    "type": "source",
    "events": 1,
    "status": "ok",
-   "page_changed": "2026-11-17"
+   "page_changed": "2026-11-18"
   },
   {
    "entity": "organiser:Arabian Research Bureau / OITE",
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 2,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },
@@ -137,21 +137,21 @@
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 11,
+   "events": 10,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 19,
+   "events": 12,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 4,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
