@@ -1,18 +1,216 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-18T11:26:27+00:00",
- "count": 29,
+ "generated_at": "2026-11-19T11:25:00+00:00",
+ "count": 31,
  "articles": [
   {
-   "id": "a2f50f7970d1",
-   "title": "بدء أعمال النسخة الثالثة من أسبوع الأمن السيبراني بقطاع الطيران المدني",
-   "url": "https://www.omandaily.om/article/1215172",
+   "id": "68826bc8a2be",
+   "title": "ختام مهرجان سباقات الهجن بولاية ثمريت",
+   "url": "https://www.omandaily.om/article/1215264",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-19",
+   "summary": "ثمريت - محمد بن العبد مسن اختُتمت اليوم الخميس فعاليات مهرجان سباقات الهجن بولاية ثمريت، الذي نظمه الاتحاد العُماني لسباقات الهجن خلال الفترة من 13 إلى 19 نوفمبر الجاري، وذلك بميدان سباق الهجن...",
+   "event": {
+    "name": "مهرجان سباقات الهجن بولاية ثمريت",
+    "start": "2026-11-13",
+    "end": "2026-11-19",
+    "venue": "",
+    "organizer": "ومتابعة مختلف المنافسات"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/19/thumbs/400x400/3584149.jpg"
+  },
+  {
+   "id": "e991ca9afffe",
+   "title": "Oman participates in Second Global Ministerial Conference on Ending Violence Against Children in the Philippines",
+   "url": "https://timesofoman.com//article/179335-oman-participates-in-second-global-ministerial-conference-on-ending-violence-against-children-in-the-philippines",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-18",
+   "summary": "The conference enables countries to showcase progress achieved in child protection",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795017635-1795017634-jc5s9mxxneoa-700x400.jpg"
+  },
+  {
+   "id": "4971ae2a1550",
+   "title": "CAA organises 3rd edition of Civil Aviation Cybersecurity Week",
+   "url": "https://timesofoman.com//article/179332-caa-organises-3rd-edition-of-civil-aviation-cybersecurity-week",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-18",
+   "summary": "The Cybersecurity Week reflects the commitment of the Civil Aviation Authority and its partners to keep pace with rapid developments",
+   "event": null,
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795012643-1795012642-hzzgvvaxhgig-700x400.jpg"
+  },
+  {
+   "id": "8451d26d98ea",
+   "title": "First Omani-Tunisian Cultural Exchange Forum begins in Tunis",
+   "url": "https://timesofoman.com//article/179330-first-omani-tunisian-cultural-exchange-forum-begins-in-tunis",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-18",
+   "summary": "The forum brings together a distinguished group of scholars, researchers, intellectuals",
+   "event": {
+    "name": "Omani-Tunisian Cultural Exchange Forum",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795009059-1795009059-iqb72o5ocae7-700x400.jpeg",
+   "also": [
+    {
+     "source": "Oman Observer",
+     "url": "https://www.omanobserver.om/article/1199914/oman/scholars-gather-for-omani-tunisian-forum-in-tunis",
+     "title": "Scholars gather for Omani-Tunisian forum in Tunis"
+    }
+   ]
+  },
+  {
+   "id": "68ec25f7adcb",
+   "title": "‘Echoes of Passage’ brings Algerian art and Omani heritage together",
+   "url": "https://www.omanobserver.om/article/1199893/features/fashion/echoes-of-passage-brings-algerian-art-and-omani-heritage-together",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-18",
+   "summary": "By Khalid al Maawali An art exhibition celebrating the cultural and historical ties between Algeria and Oman opened in Muscat on Tuesday, November 17,...",
+   "event": {
+    "name": "‘Echoes of Passage’ brings Algerian art and Omani heritage together",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/18/thumbs/600x600/3583903.jpg"
+  },
+  {
+   "id": "e9ea59498259",
+   "title": "ملتقى الوثائقيين الثالث يرسم ملامح مستقبل المهنة في عُمان",
+   "url": "https://alroya.om/post/398550/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%8A%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%A9-%D9%81%D9%8A-%D8%B9-%D9%85%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- سعيد الهنداسي ناقش ملتقى الوثائقيين الثالث بكلية الشرق الأوسط، موضوع «التأهيل الأكاديمي والوصف الوظيفي لمهن الوثائق بسلطنة عُمان»، بمشاركة أكاديميين ومختصين ومؤسسات مهنية، إلى جانب طلبة وخريج",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/mOuh4.jpeg"
+  },
+  {
+   "id": "5ac4e7fd1e2c",
+   "title": "فوز بورصة مسقط بجائزة \"شركة العام في ثقافة بيئة العمل\"",
+   "url": "https://alroya.om/post/398544/%D9%81%D9%88%D8%B2-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%85%D8%B3%D9%82%D8%B7-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%81%D9%8A-%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- الرؤية حصدت بورصة مسقط جائزة «شركة العام في ثقافة بيئة العمل» ضمن جوائز عُمان لتجربة الموظفين 2026، التي نظمتها مجموعة مسقط للإعلام بالشراكة مع الجمعية العُمانية لإدارة الموارد البشرية (أوشرم",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/NQFhN.jpeg"
+  },
+  {
+   "id": "9bf1b6d2c6b1",
+   "title": "منتدى المعارض والمؤتمرات الدولية يؤكد أهمية بناء منظومة متكاملة وفق تخطيط استراتيجي",
+   "url": "https://alroya.om/post/398526/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D9%88%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%88%D9%81%D9%82-%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- العُمانية نظمت شركة سيرابيس، بالشراكة الاستراتيجية مع عدد من المؤسسات، اليوم، منتدى المعارض والمؤتمرات الدولية «Eventra 2026»، تحت رعاية صاحب السمو السيد مروان بن تركي آل سعيد",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/JJyYs.jpeg"
+  },
+  {
+   "id": "0d09787a6163",
+   "title": "سلطنة عُمان تحصد جائزة دولية من الاتحاد الدولي للطرق",
+   "url": "https://alroya.om/post/398524/%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B7%D8%B1%D9%82",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- الرؤية فازت سلطنة عُمان، ممثلةً بشرطة عُمان السلطانية، بجائزة دولية مناصفةً مع مكتب منظمة الصحة العالمية بدول إقليم شرق المتوسط وشمال أفريقيا، وذلك خلال أعمال المؤتمر السنوي لل",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/EK2N9.jpeg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1215245",
+     "title": "سلطنة عُمان تحصد جائزة دولية من الاتحاد الدولي للطرق في جنيف"
+    }
+   ]
+  },
+  {
+   "id": "ad5551997051",
+   "title": "عُمان تستعرض الالتزامات الوطنية بصون حقوق الطفل أمام مؤتمر عالمي بالفلبين",
+   "url": "https://alroya.om/post/398503/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B5%D9%88%D9%86-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A8%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- الرؤية تشارك سلطنة عُمان في أعمال المؤتمر الوزاري العالمي الثاني المعني بإنهاء العنف ضد الأطفال، والذي انطلق أمس في العاصمة الفلبينية مانيلا، وتترأس وفد السلطنة السيدة معاني بن",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/wavhz.jpeg"
+  },
+  {
+   "id": "492ce73a6087",
+   "title": "جامعة صحار تُنظِّم \"منتدى الهوية المهنية الأول\" لتعزيز منظومة التوجيه المهني",
+   "url": "https://alroya.om/post/398502/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B5%D8%AD%D8%A7%D8%B1-%D8%AA-%D9%86%D8%B8-%D9%85-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "صحار- الرؤية نظَّمت جامعة صحار، ممثلة بدائرة التوجيه المهني والتدريب وخدمات الخريجين، منتدى الهوية المهنية 2026، تحت رعاية سعادة سعيد بن عبدالله بن محمد البلوشي وكيل وزارة العمل",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/X7V4U.jpeg"
+  },
+  {
+   "id": "abf9a29ea420",
+   "title": "تسليط الضوء على الجذور الحضارية والتاريخية لحقوق الإنسان في سلطنة عُمان",
+   "url": "https://alroya.om/post/398498/%D8%AA%D8%B3%D9%84%D9%8A%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%B0%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86",
+   "source": "الرؤية",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "مسقط- العُمانية ناقشت الندوة الحوارية الوطنية التي نظمتها اللجنة العُمانية لحقوق الإنسان أمس بمسقط \"حقوق الإنسان في ماضي وحاضر عُمان\"؛ بهدف تسليط الضوء على الجذور الحضارية",
+   "event": null,
+   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Jaaz4.jpeg"
+  },
+  {
+   "id": "e6e712281c10",
+   "title": "سلطنة عُمان تشارك في المهرجان المسرحي الخليجي بالفجيرة",
+   "url": "https://www.omandaily.om/article/1215230",
    "source": "جريدة عُمان",
    "lang": "ar",
    "published": "2026-11-18",
-   "summary": "\"العُمانية\": بدأت اليوم أعمال النسخة الثالثة من برنامج أسبوع الأمن السيبراني بقطاع الطيران المدني، تحت شعار \"رحلة آمنة في فضاء رقمي\"، والذي ينظمه فريق التوعية بالأمن السيبراني في قطاع الطيران...",
+   "summary": "الفجيرة \"العُمانية\": شاركت سلطنة عُمان في فعاليات الدورة الخامسة عشرة للمهرجان المسرحي الخليجي، التي تستضيفها إمارة الفجيرة بدولة الإمارات العربية المتحدة حتى 19 نوفمبر الجاري. مثّلت سلطنة عُمان...",
+   "event": {
+    "name": "مهرجان المسرحي الخليجي بالفجيرة",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "venue": "",
+    "organizer": "حفل توقيع كتابين للفنانين جاسم البطاشي وعبدالسلام الميمني"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/18/thumbs/400x400/3583801.jpg"
+  },
+  {
+   "id": "11fa544e0166",
+   "title": "بدءُ فعاليات مُلتقى التّواصل الحضاري العُماني التّونسي",
+   "url": "https://www.omandaily.om/article/1215228",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "تونس \"العُمانية\": بدأت بجامعة الزّيتونة بالعاصمة التّونسية فعاليات الدورة الأولى من ملتقى التواصل الحضاري العُماني التونسي المشترك في إطار تعزيز التعاون الثقافي والعلمي بين البلدين الشقيقين...",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/18/thumbs/400x400/3583071.jpg"
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/18/thumbs/400x400/3583793.jpg"
+  },
+  {
+   "id": "096df6711f7d",
+   "title": "\"صدى العبور\" 43 لوحة تجسد الاتصال بين الأمكنة",
+   "url": "https://www.omandaily.om/article/1215227",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-18",
+   "summary": "نظمت سفارة الجمهورية الجزائرية الديمقراطية الشعبية بمسقط وبالتنسيق مع الجمعية العمانية للفنون، المعرض الفني التشكيلي \"صدى العبور بين الجزائر وعُمان\" للفنان التشكيلي الجزائري سيد أحمد بطاهر،...",
+   "event": {
+    "name": "معرض صدى العبور",
+    "start": "2026-11-17",
+    "end": "2026-11-21",
+    "venue": "",
+    "organizer": "هذا المعرض في إطار الاحتفالات المخلدة للذكرى الثانية والسبعي"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/18/thumbs/400x400/3583788.jpg"
   },
   {
    "id": "fd6ca5509add",
@@ -65,17 +263,6 @@
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/HN7Hz.jpeg"
   },
   {
-   "id": "7b5904c22cdf",
-   "title": "توقيع اتفاقيات لدعم المشروعات التنموية والخدمية في ولاية أدم",
-   "url": "https://alroya.om/post/398372/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D8%AF%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-17",
-   "summary": "أدم- ناصر العبري شهدت النسخة الثانية من ملتقى أدم للشراكة بين القطاعين العام والخاص، الذي نظمته محافظة الداخلية ممثلةً بمكتب والي أدم بمتحف عُمان عبر الزمان بولاية منح، توقيع اتفاقيات تعاون مع عدد",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/bB76P.jpeg"
-  },
-  {
    "id": "4c6b804d38e7",
    "title": "MoE seminar clarifies university board roles",
    "url": "https://www.omanobserver.om/article/1199807/oman/moe-seminar-clarifies-university-board-roles",
@@ -108,145 +295,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/16/thumbs/600x600/3581309.jpg"
-  },
-  {
-   "id": "16e43be68305",
-   "title": "3 agreements signed to support service projects in Adam",
-   "url": "https://www.omanobserver.om/article/1199804/oman/3-agreements-signed-to-support-service-projects-in-adam",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-16",
-   "summary": "MANAH: The second edition of the Adam Public-Private Partnership Forum, organised by the Office of the Wali of Adam at the Oman Across Ages Museum in...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/16/thumbs/600x600/3581303.jpg"
-  },
-  {
-   "id": "b61a5b09a583",
-   "title": "Muscat plan forum urges global ties for peace",
-   "url": "https://www.omanobserver.om/article/1199803/oman/muscat-plan-forum-urges-global-ties-for-peace",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-16",
-   "summary": "MUSCAT, NOV 16 Oman has called for greater global unity, dialogue and cooperation to promote peace and prevent conflicts, as the Muscat Plan Global...",
-   "event": {
-    "name": "Muscat Plan Global Forum",
-    "start": "2026-11-16",
-    "end": "2026-11-16",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/16/thumbs/600x600/3581294.jpg"
-  },
-  {
-   "id": "48750bafa933",
-   "title": "Sohar Festival set to open on Nov 19 with expanded attractions",
-   "url": "https://www.omanobserver.om/article/1199802/oman/sohar-festival-set-to-open-on-nov-19-with-expanded-attractions",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-16",
-   "summary": "SUHAR, NOV 16 The fifth edition of Sohar Festival will open on November 19, featuring an expanded programme of entertainment, digital experiences,...",
-   "event": {
-    "name": "Sohar Festival",
-    "start": "2027-01-31",
-    "end": "2027-01-31",
-    "venue": "Sohar",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/16/thumbs/600x600/3581288.jpg"
-  },
-  {
-   "id": "c9f071f48525",
-   "title": "\"ملتقى جنوح الحادث\" يستعرض الآليات القانونية والوقائية لحماية الأحداث",
-   "url": "https://alroya.om/post/398364/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%AC%D9%86%D9%88%D8%AD-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D9%82%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "نزوى- العُمانية ناقش ملتقى \"جنوح الأحداث بين الواقع والمأمول\" الذي نظمته اليوم المديرية العامة للتنمية الاجتماعية بمحافظة الداخلية، بولاية نزوى، واقع جنوح الأحداث في المجتمع، وأبرز العوامل الأ",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/uHqun.jpeg"
-  },
-  {
-   "id": "33071c1150c9",
-   "title": "الأحد.. 4 عُمانيين يُشاركون في \"مهرجان أبي تمام للشعر العربي\" بالعراق",
-   "url": "https://alroya.om/post/398348/%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-4-%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%8A-%D8%B4%D8%A7%D8%B1%D9%83%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A3%D8%A8%D9%8A-%D8%AA%D9%85%D8%A7%D9%85-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/KfvXs.jpeg"
-  },
-  {
-   "id": "b5f1885bd193",
-   "title": "\"البيئة\" بجنوب الشرقية تنظم حملة \"رحلة ورقة\" لترسيخ ثقافة إعادة التدوير لدى طلبة المدارس",
-   "url": "https://alroya.om/post/398342/%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A8%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D8%AD%D9%85%D9%84%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D9%88%D8%B1%D9%82%D8%A9-%D9%84%D8%AA%D8%B1%D8%B3%D9%8A%D8%AE-%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%AF%D9%88%D9%8A%D8%B1-%D9%84%D8%AF%D9%89-%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "مسقط- الرؤية نفذت إدارة البيئة بمحافظة جنوب الشرقية زيارة بيئية توعوية تضمنت ورشة عمل ومحاضرة توعوية بعنوان «إعادة التدوير وأثره على البيئة»، وذلك بمدرسة صور للتعليم الأساسي، قدمتها أخصائية جودة ال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/ILx4e.jpeg"
-  },
-  {
-   "id": "f571c33f4051",
-   "title": "\"منتدى خطة مسقط العالمي\" يناقش سبل تعزيز دور القيادات الدينية والتقليدية في صناعة السلام",
-   "url": "https://alroya.om/post/398333/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%AE%D8%B7%D8%A9-%D9%85%D8%B3%D9%82%D8%B7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%B3%D8%A8%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "مسقط- العُمانية ناقش منتدى خطة مسقط العالمي، الذي افتتحت أعماله أمس تحت عنوان \"من الالتزام الدولي إلى الأثر المحلي: الوقاية وصناعة السلام\"، سُبل تعزيز دور القيادات الدينية والتقليدية",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/yVIW6.jpeg"
-  },
-  {
-   "id": "7cc80ea16b1c",
-   "title": "ختام ناجح لمشاركة \"التراث والسياحة\" في \"الشارقة الدولي للكتاب\"",
-   "url": "https://alroya.om/post/398330/%D8%AE%D8%AA%D8%A7%D9%85-%D9%86%D8%A7%D8%AC%D8%AD-%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "الشارقة- الرؤية اختتمت وزارة التراث والسياحة مشاركتها ضمن جناح سلطنة عُمان ضيف شرف معرض الشارقة الدولي للكتاب 2026، والذي استمرت فعالياته من 4 وحتى 15 نوفمبر الجاري، حيث شاركت الوزار",
-   "event": {
-    "name": "ختام ناجح لمشاركة \"التراث والسياحة\" في \"الشارقة الدولي للكتاب\"",
-    "start": "2026-11-15",
-    "end": "2026-11-15",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/mSpya.jpeg"
-  },
-  {
-   "id": "477edb445551",
-   "title": "توصيات بإنشاء نظام وطني للرصد والكشف المبكر عن مخاطر الإدمان ومكافحته",
-   "url": "https://alroya.om/post/398328/%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B1%D8%B5%D8%AF-%D9%88%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1-%D8%B9%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%AA%D9%87",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "صلالة- الرؤية أوصى المؤتمر الخليجي الرابع للعمل الاجتماعي بأهمية إعداد خطة وطنية متكاملة للوقاية من الإدمان ومكافحته، تتضمن تحديد مسؤوليات الجهات المعنية ومؤشرات قياس الأدا",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/mazyZ.jpeg"
-  },
-  {
-   "id": "d4641dc9b4b4",
-   "title": "الخميس.. انطلاق النسخة الخامسة من \"مهرجان صحار\" بفعاليات متنوعة",
-   "url": "https://alroya.om/post/398327/%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B5%D8%AD%D8%A7%D8%B1-%D8%A8%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "صحار- خالد بن علي الخوالدي كشفت اللجنة المنظمة لمهرجان صحار في نسخته الخامسة، عن تفاصيل المهرجان وبرامجه وفعالياته المتنوعة، والذي تنطلق فعالياته بعد غدٍ الخميس، وتستم",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/zZBxY.jpeg"
-  },
-  {
-   "id": "fd2eb5a25d26",
-   "title": "1.1 مليون زائر من 208 دول يختتمون حكاية \"الشارقة الدولي للكتاب\" 2026",
-   "url": "https://alroya.om/post/398301/1-1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-208-%D8%AF%D9%88%D9%84-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-2026",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-16",
-   "summary": "◄ العامري: المعرض صوّرة حيّة لقوة الكتاب في بناء مجتمعات المعرفة وتوسيع الفضاءات التي تلتقي فيها ثقافات العالم ◄ عُمان تحتفي بتراثها وإبداعها ضيفَ شرف المعرض ◄ تكريم سعيد يقطين شخصية العام الثق",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/snfkI.jpeg"
   },
   {
    "id": "9601096bbf95",

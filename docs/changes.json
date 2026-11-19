@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 302,
+ "latest_sequence": 305,
  "changes": [
   {
    "schema_version": "1.0",
@@ -15885,6 +15885,164 @@
      "#التحول_الرقمي"
     ],
     "_fp": "f9676c57ed0e63fed71c1c22598bb1c3369f14a5"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 303,
+   "type": "event.created",
+   "occurred_at": "2026-11-19T11:25:00+00:00",
+   "event_id": "455d421032b8",
+   "event_version": 1,
+   "idempotency_key": "455d421032b8:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "455d421032b8",
+    "version": 1,
+    "kind": "event",
+    "title": "مهرجان المسرحي الخليجي بالفجيرة",
+    "start": "2026-11-19",
+    "end": "2026-11-19",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "حفل توقيع كتابين للفنانين جاسم البطاشي وعبدالسلام الميمني",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215230",
+    "description": "الفجيرة \"العُمانية\": شاركت سلطنة عُمان في فعاليات الدورة الخامسة عشرة للمهرجان المسرحي الخليجي، التي تستضيفها إمارة الفجيرة بدولة الإمارات العربية المتحدة حتى 19 نوفمبر الجاري. مثّلت سلطنة عُمان...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "05ca4e66fc73a435da6ccf381cbd35f38a2ca993"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 304,
+   "type": "event.created",
+   "occurred_at": "2026-11-19T11:25:00+00:00",
+   "event_id": "ae9f07865244",
+   "event_version": 1,
+   "idempotency_key": "ae9f07865244:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "ae9f07865244",
+    "version": 1,
+    "kind": "event",
+    "title": "Omani-Tunisian Cultural Exchange Forum",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1199914/oman/scholars-gather-for-omani-tunisian-forum-in-tunis",
+    "description": "TUNIS: The first edition of the Omani-Tunisian Cultural Exchange Forum began at Ez-Zitouna University in Tunis on Wednesday. The three-day event aims...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Education & Careers",
+    "relevance": "Low",
+    "score": 1,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEducation",
+     "#Careers"
+    ],
+    "_fp": "61e2183a330265a8c09798e727e9d9842dfd68f2"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 305,
+   "type": "event.created",
+   "occurred_at": "2026-11-19T11:25:00+00:00",
+   "event_id": "ec2337037cae",
+   "event_version": 1,
+   "idempotency_key": "ec2337037cae:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "ec2337037cae",
+    "version": 1,
+    "kind": "event",
+    "title": "Oman’s Data Protection Reforms: From Legal Change to Practical Compliance",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "start_time": "09:30",
+    "end_time": "11:30",
+    "previous_start": "",
+    "venue": "Vodafone Hub - Mall of Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Decree",
+    "organizer_url": "https://allevents.in/org/decree/22638200",
+    "audience": "",
+    "url": "https://allevents.in/muscat/omans-data-protection-reforms-from-legal-change-to-practical-compliance/100002004943707601",
+    "description": "A practical look at the recent amendments to Oman’s Personal Data Protection Law and what they mean for compliance.",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "7d3da46b2ab3c6fb6da0f11e856c22b544f82378"
    }
   }
  ]
