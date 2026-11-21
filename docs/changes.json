@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 305,
+ "latest_sequence": 309,
  "changes": [
   {
    "schema_version": "1.0",
@@ -16043,6 +16043,226 @@
      "#التحول_الرقمي"
     ],
     "_fp": "7d3da46b2ab3c6fb6da0f11e856c22b544f82378"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 306,
+   "type": "event.updated",
+   "occurred_at": "2026-11-21T10:51:00+00:00",
+   "event_id": "cee66478afdf",
+   "event_version": 3,
+   "idempotency_key": "cee66478afdf:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "cee66478afdf",
+    "version": 3,
+    "kind": "occasion",
+    "title": "Oman National Day",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "Oman",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "",
+    "description": "Islamic holidays follow the Hijri calendar and are added by hand each year.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "National occasion",
+    "relevance": "High",
+    "score": 0,
+    "confidence": 70,
+    "status": "Past",
+    "sources": [
+     "occasions"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-21",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanNationalDay"
+    ],
+    "_fp": "0e85ad45e962a508d6703ef27140b2b89ade51df"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 307,
+   "type": "event.created",
+   "occurred_at": "2026-11-21T10:51:00+00:00",
+   "event_id": "87d742c3e42b",
+   "event_version": 1,
+   "idempotency_key": "87d742c3e42b:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "87d742c3e42b",
+    "version": 1,
+    "kind": "event",
+    "title": "Vex House: Muscat Night",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Al Khuwair Street",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.eventbrite.com/e/vex-house-muscat-night-tickets-2005166762765",
+    "description": "Free networking night in Muscat for AI and fintech builders. Entry by approval - request your spot at https://luma.com/9nqxi5ee",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Tech & AI",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي",
+     "#VexHouseMuscatNight"
+    ],
+    "_fp": "2261dddfc57c427e1626bed70c6183370fea8ae3"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 308,
+   "type": "event.updated",
+   "occurred_at": "2026-11-21T10:51:00+00:00",
+   "event_id": "ec2337037cae",
+   "event_version": 2,
+   "idempotency_key": "ec2337037cae:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "ec2337037cae",
+    "version": 2,
+    "kind": "event",
+    "title": "Oman’s Data Protection Reforms: From Legal Change to Practical Compliance",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "start_time": "09:30",
+    "end_time": "11:30",
+    "previous_start": "",
+    "venue": "Vodafone Hub - Mall of Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Decree",
+    "organizer_url": "https://allevents.in/org/decree/22638200",
+    "audience": "",
+    "url": "https://allevents.in/muscat/omans-data-protection-reforms-from-legal-change-to-practical-compliance/100002004943707601",
+    "description": "A practical look at the recent amendments to Oman’s Personal Data Protection Law and what they mean for compliance.",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Tech & AI",
+    "relevance": "High",
+    "score": 6,
+    "confidence": 75,
+    "status": "Upcoming",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-21",
+    "workflow": {
+     "brief": "2026-11-09",
+     "announce": "2026-11-16",
+     "design_lock": "2026-11-23",
+     "reminder": "2026-11-27",
+     "live": "2026-11-30",
+     "recap": "2026-12-01"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي"
+    ],
+    "_fp": "d931da1ad0c896f43a11711146078269d4db3999"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 309,
+   "type": "event.created",
+   "occurred_at": "2026-11-21T10:51:00+00:00",
+   "event_id": "27bcace27543",
+   "event_version": 1,
+   "idempotency_key": "27bcace27543:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "27bcace27543",
+    "version": 1,
+    "kind": "event",
+    "title": "مهرجان صحار بفعاليات تجمع العائلة بين عبق",
+    "start": "2027-01-31",
+    "end": "2027-01-31",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sohar",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215349",
+    "description": "تصوير - أحمد البريكي افتتحت بمركز صحار الترفيهي فعاليات مهرجان صحار الخامس الذي يستمر إلى نهاية يناير القادم وذلك برعاية سعادة محمد بن سليمان الكندي محافظ شمال الباطنة ورئيس اللجنة المنظمة...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "04c9b7ec0c2cdc010fb7cfd48c6c1d5342b657ce"
    }
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:14:37+00:00",
+ "generated_at": "2026-11-21T10:51:00+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,14 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "Omani-Tunisian Cultural Exchange Forum",
-   "url": "https://www.omanobserver.om/article/1199914/oman/scholars-gather-for-omani-tunisian-forum-in-tunis",
-   "source": "news:observer-local",
-   "found": "2026-11-19",
-   "start": "2026-11-20",
-   "status": "Lead – verify"
-  },
-  {
    "title": "International Medical Tourism & Healthcare",
    "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
    "source": "allevents-muscat",
@@ -116,11 +108,11 @@
    "status": "Needs review"
   },
   {
-   "title": "Oman’s Data Protection Reforms: From Legal Change to Practical Compliance",
-   "url": "https://allevents.in/muscat/omans-data-protection-reforms-from-legal-change-to-practical-compliance/100002004943707601",
-   "source": "allevents-muscat",
-   "found": "2026-11-19",
-   "start": "2026-11-30",
+   "title": "Vex House: Muscat Night",
+   "url": "https://www.eventbrite.com/e/vex-house-muscat-night-tickets-2005166762765",
+   "source": "eventbrite-muscat",
+   "found": "2026-11-21",
+   "start": "2026-11-27",
    "status": "Needs review"
   },
   {
@@ -170,6 +162,14 @@
    "found": "2026-10-25",
    "start": "2027-01-27",
    "status": "Needs review"
+  },
+  {
+   "title": "مهرجان صحار بفعاليات تجمع العائلة بين عبق",
+   "url": "https://www.omandaily.om/article/1215349",
+   "source": "news:omandaily",
+   "found": "2026-11-21",
+   "start": "2027-01-31",
+   "status": "Lead – verify"
   },
   {
    "title": "Oman LegalTech Summit 2027",

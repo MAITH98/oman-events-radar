@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:14:37+00:00",
+ "generated_at": "2026-11-21T10:51:00+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -25,8 +25,8 @@
   {
    "entity": "eventbrite-muscat",
    "type": "source",
-   "events": 0,
-   "status": "HTTPError: HTTP Error 405: Not Allowed",
+   "events": 5,
+   "status": "ok",
    "page_changed": ""
   },
   {
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
@@ -144,7 +144,7 @@
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 13,
+   "events": 3,
    "status": "ok",
    "page_changed": ""
   },
@@ -201,7 +201,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "entity": "gha26.com",
