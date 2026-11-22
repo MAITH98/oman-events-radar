@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:51:00+00:00",
+ "generated_at": "2026-11-22T10:59:09+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,14 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "International Medical Tourism & Healthcare",
-   "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
-   "source": "allevents-muscat",
-   "found": "2026-11-03",
-   "start": "2026-11-22",
-   "status": "Needs review"
-  },
-  {
    "title": "Wadi Bani Khalid and Wahiba Sands",
    "url": "https://allevents.in/muscat/wadi-bani-khalid-and-wahiba-sands/200030988138015",
    "source": "allevents-muscat",
@@ -108,12 +100,20 @@
    "status": "Needs review"
   },
   {
-   "title": "Vex House: Muscat Night",
-   "url": "https://www.eventbrite.com/e/vex-house-muscat-night-tickets-2005166762765",
-   "source": "eventbrite-muscat",
-   "found": "2026-11-21",
+   "title": "Suron Ka Safar - Celebrating Bollywood's Golden Melodies (1970-1990) in Muscat",
+   "url": "https://allevents.in/muscat/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990-in-muscat/200031093973205",
+   "source": "allevents-muscat",
+   "found": "2026-11-22",
    "start": "2026-11-27",
    "status": "Needs review"
+  },
+  {
+   "title": "مهرجان ذوي الإعاقة",
+   "url": "https://www.omandaily.om/article/1215448",
+   "source": "news:omandaily",
+   "found": "2026-11-22",
+   "start": "2026-11-29",
+   "status": "Lead – verify"
   },
   {
    "title": "9th OmanDerm International Conference & Exhibition",
@@ -164,14 +164,6 @@
    "status": "Needs review"
   },
   {
-   "title": "مهرجان صحار بفعاليات تجمع العائلة بين عبق",
-   "url": "https://www.omandaily.om/article/1215349",
-   "source": "news:omandaily",
-   "found": "2026-11-21",
-   "start": "2027-01-31",
-   "status": "Lead – verify"
-  },
-  {
    "title": "Oman LegalTech Summit 2027",
    "url": "https://omanlegalsummit.com/",
    "source": "recurrence",
@@ -201,6 +193,14 @@
    "source": "allevents-muscat",
    "found": "2026-11-12",
    "start": "2027-03-01",
+   "status": "Needs review"
+  },
+  {
+   "title": "International Medical Tourism & Healthcare",
+   "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
+   "source": "allevents-muscat",
+   "found": "2026-11-22",
+   "start": "2027-04-06",
    "status": "Needs review"
   },
   {
@@ -281,14 +281,6 @@
    "source": "recurrence",
    "found": "2026-11-06",
    "start": "2027-11-04",
-   "status": "Expected – confirm"
-  },
-  {
-   "title": "Value of an MBA in an era of AI and change with Xavier Duran, Muscat",
-   "url": "https://www.eventbrite.co.uk/e/value-of-an-mba-in-an-era-of-ai-and-change-with-xavier-duran-muscat-registration-2003954364449",
-   "source": "recurrence",
-   "found": "2026-11-18",
-   "start": "2027-11-16",
    "status": "Expected – confirm"
   }
  ]

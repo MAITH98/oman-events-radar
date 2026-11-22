@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 309,
+ "latest_sequence": 314,
  "changes": [
   {
    "schema_version": "1.0",
@@ -16263,6 +16263,274 @@
      "#فعاليات_عمان"
     ],
     "_fp": "04c9b7ec0c2cdc010fb7cfd48c6c1d5342b657ce"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 310,
+   "type": "event.created",
+   "occurred_at": "2026-11-22T10:59:09+00:00",
+   "event_id": "f71360b5a465",
+   "event_version": 1,
+   "idempotency_key": "f71360b5a465:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "f71360b5a465",
+    "version": 1,
+    "kind": "event",
+    "title": "Suron Ka Safar - Celebrating Bollywood's Golden Melodies (1970-1990) in Muscat",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "17:15",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "College of Banking and Financial Studies",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Geetanjali Melodies",
+    "organizer_url": "https://allevents.in/org/geetanjali-melodies/28458386",
+    "audience": "",
+    "url": "https://allevents.in/muscat/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990-in-muscat/200031093973205",
+    "description": "Book Now and Join Us For The Musical Journey .. https://muscat.platinumlist.net/event-tickets/109358/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "a28e537956cf31aff6ccc5a927b0c0484d5c7db0"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 311,
+   "type": "event.updated",
+   "occurred_at": "2026-11-22T10:59:09+00:00",
+   "event_id": "87d742c3e42b",
+   "event_version": 2,
+   "idempotency_key": "87d742c3e42b:2:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "87d742c3e42b",
+    "version": 2,
+    "kind": "event",
+    "title": "Vex House: Muscat Night",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "19:00",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "Al Khuwair Street",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Vex House",
+    "organizer_url": "https://allevents.in/org/vex-house/28460453",
+    "audience": "",
+    "url": "https://allevents.in/muscat/vex-house-muscat-night/100002005166762765",
+    "description": "Free networking night in Muscat for AI and fintech builders. Entry by approval - request your spot at https://luma.com/9nqxi5ee",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Tech & AI",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 75,
+    "status": "Upcoming",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "workflow": {
+     "brief": "2026-11-17",
+     "announce": "2026-11-20",
+     "reminder": "2026-11-25"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي",
+     "#VexHouseMuscatNight"
+    ],
+    "_fp": "71da95466e14b6b432ddc15bc7e153f5e4da97ea"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 312,
+   "type": "event.created",
+   "occurred_at": "2026-11-22T10:59:09+00:00",
+   "event_id": "4a95c4bd0705",
+   "event_version": 1,
+   "idempotency_key": "4a95c4bd0705:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4a95c4bd0705",
+    "version": 1,
+    "kind": "event",
+    "title": "مهرجان ذوي الإعاقة",
+    "start": "2026-11-29",
+    "end": "2026-11-29",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "المهرجان السنوي السابع للأشخاص ذوي الإعاقة 2026",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215448",
+    "description": "كتبت - مريم البلوشي تتواصل الاستعدادات لتنظيم المهرجان السنوي السابع للأشخاص ذوي الإعاقة 2026، الذي تنظمه وزارة الثقافة والرياضة والشباب خلال الفترة من 29 نوفمبر الجاري إلى 3 ديسمبر المقبل، من خلال...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "a0c526acf6003fc1d9c08a2c173a16141ff30e4e"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 313,
+   "type": "event.created",
+   "occurred_at": "2026-11-22T10:59:09+00:00",
+   "event_id": "91bff59fe839",
+   "event_version": 1,
+   "idempotency_key": "91bff59fe839:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "91bff59fe839",
+    "version": 1,
+    "kind": "event",
+    "title": "International Medical Tourism & Healthcare",
+    "start": "2027-04-06",
+    "end": "2027-04-08",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
+    "description": "The International Medical Tourism & Healthcare Exhibition, taking place at the Oman Convention & Exhibition Centre in Muscat, Oman, is back for its seventh edition, promising to be bigger and more impactful than ever. This premier event stands as Oman's foremost platform for showcasing the healthcar",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Health",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanHealth",
+     "#InternationalMedicalTourismHealthcare"
+    ],
+    "_fp": "baba9765c85870fc65423e45840c4572b013d5fe"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 314,
+   "type": "event.removed",
+   "occurred_at": "2026-11-22T10:59:09+00:00",
+   "event_id": "d8b1ea8010d5",
+   "event_version": 2,
+   "idempotency_key": "d8b1ea8010d5:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "d8b1ea8010d5",
+    "version": 2,
+    "kind": "event",
+    "title": "International Medical Tourism & Healthcare",
+    "start": "2026-11-22",
+    "end": "2026-11-24",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/international-medical-tourism-and-healthcare/3700030950883733",
+    "description": "The International Medical Tourism & Healthcare Exhibition, taking place at the Oman Convention & Exhibition Centre in Muscat, Oman, is back for its seventh edition, promising to be bigger and more impactful than ever. This premier event stands as Oman's foremost platform for showcasing the healthcar",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Health",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 45,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-21",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanHealth",
+     "#InternationalMedicalTourismHealthcare"
+    ],
+    "removed_on": "2026-11-22"
    }
   }
  ]
