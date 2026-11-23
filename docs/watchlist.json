@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:59:09+00:00",
+ "generated_at": "2026-11-23T12:08:09+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 24,
+   "events": 26,
    "status": "ok",
    "page_changed": ""
   },
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 2,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },
@@ -130,28 +130,28 @@
   {
    "entity": "news:observer-business",
    "type": "source",
-   "events": 0,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 10,
+   "events": 8,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:alroya",
    "type": "source",
-   "events": 2,
+   "events": 10,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 3,
+   "events": 5,
    "status": "ok",
    "page_changed": ""
   },
@@ -225,7 +225,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Interior Design Furnishing Expo 2027",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "entity": "ifpexpo.com",
@@ -233,7 +233,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Project Oman 2026",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "entity": "india.collectionsummit.com",
@@ -249,7 +249,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "IORA Aquaculture & Fisheries Business Forum & Exhibition",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "entity": "mctbookfair.gov.om",
@@ -329,7 +329,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Oman Legal Tech Summit 2026",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   }
  ]
 }
