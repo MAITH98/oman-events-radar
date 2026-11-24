@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:08:09+00:00",
+ "generated_at": "2026-11-24T13:29:23+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,6 +92,22 @@
    "found": "2026-10-25"
   },
   {
+   "title": "معرض ريفي بدية ٢٠٢٦",
+   "url": "https://www.omandaily.om/article/1215601",
+   "source": "news:omandaily",
+   "found": "2026-11-24",
+   "start": "2026-11-24",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "md",
+   "url": "https://allevents.in/muscat/md/200031115748049",
+   "source": "allevents-muscat",
+   "found": "2026-11-24",
+   "start": "2026-11-25",
+   "status": "Needs review"
+  },
+  {
    "title": "The Marshalls live at Dolphin Club",
    "url": "https://allevents.in/muscat/the-marshalls-live-at-dolphin-club/200031100306900",
    "source": "allevents-muscat",
@@ -113,6 +129,22 @@
    "source": "allevents-muscat",
    "found": "2026-11-22",
    "start": "2026-11-27",
+   "status": "Needs review"
+  },
+  {
+   "title": "معرض عُمان أجروفود",
+   "url": "https://alroya.om/post/398822/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B9-%D9%85%D8%A7%D9%86-%D8%A3%D8%AC%D8%B1%D9%88%D9%81%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%85%D9%86-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1",
+   "source": "news:alroya",
+   "found": "2026-11-24",
+   "start": "2026-12-01",
+   "status": "Lead – verify"
+  },
+  {
+   "title": "Show case your Talent",
+   "url": "https://allevents.in/muscat/show-case-your-talent/200031115748149",
+   "source": "allevents-muscat",
+   "found": "2026-11-24",
+   "start": "2026-12-05",
    "status": "Needs review"
   },
   {
@@ -281,6 +313,14 @@
    "source": "recurrence",
    "found": "2026-11-06",
    "start": "2027-11-04",
+   "status": "Expected – confirm"
+  },
+  {
+   "title": "the 7th International HealthCare, Medical Tourism Exhibition & Conference ‘IMTEC Oman – 2027",
+   "url": "https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.imtecoman.com&amp;umid=1a174108-3328-11f1-90f2-7ced8d271a19&amp;rct=1775638277&amp;auth=629b05c5828da12ce13140a099552834625f663b-c0631b8e67a10a7359479dbad2eb058f100eaafd",
+   "source": "recurrence",
+   "found": "2026-11-24",
+   "start": "2027-11-22",
    "status": "Expected – confirm"
   }
  ]
