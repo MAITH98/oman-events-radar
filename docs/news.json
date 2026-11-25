@@ -1,18 +1,145 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-24T13:29:23+00:00",
- "count": 34,
+ "generated_at": "2026-11-25T12:30:02+00:00",
+ "count": 25,
  "articles": [
   {
-   "id": "b86f131f27e5",
-   "title": "'Muqshin Winter Festival' kicks off in Dhofar",
-   "url": "https://timesofoman.com//article/179556-muqshin-winter-festival-kicks-off-in-dhofar",
+   "id": "b485f955ceee",
+   "title": "35 أسرة منتجة تشارك في ملتقى \"من الدار\" بمحافظة البريمي",
+   "url": "https://www.omandaily.om/article/1215684",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-25",
+   "summary": "انطلقت مساء أمس في واحة البريمي فعاليات ملتقى \"من الدار\"، الذي تنظّمه دائرة التنمية الاجتماعية بمحافظة البريمي، بالتزامن مع احتفالات اليوم الوطني العُماني التي ينظّمها مكتب محافظ البريمي،...",
+   "event": {
+    "name": "ملتقى من الدار",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/25/thumbs/400x400/3591346.jpg",
+   "also": [
+    {
+     "source": "جريدة عُمان",
+     "url": "https://www.omandaily.om/article/1215653",
+     "title": "انطلاق ملتقى \"من الدار\" بالرستاق بمشاركة 60 أسرة منتجة"
+    }
+   ]
+  },
+  {
+   "id": "95d013784fd6",
+   "title": "ملتقى بمحافظة ظفار يناقش تمكين المرأة في الأنشطة الرياضية والشبابية",
+   "url": "https://www.omandaily.om/article/1215681",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-25",
+   "summary": "تصوير: عابر ديوان انطلقت اليوم بمجمع السلطان قابوس للثقافة والترفيه بصلالة فعاليات ملتقى نساء ظفار 2026م بعنوان \"المرأة الظفارية... ريادة وتمكين واستدامة\" والتي تنظمها المديرية العامة للثقافة...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/25/thumbs/400x400/3591329.jpg"
+  },
+  {
+   "id": "e1579191eac0",
+   "title": "سفارة سلطنة عُمان لدى الجزائر تقيم حفل استقبال",
+   "url": "https://www.omandaily.om/article/1215671",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-25",
+   "summary": "العُمانية: أقامت سفارة سلطنة عُمان لدى الجمهورية الجزائرية حفل استقبال بمناسبة اليوم الوطني المجيد لسلطنة عُمان. حضر الحفل، الذي أُقيم بالمركز الدولي للمؤتمرات بالجزائر العاصمة، عددٌ من الوزراء...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/25/thumbs/400x400/3591283.jpg"
+  },
+  {
+   "id": "f1367820551a",
+   "title": "مؤشر بورصة مسقط الأسبوعي ينخفض 71 نقطة وقيمة التداول عند 122 مليون ريال",
+   "url": "https://www.omandaily.om/article/1215667",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-25",
+   "summary": "سجل مؤشر بورصة مسقط خلال الأسبوع انخفاضا بمقدار 71.2 نقطة وبنسبة 0.98% مقارنة مع الأسبوع السابق، وأغلق عند مستوى 7188.76 نقطة، وبلغت قيمة التداول 122.898 مليون ريال عماني منخفضة بنسبة 48.42% عن الأسبوع السابق...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/25/thumbs/400x400/3591253.jpg"
+  },
+  {
+   "id": "737fb1381918",
+   "title": "Oman International Pharmacy Congress issues recommendations",
+   "url": "https://timesofoman.com//article/179580-oman-international-pharmacy-congress-issues-recommendations",
    "source": "Times of Oman",
    "lang": "en",
    "published": "2026-11-24",
-   "summary": "Muscat: The \"Muqshin Winter Festival\" kicked off today in the Wilayat of Muqshin, Dhofar Governorate. Organized by the Office of the Wali of Muqshin in...",
+   "summary": "These recommendations come as an extension of the scientific themes",
+   "event": {
+    "name": "Oman International Pharmacy Congress",
+    "start": "2026-11-24",
+    "end": "2026-11-24",
+    "venue": "Oman Convention & Exhibition Centre",
+    "organizer": ""
+   },
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795536405-1795536400-xbdebr35m3wr-700x400.jpeg",
+   "also": [
+    {
+     "source": "Oman Observer",
+     "url": "https://www.omanobserver.om/article/1200191/oman/oman-international-pharmacy-congress-issues-recommendations",
+     "title": "Oman International Pharmacy Congress issues recommendations"
+    },
+    {
+     "source": "Oman Observer",
+     "url": "https://www.omanobserver.om/article/1200142/oman/oman-international-pharmacy-congress-exhibition-opens",
+     "title": "Oman International Pharmacy Congress, Exhibition opens"
+    }
+   ]
+  },
+  {
+   "id": "27bff0780194",
+   "title": "Royal Hospital organises international workshop on cardiac surgery",
+   "url": "https://timesofoman.com//article/179579-royal-hospital-organises-international-workshop-on-cardiac-surgery",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-24",
+   "summary": "The workshop is part of the Center’s ongoing efforts to foster international medical cooperation",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795518773-1795518773-erwpiquvxvzz.jpg"
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795536247-1795536246-myvzbvvdknhy-700x400.jpeg",
+   "also": [
+    {
+     "source": "Oman Observer",
+     "url": "https://www.omanobserver.om/article/1200189/oman/royal-hospital-organises-workshop-on-cardiac-surgery",
+     "title": "Royal Hospital organises workshop on cardiac surgery"
+    }
+   ]
+  },
+  {
+   "id": "0eb4e3fcd3f3",
+   "title": "Omani firms sign $11m worth pacts at Africa Tech Festival",
+   "url": "https://www.omanobserver.om/article/1200178/business/economy/omani-firms-sign-11m-worth-pacts-at-africa-tech-festival",
+   "source": "Oman Observer · Business",
+   "lang": "en",
+   "published": "2026-11-24",
+   "summary": "CAPE TOWN, NOV 24 Omani technology companies have signed three cooperation agreements worth a total of approximately $11 million at the 29th Africa...",
+   "event": {
+    "name": "29th Africa Tech Festival",
+    "start": "2026-11-24",
+    "end": "2026-11-24",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/24/thumbs/600x600/3590825.jpg"
+  },
+  {
+   "id": "1f82e6fd98d7",
+   "title": "Ruwi’s Stories Through a Lens",
+   "url": "https://www.omanobserver.om/article/1200197/features/arts/ruwis-stories-through-a-lens",
+   "source": "Oman Observer · Lifestyle",
+   "lang": "en",
+   "published": "2026-11-24",
+   "summary": "Senior journalist, podcaster and author Lakshmi Kothaneth has unveiled her debut solo photography exhibition, ‘Walk With Me Through Ruwi and...",
+   "event": {
+    "name": "Ruwi’s Stories Through a Lens",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "venue": "Sheraton Oman",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/24/thumbs/600x600/3591054.jpg"
   },
   {
    "id": "df692a7f5370",
@@ -30,101 +157,6 @@
     "organizer": ""
    },
    "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Z7302.jpeg"
-  },
-  {
-   "id": "aac954cd7a6b",
-   "title": "كونجرس عُمان الدولي للصيدلة يوصي بإطار خليجي لتعزيز الأمن الدوائي ومرونة سلاسل الإمداد",
-   "url": "https://www.omandaily.om/article/1215628",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "أوصى كونجرس ومعرض عُمان الدولي للصيدلة 2026 بتعزيز الأمن الدوائي وتوطين الصناعة الدوائية، وتطوير الكفاءات الوطنية في التخصصات الصيدلانية المتقدمة، إلى جانب وضع إطار خليجي مشترك لتعزيز مرونة سلاسل...",
-   "event": {
-    "name": "معرض عُمان الدولي للصيدلة 2026 بتعزيز الأمن",
-    "start": "2026-11-22",
-    "end": "2026-11-24",
-    "venue": "",
-    "organizer": "الأدوية وتقييم التقنيات الصحية"
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590696.jpg"
-  },
-  {
-   "id": "a76cdf8b2ead",
-   "title": "حلقة عمل \"فن الخط العربي\" بصلالة تعرّف الأجيال الناشئة بأصول الخط العربي",
-   "url": "https://www.omandaily.om/article/1215616",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "نظم مركز السلطان قابوس العالي للثقافة والعلوم بمجمع السلطان قابوس الشبابي للثقافة والترفيه بصلالة، في إطار خطة النشاط الثقافي لعام 2026، حلقة عمل تدريبية بعنوان: \"فن الخط العربي\"، والتي تأتي...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590546.jpg"
-  },
-  {
-   "id": "45892485d7f1",
-   "title": "حلقة عمل تستعرض جاهزية المؤسسات الحكومية في مؤشر نضوج الخدمات الحكومية الإلكترونية",
-   "url": "https://www.omandaily.om/article/1215607",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "العمانية/ نظّمت وزارة النقل والاتصالات وتقنية المعلومات، بالتعاون مع لجنة الأمم المتحدة الاقتصادية والاجتماعية لغربي آسيا \"الإسكوا\"، حلقة عمل حول \"مؤشر نضوج الخدمات الحكومية الإلكترونية...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590387.jpg"
-  },
-  {
-   "id": "01bdeec6da7c",
-   "title": "معرض «ريفي بدية ٢٠٢٦» يستقطب أكثر من ٤٠ مشاركا ومشاركة ضمن فعاليات كرنفال رمال بدية",
-   "url": "https://www.omandaily.om/article/1215601",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "افتُتح اليوم، بمركز بدية الترفيهي بمحافظة شمال الشرقية، معرض «ريفي بدية ٢٠٢٦»، برعاية سعادة ماجد بن سيف البوسعيدي، والي بدية، ضمن فعاليات كرنفال رمال بدية المصاحب لموسم شتاء بدية، وتنظّمه وزارة...",
-   "event": {
-    "name": "معرض ريفي بدية ٢٠٢٦",
-    "start": "2026-11-24",
-    "end": "2026-11-27",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590298.jpg"
-  },
-  {
-   "id": "e90c215e4c16",
-   "title": "حلقة عمل دولية متخصصة في جراحة القلب",
-   "url": "https://www.omandaily.om/article/1215591",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "العُمانية / نظم قسم جراحة القلب بالمركز الوطني لطب وجراحة القلب بالمستشفى السلطاني، خلال الفترة من 11 إلى 17 نوفمبر الجاري، حلقة عمل دولية مشتركة مع مايو كلينيك، إحدى أبرز المؤسسات الطبية العالمية،...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590191.jpg"
-  },
-  {
-   "id": "8439f3220411",
-   "title": "سلطنة عمان تشارك في معرض «فودكس السعودية 2026»",
-   "url": "https://www.omandaily.om/article/1215582",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-24",
-   "summary": "العُمانية/ تشارك سلطنة عُمان في فعاليات معرض «فودكس السعودية 2026»، المقام حاليًّا بمدينة جدة بالمملكة العربية السعودية. وتتمثل المشاركة في 10 شركات عُمانية تمثل عددًا من القطاعات والأنشطة المتخصصة...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/24/thumbs/400x400/3590078.jpg"
-  },
-  {
-   "id": "f78b26db9fb6",
-   "title": "Oman International Pharmacy Congress, Exhibition opens",
-   "url": "https://www.omanobserver.om/article/1200142/oman/oman-international-pharmacy-congress-exhibition-opens",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-23",
-   "summary": "MUSCAT, NOV 23 The future of medicine took centre stage in Muscat as the Oman International Pharmacy Congress and Exhibition opened at the Oman...",
-   "event": {
-    "name": "Oman International Pharmacy Congress",
-    "start": "2026-11-23",
-    "end": "2026-11-23",
-    "venue": "Oman Convention & Exhibition Centre",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/23/thumbs/600x600/3589872.jpg"
   },
   {
    "id": "59ef86925f37",
@@ -249,94 +281,6 @@
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/22/thumbs/600x600/3587889.jpg"
   },
   {
-   "id": "4d7a541a3f44",
-   "title": "\"الوثائق والمحفوظات\" تتفتح معرض \"بصيرة لإرثنا الوطني\" بلغتي الإشارة وبرايل",
-   "url": "https://alroya.om/post/398756/%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A7%D8%AA-%D8%AA%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A8%D8%B5%D9%8A%D8%B1%D8%A9-%D9%84%D8%A5%D8%B1%D8%AB%D9%86%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D9%84%D8%BA%D8%AA%D9%8A-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "مسقط- الرؤية افتتحت هيئة الوثائق والمحفوظات الوطنية وبالتعاون مع وزارة التعليم، النسخة الثانية من المعرض الوثائقي \"بصيرة لإرثنا الوطني\" بمدرسة الأمل للصم، تحت رعاية سعادة الدكتور عبد الله بن حمود",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/Gz0PH.jpeg"
-  },
-  {
-   "id": "8a886f9c16b9",
-   "title": "افتتاح معرض \"البوسعيد شواهد المجد\" في متحف عُمان عبر الزمان",
-   "url": "https://alroya.om/post/398751/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D8%B9%D9%8A%D8%AF-%D8%B4%D9%88%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%AF-%D9%81%D9%8A-%D9%85%D8%AA%D8%AD%D9%81-%D8%B9-%D9%85%D8%A7%D9%86-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "منح- ناصر العبري أزيح الستار أمس بمتحف عُمان عبر الزمان بولاية منح بمحافظة الداخلية عن المعرض الفني \"البوسعيد شواهد المجد\" الذي تنظمه تعليمية الظاهرة ويضم 160 عملا فنيًّا ويستمر يومين، تحت رعا",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/H9mN2.jpeg"
-  },
-  {
-   "id": "311d3029cf85",
-   "title": "المنظمة العربية للسياحة تختتم مشاركتها في منتدى المعارض والمؤتمرات الدولية بمسقط",
-   "url": "https://alroya.om/post/398746/%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D9%88%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D9%85%D8%B3%D9%82%D8%B7",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "مسقط- الرؤية أنهت المنظمة العربية للسياحة مشاركتها في منتدى المعارض والمؤتمرات الدولية «Eventra 2026» بمسقط، والذي نظمته شركة سيرابيس، بالشراكة الاستراتيجية مع عدد من المؤسسات، تحت رعاية صاحب",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/rP7SL.jpeg"
-  },
-  {
-   "id": "9cf709be671b",
-   "title": "\"مهرجان العين للكتاب 2026\" يحتفل باليوم الوطني العُماني",
-   "url": "https://alroya.om/post/398745/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-2026-%D9%8A%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "العين (الإمارات العربية المتحدة)- الرؤية احتفل مهرجان العين للكتاب، الذي ينظمه مركز أبوظبي للغة العربية، التابع لدائرة الثقافة والسياحة – أبوظبي، باليوم الوطني لسلطنة عُمان الشقيقة، من خلال عروض فن",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/JuqNv.jpeg"
-  },
-  {
-   "id": "baf2a0b21efc",
-   "title": "السبتي يرعى انطلاق \"كونجرس عمان الدولي للصيدلة\" بمشاركة 13 دولة",
-   "url": "https://alroya.om/post/398744/%D8%A7%D9%84%D8%B3%D8%A8%D8%AA%D9%8A-%D9%8A%D8%B1%D8%B9%D9%89-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%83%D9%88%D9%86%D8%AC%D8%B1%D8%B3-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-13-%D8%AF%D9%88%D9%84%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "مسقط- الرؤية انطلقت أعمال كونجرس عمان الدولي للصيدلة والمعرض المصاحب له(OIPCX2026) مساء اليوم الأحد في مركز عمان للمؤتمرات والمعارض، تحت رعاية معالي الدكتور هلال بن علي السبتي -وزير الصحة- وب",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/ljNY8.jpeg"
-  },
-  {
-   "id": "c343cc8989e4",
-   "title": "\"ملتقى التمكين الاقتصادي\" يبحث استدامة المشاريع وتعزيز الاستقلال المالي",
-   "url": "https://alroya.om/post/398734/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "مسقط- الرؤية نظمت وزارة التنمية الاجتماعية، الأحد، ملتقى التمكين الاقتصادي، الذي يستعرض الخدمات والبرامج التي تقدمها الجهات الشريكة؛ سعيا لتعزيز الاستقلال المالي للفئات المستهدفة من برامج التمكين ا",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/A3uIl.jpeg"
-  },
-  {
-   "id": "4824eb9ededd",
-   "title": "\"أفيسن\" تنظم ملتقى \"إتقان\" لتمكين الكفاءات العُمانية",
-   "url": "https://alroya.om/post/398733/%D8%A3%D9%81%D9%8A%D8%B3%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A5%D8%AA%D9%82%D8%A7%D9%86-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9-%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
-   "source": "الرؤية",
-   "lang": "ar",
-   "published": "2026-11-22",
-   "summary": "مسقط- الرؤية نظّمت مجموعة أفيسن للرعاية الصحية ملتقى «إتقان 2026 – حصرياً للمواهب العُمانية»، وهو برنامج متخصص في تطوير الكفاءات الوطنية وتمكينها، بمشاركة نخبة من المتحدثين والمسؤولين الحكوميين وال",
-   "event": null,
-   "image": "https://alroya.om/thumb/830x506/uploads/images/2026/11/UWkVw.jpeg"
-  },
-  {
-   "id": "5444a5fe8160",
-   "title": "Local development tops ‘Together Forward’ forum’s topics",
-   "url": "https://www.omanobserver.om/article/1200032/oman/local-development-tops-together-forward-forums-topics",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-21",
-   "summary": "MUSCAT: The Secretariat-General of the Council of Ministers announced the results of voting process to select topics for the fifth edition of the...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/21/thumbs/600x600/3586987.jpg"
-  },
-  {
    "id": "68ec25f7adcb",
    "title": "‘Echoes of Passage’ brings Algerian art and Omani heritage together",
    "url": "https://www.omanobserver.om/article/1199893/features/fashion/echoes-of-passage-brings-algerian-art-and-omani-heritage-together",
@@ -413,23 +357,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/11/thumbs/600x600/3575787.jpg"
-  },
-  {
-   "id": "22e407459949",
-   "title": "Italian Cuisine Week brings a taste of tradition to Oman",
-   "url": "https://www.omanobserver.om/article/1199442/features/food/italian-cuisine-week-brings-a-taste-of-tradition-to-oman",
-   "source": "Oman Observer · Lifestyle",
-   "lang": "en",
-   "published": "2026-11-10",
-   "summary": "It is not only about spaghetti alla carbonara made with crispy guanciale, eggs, Pecorino Romano cheese and black pepper, or lasagne baked with rich...",
-   "event": {
-    "name": "Italian Cuisine Week",
-    "start": "2026-11-08",
-    "end": "2026-11-08",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/10/thumbs/600x600/3574495.jpg"
   }
  ]
 }

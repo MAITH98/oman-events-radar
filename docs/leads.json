@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:29:23+00:00",
+ "generated_at": "2026-11-25T12:30:02+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,22 +92,6 @@
    "found": "2026-10-25"
   },
   {
-   "title": "معرض ريفي بدية ٢٠٢٦",
-   "url": "https://www.omandaily.om/article/1215601",
-   "source": "news:omandaily",
-   "found": "2026-11-24",
-   "start": "2026-11-24",
-   "status": "Lead – verify"
-  },
-  {
-   "title": "md",
-   "url": "https://allevents.in/muscat/md/200031115748049",
-   "source": "allevents-muscat",
-   "found": "2026-11-24",
-   "start": "2026-11-25",
-   "status": "Needs review"
-  },
-  {
    "title": "The Marshalls live at Dolphin Club",
    "url": "https://allevents.in/muscat/the-marshalls-live-at-dolphin-club/200031100306900",
    "source": "allevents-muscat",
@@ -124,12 +108,20 @@
    "status": "Needs review"
   },
   {
-   "title": "Suron Ka Safar - Celebrating Bollywood's Golden Melodies (1970-1990) in Muscat",
-   "url": "https://allevents.in/muscat/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990-in-muscat/200031093973205",
-   "source": "allevents-muscat",
-   "found": "2026-11-22",
+   "title": "ملتقى من الدار",
+   "url": "https://www.omandaily.om/article/1215684",
+   "source": "news:omandaily",
+   "found": "2026-11-25",
    "start": "2026-11-27",
-   "status": "Needs review"
+   "status": "Lead – verify"
+  },
+  {
+   "title": "Ruwi’s Stories Through a Lens",
+   "url": "https://www.omanobserver.om/article/1200197/features/arts/ruwis-stories-through-a-lens",
+   "source": "news:observer-lifestyle",
+   "found": "2026-11-25",
+   "start": "2026-11-30",
+   "status": "Lead – verify"
   },
   {
    "title": "معرض عُمان أجروفود",

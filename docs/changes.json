@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 322,
+ "latest_sequence": 326,
  "changes": [
   {
    "schema_version": "1.0",
@@ -16951,6 +16951,211 @@
      "#OmanHealth"
     ],
     "removed_on": "2026-11-24"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 323,
+   "type": "event.created",
+   "occurred_at": "2026-11-25T12:30:02+00:00",
+   "event_id": "6aa42ec06ef1",
+   "event_version": 1,
+   "idempotency_key": "6aa42ec06ef1:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "6aa42ec06ef1",
+    "version": 1,
+    "kind": "event",
+    "title": "ملتقى من الدار",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Unknown",
+    "organizer": "المديرية العامة للتنمية الاجتماعية بمحافظة جنوب الباطنة",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215684",
+    "description": "انطلقت مساء أمس في واحة البريمي فعاليات ملتقى \"من الدار\"، الذي تنظّمه دائرة التنمية الاجتماعية بمحافظة البريمي، بالتزامن مع احتفالات اليوم الوطني العُماني التي ينظّمها مكتب محافظ البريمي،...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "94607d3a9787cd3163a44b131e94baf917578ba3"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 324,
+   "type": "event.created",
+   "occurred_at": "2026-11-25T12:30:02+00:00",
+   "event_id": "4028766ad03d",
+   "event_version": 1,
+   "idempotency_key": "4028766ad03d:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4028766ad03d",
+    "version": 1,
+    "kind": "event",
+    "title": "Ruwi’s Stories Through a Lens",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sheraton Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1200197/features/arts/ruwis-stories-through-a-lens",
+    "description": "Senior journalist, podcaster and author Lakshmi Kothaneth has unveiled her debut solo photography exhibition, ‘Walk With Me Through Ruwi and...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-lifestyle"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "5c00d64e5bfbb9aa6295ee5ec71de09ffac2b108"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 325,
+   "type": "event.removed",
+   "occurred_at": "2026-11-25T12:30:02+00:00",
+   "event_id": "d7d2ad5db3fa",
+   "event_version": 2,
+   "idempotency_key": "d7d2ad5db3fa:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "d7d2ad5db3fa",
+    "version": 2,
+    "kind": "event",
+    "title": "md",
+    "start": "2026-11-25",
+    "end": "2026-11-25",
+    "start_time": "03:00",
+    "end_time": "04:00",
+    "previous_start": "",
+    "venue": "Muttrah",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Vlog Media 0.2",
+    "organizer_url": "https://allevents.in/org/vlog-media-02/28477403",
+    "audience": "",
+    "url": "https://allevents.in/muscat/md/200031115748049",
+    "description": "আর নয় জুলাই জুলাই এবার হবে গণধোলাই। খেলা শুরু হয়ে গেছে �����..Ten Unknown Facts About #BMW 1. Iconic Logo: The BMW logo, often referred to as the \"roundel,\" consists of a black ring intersecting with four quadrants of blue and white. It represents the company's origins in aviation, with the blue a",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#Md"
+    ],
+    "removed_on": "2026-11-25"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 326,
+   "type": "event.removed",
+   "occurred_at": "2026-11-25T12:30:02+00:00",
+   "event_id": "f71360b5a465",
+   "event_version": 2,
+   "idempotency_key": "f71360b5a465:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "f71360b5a465",
+    "version": 2,
+    "kind": "event",
+    "title": "Suron Ka Safar - Celebrating Bollywood's Golden Melodies (1970-1990) in Muscat",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "17:15",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "College of Banking and Financial Studies",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Geetanjali Melodies",
+    "organizer_url": "https://allevents.in/org/geetanjali-melodies/28458386",
+    "audience": "",
+    "url": "https://allevents.in/muscat/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990-in-muscat/200031093973205",
+    "description": "Book Now and Join Us For The Musical Journey .. https://muscat.platinumlist.net/event-tickets/109358/suron-ka-safar-celebrating-bollywoods-golden-melodies-1970-1990",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-24",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "removed_on": "2026-11-25"
    }
   }
  ]
