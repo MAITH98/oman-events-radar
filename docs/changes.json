@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 326,
+ "latest_sequence": 328,
  "changes": [
   {
    "schema_version": "1.0",
@@ -17156,6 +17156,110 @@
      "#فعاليات_عمان"
     ],
     "removed_on": "2026-11-25"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 327,
+   "type": "event.updated",
+   "occurred_at": "2026-11-26T12:09:57+00:00",
+   "event_id": "ca45f4b160e2",
+   "event_version": 3,
+   "idempotency_key": "ca45f4b160e2:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "ca45f4b160e2",
+    "version": 3,
+    "kind": "event",
+    "title": "The Comedy Play ‘Master of Fine Taste’",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "start_time": "16:00",
+    "end_time": "20:30",
+    "previous_start": "",
+    "venue": "",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.eventat.com",
+    "description": "A social comedy delivered in a fun, lighthearted spirit! The play follows a married couple navigating the most beautiful and unusual wait for their upcoming newborn. Amidst emotional rollercoasters, classic misunderstandings, and hilarious situations, they try their best to make it through this period smoothly until their little guest arrives-the child they dream will one day become the “Master…",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Lifestyle & Culture",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 70,
+    "status": "Ongoing",
+    "sources": [
+     "venue:Oman Convention & Exhibition Centre (OCEC)"
+    ],
+    "tiers": [
+     "A"
+    ],
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-26",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VisitOman",
+     "#Muscat"
+    ],
+    "_fp": "c8ee521ceeebd21c0b22f83588684e5288adb102"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 328,
+   "type": "event.removed",
+   "occurred_at": "2026-11-26T12:09:57+00:00",
+   "event_id": "13bbfdc599c0",
+   "event_version": 2,
+   "idempotency_key": "13bbfdc599c0:2:event.removed",
+   "event": {
+    "schema_version": "1.0",
+    "id": "13bbfdc599c0",
+    "version": 2,
+    "kind": "event",
+    "title": "Wadi Bani Khalid and Wahiba Sands",
+    "start": "2026-11-26",
+    "end": "2026-11-26",
+    "start_time": "08:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Rawasco Al-Khuwair",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Oman Horizon Tours",
+    "organizer_url": "https://allevents.in/org/oman-horizon-tours/28363913",
+    "audience": "",
+    "url": "https://allevents.in/muscat/wadi-bani-khalid-and-wahiba-sands/200030988138015",
+    "description": "For our next shared group tour with Oman Horizon Tours, we have prepared an exciting day trip to Wadi Bani Khalid and Wahiba Sands scheduled for November 26, 2026. Just send a message to book, and payment will be made on the day of the tour itself, so you can schedule now!",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Removed",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-25",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "removed_on": "2026-11-26"
    }
   }
  ]
