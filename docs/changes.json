@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 328,
+ "latest_sequence": 332,
  "changes": [
   {
    "schema_version": "1.0",
@@ -17260,6 +17260,221 @@
      "#فعاليات_عمان"
     ],
     "removed_on": "2026-11-26"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 329,
+   "type": "event.updated",
+   "occurred_at": "2026-11-27T11:57:55+00:00",
+   "event_id": "87d742c3e42b",
+   "event_version": 3,
+   "idempotency_key": "87d742c3e42b:3:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "87d742c3e42b",
+    "version": 3,
+    "kind": "event",
+    "title": "Vex House: Muscat Night",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "19:00",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "Al Khuwair Street",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Vex House",
+    "organizer_url": "https://allevents.in/org/vex-house/28460453",
+    "audience": "",
+    "url": "https://allevents.in/muscat/vex-house-muscat-night/100002005166762765",
+    "description": "Free networking night in Muscat for AI and fintech builders. Entry by approval - request your spot at https://luma.com/9nqxi5ee",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Tech & AI",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 75,
+    "status": "Ongoing",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-27",
+    "workflow": {
+     "brief": "2026-11-17",
+     "announce": "2026-11-20",
+     "reminder": "2026-11-25"
+    },
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي",
+     "#VexHouseMuscatNight"
+    ],
+    "_fp": "155ade70251eb7882c3dd54aead64489d632e281"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 330,
+   "type": "event.created",
+   "occurred_at": "2026-11-27T11:57:55+00:00",
+   "event_id": "9c77a9cf0f07",
+   "event_version": 1,
+   "idempotency_key": "9c77a9cf0f07:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "9c77a9cf0f07",
+    "version": 1,
+    "kind": "event",
+    "title": "December offer",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "start_time": "12:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Riyan, Masqaţ, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Sana Beauty Center",
+    "organizer_url": "https://allevents.in/org/sana-beauty-center/28497239",
+    "audience": "",
+    "url": "https://allevents.in/muscat/december-offer/200031142798143",
+    "description": "Shout out to my newest followers! Excited to have you onboard! Obuj Mon, Naim Bhai",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#DecemberOffer"
+    ],
+    "_fp": "bb62490b58da141e3ffa4737a088e3dfb3c79220"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 331,
+   "type": "event.created",
+   "occurred_at": "2026-11-27T11:57:55+00:00",
+   "event_id": "04dcae685d92",
+   "event_version": 1,
+   "idempotency_key": "04dcae685d92:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "04dcae685d92",
+    "version": 1,
+    "kind": "event",
+    "title": "Sabir Zaman",
+    "start": "2027-01-01",
+    "end": "2027-01-01",
+    "start_time": "12:00",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Hamriyah, Masqaţ, Oman",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Sma",
+    "organizer_url": "https://allevents.in/org/sma/28497240",
+    "audience": "",
+    "url": "https://allevents.in/muscat/sabir-zaman/200031142798244",
+    "description": "Shout out to my newest followers! Excited to have you onboard! Asha Sen, Arif Uddin, Kalan Lodhi, Sabir Ali Mewati, Osman Gani, Zakir Shaan Shaan, Golu Kumar, Jan Rather, Alok Kumar, Sangita Khatri, কনটেন্ট টিউটর, Paromita Basu, Deepakking Deepakking, Shiv Bahadur Kevat, Fazilhaq Kohistani",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#SabirZaman"
+    ],
+    "_fp": "e1dc9167644e2c9b69af5be4c65d74511a8c30d4"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 332,
+   "type": "event.created",
+   "occurred_at": "2026-11-27T11:57:55+00:00",
+   "event_id": "c9f1e5d296b4",
+   "event_version": 1,
+   "idempotency_key": "c9f1e5d296b4:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "c9f1e5d296b4",
+    "version": 1,
+    "kind": "event",
+    "title": "Marafi 2 builds cultural bridge between Oman and the UK",
+    "start": "2027-03-02",
+    "end": "2027-03-02",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omanobserver.om/article/1200280/oman/marafi-2-builds-cultural-bridge-between-oman-and-the-uk",
+    "description": "MANCHESTER: The Omani visual arts exhibition \"Marafi 2\" opened in the United Kingdom’s (UK) capital, London. The opening ceremony was held under the...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 25,
+    "status": "Lead – verify",
+    "sources": [
+     "news:observer-local"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "9133dd4fc7fbacde72028d87998b500a01e7844a"
    }
   }
  ]

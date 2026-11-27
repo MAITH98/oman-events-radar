@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:09:57+00:00",
+ "generated_at": "2026-11-27T11:57:55+00:00",
  "leads": [
   {
    "title": "Oman exporters to explore trade opportunities in Kazakhstan",
@@ -92,11 +92,11 @@
    "found": "2026-10-25"
   },
   {
-   "title": "The Marshalls live at Dolphin Club",
-   "url": "https://allevents.in/muscat/the-marshalls-live-at-dolphin-club/200031100306900",
+   "title": "December offer",
+   "url": "https://allevents.in/muscat/december-offer/200031142798143",
    "source": "allevents-muscat",
-   "found": "2026-11-23",
-   "start": "2026-11-26",
+   "found": "2026-11-27",
+   "start": "2026-11-30",
    "status": "Needs review"
   },
   {
@@ -140,6 +140,14 @@
    "status": "Needs review"
   },
   {
+   "title": "Sabir Zaman",
+   "url": "https://allevents.in/muscat/sabir-zaman/200031142798244",
+   "source": "allevents-muscat",
+   "found": "2026-11-27",
+   "start": "2027-01-01",
+   "status": "Needs review"
+  },
+  {
    "title": "Kitchen & Bathroom Show",
    "url": "https://allevents.in/muscat/kitchen-and-bathroom-show/3700031042709545",
    "source": "allevents-muscat",
@@ -180,20 +188,20 @@
    "status": "Expected – confirm"
   },
   {
-   "title": "45th Sharjah International Book Fair",
-   "url": "https://www.omanobserver.om/article/1199508/features/books/omans-living-heritage-connects-generations-at-sharjah-book-fair",
-   "source": "news:observer-lifestyle",
-   "found": "2026-11-12",
-   "start": "2027-03-01",
-   "status": "Lead – verify"
-  },
-  {
    "title": "স্বাগতম",
    "url": "https://allevents.in/muscat/স্বাগতম/200031028960512",
    "source": "allevents-muscat",
    "found": "2026-11-12",
    "start": "2027-03-01",
    "status": "Needs review"
+  },
+  {
+   "title": "Marafi 2 builds cultural bridge between Oman and the UK",
+   "url": "https://www.omanobserver.om/article/1200280/oman/marafi-2-builds-cultural-bridge-between-oman-and-the-uk",
+   "source": "news:observer-local",
+   "found": "2026-11-27",
+   "start": "2027-03-02",
+   "status": "Lead – verify"
   },
   {
    "title": "International Medical Tourism & Healthcare",

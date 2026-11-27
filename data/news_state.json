@@ -7092,5 +7092,33 @@
   "summary": "هناك قضايا مصيرية تتشكل في ذهن العالم، لكن السياسة والمصالح هي ما يجعلها ليست من أولويات التفكير فيها ومعالجتها قبل فوات الأوان. بالأمس القريب، انفضّ أطول مؤتمر للأمم المتحدة حول المناخ في...",
   "published": "2026-11-25",
   "event": null
+ },
+ "https://timesofoman.com//article/179651-eu-divided-over-45-billion-euro-ukraine-loan-as-budget-talks-move-to-december-summit": {
+  "rules": 4,
+  "checked": "2026-11-27",
+  "sections": [],
+  "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795768710-1795768710-jmpohfehkymv-700x400.jpg",
+  "summary": "The European Union summit concluded without an agreement on the bloc",
+  "published": "2026-11-27",
+  "event": null
+ },
+ "https://www.omanobserver.om/article/1200280/oman/marafi-2-builds-cultural-bridge-between-oman-and-the-uk": {
+  "rules": 4,
+  "checked": "2026-11-27",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman"
+  ],
+  "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/26/thumbs/600x600/3592380.jpg",
+  "summary": "MANCHESTER: The Omani visual arts exhibition \"Marafi 2\" opened in the United Kingdom’s (UK) capital, London. The opening ceremony was held under the...",
+  "published": "2026-11-26",
+  "event": {
+   "name": "Marafi 2 builds cultural bridge between Oman and the UK",
+   "start": "2027-03-02",
+   "end": "2027-03-02",
+   "venue": "",
+   "organizer": ""
+  }
  }
 }

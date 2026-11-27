@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:09:57+00:00",
+ "generated_at": "2026-11-27T11:57:55+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -18,7 +18,7 @@
   {
    "entity": "allevents-muscat",
    "type": "source",
-   "events": 24,
+   "events": 26,
    "status": "ok",
    "page_changed": ""
   },
@@ -32,7 +32,7 @@
   {
    "entity": "venue:Oman Convention & Exhibition Centre (OCEC)",
    "type": "source",
-   "events": 12,
+   "events": 11,
    "status": "ok",
    "page_changed": ""
   },
@@ -116,14 +116,14 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 0,
+   "events": 1,
    "status": "ok",
    "page_changed": ""
   },
   {
    "entity": "news:observer-local",
    "type": "source",
-   "events": 5,
+   "events": 6,
    "status": "ok",
    "page_changed": ""
   },
@@ -137,7 +137,7 @@
   {
    "entity": "news:observer-lifestyle",
    "type": "source",
-   "events": 9,
+   "events": 8,
    "status": "ok",
    "page_changed": ""
   },
@@ -151,7 +151,7 @@
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 2,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },

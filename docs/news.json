@@ -1,18 +1,35 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-26T12:09:57+00:00",
- "count": 17,
+ "generated_at": "2026-11-27T11:57:55+00:00",
+ "count": 16,
  "articles": [
   {
-   "id": "1f59f18d76eb",
-   "title": "صحار يستضيف المضيبي.. وقمة بعبق التاريخ تجمع ظفار بفنجاء",
-   "url": "https://www.omandaily.om/article/1215724",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-26",
-   "summary": "تعود عجلة منافسات كأس جلالة السلطان لكرة القدم إلى الدوران من جديد، مع انطلاق مواجهات دور الـ١٦ لحساب الموسم الرياضي الجاري ٢٠٢٦-٢٠٢٧، حيث تشهد غدًا إقامة مباراتين تحملان الكثير من الإثارة...",
+   "id": "80cd606417bd",
+   "title": "EU divided over 45 billion euro Ukraine loan as budget talks move to December summit",
+   "url": "https://timesofoman.com//article/179651-eu-divided-over-45-billion-euro-ukraine-loan-as-budget-talks-move-to-december-summit",
+   "source": "Times of Oman",
+   "lang": "en",
+   "published": "2026-11-27",
+   "summary": "The European Union summit concluded without an agreement on the bloc",
    "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/26/thumbs/400x400/3591882.jpg"
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795768710-1795768710-jmpohfehkymv-700x400.jpg"
+  },
+  {
+   "id": "b815ea0f0031",
+   "title": "Marafi 2 builds cultural bridge between Oman and the UK",
+   "url": "https://www.omanobserver.om/article/1200280/oman/marafi-2-builds-cultural-bridge-between-oman-and-the-uk",
+   "source": "Oman Observer",
+   "lang": "en",
+   "published": "2026-11-26",
+   "summary": "MANCHESTER: The Omani visual arts exhibition \"Marafi 2\" opened in the United Kingdom’s (UK) capital, London. The opening ceremony was held under the...",
+   "event": {
+    "name": "Marafi 2 builds cultural bridge between Oman and the UK",
+    "start": "2027-03-02",
+    "end": "2027-03-02",
+    "venue": "",
+    "organizer": ""
+   },
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/26/thumbs/600x600/3592380.jpg"
   },
   {
    "id": "cca0295eda9b",
@@ -30,17 +47,6 @@
     "organizer": ""
    },
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/25/thumbs/600x600/3591594.jpg"
-  },
-  {
-   "id": "34a77fcdabd7",
-   "title": "قمة المناخ.. إخفاق يعيد العالم إلى المربع الأول!",
-   "url": "https://www.omandaily.om/article/1215715",
-   "source": "جريدة عُمان",
-   "lang": "ar",
-   "published": "2026-11-25",
-   "summary": "هناك قضايا مصيرية تتشكل في ذهن العالم، لكن السياسة والمصالح هي ما يجعلها ليست من أولويات التفكير فيها ومعالجتها قبل فوات الأوان. بالأمس القريب، انفضّ أطول مؤتمر للأمم المتحدة حول المناخ في...",
-   "event": null,
-   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/25/thumbs/400x400/3591752.jpg"
   },
   {
    "id": "ee181804d941",
@@ -221,23 +227,6 @@
    "summary": "Six three-dimensional figures showcasing traditional Omani dresses are drawing visitors to the Sultanate of Oman’s Guest of Honour pavilion at the...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/11/thumbs/600x600/3575890.jpg"
-  },
-  {
-   "id": "ad42e6ce256e",
-   "title": "Oman’s living heritage connects generations at Sharjah book fair",
-   "url": "https://www.omanobserver.om/article/1199508/features/books/omans-living-heritage-connects-generations-at-sharjah-book-fair",
-   "source": "Oman Observer · Lifestyle",
-   "lang": "en",
-   "published": "2026-11-11",
-   "summary": "From the movements and music of Al Bar’ah to the craftsmanship behind the Omani khanjar, traditions passed between generations are introducing...",
-   "event": {
-    "name": "45th Sharjah International Book Fair",
-    "start": "2027-03-01",
-    "end": "2027-03-01",
-    "venue": "",
-    "organizer": ""
-   },
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/11/thumbs/600x600/3575787.jpg"
   }
  ]
 }
