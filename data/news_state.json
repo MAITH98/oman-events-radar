@@ -7120,5 +7120,84 @@
    "venue": "",
    "organizer": ""
   }
+ },
+ "https://www.omanobserver.om/article/1200320/oman/community/indian-science-forum-names-sastra-pratibhas-2026": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "HOME /",
+   "Oman",
+   "oman/community"
+  ],
+  "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/28/thumbs/600x600/3592969.jpg",
+  "summary": "Muscat: The Indian Science Forum (ISF) has announced seven students from five Indian schools in Oman as Sastra Pratibhas 2026. Students in the grade 5...",
+  "published": "2026-11-28",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1215843": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "عمان اليوم"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593186.jpg",
+  "summary": "نظمت جامعة التقنية والعلوم التطبيقية بصحار منتدى «تكامل الجهود للحد من آثار التحول المناخي: من الاستراتيجيات الوطنية إلى البحوث التطبيقية والمبادرات المجتمعية»، وذلك ضمن مبادرة «نوفمبر الوفاء...",
+  "published": "2026-11-28",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1215835": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الاقتصادية"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593116.jpg",
+  "summary": "العُمانية: تنظم الجمعية العُمانية للأوراق المالية بعد غدا الاثنين ملتقى وجوائز الريادة والإجادة في قطاع سوق المال العُماني 2026، وذلك تحت رعاية معالي ناصر بن خميس الجشمي، رئيس جهاز الضرائب. وسيتم...",
+  "published": "2026-11-28",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1215828": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الرياضية"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593095.jpg",
+  "summary": "\"عُمان\": تنطلق صباح غدًا الأحد أعمال ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة الفروسية، بتنظيم مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة، وبدعم من صحار الدولي، وذلك بمسرح بيت...",
+  "published": "2026-11-28",
+  "event": {
+   "name": "ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "venue": "Sohar",
+   "organizer": "مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة"
+  }
+ },
+ "https://www.omandaily.om/article/1215822": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الرياضية"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593071.jpg",
+  "summary": "بهلا - أحمد المحروقي شهد ميدان الفروسية بولاية بهلا إقامة مهرجان الفروسية، الذي نظمته جمعية بهلا للفروسية بالتعاون مع محافظة الداخلية، وسط مشاركة واسعة من ملاك الخيل ومحبي الفروسية وحضور جماهيري...",
+  "published": "2026-11-28",
+  "event": null
+ },
+ "https://www.omandaily.om/article/1215814": {
+  "rules": 4,
+  "checked": "2026-11-28",
+  "sections": [
+   "اﻟﺼﻔﺤﺔ اﻟﺮﺋﻴﺴﻴﺔ",
+   "الرياضية"
+  ],
+  "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/27/thumbs/400x400/3592894.jpg",
+  "summary": "العُمانية/ أُقيم مساء اليوم بولاية بهلاء في محافظة الداخلية مهرجان للفروسية، نظمته جمعية بهلاء للفروسية بالشراكة مع المحافظة احتفاءً باليوم الوطني المجيد، بمشاركة عدد من ملاك الخيل والفرسان من...",
+  "published": "2026-11-27",
+  "event": null
  }
 }

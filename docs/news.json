@@ -1,18 +1,79 @@
 {
  "schema_version": "1.0",
- "generated_at": "2026-11-27T11:57:55+00:00",
- "count": 16,
+ "generated_at": "2026-11-28T11:33:58+00:00",
+ "count": 20,
  "articles": [
   {
-   "id": "80cd606417bd",
-   "title": "EU divided over 45 billion euro Ukraine loan as budget talks move to December summit",
-   "url": "https://timesofoman.com//article/179651-eu-divided-over-45-billion-euro-ukraine-loan-as-budget-talks-move-to-december-summit",
-   "source": "Times of Oman",
+   "id": "455b247cea02",
+   "title": "Indian Science Forum names Sastra Pratibhas 2026",
+   "url": "https://www.omanobserver.om/article/1200320/oman/community/indian-science-forum-names-sastra-pratibhas-2026",
+   "source": "Oman Observer",
    "lang": "en",
-   "published": "2026-11-27",
-   "summary": "The European Union summit concluded without an agreement on the bloc",
+   "published": "2026-11-28",
+   "summary": "Muscat: The Indian Science Forum (ISF) has announced seven students from five Indian schools in Oman as Sastra Pratibhas 2026. Students in the grade 5...",
    "event": null,
-   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/11/1795768710-1795768710-jmpohfehkymv-700x400.jpg"
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/28/thumbs/600x600/3592969.jpg"
+  },
+  {
+   "id": "5e516e0c5cb6",
+   "title": "منتدى بصحار يبحث تكامل الجهود للحد من آثار التحول المناخي",
+   "url": "https://www.omandaily.om/article/1215843",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-28",
+   "summary": "نظمت جامعة التقنية والعلوم التطبيقية بصحار منتدى «تكامل الجهود للحد من آثار التحول المناخي: من الاستراتيجيات الوطنية إلى البحوث التطبيقية والمبادرات المجتمعية»، وذلك ضمن مبادرة «نوفمبر الوفاء...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593186.jpg"
+  },
+  {
+   "id": "d93113c6e72a",
+   "title": "الاثنين.. تنظيم ملتقى تكريم إنجازات سوق المال العُماني",
+   "url": "https://www.omandaily.om/article/1215835",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-28",
+   "summary": "العُمانية: تنظم الجمعية العُمانية للأوراق المالية بعد غدا الاثنين ملتقى وجوائز الريادة والإجادة في قطاع سوق المال العُماني 2026، وذلك تحت رعاية معالي ناصر بن خميس الجشمي، رئيس جهاز الضرائب. وسيتم...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593116.jpg"
+  },
+  {
+   "id": "d44128b5db6d",
+   "title": "انطلاق ملتقى الفارسة العُمانية المستدام.. غدًا",
+   "url": "https://www.omandaily.om/article/1215828",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-28",
+   "summary": "\"عُمان\": تنطلق صباح غدًا الأحد أعمال ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة الفروسية، بتنظيم مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة، وبدعم من صحار الدولي، وذلك بمسرح بيت...",
+   "event": {
+    "name": "ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة",
+    "start": "2026-11-29",
+    "end": "2026-11-29",
+    "venue": "Sohar",
+    "organizer": "مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة"
+   },
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593095.jpg"
+  },
+  {
+   "id": "d06d1ca50eb5",
+   "title": "6 أشواط تنافسية ومشاركة واسعة في مهرجان الفروسية ببهلا",
+   "url": "https://www.omandaily.om/article/1215822",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-28",
+   "summary": "بهلا - أحمد المحروقي شهد ميدان الفروسية بولاية بهلا إقامة مهرجان الفروسية، الذي نظمته جمعية بهلا للفروسية بالتعاون مع محافظة الداخلية، وسط مشاركة واسعة من ملاك الخيل ومحبي الفروسية وحضور جماهيري...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/28/thumbs/400x400/3593071.jpg"
+  },
+  {
+   "id": "b690a0c40c04",
+   "title": "تنظيم مهرجان للفروسية بولاية بهلاء احتفاءً باليوم الوطني المجيد",
+   "url": "https://www.omandaily.om/article/1215814",
+   "source": "جريدة عُمان",
+   "lang": "ar",
+   "published": "2026-11-27",
+   "summary": "العُمانية/ أُقيم مساء اليوم بولاية بهلاء في محافظة الداخلية مهرجان للفروسية، نظمته جمعية بهلاء للفروسية بالشراكة مع المحافظة احتفاءً باليوم الوطني المجيد، بمشاركة عدد من ملاك الخيل والفرسان من...",
+   "event": null,
+   "image": "https://www.omandaily.om/omandaily/uploads/images/2026/11/27/thumbs/400x400/3592894.jpg"
   },
   {
    "id": "b815ea0f0031",
@@ -127,17 +188,6 @@
    "summary": "MUSCAT: Acting in cooperation with the Ministry of Education, the National Records and Archives Authority (NRAA) recently inaugurated the second...",
    "event": null,
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/23/thumbs/600x600/3589865.jpg"
-  },
-  {
-   "id": "d50486b8f93f",
-   "title": "Oman selected as guest of honour at Algiers book fair",
-   "url": "https://www.omanobserver.om/article/1200136/oman/oman-selected-as-guest-of-honour-at-algiers-book-fair",
-   "source": "Oman Observer",
-   "lang": "en",
-   "published": "2026-11-23",
-   "summary": "MUSCAT: The Sultanate of Oman has been selected as the Guest of Honour for the upcoming edition of the Algiers International Book Fair, scheduled to...",
-   "event": null,
-   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/11/23/thumbs/600x600/3589845.jpg"
   },
   {
    "id": "6a059b37485b",

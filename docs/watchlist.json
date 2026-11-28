@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:57:55+00:00",
+ "generated_at": "2026-11-28T11:33:58+00:00",
  "entities": [
   {
    "entity": "team-seed-2026",
@@ -116,7 +116,7 @@
   {
    "entity": "news:timesofoman",
    "type": "source",
-   "events": 1,
+   "events": 0,
    "status": "ok",
    "page_changed": ""
   },
@@ -151,7 +151,7 @@
   {
    "entity": "news:omandaily",
    "type": "source",
-   "events": 0,
+   "events": 5,
    "status": "ok",
    "page_changed": ""
   },
@@ -201,7 +201,7 @@
    "events": 0,
    "status": "no-feed",
    "discovered_from": "Smart & Sustainable: Building Intelligent Ecosystems for Tomorrow’s Cities",
-   "checked": "2026-11-21"
+   "checked": "2026-11-28"
   },
   {
    "entity": "gha26.com",

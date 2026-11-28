@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "latest_sequence": 332,
+ "latest_sequence": 337,
  "changes": [
   {
    "schema_version": "1.0",
@@ -17475,6 +17475,271 @@
      "#فعاليات_عمان"
     ],
     "_fp": "9133dd4fc7fbacde72028d87998b500a01e7844a"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 333,
+   "type": "event.updated",
+   "occurred_at": "2026-11-28T11:33:58+00:00",
+   "event_id": "87d742c3e42b",
+   "event_version": 4,
+   "idempotency_key": "87d742c3e42b:4:event.updated",
+   "event": {
+    "schema_version": "1.0",
+    "id": "87d742c3e42b",
+    "version": 4,
+    "kind": "event",
+    "title": "Vex House: Muscat Night",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "start_time": "19:00",
+    "end_time": "22:00",
+    "previous_start": "",
+    "venue": "Al Khuwair Street",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Vex House",
+    "organizer_url": "https://allevents.in/org/vex-house/28460453",
+    "audience": "",
+    "url": "https://allevents.in/muscat/vex-house-muscat-night/100002005166762765",
+    "description": "Free networking night in Muscat for AI and fintech builders. Entry by approval - request your spot at https://luma.com/9nqxi5ee",
+    "ticket_deadline": "",
+    "ticket_price": "Free",
+    "category": "Tech & AI",
+    "relevance": "Medium",
+    "score": 5,
+    "confidence": 75,
+    "status": "Past",
+    "sources": [
+     "allevents-muscat",
+     "eventbrite-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanTech",
+     "#DigitalOman",
+     "#التحول_الرقمي",
+     "#VexHouseMuscatNight"
+    ],
+    "_fp": "349a0913dc2a78be5d415ec4f98bfeea4f6057bd"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 334,
+   "type": "event.created",
+   "occurred_at": "2026-11-28T11:33:58+00:00",
+   "event_id": "5873a674065a",
+   "event_version": 1,
+   "idempotency_key": "5873a674065a:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "5873a674065a",
+    "version": 1,
+    "kind": "event",
+    "title": "ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة",
+    "start": "2026-11-29",
+    "end": "2026-11-29",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Sohar",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://www.omandaily.om/article/1215828",
+    "description": "\"عُمان\": تنطلق صباح غدًا الأحد أعمال ملتقى الفارسة العُمانية المستدام ومعرض إبداعات رياضة الفروسية، بتنظيم مشترك بين بيت الزبير وشركة مشاريع ريما المتكاملة، وبدعم من صحار الدولي، وذلك بمسرح بيت...",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 35,
+    "status": "Lead – verify",
+    "sources": [
+     "news:omandaily"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان"
+    ],
+    "_fp": "0699a993ddb905dd0b177d77eaaa4ae535e988e4"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 335,
+   "type": "event.created",
+   "occurred_at": "2026-11-28T11:33:58+00:00",
+   "event_id": "4eb0fd486d18",
+   "event_version": 1,
+   "idempotency_key": "4eb0fd486d18:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "4eb0fd486d18",
+    "version": 1,
+    "kind": "event",
+    "title": "The Silent Book Club",
+    "start": "2026-11-30",
+    "end": "2026-11-30",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "previous_start": "",
+    "venue": "Al Gubrah Lake Park",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "Oman Book Lovers Club",
+    "organizer_url": "https://allevents.in/org/oman-book-lovers-club/28506067",
+    "audience": "",
+    "url": "https://allevents.in/muscat/the-silent-book-club/200031152442719",
+    "description": "📖☕ A PLACE. AN HOUR. A BOOK. Introducing THE SILENT BOOK CLUB by Oman Book Lovers Club! 🌿 What if we could come together without the pressure of conversations, introductions or discussions? Just a group of people, each with their own book, sharing the same peaceful space. No reading goals. No de",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 50,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#TheSilentBookClub"
+    ],
+    "_fp": "119cb95ec79c4b6fb8c6bc8206639f1bcaa190a5"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 336,
+   "type": "event.created",
+   "occurred_at": "2026-11-28T11:33:58+00:00",
+   "event_id": "2ac84576b20d",
+   "event_version": 1,
+   "idempotency_key": "2ac84576b20d:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "2ac84576b20d",
+    "version": 1,
+    "kind": "event",
+    "title": "Home & Building Expo",
+    "start": "2027-10-09",
+    "end": "2027-10-12",
+    "start_time": "22:30",
+    "end_time": "22:30",
+    "previous_start": "",
+    "venue": "Oman Convention & Exhibition Centre",
+    "city": "Muscat",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/home-and-building-expo/3700031156998215",
+    "description": "The Expo in Oman is a premier B2B and B2C event showcasing innovative products and services in construction and architecture. It provides a networking platform for industry professionals and decision makers, highlighting trends in sustainability and smart home technology. The event features demonstr",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "Industry & Energy",
+    "relevance": "Medium",
+    "score": 3,
+    "confidence": 45,
+    "status": "Needs review",
+    "sources": [
+     "allevents-muscat"
+    ],
+    "tiers": [
+     "C"
+    ],
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#OmanEnergy",
+     "#OmanSustainability",
+     "#HomeBuildingExpo"
+    ],
+    "_fp": "42f813ca6d3fc7b22332859bea05b5beb24a1a0d"
+   }
+  },
+  {
+   "schema_version": "1.0",
+   "sequence": 337,
+   "type": "event.created",
+   "occurred_at": "2026-11-28T11:33:58+00:00",
+   "event_id": "1c739bf20507",
+   "event_version": 1,
+   "idempotency_key": "1c739bf20507:1:event.created",
+   "event": {
+    "schema_version": "1.0",
+    "id": "1c739bf20507",
+    "version": 1,
+    "kind": "expected",
+    "title": "Vex House: Muscat Night",
+    "start": "2027-11-26",
+    "end": "2027-11-26",
+    "start_time": "",
+    "end_time": "",
+    "previous_start": "",
+    "venue": "Al Khuwair Street",
+    "city": "",
+    "region": "Oman",
+    "organizer": "",
+    "organizer_url": "",
+    "audience": "",
+    "url": "https://allevents.in/muscat/vex-house-muscat-night/100002005166762765",
+    "description": "Predicted from the 2026 edition (2026-11-27). Confirm dates.",
+    "ticket_deadline": "",
+    "ticket_price": "",
+    "category": "General",
+    "relevance": "Low",
+    "score": 0,
+    "confidence": 30,
+    "status": "Expected – confirm",
+    "sources": [
+     "recurrence"
+    ],
+    "tiers": [
+     "D"
+    ],
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "workflow": {},
+    "hashtags": [
+     "#Oman",
+     "#OmanEvents",
+     "#فعاليات_عمان",
+     "#VexHouseMuscatNight"
+    ],
+    "_fp": "aa0d640646d62143a131459e8c681b20e9033131"
    }
   }
  ]
